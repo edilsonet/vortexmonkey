@@ -1,0 +1,24 @@
+{
+  "name": "vortex",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10.6.5",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test",
+    "lint": "turbo run lint",
+    "db:migrate": "pnpm --filter @vortex/database migrate",
+    "db:seed": "pnpm --filter @vortex/database seed",
+    "dev:api": "pnpm --filter @vortex/api dev",
+    "dev:web": "pnpm --filter @vortex/web dev"
+  },
+  "devDependencies": {
+    "turbo": "^2.5.4",
+    "typescript": "^5.8.3"
+  }
+}
