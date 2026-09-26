@@ -1,0 +1,17 @@
+{
+  "name": "ops-mro-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "implicitDependencies": ["ops-mro"],
+  "targets": {
+    "e2e": {
+      "executor": "@nx/vite:test",
+      "outputs": ["{options.reportsDirectory}"],
+      "options": {
+        "configFile": "apps/ops-mro-e2e/vitest.config.ts",
+        "reportsDirectory": "apps/ops-mro-e2e/test-output/vitest"
+      },
+      "dependsOn": ["ops-mro:build", "ops-mro:serve"]
+    }
+  }
+}

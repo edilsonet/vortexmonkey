@@ -1,0 +1,50 @@
+// VORTEX Design System — tema raiz.
+//
+// Ponto unico de entrada de estilo do app consumidor:
+//
+//   @use 'theme' as vx;
+//   @include vx.vx-theme();
+//
+// Emite (1) os tokens de sistema do Angular Material via `mat.theme()` e
+// (2) os tokens do VORTEX via `vx-tokens()`.
+@use '@angular/material' as mat;
+@use 'tokens';
+
+@mixin vx-theme() {
+  html {
+    @include mat.theme(
+      (
+        color: (
+          primary: mat.$azure-palette,
+          tertiary: mat.$cyan-palette,
+        ),
+        typography: tokens.$vx-font-sans,
+        density: -1,
+      )
+    );
+  }
+
+  @include tokens.vx-tokens();
+
+  html,
+  body {
+    min-height: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--vx-bg);
+    color: var(--vx-text);
+    font-family: var(--vx-font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--vx-focus);
+    outline-offset: 2px;
+  }
+}

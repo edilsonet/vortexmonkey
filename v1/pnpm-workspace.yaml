@@ -1,0 +1,11 @@
+packages:
+  - apps/*
+  - packages/*
+allowBuilds:
+  '@scarf/scarf': false
+  esbuild: true
+  protobufjs: true
+
+overrides:
+  '@opentelemetry/propagator-jaeger': 2.9.0
+  protobufjs: 8.4.1

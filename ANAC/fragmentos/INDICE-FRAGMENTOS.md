@@ -1,0 +1,5415 @@
+# Índice de Fragmentos por Seção — Cérebro ANAC
+
+## iac-001-1001a
+- `cabecalho` → fragmentos/iac/iac-001-1001a--sec-cabecalho.md
+- `1` — 536/DGAC, de 21 de novembro de 2003, publicada no DOU nº 228, de 24 de novembro de 2003. → fragmentos/iac/iac-001-1001a--sec-1.md
+- `2` — DEFINIÇÕES, 2 → fragmentos/iac/iac-001-1001a--sec-2.md
+- `3` — TIPOS DE PUBLICAÇÕES, 3 → fragmentos/iac/iac-001-1001a--sec-3.md
+- `5` — APROVAÇÃO, 7 → fragmentos/iac/iac-001-1001a--sec-5.md
+- `6` — EFETIVAÇÃO, 8 → fragmentos/iac/iac-001-1001a--sec-6.md
+- `7` — PROCEDIMENTOS ADMINISTRATIVOS, 9 → fragmentos/iac/iac-001-1001a--sec-7.md
+- `10` — FORMATAÇÃO DA IAC e INFAC, 12 → fragmentos/iac/iac-001-1001a--sec-10.md
+- `11` — COMPOSIÇÃO DA PUBLICAÇÃO, 13 → fragmentos/iac/iac-001-1001a--sec-11.md
+- `12` — FORMATAÇÃO DO TEXTO, 16 → fragmentos/iac/iac-001-1001a--sec-12.md
+- `13` — ALTERAÇÃO, 19 → fragmentos/iac/iac-001-1001a--sec-13.md
+- `14` — DISPOSIÇÕES FINAIS, 22 → fragmentos/iac/iac-001-1001a--sec-14.md
+- `(inteira)` — ANEXO 2    PORTARIA DE APROVAÇÃO POR DELEGAÇÃO DE COMPETÊNCIA – → fragmentos/iac/iac-001-1001a--anexo-2-portaria-de-aprovação-por-delega.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 3    PORTARIA FORMATADA PARA PUBLICAÇÃO NO DOU/EXEMPLO E → fragmentos/iac/iac-001-1001a--anexo-3-portaria-formatada-para-publicaç.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 4    TABELA DE NUMERAÇÃO DE ASSUNTOS DA AVIAÇÃO CIVIL, A4 → fragmentos/iac/iac-001-1001a--anexo-4-tabela-de-numeração-de-assuntos.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 5    CAPA DE IAC – MODELO, A5 → fragmentos/iac/iac-001-1001a--anexo-5-capa-de-iac-modelo-a5.md
+- `(inteira)` — ANEXO 6    CAPA DE INFAC – MODELO, A6 → fragmentos/iac/iac-001-1001a--anexo-6-capa-de-infac-modelo-a6.md
+- `(inteira)` — ANEXO 7    DISPOSIÇÕES PRELIMINARES – MODELO, A7 → fragmentos/iac/iac-001-1001a--anexo-7-disposições-preliminares-modelo.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 8    DIVISÃO DO TEXTO – EXEMPLO, A8 → fragmentos/iac/iac-001-1001a--anexo-8-divisão-do-texto-exemplo-a8.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 9    PÁGINA DE CONTROLE DE EMENDA – MODELO, A9 → fragmentos/iac/iac-001-1001a--anexo-9-página-de-controle-de-emenda-mod.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 10   PÁGINA DE ROSTO DA EMENDA – MODELO, A10 → fragmentos/iac/iac-001-1001a--anexo-10-página-de-rosto-da-emenda-model.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 11   LISTA DE PÁGINAS EFETIVAS – MODELO, A11 → fragmentos/iac/iac-001-1001a--anexo-11-lista-de-páginas-efetivas-model.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 12   MODELO DE ERRATA, A12 → fragmentos/iac/iac-001-1001a--anexo-12-modelo-de-errata-a12.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `14.1` — Os órgãos responsáveis pela elaboração de publicações deverão ter o máximo → fragmentos/iac/iac-001-1001a--sec-14.1.md
+- `14.2` — As publicações do DAC e das organizações subordinadas deverão ser elaboradas de → fragmentos/iac/iac-001-1001a--sec-14.2.md
+- `14.3` — Além dos tipos de publicações previstos nesta norma, poderão ser adotados, → fragmentos/iac/iac-001-1001a--sec-14.3.md
+- `14.4` — Antes da elaboração ou atualização de qualquer publicação, o órgão interessado → fragmentos/iac/iac-001-1001a--sec-14.4.md
+- `14.5` — Todos os setores que sejam responsáveis pela emissão das IAC ora existentes, fora → fragmentos/iac/iac-001-1001a--sec-14.5.md
+- `14.6` — Os interessados na aquisição de qualquer publicação constante do item 8.1 deverão → fragmentos/iac/iac-001-1001a--sec-14.6.md
+- `14.7` — Esta IAC entrará em vigor na data de publicação no Diário Oficial da União da → fragmentos/iac/iac-001-1001a--sec-14.7.md
+- `(inteira)` — ANEXO 1 – PORTARIA DE APROVAÇÃO PELO DGAC - EXEMPLO → fragmentos/iac/iac-001-1001a--anexo-1-portaria-de-aprovação-pelo-dgac.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 3 – PORTARIA FORMATADA PARA                            PUBLICAÇÃO NO D.O.U → fragmentos/iac/iac-001-1001a--anexo-3-portaria-formatada-para-publicaç.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 6 – MODELO DE CAPA DE INFAC → fragmentos/iac/iac-001-1001a--anexo-6-modelo-de-capa-de-infac.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 7 – MODELO DE DISPOSIÇÕES PRELIMINARES → fragmentos/iac/iac-001-1001a--anexo-7-modelo-de-disposições-preliminar.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 8 - DIVISÃO DO TEXTO → fragmentos/iac/iac-001-1001a--anexo-8-divisão-do-texto.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 10 – EXEMPLO DE PÁGINA DE ROSTO DA EMENDA → fragmentos/iac/iac-001-1001a--anexo-10-exemplo-de-página-de-rosto-da-e.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 11 - EXEMPLO DA LISTA DE PÁGINA EFETIVA → fragmentos/iac/iac-001-1001a--anexo-11-exemplo-da-lista-de-página-efet.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+- `(inteira)` — ANEXO 12 – MODELO DE ERRATA → fragmentos/iac/iac-001-1001a--anexo-12-modelo-de-errata.md
+- `(inteira)` → fragmentos/iac/iac-001-1001a--apendice.md
+
+## iac-160-1001
+- `cabecalho` → fragmentos/iac/iac-160-1001--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES ........................................................................................1 → fragmentos/iac/iac-160-1001--sec-1.md
+- `2` — GENERALIDADES .......................................................................................................... → fragmentos/iac/iac-160-1001--sec-2.md
+- `3` — PESO MÁXIMO DE DECOLAGEM PADRONIZADO....... ................................................3 → fragmentos/iac/iac-160-1001--sec-3.md
+- `4` — DISPOSIÇÕES FINAIS...................................................................................................... → fragmentos/iac/iac-160-1001--sec-4.md
+- `(inteira)` — ANEXO 1 - EMPRESAS DE TRANSPORTE AÉREO NACIONAIS DO GRUPO I ..............A1 → fragmentos/iac/iac-160-1001--anexo-1-empresas-de-transporte-aéreo-nac.md
+- `(inteira)` → fragmentos/iac/iac-160-1001--apendice.md
+- `(inteira)` — ANEXO 2 - EMPRESAS DE TRANSPORTE AÉREO ESTRANGEIRAS DO GRUPO I...... A2 → fragmentos/iac/iac-160-1001--anexo-2-empresas-de-transporte-aéreo-est.md
+- `(inteira)` → fragmentos/iac/iac-160-1001--apendice.md
+- `5` — E3          16 NOV 04    A-2-1 – E5      18 MAIO 07   A-2-30 – E5     18 MAIO 07 → fragmentos/iac/iac-160-1001--sec-5.md
+
+## iac-160-1003
+- `cabecalho` → fragmentos/iac/iac-160-1003--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES ............................................................................................. 1 → fragmentos/iac/iac-160-1003--sec-1.md
+- `2` — DEFINIÇÕES ............................................................................................................. → fragmentos/iac/iac-160-1003--sec-2.md
+- `3` — ISENÇÕES ............................................................................................................... → fragmentos/iac/iac-160-1003--sec-3.md
+- `4` — DISPOSIÇÕES FINAIS ..................................................................................................... → fragmentos/iac/iac-160-1003--sec-4.md
+- `5` — BRASIL. Comando da Aeronáutica. Portaria 306/GC5, de 25 de março de 2003. Aprova a → fragmentos/iac/iac-160-1003--sec-5.md
+- `6` — BRASIL. Comando da Aeronáutica. Portaria 376/GC5, de 11 de abril de 2003. Aprova a → fragmentos/iac/iac-160-1003--sec-6.md
+- `7` — BRASIL. Departamento de Aviação Civil. IAC 5102-0899, de 30 de agosto de 1999. → fragmentos/iac/iac-160-1003--sec-7.md
+- `8` — BRASIL. Análise Conclusiva da Comissão de Estudos Relativos à Navegação Aérea → fragmentos/iac/iac-160-1003--sec-8.md
+- `9` — BRASIL. Departamento de Aviação Civil. IAC 001-1001A, de 16 de junho de 2005. → fragmentos/iac/iac-160-1003--sec-9.md
+- `10` — BRASIL. Comando da Aeronáutica. Estado-Maior da Aeronáutica. Fax Nº 1212/2SC3, de 15 → fragmentos/iac/iac-160-1003--sec-10.md
+- `11` — BRASIL. Ministério das Relações Exteriores. Ofício nº 555/CGPI, de 26 de novembro de 2004. → fragmentos/iac/iac-160-1003--sec-11.md
+- `12` — BRASIL. Ministério das Relações Exteriores. Fax nº 008/CGPI, de 6 de janeiro de 1999. → fragmentos/iac/iac-160-1003--sec-12.md
+
+## iac-180-1002a
+- `cabecalho` → fragmentos/iac/iac-180-1002a--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES ............................................................................................1 → fragmentos/iac/iac-180-1002a--sec-1.md
+- `2` — DEFINIÇÕES ............................................................................................................. → fragmentos/iac/iac-180-1002a--sec-2.md
+- `3` — NORMAS GERAIS .......................................................................................................... → fragmentos/iac/iac-180-1002a--sec-3.md
+- `4` — ATO DE ENTREGA DO BEM.................................................................................................8 → fragmentos/iac/iac-180-1002a--sec-4.md
+- `5` — SUBSTITUIÇÃO DA DIRETORIA DA ENTIDADE CESSIONÁRIA ....................................9 → fragmentos/iac/iac-180-1002a--sec-5.md
+- `6` — DAS PENALIDADES ........................................................................................................ → fragmentos/iac/iac-180-1002a--sec-6.md
+- `7` — DISPOSIÇÕES TRANSITÓRIAS .........................................................................................11 → fragmentos/iac/iac-180-1002a--sec-7.md
+- `8` — DISPOSIÇÕES FINAIS ..................................................................................................... → fragmentos/iac/iac-180-1002a--sec-8.md
+- `(inteira)` — ANEXO 1 - MODELO DE CONTRATO DE CESSÃO (CC) .................................... → fragmentos/iac/iac-180-1002a--anexo-1-modelo-de-contrato-de-cessão-cc.md
+- `(inteira)` → fragmentos/iac/iac-180-1002a--apendice.md
+- `(inteira)` — ANEXO 2 - MODELO DE TERMO DE EXAME E RECEBIMENTO (TER)–(entrega inicial)A2-1 → fragmentos/iac/iac-180-1002a--anexo-2-modelo-de-termo-de-exame-e-receb.md
+- `(inteira)` → fragmentos/iac/iac-180-1002a--apendice.md
+- `(inteira)` — ANEXO 3 - MODELO DE TERMO DE EXAME E RECEBIMENTO (TER)–(redistribuição)A3-1 → fragmentos/iac/iac-180-1002a--anexo-3-modelo-de-termo-de-exame-e-receb.md
+- `(inteira)` → fragmentos/iac/iac-180-1002a--apendice.md
+- `(inteira)` — ANEXO 4 - LAUDO TÉCNICO SOBRE O INVENTÁRIO DO BEM (LIB)......................... → fragmentos/iac/iac-180-1002a--anexo-4-laudo-técnico-sobre-o-inventário.md
+- `(inteira)` → fragmentos/iac/iac-180-1002a--apendice.md
+- `(inteira)` — ANEXO 5 - QUADRO RESUMO DA DOCUMENTAÇÃO ENVOLVIDA .............................A → fragmentos/iac/iac-180-1002a--anexo-5-quadro-resumo-da-documentação-en.md
+- `(inteira)` → fragmentos/iac/iac-180-1002a--apendice.md
+- `(inteira)` — Anexo nº 2 para o caso de entrega inicial de equipamentos ou de acordo com o mod → fragmentos/iac/iac-180-1002a--anexo-nº-2-para-o-caso-de-entrega-inicia.md
+- `(inteira)` → fragmentos/iac/iac-180-1002a--apendice.md
+- `8.1` — UTILIZAÇÃO DOS MODELOS PREVISTOS NESTA IAC → fragmentos/iac/iac-180-1002a--sec-8.1.md
+
+## iac-180-1003
+- `cabecalho` → fragmentos/iac/iac-180-1003--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES, 1 → fragmentos/iac/iac-180-1003--sec-1.md
+- `2` — DEFINIÇÕES, 2 → fragmentos/iac/iac-180-1003--sec-2.md
+- `3` — NORMAS GERAIS, 4 → fragmentos/iac/iac-180-1003--sec-3.md
+- `4` — DISPOSIÇÕES FINAIS, 6 → fragmentos/iac/iac-180-1003--sec-4.md
+- `(inteira)` — ANEXO 3     IDENTIFICAÇÃO NO LEME DIRECIONAL DE AERONAVES DE ASA → fragmentos/iac/iac-180-1003--anexo-3-identificação-no-leme-direcional.md
+- `(inteira)` → fragmentos/iac/iac-180-1003--apendice.md
+- `(inteira)` — Anexo nº3). Caso existam imposições técnicas que impeçam a pintura na superfície → fragmentos/iac/iac-180-1003--anexo-nº3-caso-existam-imposições-técnic.md
+- `(inteira)` → fragmentos/iac/iac-180-1003--apendice.md
+- `(inteira)` — ANEXO 1 - IDENTIFICAÇÃO NA FUSELAGEM DE AERONAVES DE ASA FIXA → fragmentos/iac/iac-180-1003--anexo-1-identificação-na-fuselagem-de-ae.md
+- `(inteira)` → fragmentos/iac/iac-180-1003--apendice.md
+
+## iac-187-1001
+- `cabecalho` → fragmentos/iac/iac-187-1001--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES ............................................................................................... → fragmentos/iac/iac-187-1001--sec-1.md
+- `2` — NATUREZA DOS SERVIÇOS .................................................................................................. → fragmentos/iac/iac-187-1001--sec-2.md
+- `3` — DEFINIÇÕES ............................................................................................................. → fragmentos/iac/iac-187-1001--sec-3.md
+- `4` — PROCEDIMENTOS PARA A EXECUÇÃO DE SERVIÇO ............................................................................... → fragmentos/iac/iac-187-1001--sec-4.md
+- `5` — PROCEDIMENTOS PARA EFETUAR OS DEPÓSITOS BANCÁRIOS IDENTIFICADOS - GRU DEPÓSITO ............6 → fragmentos/iac/iac-187-1001--sec-5.md
+- `6` — PROCEDIMENTOS ADMINISTRATIVOS .......................................................................................... → fragmentos/iac/iac-187-1001--sec-6.md
+- `7` — DISPOSIÇOES FINAIS ..................................................................................................... → fragmentos/iac/iac-187-1001--sec-7.md
+- `(inteira)` — ANEXO 1 - TABELA DE SERVIÇOS INDENIZÁVEIS ...................................... → fragmentos/iac/iac-187-1001--anexo-1-tabela-de-serviços-indenizáveis.md
+- `(inteira)` → fragmentos/iac/iac-187-1001--apendice.md
+- `7.1` — A realização de serviços em aeronaves públicas, conforme definição do CBA, art. 107, § 3º, estará isenta → fragmentos/iac/iac-187-1001--sec-7.1.md
+- `7.2` — As aeronaves a serviço de entidades da Administração Indireta Federal, Estadual ou Municipal são con- → fragmentos/iac/iac-187-1001--sec-7.2.md
+- `7.3` — Os Chefes dos Serviços Regionais de Aviação Civil, bem como os Chefes das Divisões do DAC, serão → fragmentos/iac/iac-187-1001--sec-7.3.md
+- `7.4` — A Tabela de Serviços Indenizáveis deverá ser atualizada, anualmente, ou sempre que houver expressiva → fragmentos/iac/iac-187-1001--sec-7.4.md
+- `7.5` — Os casos de arrecadação não contemplados nesta IAC serão tratados em norma específica. → fragmentos/iac/iac-187-1001--sec-7.5.md
+- `7.6` — Os casos omissos serão resolvidos pelo DGAC. → fragmentos/iac/iac-187-1001--sec-7.6.md
+
+## iac-200-1001
+- `cabecalho` → fragmentos/iac/iac-200-1001--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES, 1 → fragmentos/iac/iac-200-1001--sec-1.md
+- `3` — INFORMAÇÕES DOS PASSAGEIROS EMBARCADOS, 2 → fragmentos/iac/iac-200-1001--sec-3.md
+- `4` — PLANO DE ASSISTÊNCIA ÀS VÍTIMAS DE ACIDENTE AERONÁUTICO E APOIO A → fragmentos/iac/iac-200-1001--sec-4.md
+- `5` — DISPOSIÇÕES FINAIS, 5 → fragmentos/iac/iac-200-1001--sec-5.md
+- `5.1` — As Empresas Aéreas deverão prover treinamento do presente Plano para as equipes de suas → fragmentos/iac/iac-200-1001--sec-5.1.md
+- `5.2` — As Empresas Aéreas devem coordenar, juntos aos órgãos e empresas de apoio, as suas → fragmentos/iac/iac-200-1001--sec-5.2.md
+- `5.3` — A aplicação das assistências previstas nesta IAC se encerrará após a efetivação de todos os → fragmentos/iac/iac-200-1001--sec-5.3.md
+- `5.4` — O Plano de Assistência às Vítimas de Acidente Aeronáutico e Apoio a seus Familiares → fragmentos/iac/iac-200-1001--sec-5.4.md
+- `5.5` — Empresas Aéreas que operem vôos com código compartilhado deverão conhecer seus → fragmentos/iac/iac-200-1001--sec-5.5.md
+- `5.6` — As Empresas Aéreas deverão apresentar ao DAC seus Planos Corporativos de Assistência → fragmentos/iac/iac-200-1001--sec-5.6.md
+- `5.7` — Os casos não previstos nesta IAC serão submetidos à apreciação do Chefe do SSA. → fragmentos/iac/iac-200-1001--sec-5.7.md
+- `6` — ______ . NSMA 3-1 de 22 Fev. 99 – Conceituação de Vocábulos, expressões e siglas de uso no → fragmentos/iac/iac-200-1001--sec-6.md
+- `7` — ______ . NSMA 3-5 de 30 Jan. 96 – Comunicação de Acidentes e de Incidentes Aeronáuticos. → fragmentos/iac/iac-200-1001--sec-7.md
+- `8` — ______ . NSMA 3-7 de 30 Jan. 96 – Responsabilidades dos Operadores de Aeronaves em Caso → fragmentos/iac/iac-200-1001--sec-8.md
+- `9` — CANADÁ. IATA Report on Guidelines for Naming Conventions – Orientação sobre → fragmentos/iac/iac-200-1001--sec-9.md
+
+## iac-201
+- `cabecalho` → fragmentos/iac/iac-201--sec-cabecalho.md
+- `2` — - Guia de Recolhimento da Previdência Social (*536); e → fragmentos/iac/iac-201--sec-2.md
+- `3` — - Comprovante de Visita. → fragmentos/iac/iac-201--sec-3.md
+- `3.1` — - São contribuintes do Fundo Aeroviário todas as empresas privadas, públicas, de → fragmentos/iac/iac-201--sec-3.1.md
+- `4.1` — - As entidades, cujas atividades estão enquadradas no item III, são obrigadas a recolher → fragmentos/iac/iac-201--sec-4.1.md
+- `4.2` — - O termo taxa também se aplica aos percentuais que fixam as contribuições devidas → fragmentos/iac/iac-201--sec-4.2.md
+- `4.3` — - As taxas atualmente em vigor são as constantes do Anexo III (Contribuições de → fragmentos/iac/iac-201--sec-4.3.md
+- `4.4` — - Cada empresa, dependendo da natureza de sua atividade, é vinculada a alguns → fragmentos/iac/iac-201--sec-4.4.md
+- `5.1` — - As contribuições devidas por uma empresa são efetivadas mediante o preenchimento → fragmentos/iac/iac-201--sec-5.1.md
+- `5.2` — - O correto preenchimento da *536 é de inteira responsabilidade do contribuinte, ainda → fragmentos/iac/iac-201--sec-5.2.md
+- `5.3` — - Dependendo das suas atividades, uma empresa preencherá uma ou várias *536 por → fragmentos/iac/iac-201--sec-5.3.md
+- `5.4` — - Os prazos para o recolhimento das contribuições são estabelecidos pelo INSS, → fragmentos/iac/iac-201--sec-5.4.md
+- `6.1` — - A *536 é utilizada obrigatoriamente pela empresa para o recolhimento das → fragmentos/iac/iac-201--sec-6.1.md
+- `6.2` — - Para quitação de débito incluído em parcelamento ou notificação, o contribuinte → fragmentos/iac/iac-201--sec-6.2.md
+- `6.3` — - Sempre que houver parcelamento de débitos junto ao INSS, caberá à empresa enviar → fragmentos/iac/iac-201--sec-6.3.md
+- `7.1` — - A fiscalização e o controle da contribuição devida ao Fundo Aeroviário têm como → fragmentos/iac/iac-201--sec-7.1.md
+- `7.2` — - O controle e a fiscalização das contribuições devidas pelas empresas ao Fundo → fragmentos/iac/iac-201--sec-7.2.md
+- `7.3` — - A constatação de omissão ou erro no preenchimento da *536 que cause prejuízo → fragmentos/iac/iac-201--sec-7.3.md
+- `8.1` — - As empresas contribuintes do Fundo Aeroviário estão obrigadas a remeter, → fragmentos/iac/iac-201--sec-8.1.md
+- `8.2` — - Caso haja descumprimento do procedimento previsto no item anterior (8.1), a empresa → fragmentos/iac/iac-201--sec-8.2.md
+- `9.1` — - Sempre que for detectado algum tipo de problema com relação ao Fundo Aeroviário, → fragmentos/iac/iac-201--sec-9.1.md
+- `9.2` — - Na ocasião da visita, caberá à empresa fiscalizada apresentar os comprovantes dos → fragmentos/iac/iac-201--sec-9.2.md
+- `10.1` — - Esta 126(5 entrará em vigor na data da sua efetivação, cabendo à 'LYLVmR GH → fragmentos/iac/iac-201--sec-10.1.md
+
+## iac-2306
+- `cabecalho` → fragmentos/iac/iac-2306--sec-cabecalho.md
+- `01` — /    /   .../   /     /   /           28       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-01.md
+- `02` — /    /   .../   /     /   /           29       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-02.md
+- `03` — /    /   .../   /     /   /           30       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-03.md
+- `04` — /    /   .../   /     /   /           31       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-04.md
+- `05` — /    /   .../   /     /   /           32       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-05.md
+- `06` — /    /   .../   /     /   /           33       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-06.md
+- `07` — /    /   .../   /     /   /           34       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-07.md
+- `08` — /    /   .../   /     /   /           35       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-08.md
+- `09` — /    /   .../   /     /   /           36       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-09.md
+- `10` — /    /   .../   /     /   /           37       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-10.md
+- `11` — /    /   .../   /     /   /           38       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-11.md
+- `12` — /    /   .../   /     /   /           39       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-12.md
+- `13` — /    /   .../   /     /   /           40       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-13.md
+- `14` — /    /   .../   /     /   /           41       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-14.md
+- `15` — /    /   .../   /     /   /           42       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-15.md
+- `16` — /    /   .../   /     /   /           43       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-16.md
+- `17` — /    /   .../   /     /   /           44       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-17.md
+- `18` — /    /   .../   /     /   /           45       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-18.md
+- `19` — /    /   .../   /     /   /           46       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-19.md
+- `20` — /    /   .../   /     /   /           47       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-20.md
+- `21` — /    /   .../   /     /   /           48       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-21.md
+- `22` — /    /   .../   /     /   /           49       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-22.md
+- `23` — /    /   .../   /     /   /           50       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-23.md
+- `24` — /    /   .../   /     /   /           51       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-24.md
+- `25` — /    /   .../   /     /   /           52       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-25.md
+- `26` — /    /   .../   /     /   /           53       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-26.md
+- `27` — /    /   .../   /     /   /           54       /    /   .../   /     /   / → fragmentos/iac/iac-2306--sec-27.md
+
+## iac-3206
+- `cabecalho` → fragmentos/iac/iac-3206--sec-cabecalho.md
+- `01` — Tripulante e Tripulação são denominações definidas na Lei 7.183 de 05 → fragmentos/iac/iac-3206--sec-01.md
+- `02` — Uma          tripulação       poderá        ser:      MINÍMA,        SIMPLES,        COMPOSTA → fragmentos/iac/iac-3206--sec-02.md
+- `03` — Tripulação Mínima é a determinada na forma de certificação do tipo da aeronave e → fragmentos/iac/iac-3206--sec-03.md
+- `04` — Tripulação   Simples      é    a     constituída    basicamente    de     uma   tripulação → fragmentos/iac/iac-3206--sec-04.md
+- `05` — Tripulação Composta e de Revezamento são constituídas, basicamente, de → fragmentos/iac/iac-3206--sec-05.md
+- `06` — Uma tripulação será composta ou de revezamento, conforme o caso, em relação → fragmentos/iac/iac-3206--sec-06.md
+- `07` — O DAC, considerando o Art. 14 da Seção II, Capítulo I, da Lei 7.183 de → fragmentos/iac/iac-3206--sec-07.md
+- `08` — As tripulações composta ou de revezamento só poderão ser empregadas → fragmentos/iac/iac-3206--sec-08.md
+- `09` — Uma tripulação composta poderá ser utilizada em vôos domésticos, para atender a → fragmentos/iac/iac-3206--sec-09.md
+- `10` — Um tipo de tripulação só poderá ser transformado na origem do vôo e até o limite → fragmentos/iac/iac-3206--sec-10.md
+- `11` — A     contagem        de    tempo        para       o     limite    da   jornada       será    a      partir   da → fragmentos/iac/iac-3206--sec-11.md
+
+## iac-3252
+- `cabecalho` → fragmentos/iac/iac-3252--sec-cabecalho.md
+- `01` — As horas de vôo realizadas pelos tripulantes, em aeronaves de outras categorias, que não → fragmentos/iac/iac-3252--sec-01.md
+- `02` — As horas voadas de que trata o item 3, Título I, deverão ser relacionadas no formulário → fragmentos/iac/iac-3252--sec-02.md
+- `03` — As horas de vôo realizadas pelos tripulantes brasileiros, a bordo de aeronaves com marcas de → fragmentos/iac/iac-3252--sec-03.md
+- `04` — Os operadores, de que trata esta NOSER, ficam obrigados a expedir, a partir de 01 de Janeiro → fragmentos/iac/iac-3252--sec-04.md
+- `05` — Cada aeronave deverá possuir um Livro de Bordo, com numeração de páginas em ordem → fragmentos/iac/iac-3252--sec-05.md
+- `06` — Em caso de falência da Empresa o liquidante ou síndico da massa falida resgatará os registros → fragmentos/iac/iac-3252--sec-06.md
+- `07` — Os casos omissos serão resolvidos pelo Chefe do Subdepartamento Técnico do Departamento → fragmentos/iac/iac-3252--sec-07.md
+- `(inteira)` — ANEXO 03                         IAC-121/135IAC 3252-121 / 135-0197              → fragmentos/iac/iac-3252--anexo-03-iac-121-135iac-3252-121-135-019.md
+- `(inteira)` → fragmentos/iac/iac-3252--apendice.md
+
+## iac-4201a
+- `cabecalho` → fragmentos/iac/iac-4201a--sec-cabecalho.md
+- `1` — DISPOSIÇÕES PRELIMINARES                                                                   1 → fragmentos/iac/iac-4201a--sec-1.md
+- `2` — SISTEMÁTICA                                                                                2 → fragmentos/iac/iac-4201a--sec-2.md
+- `3` — DISPOSIÇÃO TRANSITÓRIA                                                                     6 → fragmentos/iac/iac-4201a--sec-3.md
+- `4` — DISPOSIÇÕES FINAIS                                                                         7 → fragmentos/iac/iac-4201a--sec-4.md
+- `(inteira)` — ANEXO 1 CONTROLE DE APROVAÇÃO DO PROJETO EXECUTIVO → fragmentos/iac/iac-4201a--anexo-1-controle-de-aprovação-do-projeto.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `(inteira)` — ANEXO 2 CONTROLE DOS CRÉDITOS PARA INVESTIMENTOS DO PROFAA → fragmentos/iac/iac-4201a--anexo-2-controle-dos-créditos-para-inves.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `(inteira)` — ANEXO 3 CONTROLE DOS CRÉDITOS PARA DESPESAS CORRENTES → fragmentos/iac/iac-4201a--anexo-3-controle-dos-créditos-para-despe.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `(inteira)` — ANEXO 4 CONTROLE DOS CRÉDITOS EM RESTOS A PAGAR → fragmentos/iac/iac-4201a--anexo-4-controle-dos-créditos-em-restos.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `(inteira)` — ANEXO 5 NUMERAÇÃO DE CONVÊNIOS → fragmentos/iac/iac-4201a--anexo-5-numeração-de-convênios.md
+- `(inteira)` — ANEXO 6 CONTROLE DOS EMPREENDIMENTOS PELO COMAR → fragmentos/iac/iac-4201a--anexo-6-controle-dos-empreendimentos-pel.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `(inteira)` — ANEXO 7 MAPA GERAL DOS EMPREENDIMENTOS EM ANDAMENTO → fragmentos/iac/iac-4201a--anexo-7-mapa-geral-dos-empreendimentos-e.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `(inteira)` — ANEXO 8 MAPA GERAL DOS EMPREENDIMENTOS CONCLUÍDOS → fragmentos/iac/iac-4201a--anexo-8-mapa-geral-dos-empreendimentos-c.md
+- `(inteira)` → fragmentos/iac/iac-4201a--apendice.md
+- `4.1` — Os casos não previstos nesta Instrução serão submetidos à apreciação do Diretor-Geral de → fragmentos/iac/iac-4201a--sec-4.1.md
+- `4.2` — Esta Instrução entrará em vigor na data de sua publicação, ficando revogadas as disposições → fragmentos/iac/iac-4201a--sec-4.2.md
+
+## iac-5301
+- `cabecalho` → fragmentos/iac/iac-5301--sec-cabecalho.md
+- `1` — INTRODUÇÃO ............................................................................................................. → fragmentos/iac/iac-5301--sec-1.md
+- `2` — COMPOSIÇÃO ............................................................................................................. → fragmentos/iac/iac-5301--sec-2.md
+- `3` — LOCALIZAÇÃO ............................................................................................................ → fragmentos/iac/iac-5301--sec-3.md
+- `4` — SINALIZAÇÃO ............................................................................................................ → fragmentos/iac/iac-5301--sec-4.md
+- `5` — ÁREAS NECESSÁRIAS PARA ABRIGAR A SAC ........................................................................ 5 → fragmentos/iac/iac-5301--sec-5.md
+- `6` — APROVAÇÃO DOS PROJETOS DAS SAC...................................................................................... 6 → fragmentos/iac/iac-5301--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS ..................................................................................................... → fragmentos/iac/iac-5301--sec-7.md
+- `(inteira)` — ANEXO 1 – MODELO DE PLACA DE SINALIZAÇÃO DA SAC ................................ → fragmentos/iac/iac-5301--anexo-1-modelo-de-placa-de-sinalização-d.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 2 – MODELO DOS 2º E 3º SEGMENTOS INTEGRADOS EM AEROPORTOS → fragmentos/iac/iac-5301--anexo-2-modelo-dos-2º-e-3º-segmentos-int.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 3 – MODELO DO 1º SEGMENTO INTEGRADO COM AS INSTALAÇÕES DA → fragmentos/iac/iac-5301--anexo-3-modelo-do-1º-segmento-integrado.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 4 – MODELO DO 3º SEGMENTO ISOLADO EM AEROPORTOS (PADRÃO A) .......... 10 → fragmentos/iac/iac-5301--anexo-4-modelo-do-3º-segmento-isolado-em.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 5 – MODELO DOS 2º E 3º SEGMENTOS INTEGRADOS EM AEROPORTOS → fragmentos/iac/iac-5301--anexo-5-modelo-dos-2º-e-3º-segmentos-int.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 6 – MODELO DO 1º SEGMENTO INTEGRADO COM AS INSTALAÇÕES DA → fragmentos/iac/iac-5301--anexo-6-modelo-do-1º-segmento-integrado.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 7 – MODELO DO 3º SEGMENTO ISOLADO EM AEROPORTOS (PADRÃO B E → fragmentos/iac/iac-5301--anexo-7-modelo-do-3º-segmento-isolado-em.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 8 – MODELO DO 2º E 3º SEGMENTOS INTEGRADOS EM AEROPORTOS COM → fragmentos/iac/iac-5301--anexo-8-modelo-do-2º-e-3º-segmentos-inte.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 9 – MODELO DO 1º SEGMENTO INTEGRADO COM AS INSTALAÇÕES DA → fragmentos/iac/iac-5301--anexo-9-modelo-do-1º-segmento-integrado.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `7.1` — As administrações dos aeroportos que estiverem em desacordo com esta Instrução terão prazo de → fragmentos/iac/iac-5301--sec-7.1.md
+- `7.2` — Compete aos SERAC exercerem a fiscalização do cumprimento desta IAC, devendo comunicar → fragmentos/iac/iac-5301--sec-7.2.md
+- `7.3` — Os casos omissos serão resolvidos pelo Diretor-Geral do DAC. → fragmentos/iac/iac-5301--sec-7.3.md
+- `(inteira)` — ANEXO 1 – MODELO DE PLACA DE SINALIZAÇÃO DA SAC → fragmentos/iac/iac-5301--anexo-1-modelo-de-placa-de-sinalização-d.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 2 – MODELO DOS 2º E 3º SEGMENTOS INTEGRADOS EM AEROPORTOS COM → fragmentos/iac/iac-5301--anexo-2-modelo-dos-2º-e-3º-segmentos-int.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 3 – MODELO DO 1º SEGMENTO INTEGRADO COM AS INSTALAÇÕES DA → fragmentos/iac/iac-5301--anexo-3-modelo-do-1º-segmento-integrado.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 4 – MODELO DO 3º SEGMENTO ISOLADO EM AEROPORTOS (PADRÃO A). → fragmentos/iac/iac-5301--anexo-4-modelo-do-3º-segmento-isolado-em.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 5 – MODELO DOS 2º E 3º SEGMENTOS INTEGRADOS EM AEROPORTOS COM → fragmentos/iac/iac-5301--anexo-5-modelo-dos-2º-e-3º-segmentos-int.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 6 – MODELO DO 1º SEGMENTO INTEGRADO COM AS INSTALAÇÕES DA → fragmentos/iac/iac-5301--anexo-6-modelo-do-1º-segmento-integrado.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 7 – MODELO DO 3º SEGMENTO ISOLADO EM AEROPORTOS (PADRÃO B e → fragmentos/iac/iac-5301--anexo-7-modelo-do-3º-segmento-isolado-em.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+- `(inteira)` — ANEXO 8 – MODELO DO 2º E 3º SEGMENTOS INTEGRADOS EM AEROPORTOS COM → fragmentos/iac/iac-5301--anexo-8-modelo-do-2º-e-3º-segmentos-inte.md
+- `(inteira)` → fragmentos/iac/iac-5301--apendice.md
+
+## is-00-001
+- `cabecalho` → fragmentos/is/is-00-001--sec-cabecalho.md
+- `1.1` — Estabelecer meios aceitáveis para a sistematização e envio dos relatórios de dificuldades em → fragmentos/is/is-00-001--sec-1.1.md
+- `1.2` — Esta IS serve de material interpretativo e de esclarecimento em relação às ocorrências que → fragmentos/is/is-00-001--sec-1.2.md
+- `1.3` — Adicionalmente, esta IS tem como objetivo contribuir para a melhoria do gerenciamento da → fragmentos/is/is-00-001--sec-1.3.md
+- `2.1` — Instrução Suplementar nº 00-001, Revisão A. → fragmentos/is/is-00-001--sec-2.1.md
+- `3.1` — O art. 87 da Lei nº 7.565/86 (Código Brasileiro de Aeronáutica – CBAer) estabelece que a → fragmentos/is/is-00-001--sec-3.1.md
+- `3.2` — As seção 21.3 do Regulamento Brasileiro da Aviação Civil – RBAC nº 21 estabelece requi- → fragmentos/is/is-00-001--sec-3.2.md
+- `3.3` — Adicionalmente, a seção 21.4 do RBAC nº 21 estabelece requisitos a serem observados por → fragmentos/is/is-00-001--sec-3.3.md
+- `3.4` — Não obstante, as seções 135.415 do RBAC nº 135 e 121.703 do RBAC nº 121 também esta- → fragmentos/is/is-00-001--sec-3.4.md
+- `3.5` — A seção 145.221 do RBAC nº 145 também estabelece os requisitos para que uma organiza- → fragmentos/is/is-00-001--sec-3.5.md
+- `3.6` — Por fim, os critérios aqui estabelecidos deverão ser observados e praticados pelas organiza- → fragmentos/is/is-00-001--sec-3.6.md
+- `4.1` — Aeronavegabilidade Continuada: de acordo com o Manual de Aeronavegabilidade da In- → fragmentos/is/is-00-001--sec-4.1.md
+- `4.2` — Boletim de serviço – BS: documento emitido pelo detentor do projeto de tipo ou fabricante → fragmentos/is/is-00-001--sec-4.2.md
+- `4.3` — Diretriz de aeronavegabilidade – DA: documento emitido pela ANAC, visando eliminar → fragmentos/is/is-00-001--sec-4.3.md
+- `4.4` — Dificuldades em Serviço: consiste em qualquer falha, mau funcionamento ou defeito em → fragmentos/is/is-00-001--sec-4.4.md
+- `4.5` — Sistema de Dificuldades em Serviço: é um sistema responsável por assegurar que as infor- → fragmentos/is/is-00-001--sec-4.5.md
+- `4.6` — Produto Aeronáutico: aeronave, um motor ou uma hélice, assim como componentes e par- → fragmentos/is/is-00-001--sec-4.6.md
+- `4.7` — Organização de Manutenção: organizações certificadas segundo os requisitos do RBAC → fragmentos/is/is-00-001--sec-4.7.md
+- `4.8` — PSE - Elemento Estrutural Principal (Principal Structural Element): elementos estrutu- → fragmentos/is/is-00-001--sec-4.8.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-00-001--sec-5.1.md
+- `5.2` — Objetivos do Sistema de Comunicação de Ocorrências de Dificuldades em Serviço → fragmentos/is/is-00-001--sec-5.2.md
+- `5.3` — Comunicação → fragmentos/is/is-00-001--sec-5.3.md
+- `5.4` — Responsabilidades → fragmentos/is/is-00-001--sec-5.4.md
+- `5.5` — Comunicação de incidentes e acidentes aeronáuticos → fragmentos/is/is-00-001--sec-5.5.md
+- `5.6` — Período para o envio dos relatórios → fragmentos/is/is-00-001--sec-5.6.md
+- `5.7` — Conteúdo dos Relatórios → fragmentos/is/is-00-001--sec-5.7.md
+- `5.8` — Envio dos relatórios para outras autoridades → fragmentos/is/is-00-001--sec-5.8.md
+- `5.9` — Fluxo de informação entre as organizações e a ANAC → fragmentos/is/is-00-001--sec-5.9.md
+- `5.10` — Ocorrências obrigatoriamente comunicáveis → fragmentos/is/is-00-001--sec-5.10.md
+- `6` — APÊNDICES → fragmentos/is/is-00-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-00-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-00-001--sec-7.2.md
+- `(inteira)` — APENDICE B - LISTA DE OCORRÊNCIAS REQUERIDAS DE SEREM COMUNICADAS → fragmentos/is/is-00-001--apendice-b-lista-de-ocorrências-requerid.md
+- `(inteira)` → fragmentos/is/is-00-001--apendice.md
+
+## is-00-002
+- `cabecalho` → fragmentos/is/is-00-002--sec-cabecalho.md
+- `2.1` — Esta IS revoga a IS 00-002G. → fragmentos/is/is-00-002--sec-2.1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-00-002--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-00-002--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-00-002--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-00-002--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições dos RBAC n° 01, 61 e as seguintes → fragmentos/is/is-00-002--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-00-002--sec-5.1.md
+- `5.2` — Como utilizar esta IS → fragmentos/is/is-00-002--sec-5.2.md
+- `5.3` — Obrigações dos examinadores → fragmentos/is/is-00-002--sec-5.3.md
+- `6.1` — Objetivo → fragmentos/is/is-00-002--sec-6.1.md
+- `6.2` — Processo de avaliação → fragmentos/is/is-00-002--sec-6.2.md
+- `6.3` — Fases do processo de avaliação → fragmentos/is/is-00-002--sec-6.3.md
+- `6.4` — Confiabilidade da avaliação → fragmentos/is/is-00-002--sec-6.4.md
+- `6.5` — Validade da avaliação → fragmentos/is/is-00-002--sec-6.5.md
+- `6.6` — Abrangência da avaliação → fragmentos/is/is-00-002--sec-6.6.md
+- `6.7` — Discriminação → fragmentos/is/is-00-002--sec-6.7.md
+- `6.8` — Objetividade → fragmentos/is/is-00-002--sec-6.8.md
+- `6.9` — Erros de avaliação → fragmentos/is/is-00-002--sec-6.9.md
+- `7.1` — Compete ao examinador, após designado para realizar determinado exame: → fragmentos/is/is-00-002--sec-7.1.md
+- `8.1` — Todo exame de proficiência deve iniciar-se por um exame oral, que tem por objetivo → fragmentos/is/is-00-002--sec-8.1.md
+- `8.2` — O conteúdo aplicável a cada exame oral se encontra previsto nas FAP (Apêndice A → fragmentos/is/is-00-002--sec-8.2.md
+- `8.3` — As questões devem ser formuladas pelo examinador com enfoque na prática, isto é, → fragmentos/is/is-00-002--sec-8.3.md
+- `8.4` — O examinador deve evitar ambiguidades. As questões devem ser formuladas com o uso → fragmentos/is/is-00-002--sec-8.4.md
+- `8.5` — A ANAC recomenda que as questões sejam formuladas de modo que o candidato tenha → fragmentos/is/is-00-002--sec-8.5.md
+- `8.6` — A ANAC recomenda que o examinador contextualize a questão antes de formulá-la, → fragmentos/is/is-00-002--sec-8.6.md
+- `8.7` — A tabela abaixo traz alguns exemplos de questões adequadas e inadequadas: → fragmentos/is/is-00-002--sec-8.7.md
+- `8.8` — O papel do examinador é diferente do papel do instrutor. Ao instrutor cabe explicar e → fragmentos/is/is-00-002--sec-8.8.md
+- `8.9` — O examinador deve formular questões orais e aplicá-las ao candidato, em número que → fragmentos/is/is-00-002--sec-8.9.md
+- `8.10` — O candidato só pode prosseguir para a execução do exame de voo se tiver respondido → fragmentos/is/is-00-002--sec-8.10.md
+- `8.11` — Além disso, o candidato deve ser reprovado caso não responda corretamente a qualquer → fragmentos/is/is-00-002--sec-8.11.md
+- `9.1` — Após concluído o exame oral, o examinador deve discutir com o candidato a condução → fragmentos/is/is-00-002--sec-9.1.md
+- `10.1` — O examinador possui total responsabilidade e discricionariedade para decidir se há ou → fragmentos/is/is-00-002--sec-10.1.md
+- `10.2` — Além disso, o examinador deve considerar em sua decisão que, mesmo havendo → fragmentos/is/is-00-002--sec-10.2.md
+- `10.3` — À exceção dos exames em rota previstos nos RBAC 135 e 121, os exames de → fragmentos/is/is-00-002--sec-10.3.md
+- `10.4` — Antes de anunciar sua decisão pela realização ou não do exame, o examinador deve, → fragmentos/is/is-00-002--sec-10.4.md
+- `10.5` — Os exames de proficiência relacionados à concessão de licença de Piloto de Linha Aérea → fragmentos/is/is-00-002--sec-10.5.md
+- `11.1` — Uso das FAP → fragmentos/is/is-00-002--sec-11.1.md
+- `11.2` — Cumulação de exames → fragmentos/is/is-00-002--sec-11.2.md
+- `11.3` — Repetição de manobras malsucedidas → fragmentos/is/is-00-002--sec-11.3.md
+- `11.4` — Interrupção de exames → fragmentos/is/is-00-002--sec-11.4.md
+- `11.5` — Exames para habilitação de instrutor de voo → fragmentos/is/is-00-002--sec-11.5.md
+- `12.1` — Será considerado “Aprovado” o candidato que obtiver sucesso em todos os itens → fragmentos/is/is-00-002--sec-12.1.md
+- `12.2` — Para formalizar a aprovação, o examinador deve preencher a FAP, colher a assinatura → fragmentos/is/is-00-002--sec-12.2.md
+- `12.3` — Tratando-se de exame em operador não certificado pela ANAC (aviação RBAC 91), → fragmentos/is/is-00-002--sec-12.3.md
+- `12.4` — Tratando-se de exame em operador certificado pela ANAC (empresas de transporte → fragmentos/is/is-00-002--sec-12.4.md
+- `13.1` — Será considerado “Reprovado” o candidato que: → fragmentos/is/is-00-002--sec-13.1.md
+- `13.2` — Para formalizar a reprovação, o examinador deve preencher a FAP, colher a assinatura → fragmentos/is/is-00-002--sec-13.2.md
+- `13.3` — Tratando-se de exame em operador não certificado pela ANAC (aviação RBAC 91), → fragmentos/is/is-00-002--sec-13.3.md
+- `13.4` — Tratando-se de exame em operador certificado pela ANAC (empresas de transporte → fragmentos/is/is-00-002--sec-13.4.md
+- `13.5` — O candidato reprovado deve, antes de se submeter a novo exame, realizar treinamento → fragmentos/is/is-00-002--sec-13.5.md
+- `13.6` — Com base no Art. 163 do CBA e do RBAC nº 61, todas as habilitações relativas ao → fragmentos/is/is-00-002--sec-13.6.md
+- `14.1` — O debriefing deve ocorrer após o exame, tenha ele resultado na aprovação ou → fragmentos/is/is-00-002--sec-14.1.md
+- `14.2` — Uma boa prática é que o examinador, antes de iniciar seus comentários, pergunte ao → fragmentos/is/is-00-002--sec-14.2.md
+- `14.3` — Ao realizar seus comentários, o examinador deve se ater aos critérios objetivos de → fragmentos/is/is-00-002--sec-14.3.md
+- `14.4` — A ANAC recomenda que o examinador tenha em mãos durante o debriefing uma cópia → fragmentos/is/is-00-002--sec-14.4.md
+- `14.5` — Caso se trate de exame em operador aéreo certificado, a recomendação acima se aplica → fragmentos/is/is-00-002--sec-14.5.md
+- `14.6` — Examinadores e candidatos devem ter em mente que não é o examinador quem aprova → fragmentos/is/is-00-002--sec-14.6.md
+- `15.1` — Generalidades → fragmentos/is/is-00-002--sec-15.1.md
+- `15.2` — Campo Comentários. → fragmentos/is/is-00-002--sec-15.2.md
+- `15.3` — Número da Ordem de Serviço. → fragmentos/is/is-00-002--sec-15.3.md
+- `15.4` — Área de assinaturas: → fragmentos/is/is-00-002--sec-15.4.md
+- `17.1` — Flight Examiner Handbook (Civil Aviation Safety Authority – CASA (Austrália)) → fragmentos/is/is-00-002--sec-17.1.md
+- `17.2` — Part 61 Manual of Standards, Schedules 1, 2 e 8 (Civil Aviation Safety Authority – → fragmentos/is/is-00-002--sec-17.2.md
+- `17.3` — FAA Order 8900.2 – General Aviation Airman Designee Handbook → fragmentos/is/is-00-002--sec-17.3.md
+- `17.4` — FAA Practical Test Standards → fragmentos/is/is-00-002--sec-17.4.md
+- `19.1` — Os casos omissos serão dirimidos pela SPL. → fragmentos/is/is-00-002--sec-19.1.md
+
+## is-00-006
+- `cabecalho` → fragmentos/is/is-00-006--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-00-006--sec-1.md
+- `2.1` — Esta IS revoga a IS nº 00-006, Revisão B. → fragmentos/is/is-00-006--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-00-006--sec-3.1.md
+- `3.2` — Os RBAC nº 61 e 65 e o RBHA nº 63 estabelecem requisitos para a obtenção de licenças, → fragmentos/is/is-00-006--sec-3.2.md
+- `3.3` — O art. 56 da Lei nº 9.784, de 29 de janeiro de 1999, que regula o processo administrativo → fragmentos/is/is-00-006--sec-3.3.md
+- `4.1` — Formulário de recurso – Formulário por meio do qual o requerente interpõe recurso em → fragmentos/is/is-00-006--sec-4.1.md
+- `4.2` — Indeferimento – Decisão administrativa contrária a pedido de concessão da licença, → fragmentos/is/is-00-006--sec-4.2.md
+- `4.3` — Legitimado – Pessoa física que requer a concessão da licença ou da habilitação. → fragmentos/is/is-00-006--sec-4.3.md
+- `4.4` — Recurso – Instrumento por meio do qual o interessado na concessão de licença, → fragmentos/is/is-00-006--sec-4.4.md
+- `5.1` — Das disposições gerais → fragmentos/is/is-00-006--sec-5.1.md
+- `5.2` — Da admissibilidade do recurso → fragmentos/is/is-00-006--sec-5.2.md
+- `5.3` — Da análise de mérito → fragmentos/is/is-00-006--sec-5.3.md
+- `5.4` — Dos Procedimentos para Interposição do Recurso → fragmentos/is/is-00-006--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-00-006--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-00-006--sec-7.md
+
+## is-00-010
+- `cabecalho` → fragmentos/is/is-00-010--sec-cabecalho.md
+- `1.1` — Estabelecer critérios e procedimentos para implementação e manutenção de um Programa → fragmentos/is/is-00-010--sec-1.1.md
+- `1.2` — Esta IS se aplica aos operadores aéreos regidos pelos RBAC n° 90, 121 e 135 e pela → fragmentos/is/is-00-010--sec-1.2.md
+- `2.1` — Esta IS revoga a IS nº 00-010 Revisão A. → fragmentos/is/is-00-010--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-00-010--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-00-010--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2(b) desta IS deve garantir → fragmentos/is/is-00-010--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-00-010--sec-3.4.md
+- `3.5` — Esta IS é fundamentada e objetiva oferecer método de cumprimento às: → fragmentos/is/is-00-010--sec-3.5.md
+- `4.1` — Para efeitos desta instrução, são válidas as definições listadas no RBAC n° 01 e as → fragmentos/is/is-00-010--sec-4.1.md
+- `5.1` — DISPOSIÇÕES INICIAIS → fragmentos/is/is-00-010--sec-5.1.md
+- `5.2` — FUNDAMENTOS DO TREINAMENTO DE CRM → fragmentos/is/is-00-010--sec-5.2.md
+- `5.3` — TREINAMENTOS DE CRM → fragmentos/is/is-00-010--sec-5.3.md
+- `5.4` — ELEMENTOS CURRICULARES MÍNIMOS → fragmentos/is/is-00-010--sec-5.4.md
+- `5.5` — AVALIAÇÃO E VALIDAÇÃO DOS PROGRAMAS DE CRM → fragmentos/is/is-00-010--sec-5.5.md
+- `5.6` — PROGRAMA DE TREINAMENTO DE CRM (PCRM) → fragmentos/is/is-00-010--sec-5.6.md
+- `5.7` — CAPACITAÇÃO DOS FACILITADORES DE CRM → fragmentos/is/is-00-010--sec-5.7.md
+- `5.8` — ESTÁGIO DE MATURIDADE DO OPERADOR AÉREO QUANTO AO CRM → fragmentos/is/is-00-010--sec-5.8.md
+- `6` — APÊNDICES → fragmentos/is/is-00-010--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela Superintendência de Padrões Operacionais. → fragmentos/is/is-00-010--sec-7.1.md
+- `8` — BIBLIOGRAFIA → fragmentos/is/is-00-010--sec-8.md
+- `(inteira)` — APÊNDICE D – PROGRAMAÇÃO DO CURSO TREINAMENTO PARA FACILITADOR → fragmentos/is/is-00-010--apêndice-d-programação-do-curso-treiname.md
+- `(inteira)` → fragmentos/is/is-00-010--apendice.md
+- `(inteira)` — APÊNDICE L – MODELO DE AVALIAÇÃO DAS HABILIDADE NÃO TÉCNICAS POR → fragmentos/is/is-00-010--apêndice-l-modelo-de-avaliação-das-habil.md
+- `(inteira)` → fragmentos/is/is-00-010--apendice.md
+- `(inteira)` — APÊNDICE O - MODELO DE AVALIAÇÃO DE ESTÁGIO DE MATURIDADE DO CRM → fragmentos/is/is-00-010--apêndice-o-modelo-de-avaliação-de-estági.md
+- `(inteira)` → fragmentos/is/is-00-010--apendice.md
+
+## is-00-011
+- `cabecalho` → fragmentos/is/is-00-011--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-00-011--sec-1.md
+- `2.1` — Portaria nº 3.152/SPL, de 5 de novembro de 2020. → fragmentos/is/is-00-011--sec-2.1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar — IS, norma suplementar de ca → fragmentos/is/is-00-011--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito previsto em RBAC ou RBHA, → fragmentos/is/is-00-011--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível de segurança igual ou superi → fragmentos/is/is-00-011--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro ato normativo. → fragmentos/is/is-00-011--sec-3.4.md
+- `5.1` — A fim de orientar o público externo e interno quanto à interpretação e aplicabilidade dos requisitos normativos pertinen → fragmentos/is/is-00-011--sec-5.1.md
+- `5.2` — A SPL editará as DI-SPL por motivação de ofício ou em resposta a consultas de origem interna ou externa, nos casos em qu → fragmentos/is/is-00-011--sec-5.2.md
+- `5.3` — As DI-SPL aprovadas serão publicadas no Apêndice A desta Instrução Suplementar e, salvo expressamente indicado em seu → fragmentos/is/is-00-011--sec-5.3.md
+- `6` — APÊNDICES → fragmentos/is/is-00-011--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-00-011--sec-7.md
+- `(inteira)` — APÊNDICE B - Lista das Diretrizes Interpretativas da SPL → fragmentos/is/is-00-011--apêndice-b-lista-das-diretrizes-interpre.md
+- `(inteira)` → fragmentos/is/is-00-011--apendice.md
+- `(inteira)` — APÊNDICE C - Diretrizes Interpretativas da SPL → fragmentos/is/is-00-011--apêndice-c-diretrizes-interpretativas-da.md
+- `(inteira)` → fragmentos/is/is-00-011--apendice.md
+- `(inteira)` — Anexo 1 à Convenção → fragmentos/is/is-00-011--anexo-1-à-convenção.md
+- `(inteira)` → fragmentos/is/is-00-011--apendice.md
+- `(inteira)` — Anexo 1 à Convenção 14 CFR → fragmentos/is/is-00-011--anexo-1-à-convenção-14-cfr.md
+- `(inteira)` → fragmentos/is/is-00-011--apendice.md
+- `(inteira)` — Anexo 1 à Convenção LAR 61 14 CFR → fragmentos/is/is-00-011--anexo-1-à-convenção-lar-61-14-cfr.md
+- `(inteira)` → fragmentos/is/is-00-011--apendice.md
+
+## is-107-002c
+- `cabecalho` → fragmentos/is/is-107-002c--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar — IS estabelece os padrões mínimos de desempenho para os testes → fragmentos/is/is-107-002c--sec-1.1.md
+- `1.2` — Esta IS esclarece, detalha e orienta a aplicação dos requisitos previstos pelas seções 107.187(e), → fragmentos/is/is-107-002c--sec-1.2.md
+- `2.1` — Esta Instrução Suplementar revoga a Instrução Suplementar nº 107-002 Revisão B. → fragmentos/is/is-107-002c--sec-2.1.md
+- `3.1` — Leis → fragmentos/is/is-107-002c--sec-3.1.md
+- `3.2` — Decretos → fragmentos/is/is-107-002c--sec-3.2.md
+- `3.3` — Resoluções → fragmentos/is/is-107-002c--sec-3.3.md
+- `3.4` — Instruções Suplementares → fragmentos/is/is-107-002c--sec-3.4.md
+- `3.5` — Instruções Normativas → fragmentos/is/is-107-002c--sec-3.5.md
+- `4.1` — Esta Instrução Suplementar é aplicável aos operadores de aeródromos classificados nas Classes → fragmentos/is/is-107-002c--sec-4.1.md
+- `5.1` — Ciclo de Testes AVSEC: Intervalo máximo de tempo definido pelo RBAC nº 107, por classe de → fragmentos/is/is-107-002c--sec-5.1.md
+- `5.2` — Padrão Mínimo de Desempenho de Testes AVSEC: Valor definido pela ANAC como mínimo → fragmentos/is/is-107-002c--sec-5.2.md
+- `6.1` — Cálculo do Resultado da Atividade de Testes AVSEC → fragmentos/is/is-107-002c--sec-6.1.md
+- `6.2` — Cálculo do Resultado do Ciclo → fragmentos/is/is-107-002c--sec-6.2.md
+- `6.3` — Encaminhamento de dados → fragmentos/is/is-107-002c--sec-6.3.md
+- `6.4` — Padrão mínimo de desempenho de Testes AVSEC → fragmentos/is/is-107-002c--sec-6.4.md
+- `7` — APÊNDICES → fragmentos/is/is-107-002c--sec-7.md
+- `8.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-107-002c--sec-8.1.md
+- `8.2` — Esta IS entra em vigor em 29 de dezembro de 2025. → fragmentos/is/is-107-002c--sec-8.2.md
+
+## is-110-002b
+- `cabecalho` → fragmentos/is/is-110-002b--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar — IS visa estabelecer meios e procedimentos para a realização do treinamento em serviço de pr → fragmentos/is/is-110-002b--sec-1.1.md
+- `1.2` — Esta IS descreve procedimentos aceitos pela ANAC que garantem o cumprimento dos requisitos contidos nos parágrafos 110.3 → fragmentos/is/is-110-002b--sec-1.2.md
+- `1.3` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito previsto no RBAC nº 110 pod → fragmentos/is/is-110-002b--sec-1.3.md
+- `1.4` — Os meios ou procedimentos alternativos mencionados no item 1.3 devem garantir nível de segurança igual ou superior ao es → fragmentos/is/is-110-002b--sec-1.4.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-110-002b--sec-2.md
+- `3.1` — Lei nº 7.565, de 12 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica → fragmentos/is/is-110-002b--sec-3.1.md
+- `3.2` — Lei nº 11.182, de 27 de setembro de 2005, que cria a Agência Nacional de Aviação Civil. → fragmentos/is/is-110-002b--sec-3.2.md
+- `3.3` — Decreto nº 11.195, de 8 de setembro de 2022, que dispõe sobre o Programa Nacional de Segurança da Aviação Civil contra A → fragmentos/is/is-110-002b--sec-3.3.md
+- `3.4` — Resolução nº 30, de 21 de maio de 2008, alterada pela Resolução nº 162, de 20 de julho de 2010, que institui o Regulamen → fragmentos/is/is-110-002b--sec-3.4.md
+- `3.5` — Resolução nº 638, de 07 de outubro de 2021, que aprova o Regulamento Brasileiro de Aviação Civil (RBAC) nº 110 Emenda 01 → fragmentos/is/is-110-002b--sec-3.5.md
+- `3.6` — Instrução Normativa nº 15, de 20 de novembro de 2008, alterada pela Resolução nº 162, de 20 de julho de 2010, que estabe → fragmentos/is/is-110-002b--sec-3.6.md
+- `3.7` — Portaria nº 5.148, de 7 de junho de 2021, que dispõe sobre os critérios para fins de obtenção de habilitações e do certi → fragmentos/is/is-110-002b--sec-3.7.md
+- `4.1` — Para os efeitos desta Instrução Suplementar, aplicam-se as definições, abreviações e siglas estabelecidas nos seguintes  → fragmentos/is/is-110-002b--sec-4.1.md
+- `5.1` — Disposições Gerais → fragmentos/is/is-110-002b--sec-5.1.md
+- `5.2` — Do Agente de Proteção da Aviação Civil → fragmentos/is/is-110-002b--sec-5.2.md
+- `6` — horas no ano específico. → fragmentos/is/is-110-002b--sec-6.md
+- `07.10` — 2021) → fragmentos/is/is-110-002b--sec-07.10.md
+- `(inteira)` — Apêndice A — Desenho Esquemático do Processo de Atualização em Inspeção de Segur → fragmentos/is/is-110-002b--apêndice-a-desenho-esquemático-do-proces.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — Apêndice B — Ficha de Avaliação de Treinamento em Serviço (Agente de Proteção da → fragmentos/is/is-110-002b--apêndice-b-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — Apêndice C — Ficha de Avaliação de Treinamento em Serviço após período de afasta → fragmentos/is/is-110-002b--apêndice-c-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — Apêndice D — Ficha de Avaliação de Treinamento em Serviço de Instrutor AVSEC — L → fragmentos/is/is-110-002b--apêndice-d-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — Apêndice E — Ficha de Avaliação de Treinamento em Serviço de Instrutor AVSEC → fragmentos/is/is-110-002b--apêndice-e-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `8.1` — Os casos omissos serão dirimidos pela SPL. → fragmentos/is/is-110-002b--sec-8.1.md
+- `8.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-110-002b--sec-8.2.md
+- `(inteira)` — APÊNDICE A - DESENHO ESQUEMÁTICO DO PROCESSO DE ATUALIZAÇÃO EM INSPEÇÃO DE SEGUR → fragmentos/is/is-110-002b--apêndice-a-desenho-esquemático-do-proces.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — APÊNDICE B - FICHA DE AVALIAÇÃO DE TREINAMENTO EM SERVIÇO → fragmentos/is/is-110-002b--apêndice-b-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — APÊNDICE B - FICHA DE AVALIAÇÃO DE TREINAMENTO EM SERVIÇO → fragmentos/is/is-110-002b--apêndice-b-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — APÊNDICE B - FICHA DE AVALIAÇÃO DE TREINAMENTO EM SERVIÇO → fragmentos/is/is-110-002b--apêndice-b-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — APÊNDICE C — FICHA DE AVALIAÇÃO DE TREINAMENTO EM SERVIÇO APÓS PERÍODO DE AFASTA → fragmentos/is/is-110-002b--apêndice-c-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — APÊNDICE D - TREINAMENTO DE INSTRUTOR AVSEC - LISTA DE FREQUÊNCIA → fragmentos/is/is-110-002b--apêndice-d-treinamento-de-instrutor-avse.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+- `(inteira)` — APÊNDICE E - FICHA DE AVALIAÇÃO DE TREINAMENTO DE INSTRUTOR AVSEC → fragmentos/is/is-110-002b--apêndice-e-ficha-de-avaliação-de-treinam.md
+- `(inteira)` → fragmentos/is/is-110-002b--apendice.md
+
+## is-110-11-001
+- `cabecalho` → fragmentos/is/is-110-11-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS visa estabelecer os critérios mínimos de condição física e → fragmentos/is/is-110-11-001--sec-1.1.md
+- `1.2` — Esta IS descreve procedimentos aceitos pela ANAC que garantem o cumprimento do → fragmentos/is/is-110-11-001--sec-1.2.md
+- `1.3` — Os procedimentos descritos nesta IS devem ser utilizados como referência pelos centros de → fragmentos/is/is-110-11-001--sec-1.3.md
+- `1.4` — Os meios ou procedimentos alternativos mencionados no parágrafo 1.3 devem garantir nível → fragmentos/is/is-110-11-001--sec-1.4.md
+- `3.1` — Lei nº 7.565, de 12 de dezembro de 1986, que dispõe sobre o Código Brasileiro de → fragmentos/is/is-110-11-001--sec-3.1.md
+- `3.2` — Lei nº 11.182, de 27 de setembro de 2005, que cria a Agência Nacional de Aviação Civil. → fragmentos/is/is-110-11-001--sec-3.2.md
+- `3.3` — Decreto nº 7.168, de 5 de maio de 2010, cujo Anexo dispõe sobre o Programa Nacional de → fragmentos/is/is-110-11-001--sec-3.3.md
+- `3.4` — Resolução nº 30, de 21 de maio de 2008, alterada pela Resolução nº 162, de 20 de julho de → fragmentos/is/is-110-11-001--sec-3.4.md
+- `3.5` — Resolução nº 361, de 16 de julho de 2015, que aprova o Regulamento Brasileiro de Aviação → fragmentos/is/is-110-11-001--sec-3.5.md
+- `3.6` — Instrução Normativa nº 15, de 20 de novembro de 2008, alterada pela Resolução nº 162, de 20 → fragmentos/is/is-110-11-001--sec-3.6.md
+- `3.7` — Portaria nº 5.148/SIA, de 7 de junho de 2021, que dispõe sobre os critérios para fins de → fragmentos/is/is-110-11-001--sec-3.7.md
+- `4.1` — Esta IS é aplicável ao processo de seleção e aos exames de saúde periódicos de profissionais → fragmentos/is/is-110-11-001--sec-4.1.md
+- `4.2` — Os parágrafos 6.1 e 6.4 previstos nesta IS são aplicáveis a todos os profissionais AVSEC. → fragmentos/is/is-110-11-001--sec-4.2.md
+- `4.3` — Os parágrafos 6.2 e 6.3 previstos nesta IS são aplicáveis aos profissionais certificados nos → fragmentos/is/is-110-11-001--sec-4.3.md
+- `4.4` — O parágrafo 6.2 previsto nesta IS é aplicável ao Instrutor de Inspeção de Segurança da → fragmentos/is/is-110-11-001--sec-4.4.md
+- `6.1` — Disposições Gerais → fragmentos/is/is-110-11-001--sec-6.1.md
+- `6.2` — Critérios Oftalmológicos → fragmentos/is/is-110-11-001--sec-6.2.md
+- `6.3` — Critérios Auditivos e Otorrinolaringológicos → fragmentos/is/is-110-11-001--sec-6.3.md
+- `6.4` — Critérios Mentais e Comportamentais → fragmentos/is/is-110-11-001--sec-6.4.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-110-11-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor no dia 1 de março de 2022. → fragmentos/is/is-110-11-001--sec-7.2.md
+
+## is-117-001
+- `cabecalho` → fragmentos/is/is-117-001--sec-cabecalho.md
+- `1` — Objetivo ............................................................................................................... → fragmentos/is/is-117-001--sec-1.md
+- `2` — Revogação .............................................................................................................. → fragmentos/is/is-117-001--sec-2.md
+- `3` — Fundamentos ............................................................................................................ → fragmentos/is/is-117-001--sec-3.md
+- `4` — Definições e Acrônimos ................................................................................................. → fragmentos/is/is-117-001--sec-4.md
+- `5` — Introdução.............................................................................................................. → fragmentos/is/is-117-001--sec-5.md
+- `6` — O que é fadiga. ........................................................................................................ → fragmentos/is/is-117-001--sec-6.md
+- `7` — Princípio científico 1. A necessidade de sono. ......................................................................... → fragmentos/is/is-117-001--sec-7.md
+- `8` — Princípio científico 2. A perda e a recuperação do sono. ..............................................................  → fragmentos/is/is-117-001--sec-8.md
+- `9` — Princípio científico 3. Os efeitos Circadianos no sono e no desempenho. .................................... 27 → fragmentos/is/is-117-001--sec-9.md
+- `10` — Princípio científico 4. A influência da carga de trabalho. → fragmentos/is/is-117-001--sec-10.md
+- `11` — Causas e consequências da fadiga. → fragmentos/is/is-117-001--sec-11.md
+- `12` — Sinais e sintomas da fadiga. → fragmentos/is/is-117-001--sec-12.md
+- `13` — Contramedidas individuais para combate à fadiga. → fragmentos/is/is-117-001--sec-13.md
+- `14` — Trabalho em turnos. → fragmentos/is/is-117-001--sec-14.md
+- `15` — Fadiga e acidentes. → fragmentos/is/is-117-001--sec-15.md
+- `16` — Leituras Recomendadas → fragmentos/is/is-117-001--sec-16.md
+- `17` — Níveis de Gerenciamento de Fadiga do RBAC nº 117 → fragmentos/is/is-117-001--sec-17.md
+- `18` — Apêndices → fragmentos/is/is-117-001--sec-18.md
+- `19` — Disposições finais → fragmentos/is/is-117-001--sec-19.md
+- `(inteira)` — Apêndice A. .................................................................... → fragmentos/is/is-117-001--apêndice-a.md
+- `(inteira)` → fragmentos/is/is-117-001--apendice.md
+- `19.1` — Os casos omissos serão dirimidos pelo Superintendente da SPO. → fragmentos/is/is-117-001--sec-19.1.md
+
+## is-117-001c
+- `cabecalho` → fragmentos/is/is-117-001c--sec-cabecalho.md
+- `01` — página 3 --- → fragmentos/is/is-117-001c--sec-01.md
+- `3` — : . <, → fragmentos/is/is-117-001c--sec-3.md
+- `5` — * auma discussão acerca dos horários esco- → fragmentos/is/is-117-001c--sec-5.md
+- `7` — O número de horas de sono → fragmentos/is/is-117-001c--sec-7.md
+- `8` — 5 7+ → fragmentos/is/is-117-001c--sec-8.md
+
+## is-117-003
+- `cabecalho` → fragmentos/is/is-117-003--sec-cabecalho.md
+- `1` — OBJETIVO ............................................................................................................... → fragmentos/is/is-117-003--sec-1.md
+- `2` — REVOGAÇÃO............................................................................................................... → fragmentos/is/is-117-003--sec-2.md
+- `3` — FUNDAMENTOS ............................................................................................................ → fragmentos/is/is-117-003--sec-3.md
+- `4` — DEFINIÇÕES, ACRÔNIMOS E REFERÊNCIAS .................................................................................... → fragmentos/is/is-117-003--sec-4.md
+- `5` — INTRODUÇÃO ............................................................................................................. → fragmentos/is/is-117-003--sec-5.md
+- `6` — OBRIGAÇÕES DOS OPERADORES GRF .......................................................................................... → fragmentos/is/is-117-003--sec-6.md
+- `7` — OBRIGAÇÕES INDIVIDUAIS DOS TRIPULANTES ................................................................................. → fragmentos/is/is-117-003--sec-7.md
+- `8` — NECESSIDADE DE IMPLANTAR UM SGRF PARA UM OPERADOR DO GRF. ............................................... 90 → fragmentos/is/is-117-003--sec-8.md
+- `9` — PROCEDIMENTOS DE CERTIFICAÇÃO .......................................................................................... → fragmentos/is/is-117-003--sec-9.md
+- `10` — DISPOSIÇÕES FINAIS...................................................................................................... → fragmentos/is/is-117-003--sec-10.md
+- `(inteira)` — APÊNDICE A CONTEÚDO DO MANUAL DO OPERADOR DE GRF................................ → fragmentos/is/is-117-003--apêndice-a-conteúdo-do-manual-do-operado.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — APÊNDICE B CONTEÚDO MÍNIMO DO CURRÍCULO DE TREINAMENTO INICIAL ................. → fragmentos/is/is-117-003--apêndice-b-conteúdo-mínimo-do-currículo.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — APÊNDICE C DETERMINAÇÃO DA ACLIMATAÇÃO ......................................... → fragmentos/is/is-117-003--apêndice-c-determinação-da-aclimatação.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — APÊNDICE D FERRAMENTA DE AUXÍLIO PARA AUTOAVALIAÇÃO DA FADIGA (FAPA) ........... → fragmentos/is/is-117-003--apêndice-d-ferramenta-de-auxílio-para-au.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — APÊNDICE E INFORMAÇÕES E DADOS OPERACIONAIS (DO) ............................... → fragmentos/is/is-117-003--apêndice-e-informações-e-dados-operacion.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — APÊNDICE F INDICADORES DE DESEMPENHO OPERACIONAL (IO)........................... → fragmentos/is/is-117-003--apêndice-f-indicadores-de-desempenho-ope.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — APÊNDICE G CONTROLE DE ALTERAÇÕES .............................................. → fragmentos/is/is-117-003--apêndice-g-controle-de-alterações.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — ANEXO A. EXEMPLOS DE REPORTE DE OCORRÊNCIA DE FADIGA ........................... → fragmentos/is/is-117-003--anexo-a-exemplos-de-reporte-de-ocorrênci.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `(inteira)` — ANEXO B.              EXEMPLO DE UM RELATÓRIO PERIÓDICO DE DADOS E DE INDICADORE → fragmentos/is/is-117-003--anexo-b-exemplo-de-um-relatório-periódic.md
+- `(inteira)` → fragmentos/is/is-117-003--apendice.md
+- `10.1` — Os casos omissos serão dirimidos pelo Superintendente da SPO. → fragmentos/is/is-117-003--sec-10.1.md
+
+## is-117-006a
+- `cabecalho` → fragmentos/is/is-117-006a--sec-cabecalho.md
+- `1` — OBJETIVO ............................................................................................................... → fragmentos/is/is-117-006a--sec-1.md
+- `2` — REVOGAÇÃO............................................................................................................... → fragmentos/is/is-117-006a--sec-2.md
+- `3` — FUNDAMENTOS ............................................................................................................ → fragmentos/is/is-117-006a--sec-3.md
+- `4` — DEFINIÇÕES, ACRÔNIMOS E REFERÊNCIAS .................................................................................... → fragmentos/is/is-117-006a--sec-4.md
+- `5` — INTRODUÇÃO ............................................................................................................. → fragmentos/is/is-117-006a--sec-5.md
+- `6` — OBRIGAÇÕES DOS DETENTORES DE CERTIFICADO QUE DESEJAREM OPERAR SEGUNDO UM GRF → fragmentos/is/is-117-006a--sec-6.md
+- `7` — OBRIGAÇÕES INDIVIDUAIS DOS TRIPULANTES ................................................................................. → fragmentos/is/is-117-006a--sec-7.md
+- `8` — PROCEDIMENTOS DE ACEITAÇÃO DE UM GRF SEGUNDO O APÊNDICE D DO RBAC nº 117 ................. 63 → fragmentos/is/is-117-006a--sec-8.md
+- `9` — DISPOSIÇÕES FINAIS...................................................................................................... → fragmentos/is/is-117-006a--sec-9.md
+- `(inteira)` — APÊNDICE A.                       CONTROLE DE ALTERAÇÕES ....................... → fragmentos/is/is-117-006a--apêndice-a-controle-de-alterações.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE B.                       CONTEÚDO DO MANUAL DO OPERADOR DE GRF. ....... → fragmentos/is/is-117-006a--apêndice-b-conteúdo-do-manual-do-operado.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE C.                       CONTEÚDO MÍNIMO DO CURRÍCULO DE TREINAMENTO IN → fragmentos/is/is-117-006a--apêndice-c-conteúdo-mínimo-do-currículo.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE D.                       FERRAMENTA DE AUXÍLIO PARA AUTOAVALIAÇÃO DA FA → fragmentos/is/is-117-006a--apêndice-d-ferramenta-de-auxílio-para-au.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE E.                       EXEMPLOS DE REPORTE DE OCORRÊNCIA DE FADIGA .. → fragmentos/is/is-117-006a--apêndice-e-exemplos-de-reporte-de-ocorrê.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `9.1` — Os casos omissos serão dirimidos pelo Superintendente da SPO. → fragmentos/is/is-117-006a--sec-9.1.md
+- `(inteira)` — APÊNDICE A. CONTROLE DE ALTERAÇÕES → fragmentos/is/is-117-006a--apêndice-a-controle-de-alterações.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE B. CONTEÚDO DO MANUAL DO OPERADOR DE GRF. → fragmentos/is/is-117-006a--apêndice-b-conteúdo-do-manual-do-operado.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE C. CONTEÚDO MÍNIMO DO CURRÍCULO DE TREINAMENTO INICIAL → fragmentos/is/is-117-006a--apêndice-c-conteúdo-mínimo-do-currículo.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE D. FERRAMENTA DE AUXÍLIO PARA AUTOAVALIAÇÃO DA FADIGA → fragmentos/is/is-117-006a--apêndice-d-ferramenta-de-auxílio-para-au.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+- `(inteira)` — APÊNDICE E. EXEMPLOS DE REPORTE DE OCORRÊNCIA DE FADIGA → fragmentos/is/is-117-006a--apêndice-e-exemplos-de-reporte-de-ocorrê.md
+- `(inteira)` → fragmentos/is/is-117-006a--apendice.md
+
+## is-117-007
+- `cabecalho` → fragmentos/is/is-117-007--sec-cabecalho.md
+- `1.1` — Orientar os operadores que conduzem suas operações sob o RBAC nº 91 que se → fragmentos/is/is-117-007--sec-1.1.md
+- `1.2` — Estabelecer os procedimentos aceitáveis para a autorização dos operadores privados que → fragmentos/is/is-117-007--sec-1.2.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-117-007--sec-2.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-117-007--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-117-007--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-117-007--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-117-007--sec-3.4.md
+- `3.5` — Nesta IS sempre que a palavra “deve” for utilizada, ela se refere a uma obrigação contida → fragmentos/is/is-117-007--sec-3.5.md
+- `3.6` — Nesta IS sempre que a expressão “não pode” for utilizada, ela se refere a uma proibição → fragmentos/is/is-117-007--sec-3.6.md
+- `4` — DEFINIÇÕES, ACRÔNIMOS E BIBLIOGRAFIA → fragmentos/is/is-117-007--sec-4.md
+- `4.1` — Acrônimos → fragmentos/is/is-117-007--sec-4.1.md
+- `4.2` — Definições → fragmentos/is/is-117-007--sec-4.2.md
+- `4.3` — Bibliografia → fragmentos/is/is-117-007--sec-4.3.md
+- `5.1` — Geral → fragmentos/is/is-117-007--sec-5.1.md
+- `6` — OBRIGAÇÕES DOS OPERADORES DO GRF → fragmentos/is/is-117-007--sec-6.md
+- `6.1` — Introdução → fragmentos/is/is-117-007--sec-6.1.md
+- `6.2` — Obrigações referentes à seção 117.19 → fragmentos/is/is-117-007--sec-6.2.md
+- `6.3` — Obrigações referentes à seção 117.65 → fragmentos/is/is-117-007--sec-6.3.md
+- `6.4` — Obrigações referentes ao Apêndice E do RBAC nº 117 → fragmentos/is/is-117-007--sec-6.4.md
+- `7` — OBRIGAÇÕES INDIVIDUAIS DOS TRIPULANTES → fragmentos/is/is-117-007--sec-7.md
+- `7.1` — Aptidão para o trabalho → fragmentos/is/is-117-007--sec-7.1.md
+- `7.2` — Informações do tripulante que devem ser repassadas ao operador → fragmentos/is/is-117-007--sec-7.2.md
+- `8` — NECESSIDADE DE IMPLANTAR UM SGRF PARA UM OPERADOR DO GRF. → fragmentos/is/is-117-007--sec-8.md
+- `8.1` — Sempre que um operador do GRF determinar a necessidade de alterar uma limitação → fragmentos/is/is-117-007--sec-8.1.md
+- `9` — PROCEDIMENTOS DE ACEITAÇÃO DE UM GRF SEGUNDO O APÊNDICE E → fragmentos/is/is-117-007--sec-9.md
+- `9.1` — Geral → fragmentos/is/is-117-007--sec-9.1.md
+- `9.2` — 2.     Podem submeter a solicitação de autorização, além do próprio operador, seus → fragmentos/is/is-117-007--sec-9.2.md
+- `9.3` — Suspensão de autorização para operar sob o Apêndice E → fragmentos/is/is-117-007--sec-9.3.md
+- `9.4` — Revogação da suspensão → fragmentos/is/is-117-007--sec-9.4.md
+- `9.5` — Revogação da autorização → fragmentos/is/is-117-007--sec-9.5.md
+- `9.6` — Modelos de formulários → fragmentos/is/is-117-007--sec-9.6.md
+- `10.1` — Os casos omissos serão dirimidos pelo Superintendente da SPO. → fragmentos/is/is-117-007--sec-10.1.md
+
+## is-119-002
+- `cabecalho` → fragmentos/is/is-119-002--sec-cabecalho.md
+- `1.1` — Este documento tem por objetivo oferecer ao detentor e/ou requerente de um → fragmentos/is/is-119-002--sec-1.1.md
+- `1.2` — Este documento foi estruturado considerando os requisitos estabelecidos no RBAC 119, → fragmentos/is/is-119-002--sec-1.2.md
+- `1.3` — Além disso, esta IS apresenta informações de como conduzir uma Análise do Faltante e → fragmentos/is/is-119-002--sec-1.3.md
+- `1.4` — Outro objetivo deste documento é orientar o detentor e/ou requerente de um certificado → fragmentos/is/is-119-002--sec-1.4.md
+- `1.5` — Este documento também estabelece parâmetros que permitem às empresas operando → fragmentos/is/is-119-002--sec-1.5.md
+- `1.6` — Este documento deve ser considerado apenas como uma orientação. Se houver alguma → fragmentos/is/is-119-002--sec-1.6.md
+- `2.1` — Esta IS revoga a IS 119 no 119-002 Revisão C, publicada pela Portaria ANAC no → fragmentos/is/is-119-002--sec-2.1.md
+- `2.2` — As alterações da Revisão D em relação à Revisão C desta IS são: → fragmentos/is/is-119-002--sec-2.2.md
+- `3` — FUNDAMENTOS → fragmentos/is/is-119-002--sec-3.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-119-002--sec-4.md
+- `5.1` — O Programa Brasileiro para a Segurança Operacional da Aviação Civil (PSO-BR) é o → fragmentos/is/is-119-002--sec-5.1.md
+- `5.2` — A partir do PSO-BR, a ANAC e o COMAER passaram a dispor de orientações → fragmentos/is/is-119-002--sec-5.2.md
+- `5.3` — As Superintendências da ANAC, como órgãos executivos da Agência, ficam → fragmentos/is/is-119-002--sec-5.3.md
+- `6` — O PROCESSO              DE    ACEITAÇÃO     DO    SGSO      DE    DETENTOR          DE → fragmentos/is/is-119-002--sec-6.md
+- `6.1` — O Sistema de Gerenciamento da Segurança Operacional (SGSO) é o principal elemento → fragmentos/is/is-119-002--sec-6.1.md
+- `6.2` — A Superintendência de Segurança Operacional (SSO), como parte importante desse → fragmentos/is/is-119-002--sec-6.2.md
+- `6.3` — Dentre os principais regulamentos editados estão os RBAC 119 - Certificação: → fragmentos/is/is-119-002--sec-6.3.md
+- `6.4` — Esses regulamentos, disponíveis no site da ANAC, definem que os detentores e/ou → fragmentos/is/is-119-002--sec-6.4.md
+- `6.5` — O gerenciamento da segurança operacional envolve uma mudança organizacional e → fragmentos/is/is-119-002--sec-6.5.md
+- `6.6` — Assim, o Manual de Gerenciamento da Segurança Operacional (MGSO) a ser → fragmentos/is/is-119-002--sec-6.6.md
+- `6.7` — A concepção proposta nos regulamentos é que, a cada fase estabelecida no Apêndice R → fragmentos/is/is-119-002--sec-6.7.md
+- `6.8` — Finalmente, os requerentes de um certificado de empresa de transporte aéreo posteriores → fragmentos/is/is-119-002--sec-6.8.md
+- `7.1` — A estrutura para o SGSO estabelecida pela ANAC está no Apêndice Q do RBAC 121 → fragmentos/is/is-119-002--sec-7.1.md
+- `7.2` — O Apêndice A apresenta um resumo do que deveria ser implantado em cada fase, → fragmentos/is/is-119-002--sec-7.2.md
+- `8` — O MANUAL DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL → fragmentos/is/is-119-002--sec-8.md
+- `8.1` — O Manual de Gerenciamento da Segurança Operacional (MGSO) elaborado pelo gestor → fragmentos/is/is-119-002--sec-8.1.md
+- `8.2` — O MGSO é parte integrante da documentação necessária à certificação de um detentor → fragmentos/is/is-119-002--sec-8.2.md
+- `8.3` — O conteúdo do MGSO deve apresentar os resultados dos estudos desenvolvidos e as → fragmentos/is/is-119-002--sec-8.3.md
+- `8.4` — Pode ser adotada outra estrutura ou forma de apresentar os resultados dos trabalhos → fragmentos/is/is-119-002--sec-8.4.md
+- `8.5` — O Apêndice B apresenta um exemplo de proposta para um Manual de Gerenciamento da → fragmentos/is/is-119-002--sec-8.5.md
+- `8.6` — O Apêndice C tem por objetivo apresentar um modelo de formulário onde o gestor → fragmentos/is/is-119-002--sec-8.6.md
+- `8.7` — O Apêndice D contém um modelo de termo de responsabilidade do detentor e/ou → fragmentos/is/is-119-002--sec-8.7.md
+- `8.8` — Quando se tratar de uma empresa certificada ou com processo de certificação já → fragmentos/is/is-119-002--sec-8.8.md
+- `9` — A ANÁLISE DO FALTANTE E O PLANO DE IMPLANTAÇÃO DO SGSO → fragmentos/is/is-119-002--sec-9.md
+- `9.1` — Ao iniciar a implantação do SGSO, o gestor responsável do detentor de certificado deve → fragmentos/is/is-119-002--sec-9.1.md
+- `9.2` — A identificação dos componentes/elementos existentes deve ser feita de forma clara → fragmentos/is/is-119-002--sec-9.2.md
+- `9.3` — Os estudos devem demonstrar a compatibilidade do existente em relação à política e aos → fragmentos/is/is-119-002--sec-9.3.md
+- `9.4` — O Apêndice E tem por objetivo auxiliar o gestor responsável do detentor do certificado → fragmentos/is/is-119-002--sec-9.4.md
+- `9.5` — A utilização do formulário apresentado não é de cumprimento obrigatório, mas servirá → fragmentos/is/is-119-002--sec-9.5.md
+- `9.6` — Caso o gestor responsável do detentor do certificado adote outro modelo, caberá à → fragmentos/is/is-119-002--sec-9.6.md
+- `9.7` — Cada questão foi idealizada para receber um "sim" ou um "não" como resposta. A → fragmentos/is/is-119-002--sec-9.7.md
+- `9.8` — A última coluna deve ser utilizada para inserir comentários a respeito do status de → fragmentos/is/is-119-002--sec-9.8.md
+- `9.9` — A avaliação dos resultados da Análise do Faltante (Apêndice E) permitirá que o gestor → fragmentos/is/is-119-002--sec-9.9.md
+- `9.10` — O Plano de Implantação do SGSO, parte integrante do MGSO, deve refletir a → fragmentos/is/is-119-002--sec-9.10.md
+- `9.11` — É importante considerar a alocação de um gestor por cada projeto, que ficará → fragmentos/is/is-119-002--sec-9.11.md
+- `9.12` — As situações que demandarem mudanças no planejamento aceito pela ANAC devem ser → fragmentos/is/is-119-002--sec-9.12.md
+- `10` — AS FASES DE IMPLANTAÇÃO DO SGSO → fragmentos/is/is-119-002--sec-10.md
+- `10.1` — A adoção de uma implantação do SGSO por fases, conforme previsto nos RBAC 135 ou → fragmentos/is/is-119-002--sec-10.1.md
+- `10.2` — Uma vez aprovado pelo Gestor Responsável pela empresa de transporte aéreo e → fragmentos/is/is-119-002--sec-10.2.md
+- `10.3` — Nesse sentido, a situação atual em relação aos requisitos dos regulamentos deveria ser → fragmentos/is/is-119-002--sec-10.3.md
+- `10.4` — O detentor e/ou requerente de um certificado deve apresentar, para cada fase a ser → fragmentos/is/is-119-002--sec-10.4.md
+- `10.5` — Em ambos os casos, o Gestor Responsável fica comprometido, em nome do detentor → fragmentos/is/is-119-002--sec-10.5.md
+- `10.6` — Ainda, o Gestor Responsável fica comprometido junto à ANAC de enviar os → fragmentos/is/is-119-002--sec-10.6.md
+- `10.7` — Por se tratar de um planejamento, é necessário que tanto o gestor responsável do → fragmentos/is/is-119-002--sec-10.7.md
+- `10.8` — Fase 1 - de 1º de maio de 2010 até 30 de abril de 2011 (RBAC 121) ou de 1º de → fragmentos/is/is-119-002--sec-10.8.md
+- `10.9` — Fase 2 - de 1º de maio de 2011 até 30 de abril de 2011 (RBAC 121) ou de 1º de → fragmentos/is/is-119-002--sec-10.9.md
+- `10.10` — Fase 3 - de 1º de maio de 2012 até 30 de abril de 2013 (RBAC 121) ou de 1º de → fragmentos/is/is-119-002--sec-10.10.md
+- `10.11` — Fase 4 - de 1º de maio de 2013 até 30 de abril de 2014 (RBAC 121) ou de 1º de → fragmentos/is/is-119-002--sec-10.11.md
+- `11.1` — A introdução dos novos requisitos e dos conceitos de gerenciamento dos riscos à → fragmentos/is/is-119-002--sec-11.1.md
+- `11.2` — A seleção dessa pessoa passa a ser fundamental para a garantia da segurança → fragmentos/is/is-119-002--sec-11.2.md
+- `11.3` — Os Apêndices H e I oferecem exemplos de fluxograma e uma série de perguntas em → fragmentos/is/is-119-002--sec-11.3.md
+- `11.4` — Uma vez selecionada a pessoa para o cargo, as perguntas colocadas ao final do → fragmentos/is/is-119-002--sec-11.4.md
+- `11.5` — No caso de o processo não resultar em uma seleção objetiva da pessoa a ser designada → fragmentos/is/is-119-002--sec-11.5.md
+- `11.6` — É importante destacar que existem requisitos para que uma pessoa seja o Gestor → fragmentos/is/is-119-002--sec-11.6.md
+- `12` — DIRETOR OU GERENTE DE SEGURANÇA OPERACIONAL → fragmentos/is/is-119-002--sec-12.md
+- `12.1` — Uma das primeiras responsabilidades do Gestor Responsável é a designação do pessoal → fragmentos/is/is-119-002--sec-12.1.md
+- `12.2` — A garantia, entretanto, do sucesso do SGSO está na identificação de uma pessoa que → fragmentos/is/is-119-002--sec-12.2.md
+- `12.3` — As principais responsabilidades associadas ao diretor ou gerente de segurança → fragmentos/is/is-119-002--sec-12.3.md
+- `12.4` — Essa pessoa deve ser empregada do detentor e/ou requerente de um certificado. A → fragmentos/is/is-119-002--sec-12.4.md
+- `12.5` — Para empresas que operam segundo o RBAC 135, os critérios acerca do acúmulo de → fragmentos/is/is-119-002--sec-12.5.md
+- `12.6` — O diretor ou gerente de segurança operacional não está acima de qualquer outro nível da → fragmentos/is/is-119-002--sec-12.6.md
+- `12.7` — O Apêndice J apresenta orientações suplementares acerca dos requisitos aplicáveis ao → fragmentos/is/is-119-002--sec-12.7.md
+- `13` — DETENTOR DE CERTIFICADO MÚLTIPLO → fragmentos/is/is-119-002--sec-13.md
+- `13.1` — As organizações que possuem mais de um certificado, como de empresa de transporte → fragmentos/is/is-119-002--sec-13.1.md
+- `13.2` — Isto não implica combinar ou juntar os requisitos de cada processo de certificação, → fragmentos/is/is-119-002--sec-13.2.md
+- `14.1` — Apêndice A – Componentes/elementos da estrutura do SGSO e as fases de implantação → fragmentos/is/is-119-002--sec-14.1.md
+- `14.2` — Apêndice B – MGSO RBAC 135 – Modelo. → fragmentos/is/is-119-002--sec-14.2.md
+- `14.3` — Apêndice C – Termo de aprovação e de aceitação – Exemplo. → fragmentos/is/is-119-002--sec-14.3.md
+- `14.4` — Apêndice D – Termo de responsabilidade do gestor responsável – Exemplo. → fragmentos/is/is-119-002--sec-14.4.md
+- `14.5` — Apêndice E – Análise do faltante para detentor de certificado pelo RBAC 135. → fragmentos/is/is-119-002--sec-14.5.md
+- `14.6` — Apêndice F – Cronograma de implantação do SGSO em um detentor de certificado – → fragmentos/is/is-119-002--sec-14.6.md
+- `14.7` — Apêndice G – Controle do Plano de Implantação do SGSO – Exemplo. → fragmentos/is/is-119-002--sec-14.7.md
+- `14.8` — Apêndice H – Fluxograma para a seleção do Gestor Responsável – Exemplo. → fragmentos/is/is-119-002--sec-14.8.md
+- `14.9` — Apêndice I – Lista de perguntas para a seleção do Gestor Responsável – Exemplo. → fragmentos/is/is-119-002--sec-14.9.md
+- `14.10` — Apêndice J – Qualificações e experiência do indicado ao cargo de Diretor ou Gerente de → fragmentos/is/is-119-002--sec-14.10.md
+- `14.11` — Apêndice K – Critério para aferição da complexidade do operador para os propósitos da → fragmentos/is/is-119-002--sec-14.11.md
+- `14.12` — Apêndice L – Acúmulo de cargos e compartilhamento entre empresas do Diretor ou → fragmentos/is/is-119-002--sec-14.12.md
+- `14.13` — Apêndice M – Método aceitável de cumprimento para o SGSO das empresas 135 → fragmentos/is/is-119-002--sec-14.13.md
+- `15.1` — O gestor responsável do detentor de certificado que não apresentar o MGSO até 30 de → fragmentos/is/is-119-002--sec-15.1.md
+- `15.2` — Desta forma, é aconselhável que o gestor responsável de um detentor e/ou requerente de → fragmentos/is/is-119-002--sec-15.2.md
+- `15.3` — O gestor responsável de um detentor do certificado que entregar sua documentação nos → fragmentos/is/is-119-002--sec-15.3.md
+- `15.4` — O gestor responsável de um detentor de certificado e/ou requerente de um certificado → fragmentos/is/is-119-002--sec-15.4.md
+- `15.5` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-119-002--sec-15.5.md
+- `15.6` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-119-002--sec-15.6.md
+- `(inteira)` — Apêndice H, conforme o caso, podendo fazê-lo de forma agregada ou detalhada. A f → fragmentos/is/is-119-002--apêndice-h-conforme-o-caso-podendo-fazê.md
+- `(inteira)` → fragmentos/is/is-119-002--apendice.md
+- `(inteira)` — Apêndice R ou I - Fases de implantação do sistema de gerenciamento da segurança  → fragmentos/is/is-119-002--apêndice-r-ou-i-fases-de-implantação-do.md
+- `(inteira)` → fragmentos/is/is-119-002--apendice.md
+- `016` — Documentação (preventivo e preditivo) → fragmentos/is/is-119-002--sec-016.md
+- `017` — Documentação (garantia e plano de emergência) → fragmentos/is/is-119-002--sec-017.md
+- `018` — 2.    Gerenciamento dos riscos à segurança operacional → fragmentos/is/is-119-002--sec-018.md
+- `019` — 2.1 Processos de identificação de perigos → fragmentos/is/is-119-002--sec-019.md
+- `023` — 2.2 Processos de avaliação e mitigação dos riscos → fragmentos/is/is-119-002--sec-023.md
+- `027` — 3.    Garantia da segurança operacional → fragmentos/is/is-119-002--sec-027.md
+- `028` — 3.1   Supervisão permanente e avaliação periódica do nível de → fragmentos/is/is-119-002--sec-028.md
+- `031` — 4.    Promoção da segurança operacional → fragmentos/is/is-119-002--sec-031.md
+- `037` — Garantia da Segurança Operacional → fragmentos/is/is-119-002--sec-037.md
+- `039` — 4.1   Divulgação do SGSO e da comunicação acerca da segurança → fragmentos/is/is-119-002--sec-039.md
+- `041` — Externa → fragmentos/is/is-119-002--sec-041.md
+
+## is-119-005
+- `cabecalho` → fragmentos/is/is-119-005--sec-cabecalho.md
+- `1.1` — Estabelecer meio de cumprimento aceitável dos requisitos relativos ao programa de degelo → fragmentos/is/is-119-005--sec-1.1.md
+- `1.2` — Detalhar políticas e procedimentos, a fim de padronizar o processo de aplicação e os → fragmentos/is/is-119-005--sec-1.2.md
+- `1.3` — Adicionalmente, são fornecidos meios aceitáveis para que o detentor de um certificado de → fragmentos/is/is-119-005--sec-1.3.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-119-005--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-119-005--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível → fragmentos/is/is-119-005--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-119-005--sec-3.4.md
+- `3.5` — O RBAC nº 121, em sua seção 121.629, estabelece os requisitos básicos de operações em → fragmentos/is/is-119-005--sec-3.5.md
+- `3.6` — O RBAC nº 135, por sua vez, referencia a seção 121.629 do RBAC nº 121 e o programa → fragmentos/is/is-119-005--sec-3.6.md
+- `3.7` — Esta IS se baseia na Advisory Circular - AC nº 120-60B do FAA, “Ground Deicing and Anti- → fragmentos/is/is-119-005--sec-3.7.md
+- `3.8` — Os apêndices desta IS, que contêm as tabelas HOT (Holdover Time Tables), têm como → fragmentos/is/is-119-005--sec-3.8.md
+- `4.1` — Conceito de aeronave limpa (clean aircraft concept) – quando durante as operações de → fragmentos/is/is-119-005--sec-4.1.md
+- `4.2` — Contaminantes de congelamento - para uso desta IS, contaminantes de congelamento → fragmentos/is/is-119-005--sec-4.2.md
+- `4.3` — Procedimento de antigelo - procedimento utilizado para fornecer proteção contra a → fragmentos/is/is-119-005--sec-4.3.md
+- `4.4` — Procedimento de degelo - procedimento utilizado para remover a geada, gelo, lama, ou → fragmentos/is/is-119-005--sec-4.4.md
+- `4.5` — Processo (de degelo/antigelo) de um passo – o fluído antigelo é usado para remover a → fragmentos/is/is-119-005--sec-4.5.md
+- `4.6` — Processo (de degelo/antigelo) de dois passos – este processo possui dois passos distintos. → fragmentos/is/is-119-005--sec-4.6.md
+- `4.7` — Tempo de atuação (Holdover time - HOT) - o tempo estimado que o fluido de → fragmentos/is/is-119-005--sec-4.7.md
+- `4.8` — Verificação pré-decolagem - uma verificação das asas e de outras superfícies sensíveis do → fragmentos/is/is-119-005--sec-4.8.md
+- `4.9` — Verificação de contaminação pré-decolagem - verificação para assegurar que asas, → fragmentos/is/is-119-005--sec-4.9.md
+- `4.10` — Verificação de pós-degelo/antigelo - verificação multi-parte (pós degelo, antes do antigelo → fragmentos/is/is-119-005--sec-4.10.md
+- `5.1` — Publicações do Governo dos Estados Unidos da América (EUA): → fragmentos/is/is-119-005--sec-5.1.md
+- `5.2` — Publicações do Governo do Canadá: → fragmentos/is/is-119-005--sec-5.2.md
+- `5.3` — Publicações da Sociedade de Engenheiros Automotivos – Society of Automotive → fragmentos/is/is-119-005--sec-5.3.md
+- `5.4` — Publicações da Organização de Padrões Internacionais – International Standards → fragmentos/is/is-119-005--sec-5.4.md
+- `5.5` — Publicações da Associação de Linhas Aéreas Europeias – Association of European → fragmentos/is/is-119-005--sec-5.5.md
+- `5.6` — Publicações da Organização de Aviação Civil Internacional (OACI): → fragmentos/is/is-119-005--sec-5.6.md
+- `6.1` — Além de uma lista de páginas efetivas, de procedimentos que incluam a sistemática de → fragmentos/is/is-119-005--sec-6.1.md
+- `7` — ESPECIFICIDADES RELACIONADAS AO RBAC Nº 135 → fragmentos/is/is-119-005--sec-7.md
+- `7.1` — O objetivo desta seção é alertar sobre especificidades relacionadas ao cumprimento dos → fragmentos/is/is-119-005--sec-7.1.md
+- `7.2` — Algumas superfícies e sistemas são listadas no parágrafo 135.227(a) do RBAC nº 135 como → fragmentos/is/is-119-005--sec-7.2.md
+- `7.3` — A seção 135.227 do RBAC nº 135 relaciona algumas situações específicas, devido aos → fragmentos/is/is-119-005--sec-7.3.md
+- `7.4` — Já o parágrafo 135.227(e) do RBAC nº 135 informa que “exceto para um avião que possua → fragmentos/is/is-119-005--sec-7.4.md
+- `7.5` — O parágrafo 135.227(d) do RBAC nº 135 informa que “nenhum piloto pode operar um → fragmentos/is/is-119-005--sec-7.5.md
+- `7.6` — Com relação a treinamento, o parágrafo 135.227(b) do RBAC nº 135 informa que “nenhum → fragmentos/is/is-119-005--sec-7.6.md
+- `8` — ORIENTAÇÕES GERAIS SOBRE O PROCESSO → fragmentos/is/is-119-005--sec-8.md
+- `8.1` — A fim de iniciar o processo de aprovação de programa de degelo/antigelo, deve ser → fragmentos/is/is-119-005--sec-8.1.md
+- `8.2` — Deve ser apresentado, juntamente ao processo, uma lista de verificação para apresentação → fragmentos/is/is-119-005--sec-8.2.md
+- `8.3` — Todos os documentos devem ser apresentados em formato eletrônico. → fragmentos/is/is-119-005--sec-8.3.md
+- `9` — OPERAÇÕES SEM UM PROGRAMA APROVADO DE DEGELO/ANTIGELO → fragmentos/is/is-119-005--sec-9.md
+- `9.1` — De acordo com o parágrafo 121.629(d) do RBAC nº 121, um detentor de certificado pode → fragmentos/is/is-119-005--sec-9.1.md
+- `9.2` — No caso de operações segundo o RBAC nº 135, as alternativas estão previstas nos parágrafos → fragmentos/is/is-119-005--sec-9.2.md
+- `10` — APÊNDICES → fragmentos/is/is-119-005--sec-10.md
+- `11.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-119-005--sec-11.1.md
+- `11.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-119-005--sec-11.2.md
+- `(inteira)` — APÊNDICE E – FORMULÁRIO DE DEGELO/ANTIGELO PARA A ESTAÇÃO DE LINHA (STATION DEIC → fragmentos/is/is-119-005--apêndice-e-formulário-de-degelo-antigelo.md
+- `(inteira)` → fragmentos/is/is-119-005--apendice.md
+
+## is-119-007
+- `cabecalho` → fragmentos/is/is-119-007--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-119-007--sec-1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-119-007--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-119-007--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-119-007--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-119-007--sec-3.4.md
+- `3.5` — Esta IS estabelece meios aceitáveis de cumprimento para as seções 121.574 do RBAC nº → fragmentos/is/is-119-007--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições previstas nos RBAC nº 01, 121 e 135 e → fragmentos/is/is-119-007--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-119-007--sec-5.1.md
+- `5.2` — Critério de aceitação de POC → fragmentos/is/is-119-007--sec-5.2.md
+- `5.3` — Preparação do passageiro pré-voo → fragmentos/is/is-119-007--sec-5.3.md
+- `5.4` — Bateria → fragmentos/is/is-119-007--sec-5.4.md
+- `5.5` — Formas de transporte do POC → fragmentos/is/is-119-007--sec-5.5.md
+- `5.6` — Considerações sobre a localização e armazenamento do POC → fragmentos/is/is-119-007--sec-5.6.md
+- `5.7` — Restrições de assento para passageiros que possam vir a usar POC a bordo da → fragmentos/is/is-119-007--sec-5.7.md
+- `5.8` — Uso de POC durante despressurização da cabine → fragmentos/is/is-119-007--sec-5.8.md
+- `5.9` — Uso de fonte de energia elétrica da aeronave para o POC → fragmentos/is/is-119-007--sec-5.9.md
+- `5.10` — Emissões de radiofrequência → fragmentos/is/is-119-007--sec-5.10.md
+- `6` — APÊNDICES → fragmentos/is/is-119-007--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-119-007--sec-7.1.md
+- `7.2` — Os operadores aéreos devem protocolar revisões de seus manuais, em atendimento ao → fragmentos/is/is-119-007--sec-7.2.md
+- `7.3` — Esta IS entra em vigor em 1º de maio de 2021. → fragmentos/is/is-119-007--sec-7.3.md
+- `(inteira)` — APÊNDICE B – LISTA DE POC DISPENSADOS DE ETIQUETA DE ADEQUAÇÃO PARA → fragmentos/is/is-119-007--apêndice-b-lista-de-poc-dispensados-de-e.md
+- `(inteira)` → fragmentos/is/is-119-007--apendice.md
+
+## is-119-008
+- `cabecalho` → fragmentos/is/is-119-008--sec-cabecalho.md
+- `1.1` — Apresentar os procedimentos para a implementação de um Programa de Acompanhamento e → fragmentos/is/is-119-008--sec-1.1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu Art. 14, a Instrução Suplementar - IS, → fragmentos/is/is-119-008--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito → fragmentos/is/is-119-008--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível de → fragmentos/is/is-119-008--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-119-008--sec-3.4.md
+- `3.5` — Esta IS apresenta meios aceitáveis de cumprimento para os seguintes requisitos: 121.1221(a) e → fragmentos/is/is-119-008--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01, RBAC nº 91, RBAC → fragmentos/is/is-119-008--sec-4.1.md
+- `4.2` — Lista de abreviaturas (em ordem alfabética): → fragmentos/is/is-119-008--sec-4.2.md
+- `5.1` — APLICABILIDADE → fragmentos/is/is-119-008--sec-5.1.md
+- `5.2` — ESTRUTURA DO PAADV → fragmentos/is/is-119-008--sec-5.2.md
+- `5.3` — PROGRAMA DE ACOMPANHAMENTO E ANÁLISE DE DADOS DE VOO (PAADV) → fragmentos/is/is-119-008--sec-5.3.md
+- `5.4` — PRÉ-REQUISITOS PARA UM PAADV EFETIVO → fragmentos/is/is-119-008--sec-5.4.md
+- `5.5` — PROTEÇÃO DOS DADOS DO PAADV → fragmentos/is/is-119-008--sec-5.5.md
+- `5.6` — ESTRUTURA E FLUXO DE TRABALHO DO PAADV → fragmentos/is/is-119-008--sec-5.6.md
+- `5.7` — CONTATO COM A TRIPULAÇÃO → fragmentos/is/is-119-008--sec-5.7.md
+- `5.8` — COMITÊ DE CASOS EGRÉGIOS E ACESSO A INFORMAÇÕES CONFIDENCIAIS → fragmentos/is/is-119-008--sec-5.8.md
+- `5.9` — TERCEIRIZAÇÃO DO PROGRAMA → fragmentos/is/is-119-008--sec-5.9.md
+- `6.1` — Apêndice A - Controle de alterações. → fragmentos/is/is-119-008--sec-6.1.md
+- `7.1` — Um Programa de Acompanhamento e Análise de Dados de Voo (PAADV) já estabelecido e em → fragmentos/is/is-119-008--sec-7.1.md
+- `7.2` — Após a data de vigência desta Instrução Suplementar, os novos PAADV deverão ser → fragmentos/is/is-119-008--sec-7.2.md
+- `7.3` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-119-008--sec-7.3.md
+
+## is-119-009
+- `cabecalho` → fragmentos/is/is-119-009--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar tem por objetivo apresentar os procedimentos a serem adotados para a realização do voo de → fragmentos/is/is-119-009--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar — IS, norma suplementar de ca → fragmentos/is/is-119-009--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito previsto em RBAC ou RBHA, → fragmentos/is/is-119-009--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível de segurança igual ou superi → fragmentos/is/is-119-009--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro ato normativo. → fragmentos/is/is-119-009--sec-3.4.md
+- `3.5` — Esta IS é fundamentada e objetiva oferecer método de cumprimento para a realização do Voo de Avaliação Operacional → fragmentos/is/is-119-009--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01 e as seguintes definições: → fragmentos/is/is-119-009--sec-4.1.md
+- `4.2` — Lista de siglas (em ordem alfabética) → fragmentos/is/is-119-009--sec-4.2.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-119-009--sec-5.1.md
+- `5.2` — Voo de Avaliação → fragmentos/is/is-119-009--sec-5.2.md
+- `5.3` — 4.4 Recomenda-se que o operador preveja a necessidade de acionamento de pessoal e de recursos para lidar com diferentes → fragmentos/is/is-119-009--sec-5.3.md
+- `5.4` — Solicitação → fragmentos/is/is-119-009--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-119-009--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-119-009--sec-7.1.md
+
+## is-120-002
+- `cabecalho` → fragmentos/is/is-120-002--sec-cabecalho.md
+- `1.1` — A presente Instrução Suplementar visa constituir-se como um guia de referência para o de- → fragmentos/is/is-120-002--sec-1.1.md
+- `2.1` — Esta IS revoga a IS Nº 120-002 Revisão C. → fragmentos/is/is-120-002--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-120-002--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requi- → fragmentos/is/is-120-002--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível → fragmentos/is/is-120-002--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-120-002--sec-3.4.md
+- `4.1` — No escopo da presente Instrução Suplementar, são válidas todas as definições contidas no → fragmentos/is/is-120-002--sec-4.1.md
+- `5.1` — A presente Instrução Suplementar traz esclarecimentos e orientações sobre os requisitos ex- → fragmentos/is/is-120-002--sec-5.1.md
+- `5.2` — Com o formato de um guia de referência de caráter orientativo, as empresas não devem → fragmentos/is/is-120-002--sec-5.2.md
+- `5.3` — Sugestões, comentários e dúvidas podem ser encaminhados à Técnica de Normas Operacio- → fragmentos/is/is-120-002--sec-5.3.md
+- `6.1` — O Manual do PPSP (descrito em maiores detalhes na Seção 10 desta IS) deve conter a Polí- → fragmentos/is/is-120-002--sec-6.1.md
+- `6.2` — Seu conteúdo deve preferencialmente incluir o entendimento de que os transtornos decor- → fragmentos/is/is-120-002--sec-6.2.md
+- `6.3` — A política da empresa deve ser desenvolvida em conjunto com os empregados e/ou seus → fragmentos/is/is-120-002--sec-6.3.md
+- `6.4` — A alta direção da empresa deve estar envolvida e declarar compromisso com a implantação → fragmentos/is/is-120-002--sec-6.4.md
+- `6.5` — Os procedimentos descritos na Política devem garantir confidencialidade e sigilo para todas → fragmentos/is/is-120-002--sec-6.5.md
+- `6.6` — Pode fazer parte da Política da empresa seu entendimento a respeito da dependência de subs- → fragmentos/is/is-120-002--sec-6.6.md
+- `6.7` — A Política da empresa poderá, portanto, descrever os problemas relacionados ao uso inde- → fragmentos/is/is-120-002--sec-6.7.md
+- `6.8` — A política da empresa pode declarar compromisso com a reabilitação e reinserção nas ativi- → fragmentos/is/is-120-002--sec-6.8.md
+- `6.9` — A empresa deve requerer ao indivíduo empregado em atividade ARSO ou a ser contratado → fragmentos/is/is-120-002--sec-6.9.md
+- `6.10` — Em sua Política a empresa pode estimular o entendimento de que os ETSP objetivam atender → fragmentos/is/is-120-002--sec-6.10.md
+- `6.11` — Procedimentos: todos os procedimentos requeridos no âmbito do RBAC nº 120 devem estar → fragmentos/is/is-120-002--sec-6.11.md
+- `6.12` — Revisão: O Manual do programa deve ser revisto sempre que necessário para sua melhoria → fragmentos/is/is-120-002--sec-6.12.md
+- `6.13` — Exemplos de textos de Políticas podem ser encontrados no DOC 9654 - Anexo B. → fragmentos/is/is-120-002--sec-6.13.md
+- `6.14` — Política para medicamentos → fragmentos/is/is-120-002--sec-6.14.md
+- `7` — SUBPROGRAMA DE EDUCAÇÃO PARA A PREVENÇÃO → fragmentos/is/is-120-002--sec-7.md
+- `7.1` — Recomenda-se que seja o ESP ou profissional com formação equivalente o responsável final → fragmentos/is/is-120-002--sec-7.1.md
+- `7.2` — Para compor o treinamento dos empregados ARSO e dos supervisores treinados para enca- → fragmentos/is/is-120-002--sec-7.2.md
+- `7.3` — Treinamento de empregados ARSO: → fragmentos/is/is-120-002--sec-7.3.md
+- `7.4` — Treinamento de Supervisores: → fragmentos/is/is-120-002--sec-7.4.md
+- `8` — SUBPROGRAMA DE EXAMES TOXICOLÓGICOS DE SUBSTÂNCIAS PSICOA- → fragmentos/is/is-120-002--sec-8.md
+- `8.1` — Quaisquer ações referentes a exames toxicológicos requeridas pelo programa, incluindo a → fragmentos/is/is-120-002--sec-8.1.md
+- `8.2` — Acesso aos resultados do exame. O empregado deverá ter acesso aos resultados dos exames → fragmentos/is/is-120-002--sec-8.2.md
+- `8.3` — Recomendações gerais para o procedimento de coleta: → fragmentos/is/is-120-002--sec-8.3.md
+- `8.4` — Sobre a recusa: → fragmentos/is/is-120-002--sec-8.4.md
+- `8.5` — Deve ser mantido um livro de registro no local de coleta. Nele deverão constar determinadas → fragmentos/is/is-120-002--sec-8.5.md
+- `8.6` — Quando do registro da coleta no livro de registro, deve-se preencher também o formulário → fragmentos/is/is-120-002--sec-8.6.md
+- `8.7` — Se um empregado não comparecer para a doação de amostra em determinado intervalo de → fragmentos/is/is-120-002--sec-8.7.md
+- `8.8` — Coleta de ar expirado para exame de alcoolemia → fragmentos/is/is-120-002--sec-8.8.md
+- `8.9` — Coleta de urina e fluido oral → fragmentos/is/is-120-002--sec-8.9.md
+- `8.10` — Análise laboratorial → fragmentos/is/is-120-002--sec-8.10.md
+- `8.11` — Médico Revisor (MR) → fragmentos/is/is-120-002--sec-8.11.md
+- `8.12` — ETSP baseado em suspeita justificada. → fragmentos/is/is-120-002--sec-8.12.md
+- `8.13` — ETSP pós-acidente → fragmentos/is/is-120-002--sec-8.13.md
+- `9` — SUBPROGRAMA DE RESPOSTA A EVENTO IMPEDITIVO → fragmentos/is/is-120-002--sec-9.md
+- `9.1` — Especialista em transtornos decorrentes do uso de substâncias psicoativas (ESP): → fragmentos/is/is-120-002--sec-9.1.md
+- `10` — MANUAL PPSP E DECLARAÇÃO DE CONFORMIDADE → fragmentos/is/is-120-002--sec-10.md
+- `10.1` — Todo regulado que se enquadre na aplicabilidade do RBAC 120 deverá desenvolver um Ma- → fragmentos/is/is-120-002--sec-10.1.md
+- `10.2` — O Manual deve incluir a Política da empresa para o tema, descrever e atribuir as responsa- → fragmentos/is/is-120-002--sec-10.2.md
+- `10.3` — A Declaração de Conformidade é uma listagem completa de todas as seções e requisitos dos → fragmentos/is/is-120-002--sec-10.3.md
+- `10.4` — O Manual e a Declaração de Conformidade devem ser assinados pela alta direção da orga- → fragmentos/is/is-120-002--sec-10.4.md
+- `10.5` — Um modelo sugerido de Declaração de Conformidade específica para o RBAC 120 - Emenda → fragmentos/is/is-120-002--sec-10.5.md
+- `11.1` — Regulamento Brasileiro da Aviação Civil nº 120 (RBAC nº 120); → fragmentos/is/is-120-002--sec-11.1.md
+- `11.2` — Lei Federal nº 11.182, de 27 de setembro de 2005, Art. 8º, inciso XII; → fragmentos/is/is-120-002--sec-11.2.md
+- `11.3` — Classificação de Transtornos Mentais e de Comportamento da CID-10: Descrições Clínicas → fragmentos/is/is-120-002--sec-11.3.md
+- `11.4` — DOC 9654-AN/945. Manual on prevention of problematic use of substances in the aviation → fragmentos/is/is-120-002--sec-11.4.md
+- `11.5` — DOC 8984. Manual of Civil Aviation Medicine. International Civil Aviation Organization, → fragmentos/is/is-120-002--sec-11.5.md
+- `11.6` — Management of alcohol- and drug-related issues in the workplace. An ILO code of practice, → fragmentos/is/is-120-002--sec-11.6.md
+- `11.7` — Coming clean: Drug and alcohol testing in the workplace. In: World of Work Magazine → fragmentos/is/is-120-002--sec-11.7.md
+- `11.8` — Title 49: Transportation - Part 40: Procedures for transportation workplace drug and alco- → fragmentos/is/is-120-002--sec-11.8.md
+- `11.9` — Department of Health and Human Services – HHS. Mandatory Guidelines for Federal → fragmentos/is/is-120-002--sec-11.9.md
+- `11.10` — Department of Health Services – HHS. Mandatory Guidelines for Federal Workplace Drug → fragmentos/is/is-120-002--sec-11.10.md
+- `11.11` — Relatório de recomendações e requisitos de saúde e segurança para Programas de Prevenção → fragmentos/is/is-120-002--sec-11.11.md
+- `12` — APÊNDICE → fragmentos/is/is-120-002--sec-12.md
+- `13.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-120-002--sec-13.1.md
+
+## is-120-017
+- `cabecalho` → fragmentos/is/is-120-017--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar apresenta orientações para desenvolver e manter um programa → fragmentos/is/is-120-017--sec-1.1.md
+- `1.2` — Esta IS é aplicável a operadores aéreos operando conforme o RBAC nº 121 e RBAC nº → fragmentos/is/is-120-017--sec-1.2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-120-017--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-120-017--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b) desta IS deve garantir → fragmentos/is/is-120-017--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-120-017--sec-3.4.md
+- `3.5` — Esta IS é fundamentada e objetiva oferecer método de cumprimento aos parágrafos: → fragmentos/is/is-120-017--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº 01 e → fragmentos/is/is-120-017--sec-4.1.md
+- `5.1` — O programa de confiabilidade é o padrão do operador para determinar limitações de tempo → fragmentos/is/is-120-017--sec-5.1.md
+- `5.2` — Histórico → fragmentos/is/is-120-017--sec-5.2.md
+- `6` — AVALIAÇÃO E REVISÃO DO PROGRAMA DE CONFIABILIDADE → fragmentos/is/is-120-017--sec-6.md
+- `6.1` — Criação do programa e revisões → fragmentos/is/is-120-017--sec-6.1.md
+- `6.2` — Outros requisitos regulamentares. A Anac estabelece a previsão de que operadores → fragmentos/is/is-120-017--sec-6.2.md
+- `6.3` — Apresentação do programa de confiabilidade. O programa de confiabilidade inicial deve → fragmentos/is/is-120-017--sec-6.3.md
+- `6.4` — Avaliação contínua. Como parte de um Sistema de Análise e Supervisão Continuada → fragmentos/is/is-120-017--sec-6.4.md
+- `7.1` — Identificação de fontes de dados. Um operador deve identificar fontes de dados para as → fragmentos/is/is-120-017--sec-7.1.md
+- `7.2` — Identificação de tipos de dados. O sistema de coleta de dados deve incluir a identificação → fragmentos/is/is-120-017--sec-7.2.md
+- `7.3` — Qualidade de dados → fragmentos/is/is-120-017--sec-7.3.md
+- `8` — SISTEMA DE PADRÕES DE DESEMPENHO → fragmentos/is/is-120-017--sec-8.md
+- `8.1` — Identificação de padrões de desempenho. Um padrão de desempenho é expresso → fragmentos/is/is-120-017--sec-8.1.md
+- `8.2` — Técnicas para determinar desvios dos padrões. Um operador pode escolher utilizar uma → fragmentos/is/is-120-017--sec-8.2.md
+- `8.3` — Solicitações decorrentes de padrões não relacionados a desempenho. O operador pode → fragmentos/is/is-120-017--sec-8.3.md
+- `9.1` — Análise de causa-raiz de variações dos padrões de desempenho. O operador deve → fragmentos/is/is-120-017--sec-9.1.md
+- `9.2` — Técnicas e ferramentas. Exemplos de técnicas analíticas e ferramentas que podem ser → fragmentos/is/is-120-017--sec-9.2.md
+- `9.3` — Análise de eficácia de tarefa. O operador deve realizar análises rotineiramente, de forma → fragmentos/is/is-120-017--sec-9.3.md
+- `9.4` — Recomendações. Espera-se que o operador investigue e desenvolva recomendações → fragmentos/is/is-120-017--sec-9.4.md
+- `10` — ALTERAÇÕES NA PROGRAMAÇÃO DE MANUTENÇÃO – APROVAÇÃO → fragmentos/is/is-120-017--sec-10.md
+- `10.1` — Processo de aprovação. Em adição aos dados de comprovação apropriados, o processo de → fragmentos/is/is-120-017--sec-10.1.md
+- `10.2` — Implementação. O processo deve resultar num plano coerente para se implementar as → fragmentos/is/is-120-017--sec-10.2.md
+- `11` — FORMATO DE RELATÓRIOS E EXIBIÇÃO → fragmentos/is/is-120-017--sec-11.md
+- `11.1` — Geral. Todos os programas irão requerer meios de exibição e relatórios resumidos dos → fragmentos/is/is-120-017--sec-11.1.md
+- `12.2` — Apêndice B – Ajustes em tarefa/intervalo – diagrama de alto nível. → fragmentos/is/is-120-017--sec-12.2.md
+- `12.3` — Apêndice C – Tarefas Failure Effect Category (FEC) 5 e 8. → fragmentos/is/is-120-017--sec-12.3.md
+- `12.4` — Apêndice D – Tarefas Failure Effect Category (FEC) 6/7/9. → fragmentos/is/is-120-017--sec-12.4.md
+- `12.5` — Apêndice E – Tarefas de lubrificação/filtro. → fragmentos/is/is-120-017--sec-12.5.md
+- `12.6` — Apêndice F – Procedimento de análise Zonal/Enhanced Zonal (EZAP). → fragmentos/is/is-120-017--sec-12.6.md
+- `12.8` — Apêndice H – Tarefas Lightning/High Intensity Radiated Fields (L/HIRF). → fragmentos/is/is-120-017--sec-12.8.md
+- `12.9` — Apêndice I – Programas do operador e aparência. → fragmentos/is/is-120-017--sec-12.9.md
+- `12.10` — Apêndice J – Requisitos de fonte regulatória. → fragmentos/is/is-120-017--sec-12.10.md
+- `12.11` — Apêndice K – Lista de reduções. → fragmentos/is/is-120-017--sec-12.11.md
+- `13.1` — Casos omissos serão dirimidos pela Anac. → fragmentos/is/is-120-017--sec-13.1.md
+
+## is-121-003
+- `cabecalho` → fragmentos/is/is-121-003--sec-cabecalho.md
+- `1.1` — Oferecer a uma organização que opere ou pretenda operar de acordo com o RBAC nº 121 em → fragmentos/is/is-121-003--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar – IS, → fragmentos/is/is-121-003--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito → fragmentos/is/is-121-003--sec-3.2.md
+- `3.3` — Esta IS relaciona-se com os seguintes regulamentos: → fragmentos/is/is-121-003--sec-3.3.md
+- `3.4` — Esta IS apresenta meios aceitáveis de cumprimento para o parágrafo 121.135(b)(27) do RBAC nº → fragmentos/is/is-121-003--sec-3.4.md
+- `4.1` — Para os fins desta IS, as seguintes definições e termos são fornecidos: → fragmentos/is/is-121-003--sec-4.1.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-121-003--sec-5.1.md
+- `5.2` — Introdução → fragmentos/is/is-121-003--sec-5.2.md
+- `5.3` — Determinando quando os procedimentos necessitam ser projetados ou modificados → fragmentos/is/is-121-003--sec-5.3.md
+- `5.4` — Criando um processo de desenvolvimento de procedimento → fragmentos/is/is-121-003--sec-5.4.md
+- `5.5` — Elaboração de procedimentos → fragmentos/is/is-121-003--sec-5.5.md
+- `5.6` — Desenvolvimento de listas de verificação → fragmentos/is/is-121-003--sec-5.6.md
+- `5.7` — O piloto monitorando (PM) → fragmentos/is/is-121-003--sec-5.7.md
+- `6` — APÊNDICES → fragmentos/is/is-121-003--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-121-003--sec-7.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-121-003--sec-7.1.md
+
+## is-121-004
+- `cabecalho` → fragmentos/is/is-121-004--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-121-004--sec-1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-121-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-121-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-121-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-121-004--sec-3.4.md
+- `3.5` — Esta IS apresenta um meio aceitável de cumprimento à seção 121.141 do RBAC nº 121. → fragmentos/is/is-121-004--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições previstas nos RBAC nº 01 e 121 e as → fragmentos/is/is-121-004--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-121-004--sec-5.1.md
+- `5.2` — Conteúdo do manual → fragmentos/is/is-121-004--sec-5.2.md
+- `5.3` — Processo de aceitação do manual → fragmentos/is/is-121-004--sec-5.3.md
+- `5.4` — Uso do manual pelo operador → fragmentos/is/is-121-004--sec-5.4.md
+- `5.5` — Ajuda de Trabalho → fragmentos/is/is-121-004--sec-5.5.md
+- `6` — APÊNDICES → fragmentos/is/is-121-004--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-121-004--sec-7.1.md
+- `7.2` — Todos os detentores de certificado para operações segundo o RBAC nº 121 devem revisar → fragmentos/is/is-121-004--sec-7.2.md
+
+## is-121-008
+- `cabecalho` → fragmentos/is/is-121-008--sec-cabecalho.md
+- `1.1` — Orientar as empresas aéreas regidas pelo RBAC nº 121 nos processos específicos de → fragmentos/is/is-121-008--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-121-008--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-121-008--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-121-008--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-121-008--sec-3.4.md
+- `3.5` — O Regulamento Brasileiro de Aviação Civil (RBAC) nº 121, em sua subparte N, seção → fragmentos/is/is-121-008--sec-3.5.md
+- `4.1` — As definições utilizadas nesta IS sobre os programas de treinamento são consistentes com → fragmentos/is/is-121-008--sec-4.1.md
+- `4.2` — Ainda para os efeitos desta IS, são válidas as seguintes siglas: → fragmentos/is/is-121-008--sec-4.2.md
+- `5` — CURRÍCULOS DO PROGRAMA DE TREINAMENTO OPERACIONAL PARA → fragmentos/is/is-121-008--sec-5.md
+- `5.1` — Procedimentos Gerais. → fragmentos/is/is-121-008--sec-5.1.md
+- `5.2` — Programa específico para treinamento de Despachantes Operacionais de Voo. → fragmentos/is/is-121-008--sec-5.2.md
+- `5.3` — Segmento de currículo: Doutrinamento básico (Categoria Inicial de Nova Contratação) → fragmentos/is/is-121-008--sec-5.3.md
+- `5.4` — Segmento de currículo: Solo (Categorias Inicial de Nova Contratação, Inicial de → fragmentos/is/is-121-008--sec-5.4.md
+- `5.5` — Segmento de currículo: Qualificação. → fragmentos/is/is-121-008--sec-5.5.md
+- `5.6` — Currículo de treinamento: Periódico. → fragmentos/is/is-121-008--sec-5.6.md
+- `5.7` — Currículo de treinamento: Requalificação. → fragmentos/is/is-121-008--sec-5.7.md
+- `5.8` — Instrutores DOV → fragmentos/is/is-121-008--sec-5.8.md
+- `5.9` — Examinadores Credenciados DOV → fragmentos/is/is-121-008--sec-5.9.md
+- `6` — APÊNDICES → fragmentos/is/is-121-008--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-121-008--sec-7.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-121-008--sec-7.1.md
+- `7.2` — Esta IS entra em vigor em 26 de março de 2018. → fragmentos/is/is-121-008--sec-7.2.md
+- `(inteira)` — APÊNDICE B – AJUDA DE TRABALHO PARA IDENTIFICAÇÃO DAS CATEGORIAS E → fragmentos/is/is-121-008--apêndice-b-ajuda-de-trabalho-para-identi.md
+- `(inteira)` → fragmentos/is/is-121-008--apendice.md
+
+## is-121-009
+- `cabecalho` → fragmentos/is/is-121-009--sec-cabecalho.md
+- `1.1` — Estabelecer conteúdo aceitável dos conjuntos de sobrevivência para operações sobre grandes → fragmentos/is/is-121-009--sec-1.1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-121-009--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-121-009--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível → fragmentos/is/is-121-009--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-121-009--sec-3.4.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-121-009--sec-4.md
+- `4.1` — Para os efeitos desta IS, valem as definições contidas no RBAC nº 121. → fragmentos/is/is-121-009--sec-4.1.md
+- `5` — CONTEÚDO DOS CONJUNTOS DE SOBREVIVÊNCIA → fragmentos/is/is-121-009--sec-5.md
+- `5.1` — Conjunto de sobrevivência para operações sobre grandes extensões de água → fragmentos/is/is-121-009--sec-5.1.md
+- `5.2` — Conjunto de sobrevivência para operações sobre terrenos desabitados → fragmentos/is/is-121-009--sec-5.2.md
+- `5.3` — Disposições finais → fragmentos/is/is-121-009--sec-5.3.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-121-009--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-121-009--sec-7.2.md
+
+## is-121-010
+- `cabecalho` → fragmentos/is/is-121-010--sec-cabecalho.md
+- `1.1` — Este documento fornece ao detentor ou requerente de um certificado de operador aéreo → fragmentos/is/is-121-010--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-121-010--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-121-010--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-121-010--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-121-010--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 119.3 do RBAC nº → fragmentos/is/is-121-010--sec-4.1.md
+- `4.2` — Lista de abreviaturas (em ordem alfabética): → fragmentos/is/is-121-010--sec-4.2.md
+- `5.1` — Introdução → fragmentos/is/is-121-010--sec-5.1.md
+- `5.2` — Estabelecimento do sistema de documentos de segurança operacional → fragmentos/is/is-121-010--sec-5.2.md
+- `5.3` — Processo geral de aprovação e aceitação → fragmentos/is/is-121-010--sec-5.3.md
+- `5.4` — Disposições que requerem aprovação → fragmentos/is/is-121-010--sec-5.4.md
+- `5.5` — Sistema de manuais de operações e de manutenção → fragmentos/is/is-121-010--sec-5.5.md
+- `6.1` — Apêndice A – Correlação entre operations manual da OACI e o sistema de manuais de → fragmentos/is/is-121-010--sec-6.1.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-121-010--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-121-010--sec-7.2.md
+
+## is-121-018
+- `cabecalho` → fragmentos/is/is-121-018--sec-cabecalho.md
+- `1` — Purpose. This change incorporates general design criteria for helicopter instrument → fragmentos/is/is-121-018--sec-1.md
+- `2` — Who this change affects. All personnel who are responsible for IFP development and/or → fragmentos/is/is-121-018--sec-2.md
+- `3` — Disposition of Transmittal Paragraph. Significant areas of new direction, guidance, policy, → fragmentos/is/is-121-018--sec-3.md
+- `4` — Distribution. This change is distributed electronically only. → fragmentos/is/is-121-018--sec-4.md
+- `5` — 1-1.         General ................................................................................................... → fragmentos/is/is-121-018--sec-5.md
+- `6` — 1-1.         General ................................................................................................... → fragmentos/is/is-121-018--sec-6.md
+- `7` — 1-1.         General ................................................................................................... → fragmentos/is/is-121-018--sec-7.md
+- `8` — 1-1.         Feeder Routes, Initial Approach, and Intermediate Segments .................................... 8-1 → fragmentos/is/is-121-018--sec-8.md
+- `9` — 1-1.         General ................................................................................................... → fragmentos/is/is-121-018--sec-9.md
+- `10` — 1-1.        Purpose .................................................................................................... → fragmentos/is/is-121-018--sec-10.md
+- `11` — 1-1.       General ..................................................................................................... → fragmentos/is/is-121-018--sec-11.md
+- `12` — 1-1.       General ..................................................................................................... → fragmentos/is/is-121-018--sec-12.md
+- `13` — 1-1.       General ..................................................................................................... → fragmentos/is/is-121-018--sec-13.md
+- `14` — 1-1.        En Route Obstacle Clearance Areas .......................................................................... → fragmentos/is/is-121-018--sec-14.md
+- `15` — 1-1.       Purpose ..................................................................................................... → fragmentos/is/is-121-018--sec-15.md
+- `16` — 1-1.      Development Concept .......................................................................................... → fragmentos/is/is-121-018--sec-16.md
+
+## is-121-020
+- `cabecalho` → fragmentos/is/is-121-020--sec-cabecalho.md
+- `1` — significant overshoot). → fragmentos/is/is-121-020--sec-1.md
+
+## is-121-022
+- `cabecalho` → fragmentos/is/is-121-022--sec-cabecalho.md
+- `1.1` — Estabelecer parâmetros para realização dos exames práticos (exames de competência) de → fragmentos/is/is-121-022--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-121-022--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-121-022--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b) desta IS deve → fragmentos/is/is-121-022--sec-3.3.md
+- `3.4` — A IS não pode criar requisitos adicionais ou contrariar requisitos estabelecidos em RBAC → fragmentos/is/is-121-022--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº 01, → fragmentos/is/is-121-022--sec-4.1.md
+- `4.2` — Abreviaturas → fragmentos/is/is-121-022--sec-4.2.md
+- `5.1` — Introdução → fragmentos/is/is-121-022--sec-5.1.md
+- `5.2` — Conceito e padronização do exame prático → fragmentos/is/is-121-022--sec-5.2.md
+- `5.3` — Descrição da padronização adotada para o exame prático → fragmentos/is/is-121-022--sec-5.3.md
+- `5.4` — Uso da padronização do exame prático → fragmentos/is/is-121-022--sec-5.4.md
+- `5.5` — Áreas para ênfase especial → fragmentos/is/is-121-022--sec-5.5.md
+- `5.6` — Equipamentos e documentos necessários para o exame prático DOV → fragmentos/is/is-121-022--sec-5.6.md
+- `5.7` — Responsabilidade do examinador → fragmentos/is/is-121-022--sec-5.7.md
+- `5.8` — Desempenho satisfatório e aprovação do exame prático → fragmentos/is/is-121-022--sec-5.8.md
+- `5.9` — Desempenho insatisfatório → fragmentos/is/is-121-022--sec-5.9.md
+- `5.10` — Reprovação do exame prático → fragmentos/is/is-121-022--sec-5.10.md
+- `5.11` — Descontinuação do exame prático → fragmentos/is/is-121-022--sec-5.11.md
+- `5.12` — Gerenciamento de Recursos de Despacho (DRM) → fragmentos/is/is-121-022--sec-5.12.md
+- `5.13` — Tomada de decisões aeronáuticas e gerenciamento de riscos → fragmentos/is/is-121-022--sec-5.13.md
+- `6.1` — Planejamento de voo e autorização de despacho de voo → fragmentos/is/is-121-022--sec-6.1.md
+- `6.2` — Pré-voo, decolagem e partida → fragmentos/is/is-121-022--sec-6.2.md
+- `6.3` — Procedimentos durante o voo → fragmentos/is/is-121-022--sec-6.3.md
+- `6.4` — Chegada, aproximação e pouso → fragmentos/is/is-121-022--sec-6.4.md
+- `6.5` — Procedimentos após o voo → fragmentos/is/is-121-022--sec-6.5.md
+- `6.6` — Procedimentos anormais e de emergência → fragmentos/is/is-121-022--sec-6.6.md
+- `7.1` — A Ficha de Avaliação de DOV – FAD é o documento que comprova a competência do → fragmentos/is/is-121-022--sec-7.1.md
+- `7.2` — Cabeçalho → fragmentos/is/is-121-022--sec-7.2.md
+- `7.3` — Comentários → fragmentos/is/is-121-022--sec-7.3.md
+- `7.4` — Rodapé → fragmentos/is/is-121-022--sec-7.4.md
+- `8` — APÊNDICES → fragmentos/is/is-121-022--sec-8.md
+- `9.1` — Período de transição. → fragmentos/is/is-121-022--sec-9.1.md
+- `9.2` — Os casos omissos serão dirimidos pela Superintendência de Padrões Operacionais → fragmentos/is/is-121-022--sec-9.2.md
+- `10` — Navegação → fragmentos/is/is-121-022--sec-10.md
+- `11` — MFR/Autonomia → fragmentos/is/is-121-022--sec-11.md
+- `(inteira)` — APÊNDICE E – LISTA CONSOLIDADA DE REFERÊNCIAS TÉCNICAS NACIONAIS → fragmentos/is/is-121-022--apêndice-e-lista-consolidada-de-referênc.md
+- `(inteira)` → fragmentos/is/is-121-022--apendice.md
+
+## is-121-1225-001
+- `cabecalho` → fragmentos/is/is-121-1225-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar tem por objetivo apresentar um método aceitável de → fragmentos/is/is-121-1225-001--sec-1.1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-121-1225-001--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-121-1225-001--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-121-1225-001--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b desta IS deve → fragmentos/is/is-121-1225-001--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-121-1225-001--sec-3.4.md
+- `3.5` — Esta IS fundamenta-se também na seção 121.1225 do RBAC 121 e na NSCA 3-3, → fragmentos/is/is-121-1225-001--sec-3.5.md
+- `4.1` — Introdução → fragmentos/is/is-121-1225-001--sec-4.1.md
+- `4.2` — Procedimento para aquisição de dados de segurança operacional provenientes de → fragmentos/is/is-121-1225-001--sec-4.2.md
+- `5.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-121-1225-001--sec-5.1.md
+- `5.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-121-1225-001--sec-5.2.md
+
+## is-135-003
+- `cabecalho` → fragmentos/is/is-135-003--sec-cabecalho.md
+- `1.1` — Apresentar uma metodologia que propicie a elaboração de programa de treinamento → fragmentos/is/is-135-003--sec-1.1.md
+- `1.2` — Apresentar os procedimentos requeridos no processo de aprovação e revisão do PrTrnOp, → fragmentos/is/is-135-003--sec-1.2.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-135-003--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-135-003--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-135-003--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-135-003--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-135-003--sec-3.4.md
+- `3.5` — Esta IS é fundamentada e objetiva oferecer método de cumprimento às subpartes E, G, → fragmentos/is/is-135-003--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na Seção 119.3 do RBAC nº → fragmentos/is/is-135-003--sec-4.1.md
+- `4.2` — Lista de abreviaturas: → fragmentos/is/is-135-003--sec-4.2.md
+- `5` — PROCEDIMENTOS PARA ELABORAÇÃO E APROVAÇÃO DO PROGRAMA DE → fragmentos/is/is-135-003--sec-5.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-135-003--sec-5.1.md
+- `5.2` — Elaboração do PrTrnOp → fragmentos/is/is-135-003--sec-5.2.md
+- `5.3` — Processo de aprovação do PrTrnOp → fragmentos/is/is-135-003--sec-5.3.md
+- `6.1` — Apêndice A – Controle de alterações → fragmentos/is/is-135-003--sec-6.1.md
+- `8.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-135-003--sec-8.1.md
+- `8.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-135-003--sec-8.2.md
+
+## is-135-004
+- `cabecalho` → fragmentos/is/is-135-004--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-135-004--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-135-004--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-135-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-135-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-135-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-135-004--sec-3.4.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-135-004--sec-4.md
+- `5` — PROCEDIMENTO DE SOLICITAÇÃO → fragmentos/is/is-135-004--sec-5.md
+- `5.1` — O detentor do certificado deve protocolar no escritório emissor de certificado (EsEC) o → fragmentos/is/is-135-004--sec-5.1.md
+- `5.2` — Cada solicitação de credenciamento de comissário examinador deve englobar, no → fragmentos/is/is-135-004--sec-5.2.md
+- `5.3` — Os processos de renovação de credenciamento serão tratados de forma idêntica aos → fragmentos/is/is-135-004--sec-5.3.md
+- `5.4` — Durante a avaliação da solicitação de credenciamento de comissário examinador, é → fragmentos/is/is-135-004--sec-5.4.md
+- `5.5` — No caso de serem identificadas não conformidades, o operador deve encaminhar as → fragmentos/is/is-135-004--sec-5.5.md
+- `5.6` — Após a verificação dos requisitos e documentos comprobatórios, o EsEC preencherá uma → fragmentos/is/is-135-004--sec-5.6.md
+- `5.7` — A Ficha de Observação de Examinador deve ser enviada ao EsEC que procederá com a → fragmentos/is/is-135-004--sec-5.7.md
+- `5.8` — No caso de reprovação no exame prático, o comissário de voo candidato a examinador → fragmentos/is/is-135-004--sec-5.8.md
+- `6` — VALIDADE E VIGÊNCIA DO CREDENCIAMENTO → fragmentos/is/is-135-004--sec-6.md
+- `6.1` — A validade do credenciamento de comissário examinador será de 24 meses calendáricos → fragmentos/is/is-135-004--sec-6.1.md
+- `6.2` — O credenciamento do comissário examinador perderá sua vigência nos seguintes casos: → fragmentos/is/is-135-004--sec-6.2.md
+- `7.1` — Apêndice A – Controle de alterações → fragmentos/is/is-135-004--sec-7.1.md
+- `7.2` — Apêndice B – Modelo de requerimento de credenciamento de comissário examinador → fragmentos/is/is-135-004--sec-7.2.md
+- `7.3` — Apêndice C – Modelo de ofício de encaminhamento das correções das não conformidades → fragmentos/is/is-135-004--sec-7.3.md
+- `8.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-135-004--sec-8.1.md
+- `8.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-135-004--sec-8.2.md
+
+## is-137-001
+- `cabecalho` → fragmentos/is/is-137-001--sec-cabecalho.md
+- `1.1` — Estabelecer orientações quanto à instalação de equipamentos dispersores em aviões e → fragmentos/is/is-137-001--sec-1.1.md
+- `2.1` — Esta IS substitui e cancela a IS nº 137-001B, de 14 de dezembro de 2016. → fragmentos/is/is-137-001--sec-2.1.md
+- `2.2` — Esta IS torna sem efeito a Portaria SAR nº 2.384, de 31 de julho de 2018. → fragmentos/is/is-137-001--sec-2.2.md
+- `3.1` — Conforme o parágrafo 43.7(i)-I, do RBAC 43, grandes alterações e reparos devem → fragmentos/is/is-137-001--sec-3.1.md
+- `3.2` — Conforme estabelecido no parágrafo 43.9(a), do RBAC 43, cada pessoa que execute → fragmentos/is/is-137-001--sec-3.2.md
+- `4.1` — Equipamento dispersor: Para efeito desta IS, é considerado equipamento dispersor → fragmentos/is/is-137-001--sec-4.1.md
+- `4.2` — Pequena alteração: Para efeito desta IS, é considerada pequena alteração uma → fragmentos/is/is-137-001--sec-4.2.md
+- `5` — DESENVOLVIMENTO DO ASSUNTO → fragmentos/is/is-137-001--sec-5.md
+- `5.1` — Introdução → fragmentos/is/is-137-001--sec-5.1.md
+- `5.2` — Instalação de equipamento dispersor → fragmentos/is/is-137-001--sec-5.2.md
+- `5.3` — Substituição de equipamento dispersor → fragmentos/is/is-137-001--sec-5.3.md
+- `5.4` — Alteração na configuração de equipamento dispersor → fragmentos/is/is-137-001--sec-5.4.md
+- `6.1` — Apêndice A – Tabela - Circuit-Breakers e Fusíveis. → fragmentos/is/is-137-001--sec-6.1.md
+- `6.2` — Apêndice B – Lista de Reduções e Abreviaturas. → fragmentos/is/is-137-001--sec-6.2.md
+- `6.3` — Apêndice C – Lista de Referências. → fragmentos/is/is-137-001--sec-6.3.md
+- `6.4` — Apêndice D – Controle de Alterações. → fragmentos/is/is-137-001--sec-6.4.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-137-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-137-001--sec-7.2.md
+
+## is-137-002
+- `cabecalho` → fragmentos/is/is-137-002--sec-cabecalho.md
+- `1.1` — Estabelecer orientações quanto à instalação de equipamentos GPS com correção diferencial → fragmentos/is/is-137-002--sec-1.1.md
+- `2.1` — Esta IS substitui e cancela a IS nº 137-002B, de 15 de outubro de 2015. → fragmentos/is/is-137-002--sec-2.1.md
+- `3.1` — Conforme o parágrafo 137.203(a) do RBAC 137, a manutenção das aeronaves engajadas nas → fragmentos/is/is-137-002--sec-3.1.md
+- `3.2` — Conforme estabelecido no parágrafo 21.93(a) do RBAC 21, as modificações ao projeto de → fragmentos/is/is-137-002--sec-3.2.md
+- `3.3` — Conforme estabelecido na seção 21.95, do RBAC 21, pequenas modificações podem ser → fragmentos/is/is-137-002--sec-3.3.md
+- `3.4` — Conforme estabelecido na seção 21.97, do RBAC 21, no caso de grandes modificações, → fragmentos/is/is-137-002--sec-3.4.md
+- `3.5` — Conforme estabelecido no parágrafo 43.7(i)-I, do RBAC 43, grandes alterações e reparos → fragmentos/is/is-137-002--sec-3.5.md
+- `3.6` — Conforme estabelecido no parágrafo 43.9(a), do RBAC 43, cada pessoa que execute → fragmentos/is/is-137-002--sec-3.6.md
+- `4.1` — Equipamento DGPS: Para efeito desta IS, é considerado equipamento DGPS todo sistema → fragmentos/is/is-137-002--sec-4.1.md
+- `4.2` — Equipamento dispersor: Para efeito desta IS, é considerado equipamento dispersor todo → fragmentos/is/is-137-002--sec-4.2.md
+- `5.1` — Introdução → fragmentos/is/is-137-002--sec-5.1.md
+- `5.2` — Instalação de equipamento DGPS → fragmentos/is/is-137-002--sec-5.2.md
+- `5.3` — Critérios de aceitação → fragmentos/is/is-137-002--sec-5.3.md
+- `6.1` — Apêndice A –Circuit-Breakers e Fusíveis. → fragmentos/is/is-137-002--sec-6.1.md
+- `6.3` — Apêndice C – Lista de Referências. → fragmentos/is/is-137-002--sec-6.3.md
+- `6.4` — Apêndice D – Cartão de Teste para Inspeção e Ensaios no Solo. → fragmentos/is/is-137-002--sec-6.4.md
+- `6.5` — Apêndice E – Controle de Alterações. → fragmentos/is/is-137-002--sec-6.5.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-137-002--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-137-002--sec-7.2.md
+
+## is-141-003
+- `cabecalho` → fragmentos/is/is-141-003--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-141-003--sec-1.md
+- `2.1` — Esta IS revoga a Portaria nº 210/DGAC, de 3 de julho de 1991, que aprovou o MMA 58- → fragmentos/is/is-141-003--sec-2.1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-141-003--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-141-003--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-141-003--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-141-003--sec-3.4.md
+- `3.5` — A concessão da aprovação de curso depende do atendimento integral, pela instituição → fragmentos/is/is-141-003--sec-3.5.md
+- `4.1` — Para os propósitos desta IS, são empregadas as definições contidas nos seguintes → fragmentos/is/is-141-003--sec-4.1.md
+- `5` — CURRÍCULO MÍNIMO PARA A FORMAÇÃO TEÓRICA E PRÁTICA DO → fragmentos/is/is-141-003--sec-5.md
+- `5.7` — Avaliação do desempenho do aluno → fragmentos/is/is-141-003--sec-5.7.md
+- `6` — APÊNDICES → fragmentos/is/is-141-003--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-141-003--sec-7.md
+- `7.1` — 7.1 Eletricidade → fragmentos/is/is-141-003--sec-7.1.md
+- `7.2` — 7.3 Eletromagnetismo → fragmentos/is/is-141-003--sec-7.2.md
+- `7.3` — 7.4.1 Cargas positivas e negativas. Cargas geradas por → fragmentos/is/is-141-003--sec-7.3.md
+- `7.4` — • Descrever a geração de corrente elétrica alternada. → fragmentos/is/is-141-003--sec-7.4.md
+- `8.1` — 8.1 Infrações → fragmentos/is/is-141-003--sec-8.1.md
+- `8.2` — • Identificar as providências administrativas relacionadas às → fragmentos/is/is-141-003--sec-8.2.md
+- `8.3` — 8.3.1 Definição → fragmentos/is/is-141-003--sec-8.3.md
+- `8.4` — • Definir precipitação atmosférica, precipitação atmosférica → fragmentos/is/is-141-003--sec-8.4.md
+- `8.5` — chuva, neve, grãos de neve, pelotas de gelo, granizo, sedimento → fragmentos/is/is-141-003--sec-8.5.md
+- `8.6` — 8.6.3 Informações meteorológicas concernentes a hidrometeoros → fragmentos/is/is-141-003--sec-8.6.md
+- `9.1` — 9.1 Definição e tipos → fragmentos/is/is-141-003--sec-9.1.md
+- `9.2` — aeródromo (visibilidade e RVR) → fragmentos/is/is-141-003--sec-9.2.md
+- `9.3` — cinzas vulcânicas → fragmentos/is/is-141-003--sec-9.3.md
+- `9.4` — instrumento eletrônico –– Recursos utilizados → fragmentos/is/is-141-003--sec-9.4.md
+- `10.1` — 10.1 Definição e classificação das massas de ar → fragmentos/is/is-141-003--sec-10.1.md
+- `10.2` — • Explicar as influências exercidas sobre as condições básicas         10.2 Influências exercidas sobre as condições bás → fragmentos/is/is-141-003--sec-10.2.md
+- `10.3` — • Explicar as modificações de natureza termodinâmica e de → fragmentos/is/is-141-003--sec-10.3.md
+- `10.4` — 10.3.2 Massa de ar quente avançando sobre superfície mais fria – → fragmentos/is/is-141-003--sec-10.4.md
+- `11.1` — 11.1 Frentes → fragmentos/is/is-141-003--sec-11.1.md
+- `11.2` — 11.2 Frentes frias → fragmentos/is/is-141-003--sec-11.2.md
+- `11.3` — 11.2.6 Frente polar antártica e frente polar ártica –– Definições → fragmentos/is/is-141-003--sec-11.3.md
+- `11.4` — 11.3.3 Efeitos dos ventos e da temperatura em uma frente quente → fragmentos/is/is-141-003--sec-11.4.md
+- `11.5` — • Enunciar a origem das frentes oclusas (ou oclusões).               11.4 Frentes estacionárias → fragmentos/is/is-141-003--sec-11.5.md
+- `11.6` — 13.5 Frentes oclusas (ou oclusões) → fragmentos/is/is-141-003--sec-11.6.md
+- `11.7` — 11.7 Influências dos diferentes tipos de frentes na operação de → fragmentos/is/is-141-003--sec-11.7.md
+- `11.8` — • Definir ciclone.                                                   11.8 Ciclones → fragmentos/is/is-141-003--sec-11.8.md
+- `12.3` — trovoadas: ventos de rajada, chuva intensa, granizo, turbulência e → fragmentos/is/is-141-003--sec-12.3.md
+- `12.4` — 12.3.2 Trovoadas térmicas (convectivas ou termais), trovoadas → fragmentos/is/is-141-003--sec-12.4.md
+- `12.5` — 12.3.4 Trovoadas frontais: trovoadas de frentes frias, trovoadas → fragmentos/is/is-141-003--sec-12.5.md
+- `13.1` — 13.1 Tempestades de areia → fragmentos/is/is-141-003--sec-13.1.md
+- `13.2` — 13.2 Tempestades de poeira → fragmentos/is/is-141-003--sec-13.2.md
+- `13.3` — 13.3 Influência na operação de aviões → fragmentos/is/is-141-003--sec-13.3.md
+- `13.4` — 13.4 Informações meteorológicas concernentes a tempestades → fragmentos/is/is-141-003--sec-13.4.md
+- `14.1` — 14.1 Conceitos básicos → fragmentos/is/is-141-003--sec-14.1.md
+- `14.2` — de aeronave → fragmentos/is/is-141-003--sec-14.2.md
+- `14.3` — Características → fragmentos/is/is-141-003--sec-14.3.md
+- `14.4` — 14.3.2 Medidas adotadas para evitar o acúmulo de gelo: → fragmentos/is/is-141-003--sec-14.4.md
+- `15.1` — 15.1 Vulcão → fragmentos/is/is-141-003--sec-15.1.md
+- `15.2` — 15.1.4 Movimentação, na atmosfera, dos materiais expelidos: → fragmentos/is/is-141-003--sec-15.2.md
+- `15.3` — 15.2.2 Restrições e riscos para a segurança de voo, em razão de → fragmentos/is/is-141-003--sec-15.3.md
+- `16.1` — 16.1 Circulação geral idealizada (Idealized general → fragmentos/is/is-141-003--sec-16.1.md
+- `16.2` — • Reconhecer a influência na modificação das zonas climáticas          16.2 Modificações nas zonas climáticas → fragmentos/is/is-141-003--sec-16.2.md
+- `16.3` — • Levantar informações meteorológicas concernentes a:                  16.3 Distribuição de elementos do clima → fragmentos/is/is-141-003--sec-16.3.md
+- `16.4` — secos; climas tropicais úmidos –– Características gerais → fragmentos/is/is-141-003--sec-16.4.md
+- `16.5` — 16.5.1 Características → fragmentos/is/is-141-003--sec-16.5.md
+- `17.1` — 17.1 Observações meteorológicas → fragmentos/is/is-141-003--sec-17.1.md
+- `17.2` — l’Aviation - METAR) → fragmentos/is/is-141-003--sec-17.2.md
+- `17.3` — Informe meteorológico operacional transmitido pelas → fragmentos/is/is-141-003--sec-17.3.md
+- `17.4` — Informação relativa a fenômenos meteorológicos em rota que → fragmentos/is/is-141-003--sec-17.4.md
+- `17.5` — possam afetar a segurança operacional das aeronaves em níveis → fragmentos/is/is-141-003--sec-17.5.md
+- `17.6` — TAF); → fragmentos/is/is-141-003--sec-17.6.md
+
+## is-141-004
+- `cabecalho` → fragmentos/is/is-141-004--sec-cabecalho.md
+- `1.1` — Apresentar a uma organização que opere ou pretenda operar sob as regras do RBAC nº → fragmentos/is/is-141-004--sec-1.1.md
+- `1.2` — Esta IS define os procedimentos de certificação técnica para: → fragmentos/is/is-141-004--sec-1.2.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu Art. 14, a Instrução → fragmentos/is/is-141-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-141-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-141-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-141-004--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 141.3 do RBAC nº → fragmentos/is/is-141-004--sec-4.1.md
+- `5.1` — PROCESSO DE CERTIFICAÇÃO → fragmentos/is/is-141-004--sec-5.1.md
+- `5.2` — PROCESSOS DE ALTERAÇÃO DAS ESPECIFICAÇÕES DE INSTRUÇÃO → fragmentos/is/is-141-004--sec-5.2.md
+- `5.3` — SUSPENSÃO DO CERTIFICADO DE CIAC → fragmentos/is/is-141-004--sec-5.3.md
+- `5.4` — REVOGAÇÃO DO CERTIFICADO DE CIAC → fragmentos/is/is-141-004--sec-5.4.md
+- `5.5` — CASSAÇÃO DO CERTIFICADO DE CIAC → fragmentos/is/is-141-004--sec-5.5.md
+- `6.1` — Apêndice A – Lista de abreviaturas; → fragmentos/is/is-141-004--sec-6.1.md
+- `6.2` — Apêndice B – Exemplo de certificado de CIAC; → fragmentos/is/is-141-004--sec-6.2.md
+- `6.3` — Apêndice C – Exemplo de especificações de instrução – EI; → fragmentos/is/is-141-004--sec-6.3.md
+- `6.4` — Apêndice D - Documentos por tipo de requerimento. → fragmentos/is/is-141-004--sec-6.4.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-141-004--sec-7.md
+- `7.1` — Os modelos de FAI e FOPs estão disponíveis para o usuário no sítio da ANAC, no → fragmentos/is/is-141-004--sec-7.1.md
+- `7.2` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-141-004--sec-7.2.md
+- `7.3` — As disposições contidas nesta IS entram em vigor a partir da data de sua publicação. → fragmentos/is/is-141-004--sec-7.3.md
+
+## is-141-005
+- `cabecalho` → fragmentos/is/is-141-005--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar (IS) tem por objetivo apresentar ao detentor ou requerente de → fragmentos/is/is-141-005--sec-1.1.md
+- `1.2` — A implementação do SGSO é a incorporação de princípios e ferramentas de gestão → fragmentos/is/is-141-005--sec-1.2.md
+- `1.3` — Destaca-se que o SGSO do CIAC deve permitir a comunicação eficaz entre seus sistemas, → fragmentos/is/is-141-005--sec-1.3.md
+- `1.4` — Esta IS foi estruturada considerando os requisitos para a implantação e manutenção do → fragmentos/is/is-141-005--sec-1.4.md
+- `1.5` — Apresenta ainda orientações para que o gestor responsável identifique e designe um → fragmentos/is/is-141-005--sec-1.5.md
+- `1.6` — Esta IS é uma indicação sobre os meios aceitáveis pela ANAC para o cumprimento dos → fragmentos/is/is-141-005--sec-1.6.md
+- `1.7` — Discrepâncias entre este documento e a regulação, as normas ou as exceções aplicáveis, → fragmentos/is/is-141-005--sec-1.7.md
+- `1.8` — As orientações contidas nesta IS se aplicam apenas a CIACs que desenvolvam cursos → fragmentos/is/is-141-005--sec-1.8.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-141-005--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-141-005--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-141-005--sec-3.3.md
+- `3.4` — A IS não pode criar requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-141-005--sec-3.4.md
+- `4.1` — Para os efeitos desta IS são válidas as definições listadas no RBAC nº 141, RBAC nº 001, → fragmentos/is/is-141-005--sec-4.1.md
+- `5.1` — Disposições gerais → fragmentos/is/is-141-005--sec-5.1.md
+- `5.2` — Sistema De Gerenciamento de Segurança Operacional (SGSO) → fragmentos/is/is-141-005--sec-5.2.md
+- `5.3` — Manual De Gerenciamento de Segurança Operacional (MGSO) → fragmentos/is/is-141-005--sec-5.3.md
+- `5.4` — Relatório Mensal → fragmentos/is/is-141-005--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-141-005--sec-6.md
+- `7.1` — Conforme previsto no parágrafo 141.27(d) do RBAC nº 141, o requerente ou detentor de → fragmentos/is/is-141-005--sec-7.1.md
+- `7.2` — Para os CIACs que já estejam em funcionamento conforme o antigo RBHA 141, caberá, → fragmentos/is/is-141-005--sec-7.2.md
+- `7.3` — Já quanto a novos CIACs, um plano de implementação do SGSO deve ser apresentado → fragmentos/is/is-141-005--sec-7.3.md
+- `7.4` — A ANAC disponibiliza e encoraja a utilização de materiais instrucionais relativos ao → fragmentos/is/is-141-005--sec-7.4.md
+- `7.5` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-141-005--sec-7.5.md
+- `7.6` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-141-005--sec-7.6.md
+- `(inteira)` — APÊNDICE B - INDICADORES DE DESEMPENHO DE SEGURANÇA OPERACIONAL → fragmentos/is/is-141-005--apêndice-b-indicadores-de-desempenho-de.md
+- `(inteira)` → fragmentos/is/is-141-005--apendice.md
+- `8` — Rever periodicamente o MGSO para assegurar que permaneça relevantes e apropriados ao (CIAC); → fragmentos/is/is-141-005--sec-8.md
+- `9` — Assumir a responsabilidade pela segurança operacional de serviços ou produtos, contratados ou → fragmentos/is/is-141-005--sec-9.md
+- `10` — Continuar com outras diretrizes julgadas necessárias para sua operação dentro de um nível → fragmentos/is/is-141-005--sec-10.md
+
+## is-141-006
+- `cabecalho` → fragmentos/is/is-141-006--sec-cabecalho.md
+- `1.1` — Esta IS tem por objetivos: → fragmentos/is/is-141-006--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu Art. 14, a Instrução → fragmentos/is/is-141-006--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-141-006--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2 (b) desta IS deve garantir → fragmentos/is/is-141-006--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-141-006--sec-3.4.md
+- `4.1` — Para os efeitos desta IS são válidas as definições listadas no RBAC nº 141, RBAC nº 01, → fragmentos/is/is-141-006--sec-4.1.md
+- `5.1` — Disposições iniciais → fragmentos/is/is-141-006--sec-5.1.md
+- `5.2` — Manual de garantia da qualidade → fragmentos/is/is-141-006--sec-5.2.md
+- `5.3` — Relatório do SGQ → fragmentos/is/is-141-006--sec-5.3.md
+- `5.4` — Critérios para designação do gerente da qualidade → fragmentos/is/is-141-006--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-141-006--sec-6.md
+- `6.1` — Apêndice A – Modelo de Manual de Garantia da Qualidade. → fragmentos/is/is-141-006--sec-6.1.md
+- `7.1` — O SGQ é dispensável ao CIAC que ministra apenas curso prático para piloto de balão → fragmentos/is/is-141-006--sec-7.1.md
+- `7.2` — O modelo de MGQ constante no Apêndice A contempla as disposições previstas nesta → fragmentos/is/is-141-006--sec-7.2.md
+- `7.3` — No caso de revisões do MGQ, o mesmo deverá ser encaminho à ANAC conforme → fragmentos/is/is-141-006--sec-7.3.md
+- `7.4` — Conforme previsto na seção 141.29 do RBAC nº 141, o requerente ou detentor de → fragmentos/is/is-141-006--sec-7.4.md
+- `7.5` — A entrada em vigor de um MGQ não depende de aprovação prévia da ANAC. → fragmentos/is/is-141-006--sec-7.5.md
+- `7.6` — Quaisquer emendas realizadas no MGQ devem ser encaminhadas à ANAC em, no → fragmentos/is/is-141-006--sec-7.6.md
+- `7.7` — Uma vez encaminhado o MGQ, o CIAC terá mais 6 meses calendáricos para realizar a → fragmentos/is/is-141-006--sec-7.7.md
+- `7.8` — O CIAC que possuir uma certificação ISO 9001 que abranja os cursos requeridos pelo → fragmentos/is/is-141-006--sec-7.8.md
+- `7.9` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-141-006--sec-7.9.md
+- `7.10` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-141-006--sec-7.10.md
+
+## is-141-007
+- `cabecalho` → fragmentos/is/is-141-007--sec-cabecalho.md
+- `1.20` — 1                Suspensão de PI a pedido.                             24 meses → fragmentos/is/is-141-007--sec-1.20.md
+- `2.5` — 2                                                                       Até 10 dias corridos → fragmentos/is/is-141-007--sec-2.5.md
+- `2.6` — disponibilizar ao aluno que ficar sem cumprir         Após 30 dias corridos → fragmentos/is/is-141-007--sec-2.6.md
+- `4.7` — 3                 Guarda de registros de treinamento em FSTD.           24 meses → fragmentos/is/is-141-007--sec-4.7.md
+- `5.1` — 4                                                                       12 meses → fragmentos/is/is-141-007--sec-5.1.md
+- `6.11` — 1                Atualização de CIV.                                   A cada 7 dias corridos → fragmentos/is/is-141-007--sec-6.11.md
+- `6.13` — 8                Registros de resultado de avaliações.                 5 anos → fragmentos/is/is-141-007--sec-6.13.md
+- `6.14` — 1                Validade de avaliação de ground school.               12 meses → fragmentos/is/is-141-007--sec-6.14.md
+- `6.22` — 2                Armazenagem de fichas de instrução.                   5 anos → fragmentos/is/is-141-007--sec-6.22.md
+- `6.23` — PROCEDIMENTOS DE SEGURANÇA DE PESSOAS E EQUIPAMENTOS (SAFETY E SECURITY) ................. 114 → fragmentos/is/is-141-007--sec-6.23.md
+- `7.9` — PROGRAMA DE INSTRUÇÃO DE CERTIFICADO DE PILOTO AERODESPORTIVO (CPA) ...................... 248 → fragmentos/is/is-141-007--sec-7.9.md
+- `7.10` — CONTEÚDO DE REFERÊNCIA PARA CURSOS NÃO APROVADOS PELA ANAC ................................. 256 → fragmentos/is/is-141-007--sec-7.10.md
+- `7.11` — GUIA DE MANOBRAS PARA INSTRUÇÃO DE VOO VISUAL EM AVIÃO .......................................... 261 → fragmentos/is/is-141-007--sec-7.11.md
+- `8` — DESCIDA MANTENDO PROA E NIVELAMENTO ....................................................... 267 → fragmentos/is/is-141-007--sec-8.md
+- `9` — SUBIDA EM CURVA .............................................................................................. 267 → fragmentos/is/is-141-007--sec-9.md
+- `10` — DESCIDA EM CURVA ............................................................................................. 268 → fragmentos/is/is-141-007--sec-10.md
+- `11` — VOO PLANADO .................................................................................................... 269 → fragmentos/is/is-141-007--sec-11.md
+- `12` — COORDENAÇÃO DE 1° TIPO .................................................................................. 269 → fragmentos/is/is-141-007--sec-12.md
+- `13` — COORDENAÇÃO DE 2° TIPO .................................................................................. 269 → fragmentos/is/is-141-007--sec-13.md
+- `14` — VELOCIDADE REDUZIDA OU COORDENAÇÃO ATITUDE POTÊNCIA .......................... 270 → fragmentos/is/is-141-007--sec-14.md
+- `15` — PRÉ-ESTOL ........................................................................................................... 27 → fragmentos/is/is-141-007--sec-15.md
+- `16` — ESTOL SEM MOTOR.............................................................................................. 271 → fragmentos/is/is-141-007--sec-16.md
+- `17` — ESTOL EM CURVA................................................................................................. 272 → fragmentos/is/is-141-007--sec-17.md
+- `18` — ESTOL COM MOTOR ............................................................................................. 273 → fragmentos/is/is-141-007--sec-18.md
+- `19` — ESTOL SECUNDÁRIO ............................................................................................. 273 → fragmentos/is/is-141-007--sec-19.md
+- `20` — ESTOL DE VELOCIDADE ......................................................................................... 274 → fragmentos/is/is-141-007--sec-20.md
+- `21` — ESTOL DE COMANDOS CRUZADOS ........................................................................ 275 → fragmentos/is/is-141-007--sec-21.md
+- `22` — ESTOL DE COMPENSADOR .................................................................................... 276 → fragmentos/is/is-141-007--sec-22.md
+- `23` — GLISSADA LATERAL .............................................................................................. 276 → fragmentos/is/is-141-007--sec-23.md
+- `24` — GLISSADA FRONTAL ............................................................................................. 277 → fragmentos/is/is-141-007--sec-24.md
+- `25` — CURVA DE RAIO CONSTANTE ................................................................................ 278 → fragmentos/is/is-141-007--sec-25.md
+- `26` — VOO EM RETÂNGULO........................................................................................... 279 → fragmentos/is/is-141-007--sec-26.md
+- `27` — “S” SOBRE ESTRADA............................................................................................. 280 → fragmentos/is/is-141-007--sec-27.md
+- `28` — “8” AO REDOR DE MARCOS .................................................................................. 280 → fragmentos/is/is-141-007--sec-28.md
+- `29` — “8” SOBRE ESTRADA ............................................................................................ 281 → fragmentos/is/is-141-007--sec-29.md
+- `30` — “8” SOBRE MARCOS ............................................................................................. 282 → fragmentos/is/is-141-007--sec-30.md
+- `31` — CHANDELLE.......................................................................................................... 282 → fragmentos/is/is-141-007--sec-31.md
+- `32` — “8” PREGUIÇOSO ................................................................................................. 283 → fragmentos/is/is-141-007--sec-32.md
+- `33` — RECUPERAÇÃO DE ATITUDES ANORMAIS.............................................................. 284 → fragmentos/is/is-141-007--sec-33.md
+- `34` — PICADA EM ESPIRAL ............................................................................................. 284 → fragmentos/is/is-141-007--sec-34.md
+- `36` — DECOLAGEM ABORTADA...................................................................................... 286 → fragmentos/is/is-141-007--sec-36.md
+- `37` — PANE SIMULADA APÓS A DECOLAGEM ................................................................. 286 → fragmentos/is/is-141-007--sec-37.md
+- `38` — PANE SIMULADA.................................................................................................. 287 → fragmentos/is/is-141-007--sec-38.md
+- `39` — APROXIMAÇÃO DE 90° ......................................................................................... 288 → fragmentos/is/is-141-007--sec-39.md
+- `40` — APROXIMAÇÃO 180° ............................................................................................ 288 → fragmentos/is/is-141-007--sec-40.md
+- `41` — APROXIMAÇÃO 360° ............................................................................................ 289 → fragmentos/is/is-141-007--sec-41.md
+- `42` — ESPIRAL DESCENDENTE DE GRANDE INCLINAÇÃO ................................................. 290 → fragmentos/is/is-141-007--sec-42.md
+- `43` — VOO COM POTÊNCIA ASSIMÉTRICA ...................................................................... 291 → fragmentos/is/is-141-007--sec-43.md
+- `44` — DEMONSTRAÇÃO DE VELOCIDADE MÍNIMA DE CONTROLE - VMCA .......................... 292 → fragmentos/is/is-141-007--sec-44.md
+- `45` — DEMONSTRAÇÃO DE ARRASTO NO VOO COM POTÊNCIA ASSIMÉTRICA ................ 294 → fragmentos/is/is-141-007--sec-45.md
+- `46` — FALHA DE MOTOR APÓS DECOLAGEM E ARREMETIDA COM MOTOR INOPERANTE 295 → fragmentos/is/is-141-007--sec-46.md
+- `(inteira)` — Anexo 1 da Convenção de Chicago, a ANAC sugere que o conteúdo desses cursos, → fragmentos/is/is-141-007--anexo-1-da-convenção-de-chicago-a-anac-s.md
+- `(inteira)` → fragmentos/is/is-141-007--apendice.md
+
+## is-142-001
+- `cabecalho` → fragmentos/is/is-142-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-142-001--sec-1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar - → fragmentos/is/is-142-001--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-142-001--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b desta IS deve garantir nível de → fragmentos/is/is-142-001--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-142-001--sec-3.4.md
+- `3.5` — Esta IS fundamenta-se também no Regulamento Brasileiro da Aviação Civil nº 142 (RBAC nº → fragmentos/is/is-142-001--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas no RBAC 001, Seção 142.3 do → fragmentos/is/is-142-001--sec-4.1.md
+- `4.2` — Requerente significa a organização que solicita o Certificado de Centro de Treinamento de → fragmentos/is/is-142-001--sec-4.2.md
+- `4.3` — Setor pertinente da ANAC significa o setor específico, dentro da estrutura organizacional da → fragmentos/is/is-142-001--sec-4.3.md
+- `5.1` — Os níveis de segurança das atividades aéreas desempenhadas pelos operadores aéreos são → fragmentos/is/is-142-001--sec-5.1.md
+- `5.2` — Para que existam treinamentos de qualidade, deve-se exigir dos CTAC o cumprimento de → fragmentos/is/is-142-001--sec-5.2.md
+- `5.3` — Esta IS apresenta informações necessárias e um método, mas não somente o único, para que o → fragmentos/is/is-142-001--sec-5.3.md
+- `5.4` — De forma alguma se deve certificar um CTAC sem que haja segurança de que o requerente é → fragmentos/is/is-142-001--sec-5.4.md
+- `6` — PROCESSO DE CERTIFICAÇÃO DE CENTROS DE TREINAMENTO DE → fragmentos/is/is-142-001--sec-6.md
+- `6.1` — Aplicabilidade → fragmentos/is/is-142-001--sec-6.1.md
+- `6.2` — Disposições gerais → fragmentos/is/is-142-001--sec-6.2.md
+- `6.3` — Regime de portais de processo → fragmentos/is/is-142-001--sec-6.3.md
+- `6.4` — Representantes e pessoas de contato da organização requerente → fragmentos/is/is-142-001--sec-6.4.md
+- `6.5` — Descrição do processo de certificação → fragmentos/is/is-142-001--sec-6.5.md
+- `7` — PROCESSO DE ALTERAÇÃO DAS RESPECTIVAS ESPECIFICAÇÕES DE → fragmentos/is/is-142-001--sec-7.md
+- `7.1` — Aplicabilidade → fragmentos/is/is-142-001--sec-7.1.md
+- `7.2` — Disposições gerais → fragmentos/is/is-142-001--sec-7.2.md
+- `7.3` — Requerimento de alterações de um certificado de CTAC e de suas respectivas → fragmentos/is/is-142-001--sec-7.3.md
+- `8` — ORGANIZAÇÃO DOS REQUISITOS DE CERTIFICAÇÃO → fragmentos/is/is-142-001--sec-8.md
+- `8.1` — Disposições gerais → fragmentos/is/is-142-001--sec-8.1.md
+- `8.2` — Manual de instruções e procedimentos – MIP → fragmentos/is/is-142-001--sec-8.2.md
+- `8.3` — Programas de treinamento e seus currículos → fragmentos/is/is-142-001--sec-8.3.md
+- `8.4` — Sistema de gerenciamento de segurança operacional – SGSO → fragmentos/is/is-142-001--sec-8.4.md
+- `8.5` — Sistema de garantia da qualidade → fragmentos/is/is-142-001--sec-8.5.md
+- `9` — SOLICITAÇÃO, EMISSÃO, EMENDA,                     SUSPENSÃO,        REVOGAÇÃO           OU → fragmentos/is/is-142-001--sec-9.md
+- `9.1` — Solicitação → fragmentos/is/is-142-001--sec-9.1.md
+- `9.2` — Emissão → fragmentos/is/is-142-001--sec-9.2.md
+- `9.3` — Emenda → fragmentos/is/is-142-001--sec-9.3.md
+- `9.4` — Suspensão e revogação → fragmentos/is/is-142-001--sec-9.4.md
+- `9.5` — Cassação → fragmentos/is/is-142-001--sec-9.5.md
+- `10.1` — APÊNDICE A – Fluxograma do processo de certificação de detentor de certificado de CTAC. → fragmentos/is/is-142-001--sec-10.1.md
+- `10.2` — APÊNDICE B – Modelo de certificado de CTAC. → fragmentos/is/is-142-001--sec-10.2.md
+- `10.3` — APÊNDICE C – Modelo de Especificações de Treinamento. → fragmentos/is/is-142-001--sec-10.3.md
+- `11` — MODELOS DE FORMULÁRIOS E MODELOS DE CURRÍCULOS → fragmentos/is/is-142-001--sec-11.md
+- `11.1` — Disposições gerais → fragmentos/is/is-142-001--sec-11.1.md
+- `12.1` — Todos os requerentes que estejam em processo de certificação iniciado antes da data de → fragmentos/is/is-142-001--sec-12.1.md
+- `12.2` — Os casos omissos serão dirimidos pelo SPO. → fragmentos/is/is-142-001--sec-12.2.md
+- `12.3` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-142-001--sec-12.3.md
+- `(inteira)` — ANEXO 1 - MODELOS DE FORMULÁRIOS → fragmentos/is/is-142-001--anexo-1-modelos-de-formulários.md
+- `(inteira)` — ANEXO 1.1 - FOP-CT 101    Solicitação de reunião de orientação prévia. → fragmentos/is/is-142-001--anexo-1-1-fop-ct-101-solicitação-de-reun.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.2 - FOP-CT 102    Cadastro de pessoal técnico e administrativo requerido → fragmentos/is/is-142-001--anexo-1-2-fop-ct-102-cadastro-de-pessoal.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.3 - FOP-CT 104    Solicitação de certificação de CTAC. → fragmentos/is/is-142-001--anexo-1-3-fop-ct-104-solicitação-de-cert.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.4 - FOP-CT 107    Encaminhamento de material e outros documentos para an → fragmentos/is/is-142-001--anexo-1-4-fop-ct-107-encaminhamento-de-m.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.5 - FOP-CT 108    Solicitação de modo alternativo para cumprimento de re → fragmentos/is/is-142-001--anexo-1-5-fop-ct-108-solicitação-de-modo.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.6 - FOP-CT 109    Comunicação de não-conformidades de inspeção de CTAC. → fragmentos/is/is-142-001--anexo-1-6-fop-ct-109-comunicação-de-não.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.7 - FOP-CT 110    Solicitação de encerramento de processo de certificaçã → fragmentos/is/is-142-001--anexo-1-7-fop-ct-110-solicitação-de-ence.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.8 - FOP-CT 111    Aprovação/Aceitação de material técnico e outros docum → fragmentos/is/is-142-001--anexo-1-8-fop-ct-111-aprovação-aceitação.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.9 - FOP-CT 112    Parecer para encerramento de fase de certificação de C → fragmentos/is/is-142-001--anexo-1-9-fop-ct-112-parecer-para-encerr.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.10 - FOP-CT 113   Solicitação de parecer. → fragmentos/is/is-142-001--anexo-1-10-fop-ct-113-solicitação-de-par.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.11 - FOP-CT 116   Solicitação de demonstração e/ou inspeção de CTAC. → fragmentos/is/is-142-001--anexo-1-11-fop-ct-116-solicitação-de-dem.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.12 - FOP-CT 121   Comunicação de suspensão, revogação ou revogação da su → fragmentos/is/is-142-001--anexo-1-12-fop-ct-121-comunicação-de-sus.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.13 - FOP-CT 122   Solicitação de revogação da suspensão de certificado d → fragmentos/is/is-142-001--anexo-1-13-fop-ct-122-solicitação-de-rev.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.14 - FOP-CT 123   Resposta de não-conformidade de inspeção de CTAC. → fragmentos/is/is-142-001--anexo-1-14-fop-ct-123-resposta-de-não-co.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.15 - FOP-CT 124   Não-conformidade de material técnico e outros document → fragmentos/is/is-142-001--anexo-1-15-fop-ct-124-não-conformidade-d.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.16 - FOP-CT 125   Resposta de não-conformidade de material técnico e out → fragmentos/is/is-142-001--anexo-1-16-fop-ct-125-resposta-de-não-co.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — APÊNDICE A – Fluxograma do processo de certificação de detentor de certificado d → fragmentos/is/is-142-001--apêndice-a-fluxograma-do-processo-de-cer.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — APÊNDICE B – Modelo de certificado de CTAC. → fragmentos/is/is-142-001--apêndice-b-modelo-de-certificado-de-ctac.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — APÊNDICE C – Modelo de Especificações de Treinamento. → fragmentos/is/is-142-001--apêndice-c-modelo-de-especificações-de-t.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.1 - FOP-CT 101                   Solicitação de reunião de orientação pr → fragmentos/is/is-142-001--anexo-1-1-fop-ct-101-solicitação-de-reun.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.2 - FOP-CT 102                    Cadastro de pessoal técnico e administ → fragmentos/is/is-142-001--anexo-1-2-fop-ct-102-cadastro-de-pessoal.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.3 - FOP-CT 104                     Solicitação de certificação de CTAC → fragmentos/is/is-142-001--anexo-1-3-fop-ct-104-solicitação-de-cert.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.4 - FOP-CT 107                   Encaminhamento de material e outros doc → fragmentos/is/is-142-001--anexo-1-4-fop-ct-107-encaminhamento-de-m.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.5 - FOP-CT 108 Solicitação de modo alternativo para cumprimento de requi → fragmentos/is/is-142-001--anexo-1-5-fop-ct-108-solicitação-de-modo.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.6 - FOP-CT 109                    Comunicação de não-conformidades de in → fragmentos/is/is-142-001--anexo-1-6-fop-ct-109-comunicação-de-não.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.7 - FOP-CT 110 Solicitação de encerramento de processo de certificação d → fragmentos/is/is-142-001--anexo-1-7-fop-ct-110-solicitação-de-ence.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.8 - FOP-CT 111 Aprovação/aceitação de material técnico e outros document → fragmentos/is/is-142-001--anexo-1-8-fop-ct-111-aprovação-aceitação.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.9 - FOP-CT 112 Parecer para encerramento de fase de certificação de CTAC → fragmentos/is/is-142-001--anexo-1-9-fop-ct-112-parecer-para-encerr.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.10 - FOP-CT 113                  Solicitação de parecer → fragmentos/is/is-142-001--anexo-1-10-fop-ct-113-solicitação-de-par.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.11 - FOP-CT 116                      Solicitação de demonstração e/ou in → fragmentos/is/is-142-001--anexo-1-11-fop-ct-116-solicitação-de-dem.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.12 - FOP-CT 121                     Comunicação de suspensão, revogação  → fragmentos/is/is-142-001--anexo-1-12-fop-ct-121-comunicação-de-sus.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.13 - FOP-CT 122                  Solicitação de revogação da suspensão d → fragmentos/is/is-142-001--anexo-1-13-fop-ct-122-solicitação-de-rev.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.14 - FOP-CT 123                  Resposta de não-conformidade de inspeçã → fragmentos/is/is-142-001--anexo-1-14-fop-ct-123-resposta-de-não-co.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.15 - FOP-CT 124                  Não-conformidade de material técnico e  → fragmentos/is/is-142-001--anexo-1-15-fop-ct-124-não-conformidade-d.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+- `(inteira)` — ANEXO 1.16 - FOP-CT 125                  Resposta de não-conformidade de materia → fragmentos/is/is-142-001--anexo-1-16-fop-ct-125-resposta-de-não-co.md
+- `(inteira)` → fragmentos/is/is-142-001--apendice.md
+
+## is-142-003
+- `cabecalho` → fragmentos/is/is-142-003--sec-cabecalho.md
+- `1.1` — Oferecer aos centros de treinamentos de aviação civil, certificados segundo o RBAC nº → fragmentos/is/is-142-003--sec-1.1.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu Art. 14, a Instrução → fragmentos/is/is-142-003--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-142-003--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-142-003--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-142-003--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01, RBAC nº 142 → fragmentos/is/is-142-003--sec-4.1.md
+- `5.1` — TREINAMENTO REQUERIDO PARA APROVAÇÃO DE INSTRUTORES → fragmentos/is/is-142-003--sec-5.1.md
+- `5.2` — TREINAMENTO REQUERIDO                    PARA      O     CREDENCIAMENTO               DE → fragmentos/is/is-142-003--sec-5.2.md
+- `5.3` — SOLICITAÇÃO DE APROVAÇÃO DE INSTRUTORES E CREDENCIAMENTO → fragmentos/is/is-142-003--sec-5.3.md
+- `5.4` — UTILIZAÇÃO DO SISTEMA SISHAB → fragmentos/is/is-142-003--sec-5.4.md
+- `5.5` — SANÇÕES ADMINISTRATIVAS → fragmentos/is/is-142-003--sec-5.5.md
+- `6.1` — Apêndice A – Síntese da aplicabilidade da seção 142.45. → fragmentos/is/is-142-003--sec-6.1.md
+- `6.2` — Apêndice B - Controle de alterações. → fragmentos/is/is-142-003--sec-6.2.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-142-003--sec-7.1.md
+- `7.2` — Esta IS entra em vigor a partir da data de sua publicação. → fragmentos/is/is-142-003--sec-7.2.md
+
+## is-145-109-001
+- `cabecalho` → fragmentos/is/is-145-109-001--sec-cabecalho.md
+- `1.1` — Esta IS orienta, esclarece e estabelece critérios aceitáveis, mas não únicos, no desenvolvi- → fragmentos/is/is-145-109-001--sec-1.1.md
+- `1.2` — Esta IS também estabelece e esclarece a utilização do termo “publicações técnicas”, uma vez → fragmentos/is/is-145-109-001--sec-1.2.md
+- `2.1` — A presente IS cancela e substitui a IS 145.109-001B, de 13 de dezembro de 2013. → fragmentos/is/is-145-109-001--sec-2.1.md
+- `3.1` — Para os fins de manutenção, manutenção preventiva ou alterações, o parágrafo 21.50(b) do → fragmentos/is/is-145-109-001--sec-3.1.md
+- `3.2` — A relação de documentos que são denominados ICA, ou que contenham ICA, pode ser loca- → fragmentos/is/is-145-109-001--sec-3.2.md
+- `3.3` — Os parágrafos 91.403(a) do RBAC 91, 121.363(a)(1), 121.380(a)(2)(v) e 121.709(b)(2)(ii) → fragmentos/is/is-145-109-001--sec-3.3.md
+- `3.4` — Os regulamentos operacionais, seções 135.412 do RBAC 135 e 121.362 do RBAC 121 es- → fragmentos/is/is-145-109-001--sec-3.4.md
+- `3.5` — O parágrafo 137.203(a) da RBAC 137 estabelece que a manutenção das aeronaves engajadas → fragmentos/is/is-145-109-001--sec-3.5.md
+- `3.6` — O parágrafo 145.209(m)-I do RBAC 145 estabelece requisitos de procedimentos de recebi- → fragmentos/is/is-145-109-001--sec-3.6.md
+- `3.7` — O parágrafo 145.109(d) do RBAC 145 estabelece que cada OM deve possuir, quando apli- → fragmentos/is/is-145-109-001--sec-3.7.md
+- `3.8` — A seção 145.201 do RBAC 145 estabelece que a OM somente pode executar manutenção ou → fragmentos/is/is-145-109-001--sec-3.8.md
+- `3.9` — O parágrafo 145.205(a) estabelece requisitos para que uma OM que execute manutenção, → fragmentos/is/is-145-109-001--sec-3.9.md
+- `3.10` — O parágrafo 145.211(c)(1)(v) do RBAC 145 estabelece que o Manual de Controle da Quali- → fragmentos/is/is-145-109-001--sec-3.10.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-145-109-001--sec-4.md
+- `4.1` — Artigo: aeronave, célula, motor, hélice, acessório, componente ou suas partes. Para efeito → fragmentos/is/is-145-109-001--sec-4.1.md
+- `4.2` — Autoridade Primária: Autoridade de Aviação Civil – AAC, responsável por um certo pro- → fragmentos/is/is-145-109-001--sec-4.2.md
+- `4.3` — Boletim de serviço – BS: documento emitido pelo detentor do projeto de tipo ou fabricante → fragmentos/is/is-145-109-001--sec-4.3.md
+- `4.4` — Categoria de um BS: um BS pode ser emitido por um detentor de projeto de tipo de acordo → fragmentos/is/is-145-109-001--sec-4.4.md
+- `4.5` — Dado Técnico – DT: Informação que suporta e/ou descreve a configuração de um produto → fragmentos/is/is-145-109-001--sec-4.5.md
+- `4.6` — Diretriz de Aeronavegabilidade – DA: documento emitido pela ANAC, visando eliminar → fragmentos/is/is-145-109-001--sec-4.6.md
+- `4.7` — Instruções de Aeronavegabilidade Continuada – ICA: documento emitido pelo detentor → fragmentos/is/is-145-109-001--sec-4.7.md
+- `4.8` — Publicação Técnica – PT: representa um termo genérico que inclui os documentos produ- → fragmentos/is/is-145-109-001--sec-4.8.md
+- `5.1` — Geral → fragmentos/is/is-145-109-001--sec-5.1.md
+- `5.2` — Proprietário das publicações técnicas → fragmentos/is/is-145-109-001--sec-5.2.md
+- `5.3` — Aspectos da obtenção, atualização e controle de Diretrizes de Aeronavegabilidade - DA → fragmentos/is/is-145-109-001--sec-5.3.md
+- `5.4` — Aspectos de obtenção, atualização e controle de publicações técnicas → fragmentos/is/is-145-109-001--sec-5.4.md
+- `5.5` — Utilização das publicações técnicas na manutenção, manutenção preventiva e altera- → fragmentos/is/is-145-109-001--sec-5.5.md
+- `5.6` — Idioma das publicações técnicas → fragmentos/is/is-145-109-001--sec-5.6.md
+- `5.7` — Classificação, guarda, atualização, recolhimento e descarte das publicações técnicas → fragmentos/is/is-145-109-001--sec-5.7.md
+- `5.8` — É previsto que os manuais da OM descrevam os procedimentos para o recolhimento, classi- → fragmentos/is/is-145-109-001--sec-5.8.md
+- `6` — APÊNDICES → fragmentos/is/is-145-109-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-145-109-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-145-109-001--sec-7.2.md
+
+## is-145-214-001
+- `cabecalho` → fragmentos/is/is-145-214-001--sec-cabecalho.md
+- `1.1` — Detalhar critérios e recomendações a serem utilizados como métodos aceitáveis de → fragmentos/is/is-145-214-001--sec-1.1.md
+- `3.1` — Meio aceitável de cumprimento → fragmentos/is/is-145-214-001--sec-3.1.md
+- `3.2` — A segurança operacional no âmbito do Estado → fragmentos/is/is-145-214-001--sec-3.2.md
+- `3.3` — A segurança operacional no âmbito dos PSAC → fragmentos/is/is-145-214-001--sec-3.3.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-145-214-001--sec-4.md
+- `4.1` — Alta Direção: pessoa ou grupo de pessoas que dirige e controla uma organização, da qual → fragmentos/is/is-145-214-001--sec-4.1.md
+- `4.2` — Análise (Analysis): exame de um objeto, situação ou sistema, a partir das partes que os → fragmentos/is/is-145-214-001--sec-4.2.md
+- `4.3` — Análise crítica: atividade realizada para determinar a pertinência, adequação, eficácia e → fragmentos/is/is-145-214-001--sec-4.3.md
+- `4.4` — Avaliação (Assessment): parecer conclusivo sobre os resultados de uma análise, com base → fragmentos/is/is-145-214-001--sec-4.4.md
+- `4.5` — Competência: atributos pessoais e capacidades demonstrados para aplicar conhecimentos e → fragmentos/is/is-145-214-001--sec-4.5.md
+- `4.6` — Controle: parte da gestão focada no atendimento de determinados requisitos aplicáveis a → fragmentos/is/is-145-214-001--sec-4.6.md
+- `4.7` — Desempenho (performance): esforço empreendido na direção de resultados mensuráveis a → fragmentos/is/is-145-214-001--sec-4.7.md
+- `4.8` — Documento: informação e o meio no qual ela está contida. → fragmentos/is/is-145-214-001--sec-4.8.md
+- `4.9` — Efetividade: (1) qualidade ou estado daquilo que é concretizado, realizado; (2) dimensão do → fragmentos/is/is-145-214-001--sec-4.9.md
+- `4.10` — Eficácia: dimensão do desempenho segundo a qual se avalia a extensão na qual as atividades → fragmentos/is/is-145-214-001--sec-4.10.md
+- `4.11` — Eficiência: dimensão do desempenho que expressa a relação entre o resultado alcançado e → fragmentos/is/is-145-214-001--sec-4.11.md
+- `4.12` — Escalabilidade: critério definido nesta IS com o objetivo de relativizar os PSAC para fins → fragmentos/is/is-145-214-001--sec-4.12.md
+- `4.13` — Garantia: parte da gestão focada em prover confiança de que determinados requisitos → fragmentos/is/is-145-214-001--sec-4.13.md
+- `4.14` — Gerenciamento ou Gestão: atividades coordenadas para dirigir e controlar uma → fragmentos/is/is-145-214-001--sec-4.14.md
+- `4.15` — Gestor Responsável – GR: pessoa pertencente à Alta Direção da organização de → fragmentos/is/is-145-214-001--sec-4.15.md
+- `4.16` — Impacto (outcome): nível de satisfação atribuído ou valor agregado aos serviços prestados → fragmentos/is/is-145-214-001--sec-4.16.md
+- `4.17` — Implantação: formalização e disponibilização de um processo ou procedimento para seus → fragmentos/is/is-145-214-001--sec-4.17.md
+- `4.18` — Implementação: consiste em colocar um processo ou procedimento em operacionalização, → fragmentos/is/is-145-214-001--sec-4.18.md
+- `4.19` — Indicador: métrica adotada para avaliar a direção e o ritmo nos quais prosseguem as ações → fragmentos/is/is-145-214-001--sec-4.19.md
+- `4.20` — Melhoria: parte da gestão focada em aumentar a capacidade de atendimento aos requisitos → fragmentos/is/is-145-214-001--sec-4.20.md
+- `4.21` — Melhoria contínua: atividade recorrente para aumentar a capacidade de atendimento aos → fragmentos/is/is-145-214-001--sec-4.21.md
+- `4.22` — Meta: objetivo mensurável a ser alcançado pela organização em um intervalo de tempo → fragmentos/is/is-145-214-001--sec-4.22.md
+- `4.23` — Objetivo: resultado planejado em função da política de uma organização. → fragmentos/is/is-145-214-001--sec-4.23.md
+- `4.24` — Organização: grupo de instalações e pessoas com um conjunto de responsabilidades, → fragmentos/is/is-145-214-001--sec-4.24.md
+- `4.25` — Política: intenções e diretrizes globais de uma organização, formalmente expressas pela Alta → fragmentos/is/is-145-214-001--sec-4.25.md
+- `4.26` — Procedimento: forma especificada para executar uma determinada atividade ou processo. → fragmentos/is/is-145-214-001--sec-4.26.md
+- `4.27` — Processo: conjunto de atividades inter-relacionadas             que   transforma     insumos → fragmentos/is/is-145-214-001--sec-4.27.md
+- `4.28` — Qualidade: grau no qual um conjunto de características inerentes a processos, produtos ou → fragmentos/is/is-145-214-001--sec-4.28.md
+- `4.29` — Registro: documento que apresenta resultados obtidos ou fornece evidências de atividades → fragmentos/is/is-145-214-001--sec-4.29.md
+- `4.30` — Representante da Alta Direção para a Segurança Operacional – RSO: pessoa → fragmentos/is/is-145-214-001--sec-4.30.md
+- `4.31` — Responsabilidade primária (accountability): Declaração formal e explícita das obrigações → fragmentos/is/is-145-214-001--sec-4.31.md
+- `4.32` — Resultado: aquilo que é obtido (serviços ou produtos) através da operacionalização dos → fragmentos/is/is-145-214-001--sec-4.32.md
+- `4.33` — Requisito: necessidade ou expectativa expressa de forma obrigatória. → fragmentos/is/is-145-214-001--sec-4.33.md
+- `4.34` — Sistema: conjunto de elementos que interagem entre si e de forma ordenada, visando atingir → fragmentos/is/is-145-214-001--sec-4.34.md
+- `4.35` — Validação: determinação de que requisitos aplicáveis a um determinado serviço ou produto → fragmentos/is/is-145-214-001--sec-4.35.md
+- `4.36` — Verificação: avaliação de que requisitos validados se aplicáveis a um determinado serviço → fragmentos/is/is-145-214-001--sec-4.36.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-145-214-001--sec-5.1.md
+- `5.2` — Critérios para Classificação das organizações de manutenção em função do porte e → fragmentos/is/is-145-214-001--sec-5.2.md
+- `5.3` — Plano de Implementação do SGSO → fragmentos/is/is-145-214-001--sec-5.3.md
+- `5.4` — Fases de Implementação do SGSO → fragmentos/is/is-145-214-001--sec-5.4.md
+- `5.5` — Estruturação do SGSO → fragmentos/is/is-145-214-001--sec-5.5.md
+- `5.6` — Descrição, Função e Escopo dos componentes e elementos do SGSO → fragmentos/is/is-145-214-001--sec-5.6.md
+- `5.7` — Abordagem organizacional para Fatores Humanos na manutenção aeronáutica → fragmentos/is/is-145-214-001--sec-5.7.md
+- `5.8` — Critérios para a análise e aceitação do SGSO pela ANAC → fragmentos/is/is-145-214-001--sec-5.8.md
+- `5.9` — SGSO de organizações detentores de múltipla certificação → fragmentos/is/is-145-214-001--sec-5.9.md
+- `5.10` — Sistema de Gestão Integrado → fragmentos/is/is-145-214-001--sec-5.10.md
+- `6` — APÊNDICE → fragmentos/is/is-145-214-001--sec-6.md
+- `7.1` — Na utilização desta IS e de seus Apêndices, conforme listados na seção 6, cabe a seguinte → fragmentos/is/is-145-214-001--sec-7.1.md
+- `7.2` — Os casos eventualmente omissos serão dirimidos pela SAR/ANAC. → fragmentos/is/is-145-214-001--sec-7.2.md
+- `7.3` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-145-214-001--sec-7.3.md
+- `(inteira)` — Apêndice B, 1.9/1.10/1.11/1.12/1.13] → fragmentos/is/is-145-214-001--apêndice-b-1-9-1-10-1-11-1-12-1-13.md
+- `(inteira)` → fragmentos/is/is-145-214-001--apendice.md
+- `8` — Referências:[5.6.1.3(b)(III); Apêndice A; Apêndice B, → fragmentos/is/is-145-214-001--sec-8.md
+- `(inteira)` — APÊNDICE D – CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN- → fragmentos/is/is-145-214-001--apêndice-d-critérios-e-recomendações-par.md
+- `(inteira)` → fragmentos/is/is-145-214-001--apendice.md
+- `(inteira)` — APÊNDICE G – CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN- → fragmentos/is/is-145-214-001--apêndice-g-critérios-e-recomendações-par.md
+- `(inteira)` → fragmentos/is/is-145-214-001--apendice.md
+- `(inteira)` — APÊNDICE H –– CRITÉRIOS E RECOMENDAÇÕES PARA DEFINIÇÃO E IMPLEMEN- → fragmentos/is/is-145-214-001--apêndice-h-critérios-e-recomendações-par.md
+- `(inteira)` → fragmentos/is/is-145-214-001--apendice.md
+- `(inteira)` — Apêndice explorar tal conteúdo, que se limita a referenciá-las como aplicáveis a → fragmentos/is/is-145-214-001--apêndice-explorar-tal-conteúdo-que-se-li.md
+- `(inteira)` → fragmentos/is/is-145-214-001--apendice.md
+
+## is-153-203-001
+- `cabecalho` → fragmentos/is/is-153-203-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-153-203-001--sec-1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-203-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-203-001--sec-3.2.md
+- `3.3` — ASTM International. D5340 - 12 Standard Test Method for Airport Pavement Condition → fragmentos/is/is-153-203-001--sec-3.3.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 do → fragmentos/is/is-153-203-001--sec-4.1.md
+- `4.2` — Pavement condition index (PCI) é um índice de serventia da condição geral da superfície do → fragmentos/is/is-153-203-001--sec-4.2.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-203-001--sec-5.1.md
+- `6` — AVALIAÇÃO DA CONDIÇÃO FUNCIONAL DE PAVIMENTO → fragmentos/is/is-153-203-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-203-001--sec-6.1.md
+- `6.2` — Índice de Serventia → fragmentos/is/is-153-203-001--sec-6.2.md
+- `7.1` — Esta IS entra em vigor em 1º de outubro de 2020. → fragmentos/is/is-153-203-001--sec-7.1.md
+- `8` — REFERÊNCIAS BIBLIOGRÁFICAS → fragmentos/is/is-153-203-001--sec-8.md
+
+## is-153-405-001
+- `cabecalho` → fragmentos/is/is-153-405-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-405-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-405-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-405-001--sec-3.2.md
+- `3.3` — Organização da Aviação Civil Internacional (OACI), Annex 14 to the Convention on → fragmentos/is/is-153-405-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-405-001--sec-3.4.md
+- `3.5` — Associação Brasileira de Normas Técnicas (ABNT), NBR 15511: Líquido Gerador de → fragmentos/is/is-153-405-001--sec-3.5.md
+- `3.6` — Associação Brasileira de Normas Técnicas (ABNT), NBR 9695: Pó para extinção de → fragmentos/is/is-153-405-001--sec-3.6.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-405-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-405-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-405-001--sec-6.1.md
+- `6.2` — Agente extintor principal → fragmentos/is/is-153-405-001--sec-6.2.md
+- `6.3` — Agente extintor complementar → fragmentos/is/is-153-405-001--sec-6.3.md
+- `6.4` — Avaliação do nível de eficácia do agente extintor principal → fragmentos/is/is-153-405-001--sec-6.4.md
+- `7` — APÊNDICES → fragmentos/is/is-153-405-001--sec-7.md
+
+## is-153-407-001
+- `cabecalho` → fragmentos/is/is-153-407-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-407-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-407-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-407-001--sec-3.2.md
+- `3.3` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-407-001--sec-3.3.md
+- `3.4` — National Fire Protection Association (NFPA), NFPA 414: Standard for Aircraft Rescue → fragmentos/is/is-153-407-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-407-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-407-001--sec-5.1.md
+- `6` — CARRO CONTRAINCÊNDIO E DEMAIS VEÍCULOS DO SESCINC → fragmentos/is/is-153-407-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-407-001--sec-6.1.md
+- `6.2` — Carro Contraincêndio (CCI) → fragmentos/is/is-153-407-001--sec-6.2.md
+- `6.3` — Demais veículos do SESCINC → fragmentos/is/is-153-407-001--sec-6.3.md
+- `7` — APÊNDICES → fragmentos/is/is-153-407-001--sec-7.md
+
+## is-153-409-001
+- `cabecalho` → fragmentos/is/is-153-409-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-409-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-409-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-409-001--sec-3.2.md
+- `3.3` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-409-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), Anexo 14, volume I: Aerodrome → fragmentos/is/is-153-409-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-409-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-409-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-409-001--sec-6.1.md
+- `6.2` — Objetivo operacional → fragmentos/is/is-153-409-001--sec-6.2.md
+- `6.3` — Condições de visibilidade e de superfície de pista → fragmentos/is/is-153-409-001--sec-6.3.md
+- `6.4` — Aferição do Tempo-resposta → fragmentos/is/is-153-409-001--sec-6.4.md
+
+## is-153-413-001
+- `cabecalho` → fragmentos/is/is-153-413-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-413-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-413-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-413-001--sec-3.2.md
+- `3.3` — Organização da Aviação Civil Internacional (OACI), Annex 14 to the Convention on → fragmentos/is/is-153-413-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-413-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-413-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-413-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-413-001--sec-6.1.md
+- `6.2` — Avaliação da compatibilidade da operação → fragmentos/is/is-153-413-001--sec-6.2.md
+- `7` — APÊNDICES → fragmentos/is/is-153-413-001--sec-7.md
+
+## is-153-417-001
+- `cabecalho` → fragmentos/is/is-153-417-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-417-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-417-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-417-001--sec-3.2.md
+- `3.3` — Resolução nº 279, de 10 de julho de 2013. → fragmentos/is/is-153-417-001--sec-3.3.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-417-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-417-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-417-001--sec-6.1.md
+- `6.2` — Atualização dos profissionais → fragmentos/is/is-153-417-001--sec-6.2.md
+- `7` — APÊNDICES → fragmentos/is/is-153-417-001--sec-7.md
+
+## is-153-421-001
+- `cabecalho` → fragmentos/is/is-153-421-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-421-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-421-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-421-001--sec-3.2.md
+- `3.3` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-421-001--sec-3.3.md
+- `4.1` — Para os efeitos desta IS, são válidos, além dos termos e definições apresentados na seção → fragmentos/is/is-153-421-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-421-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-421-001--sec-6.1.md
+- `6.2` — Traje de Proteção → fragmentos/is/is-153-421-001--sec-6.2.md
+- `6.3` — Equipamento de Proteção Respiratória → fragmentos/is/is-153-421-001--sec-6.3.md
+- `7` — APÊNDICES → fragmentos/is/is-153-421-001--sec-7.md
+
+## is-153-423-001
+- `cabecalho` → fragmentos/is/is-153-423-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-423-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-423-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-423-001--sec-3.2.md
+- `3.3` — Federal Aviation Administration (FAA), Advisory Circular nº 150/5210-14B - Aircraft → fragmentos/is/is-153-423-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-423-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-423-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-423-001--sec-5.1.md
+- `6` — EQUIPAMENTOS DE APOIO ÀS OPERAÇÕES DE RESGATE → fragmentos/is/is-153-423-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-423-001--sec-6.1.md
+- `6.2` — Outros equipamentos recomendados → fragmentos/is/is-153-423-001--sec-6.2.md
+- `7` — APÊNDICES → fragmentos/is/is-153-423-001--sec-7.md
+
+## is-153-425-001
+- `cabecalho` → fragmentos/is/is-153-425-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-425-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-425-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-425-001--sec-3.2.md
+- `3.3` — Federal Aviation Administration (FAA), Advisory Circular nº 150/5210-15A: Aircraft → fragmentos/is/is-153-425-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-425-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-425-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-425-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-425-001--sec-6.1.md
+- `6.2` — Localização → fragmentos/is/is-153-425-001--sec-6.2.md
+- `6.3` — Infraestrutura → fragmentos/is/is-153-425-001--sec-6.3.md
+- `6.4` — Sala de Observação → fragmentos/is/is-153-425-001--sec-6.4.md
+- `6.5` — Sistema de Reabastecimento do CCI com Água → fragmentos/is/is-153-425-001--sec-6.5.md
+- `6.6` — Sistemas de Recarregamento Contínuo das Baterias e de Reabastecimento dos → fragmentos/is/is-153-425-001--sec-6.6.md
+- `6.7` — Posto Avançado Contraincêndio (PACI) → fragmentos/is/is-153-425-001--sec-6.7.md
+- `7` — APÊNDICES → fragmentos/is/is-153-425-001--sec-7.md
+
+## is-153-427-001
+- `cabecalho` → fragmentos/is/is-153-427-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-427-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-427-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-427-001--sec-3.2.md
+- `3.3` — Federal Aviation Administration (FAA), Advisory Circular nº 150/5210-7D: Aircraft → fragmentos/is/is-153-427-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-427-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-427-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-427-001--sec-5.1.md
+- `6` — SISTEMAS DE COMUNICAÇÃO E ALARME → fragmentos/is/is-153-427-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-427-001--sec-6.1.md
+- `6.2` — Sistema de Comunicação → fragmentos/is/is-153-427-001--sec-6.2.md
+- `6.3` — Sistema de Alarme → fragmentos/is/is-153-427-001--sec-6.3.md
+- `7` — APÊNDICES → fragmentos/is/is-153-427-001--sec-7.md
+
+## is-153-429-001
+- `cabecalho` → fragmentos/is/is-153-429-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-429-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-429-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-429-001--sec-3.2.md
+- `3.3` — Federal Aviation Administration (FAA), Advisory Circular nº 150/5210-15A: Aircraft → fragmentos/is/is-153-429-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-429-001--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-429-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-429-001--sec-5.1.md
+- `6` — VIAS DE ACESSO DE EMERGÊNCIA → fragmentos/is/is-153-429-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-429-001--sec-6.1.md
+- `6.2` — Características Desejáveis para Vias de Acesso de Emergência → fragmentos/is/is-153-429-001--sec-6.2.md
+- `7` — APÊNDICES → fragmentos/is/is-153-429-001--sec-7.md
+
+## is-153-431-001
+- `cabecalho` → fragmentos/is/is-153-431-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-431-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-431-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-431-001--sec-3.2.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-431-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-431-001--sec-5.1.md
+- `6.1` — Generalidades → fragmentos/is/is-153-431-001--sec-6.1.md
+- `6.2` — Relatório Semestral dos Acionamentos do SESCINC → fragmentos/is/is-153-431-001--sec-6.2.md
+- `6.3` — Acionamentos do SESCINC para Atendimento a Emergências Aeronáuticas. → fragmentos/is/is-153-431-001--sec-6.3.md
+- `7` — APÊNDICES → fragmentos/is/is-153-431-001--sec-7.md
+- `7.1` — Descrição da Emergência (inclusive causa do incêndio): → fragmentos/is/is-153-431-001--sec-7.1.md
+- `7.2` — Relato da operação de controle, combate e extinção do incêndio, e das condições de resgate no momento da chegada dos CCI → fragmentos/is/is-153-431-001--sec-7.2.md
+- `7.3` — Descrição da evacuação dos ocupantes mencionando as seções da aeronave que foram protegidas, auxílios necessários, porta → fragmentos/is/is-153-431-001--sec-7.3.md
+- `8.1` — Descrição De outros detalhes importantes, tais como: comunicações utilizadas e condições do terreno, se houve alguma dif → fragmentos/is/is-153-431-001--sec-8.1.md
+- `9.1` — Estado da aeronave no término das       Pelo Acidente                      Pelo Incêndio → fragmentos/is/is-153-431-001--sec-9.1.md
+- `10.1` — Local, Data e Assinatura: → fragmentos/is/is-153-431-001--sec-10.1.md
+
+## is-153-433-001
+- `cabecalho` → fragmentos/is/is-153-433-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar tem o objetivo de apresentar considerações e recomendações → fragmentos/is/is-153-433-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-433-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-433-001--sec-3.2.md
+- `3.3` — Federal Aviation Administration (FAA), Advisory Circular nº 150/5210-13C: Airport → fragmentos/is/is-153-433-001--sec-3.3.md
+- `3.4` — Organização da Aviação Civil Internacional (OACI), DOC 9137-NA/898: Airport → fragmentos/is/is-153-433-001--sec-3.4.md
+- `3.5` — Organização da Aviação Civil Internacional (OACI), Annex 14 to the Convention on → fragmentos/is/is-153-433-001--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 → fragmentos/is/is-153-433-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-433-001--sec-5.1.md
+- `6` — SERVIÇO ESPECIALIZADO DE SALVAMENTO AQUÁTICO → fragmentos/is/is-153-433-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-433-001--sec-6.1.md
+- `6.2` — Considerações sobre o atendimento → fragmentos/is/is-153-433-001--sec-6.2.md
+- `6.3` — Recursos materiais → fragmentos/is/is-153-433-001--sec-6.3.md
+- `6.4` — Recursos humanos → fragmentos/is/is-153-433-001--sec-6.4.md
+- `6.5` — Comunicação → fragmentos/is/is-153-433-001--sec-6.5.md
+- `6.6` — Coordenação com órgãos externos → fragmentos/is/is-153-433-001--sec-6.6.md
+
+## is-153-503-001
+- `cabecalho` → fragmentos/is/is-153-503-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a → fragmentos/is/is-153-503-001--sec-1.1.md
+- `2.1` — Esta Instrução Suplementar revoga a Instrução Suplementar nº 164-001 - Revisão A. → fragmentos/is/is-153-503-001--sec-2.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-503-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-503-001--sec-3.2.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 do → fragmentos/is/is-153-503-001--sec-4.1.md
+- `4.2` — Espécie-problema significa a espécie de fauna que represente perigo às operações aéreas → fragmentos/is/is-153-503-001--sec-4.2.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-503-001--sec-5.1.md
+- `6.1` — Introdução → fragmentos/is/is-153-503-001--sec-6.1.md
+- `6.2` — Da Análise do Risco de Colisão com Fauna – ARF → fragmentos/is/is-153-503-001--sec-6.2.md
+- `6.3` — [FC 153.503(e)(4) e 153.505(l)] Fatores para a análise do risco → fragmentos/is/is-153-503-001--sec-6.3.md
+- `6.4` — [FC 153.503(e)(4) e 153.505(l)] Formulação da Análise do Risco da Fauna → fragmentos/is/is-153-503-001--sec-6.4.md
+- `6.5` — [FC 153.503(e)(4) e 153.505(l)] Classificação do risco provocado pelas espécies- → fragmentos/is/is-153-503-001--sec-6.5.md
+- `6.6` — Disposições Finais → fragmentos/is/is-153-503-001--sec-6.6.md
+- `7.1` — Apêndice A – Tabela de classificação geral do risco. → fragmentos/is/is-153-503-001--sec-7.1.md
+- `7.2` — Apêndice B – Exemplo de aplicação da metodologia descritiva na subseção 6.4 para um caso → fragmentos/is/is-153-503-001--sec-7.2.md
+- `8.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-153-503-001--sec-8.1.md
+- `8.2` — Esta IS entra em vigor em 1º de abril de 2021. → fragmentos/is/is-153-503-001--sec-8.2.md
+- `9.1` — CARTER, Nicholas B. (2001). “All birds are not created equal: risk assessment and → fragmentos/is/is-153-503-001--sec-9.1.md
+- `9.2` — VILLAREAL, Lina M. A. (2008). Programa Nacional de Limitación de Fauna en → fragmentos/is/is-153-503-001--sec-9.2.md
+
+## is-153-505-001
+- `cabecalho` → fragmentos/is/is-153-505-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de esclarecer, detalhar e orientar a aplicação → fragmentos/is/is-153-505-001--sec-1.1.md
+- `1.2` — Os procedimentos apresentados nesta IS visam essencialmente à identificação dos perigos → fragmentos/is/is-153-505-001--sec-1.2.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 153: Aeródromos – operação, manutenção e → fragmentos/is/is-153-505-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-153-505-001--sec-3.2.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 153.1 do → fragmentos/is/is-153-505-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-153-505-001--sec-5.1.md
+- `6` — PROCEDIMENTOS DE IDENTIFICAÇÃO DOS PERIGOS PRESENTES NO SÍTIO → fragmentos/is/is-153-505-001--sec-6.md
+- `6.1` — Generalidades → fragmentos/is/is-153-505-001--sec-6.1.md
+- `6.2` — Controle da vegetação → fragmentos/is/is-153-505-001--sec-6.2.md
+- `6.3` — Controle de focos secundários → fragmentos/is/is-153-505-001--sec-6.3.md
+- `6.4` — Valas de drenagem e galerias de água pluvial → fragmentos/is/is-153-505-001--sec-6.4.md
+- `6.5` — Dispositivos de esgotamento sanitário → fragmentos/is/is-153-505-001--sec-6.5.md
+- `6.6` — Lagos, áreas alagadiças e demais formas de acúmulo de água → fragmentos/is/is-153-505-001--sec-6.6.md
+- `6.7` — Coleta de resíduos sólidos → fragmentos/is/is-153-505-001--sec-6.7.md
+- `6.8` — Edificações, equipamentos e demais implantações → fragmentos/is/is-153-505-001--sec-6.8.md
+- `6.9` — Sistema de proteção → fragmentos/is/is-153-505-001--sec-6.9.md
+- `7` — PROCEDIMENTOS PARA O MONITORAMENTO                                DA     FAUNA      NO    SÍTIO → fragmentos/is/is-153-505-001--sec-7.md
+- `7.1` — Generalidades → fragmentos/is/is-153-505-001--sec-7.1.md
+- `7.2` — Monitoramento da fauna → fragmentos/is/is-153-505-001--sec-7.2.md
+- `7.3` — Registro e acompanhamento de relatos e denúncias → fragmentos/is/is-153-505-001--sec-7.3.md
+- `8` — PROCEDIMENTOS PARA IMPLANTAÇÃO DE TÉCNICAS PARA MODIFICAÇÃO → fragmentos/is/is-153-505-001--sec-8.md
+- `8.1` — Generalidades → fragmentos/is/is-153-505-001--sec-8.1.md
+- `8.2` — Vegetação → fragmentos/is/is-153-505-001--sec-8.2.md
+- `8.3` — Focos secundários → fragmentos/is/is-153-505-001--sec-8.3.md
+- `8.4` — Valas de drenagem e galerias de água pluvial → fragmentos/is/is-153-505-001--sec-8.4.md
+- `8.5` — Dispositivos de esgotamento sanitário → fragmentos/is/is-153-505-001--sec-8.5.md
+- `8.6` — Lagos, áreas alagadiças e demais formas de acúmulo de água → fragmentos/is/is-153-505-001--sec-8.6.md
+- `8.7` — Coleta de resíduos sólidos → fragmentos/is/is-153-505-001--sec-8.7.md
+- `8.8` — Edificações, equipamentos e demais implantações → fragmentos/is/is-153-505-001--sec-8.8.md
+- `8.9` — Sistema de proteção → fragmentos/is/is-153-505-001--sec-8.9.md
+- `9.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-153-505-001--sec-9.1.md
+- `9.2` — Esta IS entra em vigor em 1º de abril de 2021. → fragmentos/is/is-153-505-001--sec-9.2.md
+
+## is-154-201-001
+- `cabecalho` → fragmentos/is/is-154-201-001--sec-cabecalho.md
+- `1.1` — A presente Instrução Suplementar – IS tem o objetivo de detalhar as especificações de → fragmentos/is/is-154-201-001--sec-1.1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil nº 154 (RBAC nº 154): Projeto de aeródromos. → fragmentos/is/is-154-201-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14º e seguintes. → fragmentos/is/is-154-201-001--sec-3.2.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 154.15 do → fragmentos/is/is-154-201-001--sec-4.1.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-154-201-001--sec-5.1.md
+- `6` — CRITÉRIOS DE PROJETO PARA RANHURAS TRANSVERSAIS (GROOVING) EM → fragmentos/is/is-154-201-001--sec-6.md
+- `6.1` — [FC 154.201(h)(2)] – Além de perpendiculares ao eixo da pista de pouso e decolagem, as → fragmentos/is/is-154-201-001--sec-6.1.md
+
+## is-154-209-001
+- `cabecalho` → fragmentos/is/is-154-209-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-154-209-001--sec-1.md
+- `3.1` — Regulamento Brasileiro da Aviação Civil n° 154 (RBAC n° 154): Projeto de aeródromos. → fragmentos/is/is-154-209-001--sec-3.1.md
+- `3.2` — Resolução nº 30, de 21 de maio de 2008, artigo 14 e seguintes. → fragmentos/is/is-154-209-001--sec-3.2.md
+- `4.1` — Para os efeitos desta IS, são válidos os termos e definições apresentados na seção 154.15 do → fragmentos/is/is-154-209-001--sec-4.1.md
+- `4.2` — Overrun significa o evento onde a aeronave ultrapassa a extremidade longitudinal da pista → fragmentos/is/is-154-209-001--sec-4.2.md
+- `4.3` — Undershoot significa o evento onde a aeronave realiza o toque antes de alcançar a cabeceira. → fragmentos/is/is-154-209-001--sec-4.3.md
+- `5.1` — Esta IS está estruturada da seguinte forma: → fragmentos/is/is-154-209-001--sec-5.1.md
+- `6` — CRITÉRIOS DE          PROJETO      PARA SISTEMAS           DE    DESACELERAÇÃO             DE → fragmentos/is/is-154-209-001--sec-6.md
+- `6.1` — Áreas de segurança de fim de pista (RESA) têm como objetivo a redução do risco de danos → fragmentos/is/is-154-209-001--sec-6.1.md
+- `6.2` — Por serem localizadas após a faixa de pista de pouso e decolagem, há dificuldade em se → fragmentos/is/is-154-209-001--sec-6.2.md
+- `6.3` — Nessas situações, podem ser implantados sistemas de desaceleração de aeronaves, que são → fragmentos/is/is-154-209-001--sec-6.3.md
+- `6.4` — Dessa forma, as disposições desta IS são focadas nas características físicas do sistema para → fragmentos/is/is-154-209-001--sec-6.4.md
+- `6.5` — Tendo em vista as funções das RESA descritas no item 6.1 acima, devem ser observadas as → fragmentos/is/is-154-209-001--sec-6.5.md
+- `6.6` — Devem ser observadas as disposições contidas na seção 154.405 do RBAC n° 154 para a → fragmentos/is/is-154-209-001--sec-6.6.md
+- `6.7` — [FC 154.209(b)(3), G.7(d), G.7(e), G.7(f) e G.7(g)] As dimensões do sistema de → fragmentos/is/is-154-209-001--sec-6.7.md
+- `6.8` — [FC 154.209(b)(3), G.7(d), G.7(e), G.7(f) e G.7(g)] O material constitutivo de um sistema → fragmentos/is/is-154-209-001--sec-6.8.md
+- `6.9` — [Recomendação] O operador de aeródromo, com base em análise de risco sobre a segurança → fragmentos/is/is-154-209-001--sec-6.9.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-154-209-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor em 3 de janeiro de 2022. → fragmentos/is/is-154-209-001--sec-7.2.md
+- `8` — REFERÊNCIAS BIBLIOGRÁFICAS → fragmentos/is/is-154-209-001--sec-8.md
+
+## is-161-55-001
+- `cabecalho` → fragmentos/is/is-161-55-001--sec-cabecalho.md
+- `1.1` — A presente Instrução Suplementar – IS tem por objetivo estabelecer a metodologia e os → fragmentos/is/is-161-55-001--sec-1.1.md
+- `3.1` — Resolução ANAC nº 202, de 28 de setembro de 2011, que aprova o Regulamento Brasileiro → fragmentos/is/is-161-55-001--sec-3.1.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições aplicáveis ao RBAC 161, e a seguinte → fragmentos/is/is-161-55-001--sec-4.1.md
+- `5.1` — Objetivo do Projeto de Monitoramento de Ruído → fragmentos/is/is-161-55-001--sec-5.1.md
+- `5.2` — Análise Preliminar → fragmentos/is/is-161-55-001--sec-5.2.md
+- `5.3` — Área de monitoramento → fragmentos/is/is-161-55-001--sec-5.3.md
+- `5.4` — Objeto do monitoramento → fragmentos/is/is-161-55-001--sec-5.4.md
+- `5.5` — Metodologia de monitoramento → fragmentos/is/is-161-55-001--sec-5.5.md
+- `5.6` — Relatórios dos Projetos de Monitoramento de Ruído → fragmentos/is/is-161-55-001--sec-5.6.md
+- `6` — APÊNDICE → fragmentos/is/is-161-55-001--sec-6.md
+- `7.1` — 1 Caso sejam identificadas infrações relativas ao não cumprimento de restrições operacionais, → fragmentos/is/is-161-55-001--sec-7.1.md
+
+## is-164-001
+- `cabecalho` → fragmentos/is/is-164-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-164-001--sec-1.md
+- `3` — FUNDAMENTOS → fragmentos/is/is-164-001--sec-3.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-164-001--sec-4.md
+- `5.1` — Introdução → fragmentos/is/is-164-001--sec-5.1.md
+- `5.2` — Da Análise do Risco de Colisão com Fauna – ARF → fragmentos/is/is-164-001--sec-5.2.md
+- `5.3` — Fatores para a análise do risco → fragmentos/is/is-164-001--sec-5.3.md
+- `5.4` — Formulação da Análise do Risco da Fauna → fragmentos/is/is-164-001--sec-5.4.md
+- `5.5` — Classificação do risco provocado pelas espécies-problema → fragmentos/is/is-164-001--sec-5.5.md
+- `5.6` — Disposições Finais → fragmentos/is/is-164-001--sec-5.6.md
+- `6.1` — Apêndice A – Lista de reduções. → fragmentos/is/is-164-001--sec-6.1.md
+- `6.2` — Apêndice B – Tabela de classificação geral do risco. → fragmentos/is/is-164-001--sec-6.2.md
+- `7.1` — O operador do aeródromo pode definir metodologia diferente da exposta nesta IS, desde → fragmentos/is/is-164-001--sec-7.1.md
+- `7.2` — A ANAC poderá emitir parecer sobre qualquer análise de risco apresentada. → fragmentos/is/is-164-001--sec-7.2.md
+- `7.3` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-164-001--sec-7.3.md
+- `7.4` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-164-001--sec-7.4.md
+- `8.1` — CARTER, Nicholas B. (2001). “All birds are not created equal: risk assessment and → fragmentos/is/is-164-001--sec-8.1.md
+- `8.2` — VILLAREAL, Lina M. A. (2008). Programa Nacional de Limitación de Fauna en → fragmentos/is/is-164-001--sec-8.2.md
+
+## is-175-000
+- `cabecalho` → fragmentos/is/is-175-000--sec-cabecalho.md
+- `1.1` — Definir e estabelecer o processo de certificação para o transporte de artigos perigosos. → fragmentos/is/is-175-000--sec-1.1.md
+- `2.1` — Esta IS revoga a IS nº 175-000, Revisão A. → fragmentos/is/is-175-000--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-175-000--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-000--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b) desta IS deve garantir nível → fragmentos/is/is-175-000--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-175-000--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01 e 175, na IS nº → fragmentos/is/is-175-000--sec-4.1.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-175-000--sec-5.1.md
+- `5.2` — Processo de certificação para o transporte de artigos perigosos → fragmentos/is/is-175-000--sec-5.2.md
+- `5.3` — Protocolo de documentos e modelos de formulários → fragmentos/is/is-175-000--sec-5.3.md
+- `5.4` — Regime de portais do processo → fragmentos/is/is-175-000--sec-5.4.md
+- `5.5` — Emolumentos → fragmentos/is/is-175-000--sec-5.5.md
+- `5.6` — Fase 1 – Orientação prévia → fragmentos/is/is-175-000--sec-5.6.md
+- `5.7` — Fase 2 – Solicitação formal → fragmentos/is/is-175-000--sec-5.7.md
+- `5.8` — Fase 3 – Avaliação de documentos → fragmentos/is/is-175-000--sec-5.8.md
+- `5.9` — Fase 4 – Demonstrações e inspeções → fragmentos/is/is-175-000--sec-5.9.md
+- `5.10` — Fase 5 – Certificação → fragmentos/is/is-175-000--sec-5.10.md
+- `5.11` — Encerramento compulsório do processo de certificação → fragmentos/is/is-175-000--sec-5.11.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-175-000--sec-7.1.md
+- `7.2` — Esta IS entra em vigor em 1º de abril de 2021. → fragmentos/is/is-175-000--sec-7.2.md
+
+## is-175-001
+- `cabecalho` → fragmentos/is/is-175-001--sec-cabecalho.md
+- `1.1` — A presente Instrução Suplementar detalha os requisitos relacionados ao transporte civil de → fragmentos/is/is-175-001--sec-1.1.md
+- `2.1` — Esta IS revoga a IS nº 175-001, Revisão L. → fragmentos/is/is-175-001--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-175-001--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-001--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b) desta IS deve garantir nível → fragmentos/is/is-175-001--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-175-001--sec-3.4.md
+- `4.1` — As definições utilizadas na presente IS constam no parágrafo A3.1 do Apêndice A. → fragmentos/is/is-175-001--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-175-001--sec-5.1.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-175-001--sec-7.1.md
+- `8` — Essa entrada aplica-se às misturas técnicas em n-butanol dentro dos limites de concentração especificados para o isômero → fragmentos/is/is-175-001--sec-8.md
+- `9` — O composto técnico com os limites de concentração especificados pode conter até 12% de água e até 1% de impurezas → fragmentos/is/is-175-001--sec-9.md
+- `10` — Oxigênio disponível ≤8,2%, com ou sem água. → fragmentos/is/is-175-001--sec-10.md
+- `13` — Exige-se a etiqueta de perigo secundário “CORROSIVO” (ver Figura E-24). → fragmentos/is/is-175-001--sec-13.md
+- `14` — Formulações de ácido peracético que atendam aos critérios especificados em B5.3.2.4. → fragmentos/is/is-175-001--sec-14.md
+- `15` — Formulações de ácido peracético que atendam aos critérios especificados em B5.3.2.4. → fragmentos/is/is-175-001--sec-15.md
+- `16` — Formulações de ácido peracético que atendam aos critérios especificados em B5.3.2.4. → fragmentos/is/is-175-001--sec-16.md
+- `17` — A adição de água a esse peróxido orgânico reduz sua estabilidade térmica → fragmentos/is/is-175-001--sec-17.md
+- `18` — Não é necessária a etiqueta de perigo secundário “CORROSIVO” para concentrações inferiores a 80%. → fragmentos/is/is-175-001--sec-18.md
+- `19` — Misturas com peróxido de hidrogênio, água e ácido(s). → fragmentos/is/is-175-001--sec-19.md
+- `20` — Com diluente tipo A, com ou sem água. → fragmentos/is/is-175-001--sec-20.md
+- `21` — Com ≥25% de diluente tipo A, em massa, e adicionalmente etilbenzeno. → fragmentos/is/is-175-001--sec-21.md
+- `22` — Com ≥19% de diluente tipo A, em massa, e adicionalmente metilisobutilcetona. → fragmentos/is/is-175-001--sec-22.md
+- `24` — Com ≤8% de 1-isopropil-hidroperóxi-4-isopropil-hidroxibenzeno. → fragmentos/is/is-175-001--sec-24.md
+- `25` — Diluente tipo B com ponto de ebulição >110°C. → fragmentos/is/is-175-001--sec-25.md
+- `26` — Com <0.5% de conteúdo hidroperóxido. → fragmentos/is/is-175-001--sec-26.md
+- `27` — Para concentrações superiores a 56%, é exigida etiqueta de perigo secundário “CORROSIVO’’ (ver Figura E-24). → fragmentos/is/is-175-001--sec-27.md
+- `28` — Oxigênio ativo disponível ≤7.6%, em diluente tipo A com ponto de vaporização de 95% na faixa de 200ºC a 260ºC. → fragmentos/is/is-175-001--sec-28.md
+- `29` — Não sujeito aos requisitos que o RBAC nº 175 e esta Instrução Suplementar estabelecem para a Divisão 5.2. → fragmentos/is/is-175-001--sec-29.md
+- `30` — Diluente tipo B com ponto de ebulição >130°C. → fragmentos/is/is-175-001--sec-30.md
+- `34` — Soma de diluente tipo A e água ≥55% e, em adição, metiletilcetona. → fragmentos/is/is-175-001--sec-34.md
+
+## is-175-004
+- `cabecalho` → fragmentos/is/is-175-004--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-175-004--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-175-004--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar – → fragmentos/is/is-175-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b desta IS deve garantir → fragmentos/is/is-175-004--sec-3.3.md
+- `3.4` — Esta IS baseia-se nos requisitos presentes no RBAC nº 175 para identificar, classificar, → fragmentos/is/is-175-004--sec-3.4.md
+- `4.1` — Para os efeitos desta IS adotam-se as definições do RBAC nº 175, da IS nº 175-001 e demais → fragmentos/is/is-175-004--sec-4.1.md
+- `5.1` — O transporte aéreo de artigos perigosos pode ser realizado com segurança desde que se → fragmentos/is/is-175-004--sec-5.1.md
+- `5.2` — Devem ser cumpridos os procedimentos presentes nesta IS de forma a reduzir a possibilidade → fragmentos/is/is-175-004--sec-5.2.md
+- `5.3` — Não obstante ao disposto no RBAC nº 175 e nesta IS, o transporte deve obedecer os requisitos → fragmentos/is/is-175-004--sec-5.3.md
+- `5.4` — A segurança, assim como o sucesso da operação, somente será alcançada por meio do → fragmentos/is/is-175-004--sec-5.4.md
+- `5.5` — Todas as responsabilidades previstas para a expedição de artigos perigosos classificados como → fragmentos/is/is-175-004--sec-5.5.md
+- `5.6` — Esta IS é aplicável aos expedidores, aos operadores aéreos regidos pelo RBAC nº 121 e pelo → fragmentos/is/is-175-004--sec-5.6.md
+- `5.7` — Apenas operadores aéreos que possuam autorização para o transporte de artigos perigosos em → fragmentos/is/is-175-004--sec-5.7.md
+- `5.8` — O Conhecimento de Transporte eletrônico – CT-e deve ser emitido para todos os transportes → fragmentos/is/is-175-004--sec-5.8.md
+- `5.9` — Os passageiros e os tripulantes estão proibidos de transportar substâncias infectantes na → fragmentos/is/is-175-004--sec-5.9.md
+- `5.10` — As substâncias infectantes são classificadas como artigo perigoso da Divisão 6.2 e atribuídas, → fragmentos/is/is-175-004--sec-5.10.md
+- `5.11` — As substâncias classificadas na Divisão 6.2 são divididas em Categoria A ou em Categoria B. → fragmentos/is/is-175-004--sec-5.11.md
+- `5.12` — Esta IS está dividida da seguinte forma: → fragmentos/is/is-175-004--sec-5.12.md
+- `5.13` — Um resumo das orientações apresentadas nos itens a seguir pode ser encontrado no Apêndice → fragmentos/is/is-175-004--sec-5.13.md
+- `6.1` — Substância infectante da Categoria A é a substância infectante transportada de forma que, em → fragmentos/is/is-175-004--sec-6.1.md
+- `6.2` — Considera-se exposição quando uma substância infectante vaza da sua embalagem protetora, → fragmentos/is/is-175-004--sec-6.2.md
+- `6.3` — Substâncias infectantes que se enquadrem na Categoria A e que causem doenças apenas em → fragmentos/is/is-175-004--sec-6.3.md
+- `6.4` — Substâncias infectantes que se enquadrem na Categoria A e que causem doenças apenas em → fragmentos/is/is-175-004--sec-6.4.md
+- `6.5` — A atribuição aos números UN 2814 ou UN 2900 deve ser baseada no histórico médico → fragmentos/is/is-175-004--sec-6.5.md
+- `6.6` — Uma lista não exaustiva de substâncias infectantes da Categoria A é apresentada na Tabela 1. → fragmentos/is/is-175-004--sec-6.6.md
+- `6.7` — Instrução de embalagem 620 → fragmentos/is/is-175-004--sec-6.7.md
+- `6.8` — Documentação → fragmentos/is/is-175-004--sec-6.8.md
+- `6.9` — Limitação de quantidade → fragmentos/is/is-175-004--sec-6.9.md
+- `6.10` — Etiquetagem → fragmentos/is/is-175-004--sec-6.10.md
+- `6.11` — Marcação → fragmentos/is/is-175-004--sec-6.11.md
+- `6.12` — Outras disposições → fragmentos/is/is-175-004--sec-6.12.md
+- `7.1` — Substância infectante da Categoria B é a substância infectante que não se enquadra nos → fragmentos/is/is-175-004--sec-7.1.md
+- `7.2` — Substâncias infectantes da Categoria B são atribuídas ao número UN 3373 e identificadas com → fragmentos/is/is-175-004--sec-7.2.md
+- `7.3` — Instrução de embalagem 650 → fragmentos/is/is-175-004--sec-7.3.md
+- `7.4` — Documentação → fragmentos/is/is-175-004--sec-7.4.md
+- `7.5` — Limitação de quantidade → fragmentos/is/is-175-004--sec-7.5.md
+- `7.6` — Etiquetagem → fragmentos/is/is-175-004--sec-7.6.md
+- `7.7` — Marcação → fragmentos/is/is-175-004--sec-7.7.md
+- `7.8` — Outras disposições → fragmentos/is/is-175-004--sec-7.8.md
+- `8` — ESPÉCIME HUMANO/ANIMAL DE RISCO MÍNIMO → fragmentos/is/is-175-004--sec-8.md
+- `8.1` — Amostras de pacientes para as quais há probabilidade mínima de presença de agentes → fragmentos/is/is-175-004--sec-8.1.md
+- `8.2` — Amostras de pacientes consideradas espécimes humanos/animais de risco mínimo não estão → fragmentos/is/is-175-004--sec-8.2.md
+- `8.3` — Exemplos de amostras de pacientes que podem ser consideradas como espécimes → fragmentos/is/is-175-004--sec-8.3.md
+- `8.4` — Instrução de embalagem → fragmentos/is/is-175-004--sec-8.4.md
+- `8.5` — Julgamento profissional → fragmentos/is/is-175-004--sec-8.5.md
+- `8.6` — Documentação → fragmentos/is/is-175-004--sec-8.6.md
+- `8.7` — Limitação de quantidade → fragmentos/is/is-175-004--sec-8.7.md
+- `8.8` — Etiquetagem → fragmentos/is/is-175-004--sec-8.8.md
+- `8.9` — Marcação → fragmentos/is/is-175-004--sec-8.9.md
+- `9.1` — Equipamentos ou dispositivos médicos que possam conter substâncias infectantes ou possam → fragmentos/is/is-175-004--sec-9.1.md
+- `9.2` — Instrução de embalagem → fragmentos/is/is-175-004--sec-9.2.md
+- `9.3` — Documentação → fragmentos/is/is-175-004--sec-9.3.md
+- `9.4` — Limitação de quantidade → fragmentos/is/is-175-004--sec-9.4.md
+- `9.5` — Etiquetagem → fragmentos/is/is-175-004--sec-9.5.md
+- `9.6` — Marcação → fragmentos/is/is-175-004--sec-9.6.md
+- `10.1` — Materiais biológicos isentos são aqueles que não se enquadram na Divisão 6.2 e, → fragmentos/is/is-175-004--sec-10.1.md
+- `10.2` — São considerados materiais biológicos isentos: → fragmentos/is/is-175-004--sec-10.2.md
+- `10.3` — Instrução de embalagem → fragmentos/is/is-175-004--sec-10.3.md
+- `10.4` — Documentação → fragmentos/is/is-175-004--sec-10.4.md
+- `10.5` — Limitação de quantidade → fragmentos/is/is-175-004--sec-10.5.md
+- `10.6` — Etiquetagem → fragmentos/is/is-175-004--sec-10.6.md
+- `10.7` — Marcação → fragmentos/is/is-175-004--sec-10.7.md
+- `11.1` — Para os efeitos desta IS, os produtos biológicos dividem-se nos seguintes grupos: → fragmentos/is/is-175-004--sec-11.1.md
+- `11.2` — É possível que alguns produtos biológicos licenciados apresentem perigo biológico só em → fragmentos/is/is-175-004--sec-11.2.md
+- `12` — ORGANISMOS E MICRO-ORGANISMOS GENETICAMENTE MODIFICADOS → fragmentos/is/is-175-004--sec-12.md
+- `12.1` — Organismos e micro-organismos geneticamente modificados que não se enquadrem na → fragmentos/is/is-175-004--sec-12.1.md
+- `13.1` — Os resíduos médicos ou clínicos que contenham substâncias infectantes da Categoria A são → fragmentos/is/is-175-004--sec-13.1.md
+- `13.2` — Resíduos médicos ou clínicos que contenham substâncias infectantes da Categoria B são → fragmentos/is/is-175-004--sec-13.2.md
+- `13.3` — Os resíduos médicos ou clínicos que estejam sob suspeita razoável de possuir uma pequena → fragmentos/is/is-175-004--sec-13.3.md
+- `13.4` — Os resíduos médicos ou clínicos descontaminados que contiveram anteriormente substâncias → fragmentos/is/is-175-004--sec-13.4.md
+- `13.5` — Instrução de embalagem 621 → fragmentos/is/is-175-004--sec-13.5.md
+- `13.6` — Documentação → fragmentos/is/is-175-004--sec-13.6.md
+- `13.7` — Limitação de quantidade → fragmentos/is/is-175-004--sec-13.7.md
+- `13.8` — Etiquetagem → fragmentos/is/is-175-004--sec-13.8.md
+- `13.9` — Marcação → fragmentos/is/is-175-004--sec-13.9.md
+- `13.10` — Outras disposições → fragmentos/is/is-175-004--sec-13.10.md
+- `14.1` — Animais vivos não podem ser utilizados para expedir substâncias infectantes a menos que essa → fragmentos/is/is-175-004--sec-14.1.md
+- `15.1` — Amostras de pacientes são identificadas com os números UN 2814, UN 2900 ou UN 3373 → fragmentos/is/is-175-004--sec-15.1.md
+- `16` — MATERIAL REFRIGERANTE – GELO SECO → fragmentos/is/is-175-004--sec-16.md
+- `16.1` — Comumente, materiais refrigerantes estão presentes na mesma embalagem que as substâncias → fragmentos/is/is-175-004--sec-16.1.md
+- `16.2` — O gelo seco é o artigo perigoso mais utilizado como material refrigerante. → fragmentos/is/is-175-004--sec-16.2.md
+- `16.3` — O gelo seco é identificado com o número UN 1845 e com os nomes apropriados para embarque → fragmentos/is/is-175-004--sec-16.3.md
+- `16.4` — Instrução de embalagem 954 → fragmentos/is/is-175-004--sec-16.4.md
+- `16.5` — Documentação → fragmentos/is/is-175-004--sec-16.5.md
+- `16.6` — Limitação de quantidade → fragmentos/is/is-175-004--sec-16.6.md
+- `16.7` — Etiquetagem → fragmentos/is/is-175-004--sec-16.7.md
+- `16.8` — Marcação → fragmentos/is/is-175-004--sec-16.8.md
+- `16.9` — Outras disposições → fragmentos/is/is-175-004--sec-16.9.md
+- `17.1` — Apêndice A – Lista de verificação de aceitação de UN 3373, Substâncias biológicas, Categoria → fragmentos/is/is-175-004--sec-17.1.md
+- `17.2` — Apêndice B – Lista de verificação de aceitação de espécime humano/animal de risco mínimo → fragmentos/is/is-175-004--sec-17.2.md
+- `17.3` — Apêndice C – Quadro Resumo – Material Biológico → fragmentos/is/is-175-004--sec-17.3.md
+- `17.4` — Apêndice D – Exemplos de embalagem tríplice → fragmentos/is/is-175-004--sec-17.4.md
+- `17.5` — Apêndice E – Controle de alterações → fragmentos/is/is-175-004--sec-17.5.md
+- `18.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-175-004--sec-18.1.md
+- `18.2` — Esta IS entra em vigor em 1º de abril de 2021. → fragmentos/is/is-175-004--sec-18.2.md
+- `(inteira)` — APÊNDICE B – LISTA DE VERIFICAÇÃO DE ACEITAÇÃO DE ESPÉCIME HUMANO/ANIMAL → fragmentos/is/is-175-004--apêndice-b-lista-de-verificação-de-aceit.md
+- `(inteira)` → fragmentos/is/is-175-004--apendice.md
+
+## is-175-006
+- `cabecalho` → fragmentos/is/is-175-006--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-175-006--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-175-006--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-175-006--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-006--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b desta IS deve garantir nível → fragmentos/is/is-175-006--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-175-006--sec-3.4.md
+- `3.5` — Esta IS também se fundamenta no RBAC nº 121, no RBAC nº 135, no RBAC nº 175 e → fragmentos/is/is-175-006--sec-3.5.md
+- `4.1` — Para os efeitos desta IS adotam-se as definições do RBAC nº 121, do RBAC nº 135, do → fragmentos/is/is-175-006--sec-4.1.md
+- `5.1` — Disposições gerais → fragmentos/is/is-175-006--sec-5.1.md
+- `5.2` — 1       O transporte aéreo de artigos perigosos pode ser realizado com segurança desde que se → fragmentos/is/is-175-006--sec-5.2.md
+- `5.3` — Declaração de Conformidade → fragmentos/is/is-175-006--sec-5.3.md
+- `5.4` — Encaminhamento de documentação para análise do MAP → fragmentos/is/is-175-006--sec-5.4.md
+- `5.5` — 1       São exigidos procedimentos relacionados ao transporte de artigos perigosos no MGO, → fragmentos/is/is-175-006--sec-5.5.md
+- `6.1` — Apêndice A – Declaração de Conformidade para operador aéreo regido pelo RBAC nº → fragmentos/is/is-175-006--sec-6.1.md
+- `6.2` — Apêndice B – Declaração de Conformidade para operador aéreo regido pelo RBAC nº → fragmentos/is/is-175-006--sec-6.2.md
+- `6.3` — Apêndice C – Declaração de Conformidade para operador aéreo regido pelo RBAC nº → fragmentos/is/is-175-006--sec-6.3.md
+- `6.4` — Apêndice D – Assuntos que compõem o MGO de um operador aéreo regido pelo RBAC → fragmentos/is/is-175-006--sec-6.4.md
+- `6.5` — Apêndice E – Assuntos que compõem o MGO de um operador aéreo regido pelo RBAC → fragmentos/is/is-175-006--sec-6.5.md
+- `6.6` — Apêndice F – Modelo de Notificação ao Comandante → fragmentos/is/is-175-006--sec-6.6.md
+- `6.7` — Apêndice G – Controle de alterações → fragmentos/is/is-175-006--sec-6.7.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-175-006--sec-7.1.md
+- `8` — Procedimento de emergência → fragmentos/is/is-175-006--sec-8.md
+- `9` — Notificação de ocorrências – discrepâncias, incidentes e acidentes – com artigos perigosos → fragmentos/is/is-175-006--sec-9.md
+- `10` — perigosos → fragmentos/is/is-175-006--sec-10.md
+- `11` — Procedimento de emergência → fragmentos/is/is-175-006--sec-11.md
+- `12` — Notificação de ocorrências – discrepâncias, incidentes e acidentes – com artigos perigosos → fragmentos/is/is-175-006--sec-12.md
+
+## is-175-008
+- `cabecalho` → fragmentos/is/is-175-008--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-175-008--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-175-008--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-175-008--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-008--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b desta IS deve garantir → fragmentos/is/is-175-008--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-175-008--sec-3.4.md
+- `4.1` — Lei n° 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de → fragmentos/is/is-175-008--sec-4.1.md
+- `4.2` — Regulamento Brasileiro de Aviação Civil n° 175 – RBAC n° 175. → fragmentos/is/is-175-008--sec-4.2.md
+- `4.3` — Anexo 18 à Convenção sobre Aviação Civil Internacional: Transporte Seguro de Artigos → fragmentos/is/is-175-008--sec-4.3.md
+- `4.4` — Documento 9284-AN/905 da OACI: Instruções técnicas para o Transporte Seguro de → fragmentos/is/is-175-008--sec-4.4.md
+- `4.5` — Suplemento ao Doc 9284 da OACI: Instruções técnicas para o Transporte Seguro de → fragmentos/is/is-175-008--sec-4.5.md
+- `5.1` — Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 175, na IS nº 175- → fragmentos/is/is-175-008--sec-5.1.md
+- `6.1` — As Instruções Técnicas, no âmbito internacional, e o RBAC nº 175 e a IS nº 175-001, no → fragmentos/is/is-175-008--sec-6.1.md
+- `6.2` — Esta IS provê informação a pessoas que requeiram autorização para expedir ou transportar → fragmentos/is/is-175-008--sec-6.2.md
+- `6.3` — Na aplicação desta IS, devem-se considerar as disposições contidas no RBAC nº 175 e a → fragmentos/is/is-175-008--sec-6.3.md
+- `6.4` — Alguns artigos perigosos são considerados demasiadamente perigosos para serem → fragmentos/is/is-175-008--sec-6.4.md
+- `6.5` — Alguns artigos perigosos são proibidos em circunstâncias normais, mas podem ser → fragmentos/is/is-175-008--sec-6.5.md
+- `6.6` — Para os casos em que se intencione transportar artigos perigosos proibidos em → fragmentos/is/is-175-008--sec-6.6.md
+- `6.7` — O parágrafo 175.1(c) do RBAC n° 175 estabelece os casos em que artigos perigosos → fragmentos/is/is-175-008--sec-6.7.md
+- `7.1` — Qualquer pessoa pode requerer uma aprovação ou autorização especial da ANAC para → fragmentos/is/is-175-008--sec-7.1.md
+- `7.2` — A responsabilidade pela obtenção de uma aprovação ou autorização especial pode ser do → fragmentos/is/is-175-008--sec-7.2.md
+- `7.3` — Dependendo de cada caso, a ANAC poderá exigir o envolvimento do expedidor ou do → fragmentos/is/is-175-008--sec-7.3.md
+- `7.4` — A obtenção de uma aprovação ou autorização especial outorgada por outros países → fragmentos/is/is-175-008--sec-7.4.md
+- `7.5` — Uma aprovação ou autorização especial emitida pela ANAC não confere direitos ao → fragmentos/is/is-175-008--sec-7.5.md
+- `7.6` — Quando se requeira uma aprovação ou autorização especial de mais de um país, o → fragmentos/is/is-175-008--sec-7.6.md
+- `7.7` — Uma aprovação ou autorização especial em conformidade com esta IS pode ser emitida → fragmentos/is/is-175-008--sec-7.7.md
+- `7.8` — Uma aprovação ou autorização especial para transportar artigo perigoso proibido somente → fragmentos/is/is-175-008--sec-7.8.md
+- `7.9` — Aplica-se uma aprovação ou autorização especial também aos artigos ou substâncias não → fragmentos/is/is-175-008--sec-7.9.md
+- `7.10` — Salvo em situação excepcional, uma aprovação ou autorização especial não será → fragmentos/is/is-175-008--sec-7.10.md
+- `7.11` — Independentemente de quem seja o responsável pela obtenção de uma aprovação ou → fragmentos/is/is-175-008--sec-7.11.md
+- `7.12` — Quando artigos perigosos forem transportados sob as condições de uma aprovação ou → fragmentos/is/is-175-008--sec-7.12.md
+- `8` — CONDIÇÕES   ADICIONAIS                  RELACIONADAS              À      SEGURANÇA → fragmentos/is/is-175-008--sec-8.md
+- `8.1` — Ao solicitar uma aprovação, o requerente deve comprovar que se mantém um nível de → fragmentos/is/is-175-008--sec-8.1.md
+- `8.2` — Ao solicitar uma autorização especial, o requerente deve fazer todo o esforço para se → fragmentos/is/is-175-008--sec-8.2.md
+- `8.3` — Um nível de segurança operacional equivalente se mantém quando, mediante medidas → fragmentos/is/is-175-008--sec-8.3.md
+- `8.4` — Ao solicitar uma aprovação ou autorização especial, o operador aéreo deve considerar → fragmentos/is/is-175-008--sec-8.4.md
+- `8.5` — Esta lista de condições não é exaustiva. É necessário que se identifiquem todos os perigos → fragmentos/is/is-175-008--sec-8.5.md
+- `8.6` — Quando uma entrada na Tabela S-3-1 do Suplemento tiver um número entre parêntesis → fragmentos/is/is-175-008--sec-8.6.md
+- `8.7` — A fim de garantir a segurança operacional de artigos perigosos sob uma aprovação ou → fragmentos/is/is-175-008--sec-8.7.md
+- `9` — CONDIÇÕES ESPECIAIS PARA EXPLOSIVOS → fragmentos/is/is-175-008--sec-9.md
+- `9.1` — Normalmente, não se permite o transporte por via aérea da maioria das divisões e grupos → fragmentos/is/is-175-008--sec-9.1.md
+- `9.2` — A expedição e transporte por via aérea de explosivos em quantidades superiores àquelas → fragmentos/is/is-175-008--sec-9.2.md
+- `9.3` — A emissão de uma aprovação ou autorização especial para transporte de explosivos não → fragmentos/is/is-175-008--sec-9.3.md
+- `9.4` — Em todos os casos envolvendo o transporte de explosivos em que uma aprovação ou → fragmentos/is/is-175-008--sec-9.4.md
+- `9.5` — Os operadores dos aeródromos de origem, destino, trânsito e alternativa deverão ser → fragmentos/is/is-175-008--sec-9.5.md
+- `9.6` — Quando as condições de uma autorização especial não atingirem o nível de segurança → fragmentos/is/is-175-008--sec-9.6.md
+- `9.7` — O operador aéreo será responsável pela segurança dos explosivos, estando ou não a bordo → fragmentos/is/is-175-008--sec-9.7.md
+- `10.1` — Quando esteja especificamente previsto no RBAC nº 175 e na IS nº 175-001, os países → fragmentos/is/is-175-008--sec-10.1.md
+- `10.2` — Uma aprovação, conforme definida nesta IS, é requerida e poderá ser outorgada para os → fragmentos/is/is-175-008--sec-10.2.md
+- `10.3` — O objeto ou substância assinalado com a Provisão Especial A1 na Lista de Artigos → fragmentos/is/is-175-008--sec-10.3.md
+- `10.4` — O objeto ou substância assinalado com a Provisão Especial A2 na Lista de Artigos → fragmentos/is/is-175-008--sec-10.4.md
+- `10.5` — Quando os países que não sejam o país de origem nem o país do operador aéreo tenham → fragmentos/is/is-175-008--sec-10.5.md
+- `10.6` — Em todos os casos de aprovação para transporte de objeto ou substância assinalado com → fragmentos/is/is-175-008--sec-10.6.md
+- `10.7` — Quando as Instruções Técnicas não preveem a outorga de uma aprovação, o requerente → fragmentos/is/is-175-008--sec-10.7.md
+- `11` — AUTORIZAÇÃO ESPECIAL (EXEMPTION) → fragmentos/is/is-175-008--sec-11.md
+- `11.1` — Em casos de extrema urgência, ou quando outros modos de transporte sejam → fragmentos/is/is-175-008--sec-11.1.md
+- `11.2` — Para a emissão de uma autorização especial, todos os esforços devem ser tomados para → fragmentos/is/is-175-008--sec-11.2.md
+- `11.3` — Em voos internacionais envolvendo o Brasil, além da autorização especial emitida pela → fragmentos/is/is-175-008--sec-11.3.md
+- `11.4` — Para o Brasil como país de sobrevoo, se nenhum dos critérios para emissão de uma → fragmentos/is/is-175-008--sec-11.4.md
+- `11.5` — São exemplos de autorização especial: volumes acima do tamanho ou peso permitido pelo → fragmentos/is/is-175-008--sec-11.5.md
+- `11.6` — Ao solicitar uma autorização especial, deve-se considerar a razão pela qual é importante → fragmentos/is/is-175-008--sec-11.6.md
+- `11.7` — As solicitações baseadas exclusivamente em razões comerciais não serão consideradas → fragmentos/is/is-175-008--sec-11.7.md
+- `11.8` — Sob a alegação de que outros modos de transporte são inapropriados, ainda que o → fragmentos/is/is-175-008--sec-11.8.md
+- `11.9` — Sob a alegação de que o cumprimento de todas as condições da regulamentação vigente → fragmentos/is/is-175-008--sec-11.9.md
+- `11.10` — Ao solicitar uma autorização especial, o requerente deverá informar a razão pela qual é → fragmentos/is/is-175-008--sec-11.10.md
+- `11.11` — Não serão concedidas autorizações especiais para transporte de artigos perigosos → fragmentos/is/is-175-008--sec-11.11.md
+- `11.12` — Passageiros e membros da tripulação de cabine não poderão ser transportados em uma → fragmentos/is/is-175-008--sec-11.12.md
+- `11.13` — O transporte de artigo perigoso indicado como "Proibido" ("Forbidden") nas colunas 10 → fragmentos/is/is-175-008--sec-11.13.md
+- `11.14` — Ao se solicitar uma autorização especial para o transporte de artigo perigoso indicado → fragmentos/is/is-175-008--sec-11.14.md
+- `11.15` — O requerente da autorização especial será aquele cujas responsabilidades são mais → fragmentos/is/is-175-008--sec-11.15.md
+- `11.16` — Em geral, cada autorização especial será outorgada para uma ocasião determinada. Porém → fragmentos/is/is-175-008--sec-11.16.md
+- `11.17` — O requerente tem a responsabilidade de especificar os requisitos do RBAC nº 175 e da IS → fragmentos/is/is-175-008--sec-11.17.md
+- `11.18` — Para se determinar um nível de segurança operacional equivalente àquele previsto pela → fragmentos/is/is-175-008--sec-11.18.md
+- `11.19` — Uma cópia do documento de autorização especial deverá ser proporcionada ao operador → fragmentos/is/is-175-008--sec-11.19.md
+- `11.20` — Ao receber uma solicitação de outorga de autorização especial por parte de um operador → fragmentos/is/is-175-008--sec-11.20.md
+- `11.21` — Ao solicitar uma autorização especial que envolva o transporte de artigos perigosos de → fragmentos/is/is-175-008--sec-11.21.md
+- `12.1` — Fase 1 – Orientação Prévia → fragmentos/is/is-175-008--sec-12.1.md
+- `12.2` — Fase 2 – Solicitação Formal → fragmentos/is/is-175-008--sec-12.2.md
+- `12.3` — Fase 3 – Análise de Procedimentos → fragmentos/is/is-175-008--sec-12.3.md
+- `12.4` — Fase 4 – Demonstrações e Inspeções → fragmentos/is/is-175-008--sec-12.4.md
+- `12.5` — Fase 5 – Outorga → fragmentos/is/is-175-008--sec-12.5.md
+- `13.1` — A ANAC poderá, a qualquer momento, revogar uma aprovação ou autorização especial → fragmentos/is/is-175-008--sec-13.1.md
+- `13.2` — Ao decidir pela revogação de uma aprovação ou autorização especial, a ANAC notificará → fragmentos/is/is-175-008--sec-13.2.md
+- `14.1` — Uma pessoa poderá requerer a renovação de uma aprovação ou autorização especial que → fragmentos/is/is-175-008--sec-14.1.md
+- `14.2` — A existência de uma aprovação ou autorização especial prévia não garante ao requerente → fragmentos/is/is-175-008--sec-14.2.md
+- `15` — APÊNDICES → fragmentos/is/is-175-008--sec-15.md
+- `16.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-175-008--sec-16.1.md
+- `16.2` — Esta IS entra em vigor em 1º de abril de 2021. → fragmentos/is/is-175-008--sec-16.2.md
+- `(inteira)` — APÊNDICE A – FORMULÁRIO DE SOLICITAÇÃO DE APROVAÇÃO OU → fragmentos/is/is-175-008--apêndice-a-formulário-de-solicitação-de.md
+- `(inteira)` → fragmentos/is/is-175-008--apendice.md
+
+## is-175-009
+- `cabecalho` → fragmentos/is/is-175-009--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-175-009--sec-1.md
+- `2` — REVOGAÇÃO – N/A → fragmentos/is/is-175-009--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-175-009--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-009--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-175-009--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-175-009--sec-3.4.md
+- `3.5` — Esta IS também fundamenta-se no RBAC nº 175 e referencia-se nos seguintes → fragmentos/is/is-175-009--sec-3.5.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-175-009--sec-4.md
+- `4.1` — Conhecimento de Transporte eletrônico – CT-e: documento de existência → fragmentos/is/is-175-009--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-175-009--sec-5.1.md
+- `5.2` — Dos artigos perigosos a serem reportados no Relatório de Transporte de Artigos → fragmentos/is/is-175-009--sec-5.2.md
+- `5.3` — Do preenchimento do Relatório de Transporte de Artigos Perigosos → fragmentos/is/is-175-009--sec-5.3.md
+- `5.4` — Do envio do Relatório de Transporte de Artigos Perigosos à ANAC → fragmentos/is/is-175-009--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-175-009--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-175-009--sec-7.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-175-009--sec-7.1.md
+- `7.2` — Esta IS entra em vigor em 1º de abril de 2021. → fragmentos/is/is-175-009--sec-7.2.md
+
+## is-175-011
+- `cabecalho` → fragmentos/is/is-175-011--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-175-011--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-175-011--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-175-011--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-175-011--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b desta IS deve garantir nível → fragmentos/is/is-175-011--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-175-011--sec-3.4.md
+- `3.5` — Esta IS também fundamenta-se no RBAC nº 121, no RBAC nº 135, no RBAC nº 175 e → fragmentos/is/is-175-011--sec-3.5.md
+- `4.1` — Para os efeitos desta IS adotam-se as definições do RBAC nº 121, do RBAC nº 135, do → fragmentos/is/is-175-011--sec-4.1.md
+- `5.1` — Disposições gerais → fragmentos/is/is-175-011--sec-5.1.md
+- `5.2` — Requisitos gerais – Documentação requerida → fragmentos/is/is-175-011--sec-5.2.md
+- `5.3` — Requisitos gerais – Responsabilidades do expedidor → fragmentos/is/is-175-011--sec-5.3.md
+- `5.4` — Declaração do Expedidor para Artigos Perigosos - Especificação → fragmentos/is/is-175-011--sec-5.4.md
+- `5.5` — Declaração do Expedidor para Artigos Perigosos - Princípios gerais para o → fragmentos/is/is-175-011--sec-5.5.md
+- `5.6` — Declaração do Expedidor para Artigos Perigosos – Nome apropriado para → fragmentos/is/is-175-011--sec-5.6.md
+- `5.7` — Declaração do Expedidor para Artigos Perigosos – Outros requisitos → fragmentos/is/is-175-011--sec-5.7.md
+- `5.8` — Declaração do Expedidor para Artigos Perigosos - Instruções gerais de → fragmentos/is/is-175-011--sec-5.8.md
+- `5.9` — Declaração do Expedidor para Artigos Perigosos - Instruções detalhadas de → fragmentos/is/is-175-011--sec-5.9.md
+- `5.10` — Modelos de Declaração do Expedidor para Artigos Perigosos → fragmentos/is/is-175-011--sec-5.10.md
+- `5.11` — Instruções esquemáticas → fragmentos/is/is-175-011--sec-5.11.md
+- `5.12` — Exemplos de formulários preenchidos → fragmentos/is/is-175-011--sec-5.12.md
+- `6.1` — Apêndice A – Modelo de Declaração do Expedidor para Artigos Perigosos – → fragmentos/is/is-175-011--sec-6.1.md
+- `6.2` — Apêndice B – Modelo de Declaração do Expedidor para Artigos Perigosos – → fragmentos/is/is-175-011--sec-6.2.md
+- `6.3` — Apêndice C – Modelo de Declaração do Expedidor para Artigos Perigosos – → fragmentos/is/is-175-011--sec-6.3.md
+- `6.4` — Apêndice D – Modelo de Declaração do Expedidor para Artigos Perigosos – → fragmentos/is/is-175-011--sec-6.4.md
+- `6.5` — Apêndice E – Instruções Esquemáticas para preenchimento da Declaração do Expedidor → fragmentos/is/is-175-011--sec-6.5.md
+- `6.6` — Apêndice F – Instruções Esquemáticas para preenchimento da Declaração do Expedidor → fragmentos/is/is-175-011--sec-6.6.md
+- `6.7` — Apêndice G – Modelos de Declaração do Expedidor para Artigos Perigosos Preenchido → fragmentos/is/is-175-011--sec-6.7.md
+- `6.8` — Apêndice H – Controle de alterações → fragmentos/is/is-175-011--sec-6.8.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-175-011--sec-7.1.md
+- `7.2` — Esta IS entra em vigor em 14 de abril de 2021. → fragmentos/is/is-175-011--sec-7.2.md
+- `(inteira)` — APÊNDICE E - PASSOS DE PREENCHIMENTO DA DECLARAÇÃO DO EXPEDIDOR – → fragmentos/is/is-175-011--apêndice-e-passos-de-preenchimento-da-de.md
+- `(inteira)` → fragmentos/is/is-175-011--apendice.md
+- `(inteira)` — APÊNDICE F - PASSOS DE PREENCHIMENTO DA DECLARAÇÃO DO EXPEDIDOR – → fragmentos/is/is-175-011--apêndice-f-passos-de-preenchimento-da-de.md
+- `(inteira)` → fragmentos/is/is-175-011--apendice.md
+
+## is-183-004
+- `cabecalho` → fragmentos/is/is-183-004--sec-cabecalho.md
+- `1.1` — Estabelecer os critérios para aceitação e credenciamento de associações aerodesportivas junto → fragmentos/is/is-183-004--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui, em seu art. 14, a Instrução Suplementar – → fragmentos/is/is-183-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-183-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível → fragmentos/is/is-183-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-183-004--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01, 61 e 103. → fragmentos/is/is-183-004--sec-4.1.md
+- `5` — PROCEDIMENTOS → fragmentos/is/is-183-004--sec-5.md
+- `5.1` — Introdução → fragmentos/is/is-183-004--sec-5.1.md
+- `5.2` — Credenciamento → fragmentos/is/is-183-004--sec-5.2.md
+- `5.3` — Prazos de análise → fragmentos/is/is-183-004--sec-5.3.md
+- `5.4` — Portaria de credenciamento → fragmentos/is/is-183-004--sec-5.4.md
+- `5.5` — Relatórios anuais → fragmentos/is/is-183-004--sec-5.5.md
+- `6` — APÊNDICES → fragmentos/is/is-183-004--sec-6.md
+- `7.1` — O cadastro de aeronaves motorizadas regidas pelo RBAC nº 103 no site da ANAC e a → fragmentos/is/is-183-004--sec-7.1.md
+- `7.2` — A associação credenciada deve requerer e obter aprovação da ANAC para qualquer → fragmentos/is/is-183-004--sec-7.2.md
+- `7.3` — Em caso de dúvidas, as associações poderão entrar em contato com a ANAC por meio do e- → fragmentos/is/is-183-004--sec-7.3.md
+- `7.4` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-183-004--sec-7.4.md
+- `7.5` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-183-004--sec-7.5.md
+
+## is-20-003
+- `cabecalho` → fragmentos/is/is-20-003--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar - IS orienta sobre os tipos aceitáveis de extintores de incêndio → fragmentos/is/is-20-003--sec-1.1.md
+- `1.2` — Esta IS também relaciona os produtos atualmente disponíveis pela indústria como resposta → fragmentos/is/is-20-003--sec-1.2.md
+- `2.1` — Esta IS cancela e substitui a Revisão A da IS 20-003 publicada em 30 de maio de 2014. → fragmentos/is/is-20-003--sec-2.1.md
+- `3.1` — Extintores de incêndio portáteis aprovados são requeridos pelos regulamentos que estabele- → fragmentos/is/is-20-003--sec-3.1.md
+- `3.2` — Já o RBAC 23, que trata da regulamentação vigente para certificação de aviões categoria → fragmentos/is/is-20-003--sec-3.2.md
+- `3.3` — Há casos em que apenas os requisitos operacionais da aeronave estabelecem a necessidade de → fragmentos/is/is-20-003--sec-3.3.md
+- `3.4` — A aprovação formal de extintores implica em exaustivos testes de laboratório, ensaios de → fragmentos/is/is-20-003--sec-3.4.md
+- `3.5` — E em relação ao uso da IS, o Art. 14 da Resolução n° 030, de 21 de maio de 2008 que instituiu → fragmentos/is/is-20-003--sec-3.5.md
+- `3.6` — Neste sentido, o § 2° do Art. 14 da Resolução n° 030, de 21 de maio de 2008, supracitado, → fragmentos/is/is-20-003--sec-3.6.md
+- `3.7` — E ainda, o § 3° do Art. 14 da Resolução n° 030, de 21 de maio de 2008, supracitado, dispõe → fragmentos/is/is-20-003--sec-3.7.md
+- `4.1` — Fogo Classe A: fogo em materiais de uso comum, tais como: madeira, tecidos, papéis, bor- → fragmentos/is/is-20-003--sec-4.1.md
+- `4.2` — Fogo Classe B: fogo em líquidos inflamáveis, óleos, tintas e gases inflamáveis, para cuja → fragmentos/is/is-20-003--sec-4.2.md
+- `4.3` — Fogo Classe C: fogo em equipamento elétrico ligado, em que um agente extintor não con- → fragmentos/is/is-20-003--sec-4.3.md
+- `4.4` — Fogo Classe D: fogo em metais combustíveis, como o potássio, sódio, magnésio, titânio, → fragmentos/is/is-20-003--sec-4.4.md
+- `4.5` — Capacidade extintora: Uma das formas de medir o poder de extinção de fogo de um extin- → fragmentos/is/is-20-003--sec-4.5.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-20-003--sec-5.1.md
+- `5.2` — Agentes extintores → fragmentos/is/is-20-003--sec-5.2.md
+- `5.3` — Seleção do extintor adequado em aeronave → fragmentos/is/is-20-003--sec-5.3.md
+- `5.4` — Instalação do Extintor → fragmentos/is/is-20-003--sec-5.4.md
+- `5.5` — Padronização de extintores de incêndio → fragmentos/is/is-20-003--sec-5.5.md
+- `5.6` — Utilização do extintor → fragmentos/is/is-20-003--sec-5.6.md
+- `5.7` — Recomendação para uso → fragmentos/is/is-20-003--sec-5.7.md
+- `6` — APÊNDICES → fragmentos/is/is-20-003--sec-6.md
+- `7.1` — A indústria continua desenvolvendo gases que sejam tão eficientes quanto o 1301 ou 1211, → fragmentos/is/is-20-003--sec-7.1.md
+- `7.2` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-20-003--sec-7.2.md
+
+## is-21-013
+- `cabecalho` → fragmentos/is/is-21-013--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-21-013--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-21-013--sec-2.md
+- `3.1` — O artigo 68 da Lei Federal nº 7.565, de 19 de dezembro de 1986, prevê que a autoridade de → fragmentos/is/is-21-013--sec-3.1.md
+- `3.2` — A Subparte E do RBAC 21 estabelece requisitos para a emissão de um certificado → fragmentos/is/is-21-013--sec-3.2.md
+- `3.3` — A Resolução nº 30, de 21 de maio de 2008, alterada pela Resolução nº 162, de 20 de julho → fragmentos/is/is-21-013--sec-3.3.md
+- `4.1` — GNSS: O GNSS é um sistema global de determinação de posição e tempo (sincronismo), → fragmentos/is/is-21-013--sec-4.1.md
+- `4.2` — Equipamentos GNSS: São equipamentos de navegação por satélite, destinados a satisfazer → fragmentos/is/is-21-013--sec-4.2.md
+- `4.3` — Equipamentos GNSS Stand alone: São equipamentos GNSS que podem estar em interface → fragmentos/is/is-21-013--sec-4.3.md
+- `4.4` — Sistemas de Navegação Multisensor (Multi-Sensor Navigation System): Este tipo de → fragmentos/is/is-21-013--sec-4.4.md
+- `4.5` — Sistemas de Aprimoramento de Sinal (Augmentation System): O GNSS também pode → fragmentos/is/is-21-013--sec-4.5.md
+- `4.6` — Sistemas GNSS Interligados e Não Interligados: no âmbito desta IS, sistemas GNSS não → fragmentos/is/is-21-013--sec-4.6.md
+- `4.7` — Precisão: É o grau de conformidade entre a informação sobre posição e hora que → fragmentos/is/is-21-013--sec-4.7.md
+- `4.8` — Integridade: É a garantia de que todas as funções do sistema de navegação estão dentro dos → fragmentos/is/is-21-013--sec-4.8.md
+- `4.9` — Disponibilidade: É o percentual de tempo em que são utilizáveis as informações providas → fragmentos/is/is-21-013--sec-4.9.md
+- `4.10` — Continuidade: É a capacidade do sistema em proporcionar informações válidas de → fragmentos/is/is-21-013--sec-4.10.md
+- `4.11` — Funcionalidade: É o conjunto de funções específicas necessárias para cada tipo de operação → fragmentos/is/is-21-013--sec-4.11.md
+- `4.12` — PBN: O conceito de PBN estabelece que os requisitos do sistema RNAV da aeronave sejam → fragmentos/is/is-21-013--sec-4.12.md
+- `4.13` — RNAV: O acrônimo RNAV aparece com dois significados distintos nos textos de referência. → fragmentos/is/is-21-013--sec-4.13.md
+- `4.14` — RNP: É um dos dois tipos de navegação PBN existentes. RNAV e RNP são → fragmentos/is/is-21-013--sec-4.14.md
+- `4.15` — Erros: Os três principais erros no contexto PBN são Path Definion Error (PDE), Flight → fragmentos/is/is-21-013--sec-4.15.md
+- `4.16` — Campo de Visão Primário: Os campos de visão primários são definidos conforme a Figura → fragmentos/is/is-21-013--sec-4.16.md
+- `5` — INTRODUÇÃO → fragmentos/is/is-21-013--sec-5.md
+- `5.1` — A utilização de um sistema GNSS para operações VFR requer que a aeronave opere sob o → fragmentos/is/is-21-013--sec-5.1.md
+- `5.2` — IFR Convencional consiste em operações onde a navegação é feita em rotas que foram → fragmentos/is/is-21-013--sec-5.2.md
+- `5.3` — O conceito de IFR PBN, difundido a partir da terceira edição do DOC 9613 (Performance → fragmentos/is/is-21-013--sec-5.3.md
+- `5.4` — O conceito de PBN introduziu rotas ou procedimentos cuja execução requer que o conjunto → fragmentos/is/is-21-013--sec-5.4.md
+- `5.5` — Os documentos de referência da Tabela 1 estabelecem critérios de aeronavegabilidade, → fragmentos/is/is-21-013--sec-5.5.md
+- `5.6` — Os documentos de referência primários utilizados na organização do espaço aéreo brasileiro → fragmentos/is/is-21-013--sec-5.6.md
+- `6` — DOCUMENTAÇÃO → fragmentos/is/is-21-013--sec-6.md
+- `6.1` — Descrição da Instalação: Um sistema GNSS em uma aeronave poderá ter sua instalação → fragmentos/is/is-21-013--sec-6.1.md
+- `6.2` — Proposta de Suplemento ao Manual de Voo: → fragmentos/is/is-21-013--sec-6.2.md
+- `7` — CRITÉRIOS PARA INSTALAÇÃO GNSS → fragmentos/is/is-21-013--sec-7.md
+- `7.1` — Instalação: → fragmentos/is/is-21-013--sec-7.1.md
+- `7.2` — Considerações gerais sobre fatores humanos → fragmentos/is/is-21-013--sec-7.2.md
+- `7.3` — Interface entre equipamentos → fragmentos/is/is-21-013--sec-7.3.md
+- `7.4` — Interferência - Compatibilidade Eletromagnética (EMC) → fragmentos/is/is-21-013--sec-7.4.md
+- `7.5` — Efeitos da interrupção no sinal GNSS → fragmentos/is/is-21-013--sec-7.5.md
+- `7.6` — CRITÉRIOS GERAIS PARA GNSS → fragmentos/is/is-21-013--sec-7.6.md
+- `7.7` — CRITÉRIOS ESPECÍFICOS PARA GNSS VFR → fragmentos/is/is-21-013--sec-7.7.md
+- `7.8` — CRITÉRIOS ESPECÍFICOS                PARA       GNSS      EM      OPERAÇÕES          IFR → fragmentos/is/is-21-013--sec-7.8.md
+- `7.9` — TIPOS DE OPERAÇÕES E CRITÉRIOS ESPECÍFICOS PARA GNSS EM → fragmentos/is/is-21-013--sec-7.9.md
+- `8` — VERIFICAÇÃO DA INSTALAÇÃO E DE SEU FUNCIONAMENTO NO SOLO → fragmentos/is/is-21-013--sec-8.md
+- `8.1` — Verificar a posição da antena, com o afastamento mínimo de 3 pés (aproximadamente 1,0 m) → fragmentos/is/is-21-013--sec-8.1.md
+- `8.2` — Verificar a posição e inscrição dos placares aplicáveis; → fragmentos/is/is-21-013--sec-8.2.md
+- `8.3` — Verificar a posição dos anunciadores de fonte de navegação e demais anunciadores e → fragmentos/is/is-21-013--sec-8.3.md
+- `8.4` — Verificar a localização e a fixação das caixas de transferência, relés, módulos de acoplamento, → fragmentos/is/is-21-013--sec-8.4.md
+- `8.5` — Verificar se os fios de alimentação e interface estão na bitola adequada e se são de qualidade → fragmentos/is/is-21-013--sec-8.5.md
+- `8.6` — Verificar identificação, valores, conformidade com o projeto e acesso aos disjuntores; → fragmentos/is/is-21-013--sec-8.6.md
+- `8.7` — Verificar se o local de instalação do equipamento não está sujeito a condições ambientais → fragmentos/is/is-21-013--sec-8.7.md
+- `8.8` — Verificar se o equipamento instalado não apresenta reflexos indesejáveis, se as suas → fragmentos/is/is-21-013--sec-8.8.md
+- `8.9` — Verificar a variação de intensidade luminosa (DIM/BRT) do display e anunciadores/avisos, → fragmentos/is/is-21-013--sec-8.9.md
+- `8.10` — Verificar se o Manual de Operação do equipamento GNSS e demais funcionalidades → fragmentos/is/is-21-013--sec-8.10.md
+- `8.11` — Verificar se há interrupção do funcionamento do equipamento GNSS quando se abre o → fragmentos/is/is-21-013--sec-8.11.md
+- `8.12` — Verificar os procedimentos de inicialização, autoteste, versão do software, validade do → fragmentos/is/is-21-013--sec-8.12.md
+- `8.13` — Verificar se o equipamento GNSS, quando operando, não causa interferência nos demais → fragmentos/is/is-21-013--sec-8.13.md
+- `8.14` — Para instalações GNSS devem ser verificadas as interferências harmônicas das frequências de → fragmentos/is/is-21-013--sec-8.14.md
+- `9.1` — Apêndice A – LISTA DE REDUÇÕES → fragmentos/is/is-21-013--sec-9.1.md
+- `9.3` — Apêndice C – MODELO DE CARTÃO DE TESTE PARA INSPEÇÃO E ENSAIOS NO → fragmentos/is/is-21-013--sec-9.3.md
+- `9.4` — Apêndice D – MODELO DE SUPLEMENTO AO MANUAL DE VOO → fragmentos/is/is-21-013--sec-9.4.md
+- `9.5` — Apêndice E - MODELO DE CARTÃO DE TESTE PARA ENSAIOS EM VOO → fragmentos/is/is-21-013--sec-9.5.md
+- `10.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-21-013--sec-10.1.md
+- `10.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-21-013--sec-10.2.md
+- `11` — Funcionamento do GNSS e DV/PA durante o procedimento de descida → fragmentos/is/is-21-013--sec-11.md
+- `12` — Aproximação de descida ILS → fragmentos/is/is-21-013--sec-12.md
+
+## is-21-018
+- `cabecalho` → fragmentos/is/is-21-018--sec-cabecalho.md
+- `1` — OBJECTIVE .............................................................................................................. → fragmentos/is/is-21-018--sec-1.md
+- `2` — REVOCATION ............................................................................................................. → fragmentos/is/is-21-018--sec-2.md
+- `3` — LEGAL BASIS ............................................................................................................ → fragmentos/is/is-21-018--sec-3.md
+- `4` — DEFINITIONS ............................................................................................................ → fragmentos/is/is-21-018--sec-4.md
+- `5` — SUBJECT DEVELOPMENT....................................................................................................3 → fragmentos/is/is-21-018--sec-5.md
+- `6` — APPENDIX ............................................................................................................... → fragmentos/is/is-21-018--sec-6.md
+- `7` — FINAL CONSIDERATIONS ..................................................................................................1 → fragmentos/is/is-21-018--sec-7.md
+- `7.1` — The omitted cases will be settled by ANAC. → fragmentos/is/is-21-018--sec-7.1.md
+
+## is-21-17-2
+- `cabecalho` → fragmentos/is/is-21-17-2--sec-cabecalho.md
+- `1.1` — 1       Estabelecer orientações para a certificação de aeronavegabilidade de planadores e moto- → fragmentos/is/is-21-17-2--sec-1.1.md
+- `3.1` — 1       Lei Nº 7.565, de 19 de dezembro de 1986 – Dispõe sobre o Código Brasileiro de Aeronáu- → fragmentos/is/is-21-17-2--sec-3.1.md
+- `5.1` — Introdução → fragmentos/is/is-21-17-2--sec-5.1.md
+- `5.2` — Particularidades de planadores e motoplanadores → fragmentos/is/is-21-17-2--sec-5.2.md
+- `5.3` — Certificação do planador e motoplanador com CA padrão → fragmentos/is/is-21-17-2--sec-5.3.md
+- `5.4` — Certificação do planador e motoplanador como aeronave leve esportiva (CA especial → fragmentos/is/is-21-17-2--sec-5.4.md
+- `5.5` — Certificação do planador e motoplanador como aeronave experimental com propósito → fragmentos/is/is-21-17-2--sec-5.5.md
+- `6` — APÊNDICES → fragmentos/is/is-21-17-2--sec-6.md
+- `7.1` — 1    Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-21-17-2--sec-7.1.md
+
+## is-21-181-001
+- `cabecalho` → fragmentos/is/is-21-181-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS visa a orientar sobre a validade de Certificados de → fragmentos/is/is-21-181-001--sec-1.1.md
+- `2.1` — Esta IS substitui a Instrução Suplementar nº 21.181-001 revisão D. → fragmentos/is/is-21-181-001--sec-2.1.md
+- `3.1` — O art. 114 da Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica → fragmentos/is/is-21-181-001--sec-3.1.md
+- `3.2` — O art. 8º, XXXI da Lei nº 11.182, de 27 de setembro de 2005, dispõe que a competência para → fragmentos/is/is-21-181-001--sec-3.2.md
+- `3.3` — A seção 21.181 do RBAC 21 estabelece requisitos quanto à validade dos CAs. → fragmentos/is/is-21-181-001--sec-3.3.md
+- `3.4` — A Resolução nº 30, de 21 de maio de 2008, em seu art. 14 estabelece que a ANAC pode → fragmentos/is/is-21-181-001--sec-3.4.md
+- `4.1` — Aeronavegabilidade: Para aeronave que requer projeto de tipo aprovado, significa que a → fragmentos/is/is-21-181-001--sec-4.1.md
+- `4.2` — 4.2 Certificado de Verificação de Aeronavegabilidade: Documento emitido por → fragmentos/is/is-21-181-001--sec-4.2.md
+- `4.3` — 4.3 Verificação de Aeronavegabilidade: Verificação que tem como objetivo atestar as → fragmentos/is/is-21-181-001--sec-4.3.md
+- `5.1` — Validade do CA → fragmentos/is/is-21-181-001--sec-5.1.md
+- `5.2` — Ações da ANAC de Controle de Aeronavegabilidade → fragmentos/is/is-21-181-001--sec-5.2.md
+- `6` — APÊNDICES → fragmentos/is/is-21-181-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-21-181-001--sec-7.1.md
+
+## is-21-191-001
+- `cabecalho` → fragmentos/is/is-21-191-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-21-191-001--sec-1.md
+- `3.1` — O art. 67 da Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica – → fragmentos/is/is-21-191-001--sec-3.1.md
+- `3.2` — A Lei 11.182, de 27 de setembro de 2005, definiu, por meio do seu art. 5º, que a ANAC é → fragmentos/is/is-21-191-001--sec-3.2.md
+- `3.3` — O Regulamento Brasileiro da Aviação Civil nº 21 – RBAC 21, em seu parágrafo 21.191(g), → fragmentos/is/is-21-191-001--sec-3.3.md
+- `3.4` — A Resolução nº 30, de 21 de maio de 2008, em seu Art. 14, estabelece que a ANAC pode → fragmentos/is/is-21-191-001--sec-3.4.md
+- `3.5` — Considerando o exposto nesta seção, esta IS está sendo emitida objetivando detalhar e ori- → fragmentos/is/is-21-191-001--sec-3.5.md
+- `4.1` — Aeronave de construção amadora. De acordo com o parágrafo 21.191(g) do RBAC 21, é → fragmentos/is/is-21-191-001--sec-4.1.md
+- `4.2` — Assistência comercial. É a assistência fornecida ao construtor amador, na fabricação e/ou → fragmentos/is/is-21-191-001--sec-4.2.md
+- `4.3` — Avaliação pela EAC – Equipe de Avaliação de Conjunto. É a avaliação opcional condu- → fragmentos/is/is-21-191-001--sec-4.3.md
+- `4.4` — Certificado de Autorização de Fabricação de Conjuntos – CAFC. Para fins desta IS, é o → fragmentos/is/is-21-191-001--sec-4.4.md
+- `4.5` — Certificado de Autorização de Voo Experimental – CAVE. É o documento emitido pela → fragmentos/is/is-21-191-001--sec-4.5.md
+- `4.6` — Certificado de Conclusão de RIAM – Relatório de Inspeção Anual de Manutenção. É o → fragmentos/is/is-21-191-001--sec-4.6.md
+- `4.7` — Certificado de Marca Experimental – CME. É o documento comprobatório de proprieda- → fragmentos/is/is-21-191-001--sec-4.7.md
+- `4.8` — Componente. É o material processado, peça ou conjunto que constitui parte integrante de → fragmentos/is/is-21-191-001--sec-4.8.md
+- `4.9` — Conjunto. É o pacote constituído de subconjuntos, peças, componentes e outros materiais → fragmentos/is/is-21-191-001--sec-4.9.md
+- `4.10` — Engenheiro Responsável. É o Engenheiro Aeronáutico ou Engenheiro Mecânico com atri- → fragmentos/is/is-21-191-001--sec-4.10.md
+- `4.11` — Equipe de avaliação de conjunto – EAC. É uma equipe técnica composta por servidores → fragmentos/is/is-21-191-001--sec-4.11.md
+- `4.12` — Fabricação. É o retrabalho sobre qualquer material, peça ou componente, tais como marca- → fragmentos/is/is-21-191-001--sec-4.12.md
+- `4.13` — Laudo de Vistoria Final de Aeronave. É o documento elaborado por um engenheiro res- → fragmentos/is/is-21-191-001--sec-4.13.md
+- `4.14` — Lista de verificação de fabricação e montagem de aeronaves construídas por amadores. → fragmentos/is/is-21-191-001--sec-4.14.md
+- `4.15` — Porção maior. É o critério relacionado à construção de aeronaves por amadores significan- → fragmentos/is/is-21-191-001--sec-4.15.md
+- `4.16` — Ocupante. É qualquer pessoa, tripulante ou não, que esteja a bordo de uma aeronave. → fragmentos/is/is-21-191-001--sec-4.16.md
+- `4.17` — Orientador Técnico. É o construtor (pessoa física), cadastrado na ANAC através de associ- → fragmentos/is/is-21-191-001--sec-4.17.md
+- `4.18` — Produto aeronáutico. De acordo com a seção 01.1 do RBAC 01, é qualquer aeronave civil, → fragmentos/is/is-21-191-001--sec-4.18.md
+- `4.19` — Relatório de Inspeção Anual de Manutenção – RIAM. É a listagem de itens a serem veri- → fragmentos/is/is-21-191-001--sec-4.19.md
+- `5.1` — Geral → fragmentos/is/is-21-191-001--sec-5.1.md
+- `5.2` — Requisitos Aplicáveis → fragmentos/is/is-21-191-001--sec-5.2.md
+- `5.3` — Orientador Técnico → fragmentos/is/is-21-191-001--sec-5.3.md
+- `5.4` — Engenheiro Responsável → fragmentos/is/is-21-191-001--sec-5.4.md
+- `5.5` — Avaliação do Projeto → fragmentos/is/is-21-191-001--sec-5.5.md
+- `5.6` — Boas Práticas de Projeto e Construção → fragmentos/is/is-21-191-001--sec-5.6.md
+- `5.7` — Avaliação Operacional → fragmentos/is/is-21-191-001--sec-5.7.md
+- `5.8` — Manutenção e Segurança de Voo → fragmentos/is/is-21-191-001--sec-5.8.md
+- `5.9` — Abertura de Processo → fragmentos/is/is-21-191-001--sec-5.9.md
+- `5.10` — Vistoria Final → fragmentos/is/is-21-191-001--sec-5.10.md
+- `5.11` — Operação → fragmentos/is/is-21-191-001--sec-5.11.md
+- `5.12` — Restrições Operacionais → fragmentos/is/is-21-191-001--sec-5.12.md
+- `5.13` — Transferência de Propriedade → fragmentos/is/is-21-191-001--sec-5.13.md
+- `6` — APÊNDICE → fragmentos/is/is-21-191-001--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-21-191-001--sec-7.md
+
+## is-21-191-002
+- `cabecalho` → fragmentos/is/is-21-191-002--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-21-191-002--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-21-191-002--sec-2.md
+- `3.1` — O art. 66 da lei nº 7.565 – Código Brasileiro de Aeronáutica, de 19 de dezembro de 1986, → fragmentos/is/is-21-191-002--sec-3.1.md
+- `3.2` — A Resolução nº 30, de 21 de maio de 2008, em seu Art. 14, estabelece que a ANAC pode → fragmentos/is/is-21-191-002--sec-3.2.md
+- `3.3` — No presente caso, esta IS detalha alguns aspectos do parágrafo 21.191(d) do RBAC 21, que → fragmentos/is/is-21-191-002--sec-3.3.md
+- `4.1` — Aeronave Histórica. É toda aeronave registrada como histórica segundo os requisitos da → fragmentos/is/is-21-191-002--sec-4.1.md
+- `4.2` — Amostra. Atividade organizada, pública ou privada, realizada em local adequado, que te- → fragmentos/is/is-21-191-002--sec-4.2.md
+- `4.3` — Componente Controlado. Aquele que possui limites de utilização para revisão, substitui- → fragmentos/is/is-21-191-002--sec-4.3.md
+- `4.4` — Diretriz de Aeronavegabilidade – (DA). Informação de aeronavegabilidade continuada → fragmentos/is/is-21-191-002--sec-4.4.md
+- `4.5` — Exibição. Operação de uma aeronave para os propósitos de exibição, de acordo com o → fragmentos/is/is-21-191-002--sec-4.5.md
+- `4.6` — Laudo de Vistoria de Aeronave: Laudo técnico elaborado por Engenheiro Aeronáutico → fragmentos/is/is-21-191-002--sec-4.6.md
+- `4.7` — País de Origem. País da organização responsável pelo projeto de tipo do produto aeronáu- → fragmentos/is/is-21-191-002--sec-4.7.md
+- `4.8` — Relatório de Inspeção Anual de Manutenção – RIAM: Relatório que atesta a realização → fragmentos/is/is-21-191-002--sec-4.8.md
+- `4.9` — Vistoria de Aeronave: Vistoria técnica, conduzida e atestada por Engenheiro Aeronáutico → fragmentos/is/is-21-191-002--sec-4.9.md
+- `4.10` — Voo de Exibição. Operação da aeronave em voo para demonstração aérea organizada → fragmentos/is/is-21-191-002--sec-4.10.md
+- `5.1` — Normas Gerais → fragmentos/is/is-21-191-002--sec-5.1.md
+- `5.2` — Aeronaves Históricas → fragmentos/is/is-21-191-002--sec-5.2.md
+- `5.3` — Manutenção → fragmentos/is/is-21-191-002--sec-5.3.md
+- `5.4` — Operação → fragmentos/is/is-21-191-002--sec-5.4.md
+- `6` — APÊNDICE → fragmentos/is/is-21-191-002--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-21-191-002--sec-7.md
+
+## is-23-001
+- `cabecalho` → fragmentos/is/is-23-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem por objetivo orientar a execução de ensaios em voo (ou → fragmentos/is/is-23-001--sec-1.1.md
+- `2.1` — Esta IS substitui a CI 21-020A, de 22 de fevereiro de 2008. → fragmentos/is/is-23-001--sec-2.1.md
+- `3.1` — O Artigo 68 da Lei Federal nº 7.565, de 19 de dezembro de 1986, prevê que a autoridade → fragmentos/is/is-23-001--sec-3.1.md
+- `3.2` — O Regulamento Brasileiro de Aviação Civil – RBAC 21, Subpartes B a E, estabelece requi- → fragmentos/is/is-23-001--sec-3.2.md
+- `3.3` — O RBAC 23, Subparte F, estabelece os requisitos para equipamentos instalados em aerona- → fragmentos/is/is-23-001--sec-3.3.md
+- `4.1` — Above Ground Level: Altura medida acima da altitude de referência da estação de solo de → fragmentos/is/is-23-001--sec-4.1.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-23-001--sec-5.1.md
+- `5.2` — Procedimentos de Ensaios em Voo → fragmentos/is/is-23-001--sec-5.2.md
+- `5.3` — Características dos Equipamento das Estações de Solo → fragmentos/is/is-23-001--sec-5.3.md
+- `6.1` — APÊNDICE A – LISTA DE REDUÇÕES → fragmentos/is/is-23-001--sec-6.1.md
+- `6.3` — APÊNDICE C – CRITÉRIOS DE CLAREZA E INTENSIDADE → fragmentos/is/is-23-001--sec-6.3.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-23-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-23-001--sec-7.2.md
+
+## is-39-001
+- `cabecalho` → fragmentos/is/is-39-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar - IS esclarece e orienta a aplicação dos requisitos contidos → fragmentos/is/is-39-001--sec-1.1.md
+- `2.1` — Esta IS cancela e substitui a IS 39-001B, de 27 de abril de 2018. → fragmentos/is/is-39-001--sec-2.1.md
+- `3.1` — A Resolução ANAC nº 30/2008, em seu artigo 14, estabelece que a Instrução → fragmentos/is/is-39-001--sec-3.1.md
+- `3.2` — O parágrafo 1º do mesmo artigo determina que, para demonstrar o cumprimento de → fragmentos/is/is-39-001--sec-3.2.md
+- `3.3` — O RBAC 39, em sua seção 39.5, estabelece que a ANAC emitirá uma Diretriz de → fragmentos/is/is-39-001--sec-3.3.md
+- `3.4` — Uma Diretriz de Aeronavegabilidade, ou documento equivalente, emitido por → fragmentos/is/is-39-001--sec-3.4.md
+- `4.1` — Componente: material processado, peça ou conjunto que constitui parte integrante de → fragmentos/is/is-39-001--sec-4.1.md
+- `4.2` — Componente Controlado: aquele que possui limites de utilização para revisão, → fragmentos/is/is-39-001--sec-4.2.md
+- `4.3` — Condição insegura: uma condição insegura existe se há evidência constatada da → fragmentos/is/is-39-001--sec-4.3.md
+- `4.4` — Diretriz de Aeronavegabilidade – DA: o RBAC 39 estabelece que as Diretrizes de → fragmentos/is/is-39-001--sec-4.4.md
+- `4.5` — Documento de Serviço: para os efeitos desta IS, um documento de serviço é definido → fragmentos/is/is-39-001--sec-4.5.md
+- `4.6` — Ficha de Cumprimento de Diretriz de Aeronavegabilidade – FCDA: formato → fragmentos/is/is-39-001--sec-4.6.md
+- `4.7` — Estado de Projeto: no contexto desta IS, é o Estado que tem, na data de emissão da → fragmentos/is/is-39-001--sec-4.7.md
+- `4.8` — Produto Aeronáutico: para os efeitos desta IS, produto aeronáutico significa uma → fragmentos/is/is-39-001--sec-4.8.md
+- `4.9` — Mapa de Controle de DA: formato aceitável de registro secundário, relacionado à → fragmentos/is/is-39-001--sec-4.9.md
+- `4.10` — Notificação de Proposta de Regra: documento elaborado pela ANAC para coletar → fragmentos/is/is-39-001--sec-4.10.md
+- `5` — DESENVOLVIMENTO DO ASSUNTO → fragmentos/is/is-39-001--sec-5.md
+- `5.1` — Diretrizes de Aeronavegabilidade Brasileiras → fragmentos/is/is-39-001--sec-5.1.md
+- `5.2` — Diretrizes de Aeronavegabilidade Estrangeiras → fragmentos/is/is-39-001--sec-5.2.md
+- `5.3` — Abreviaturas e Denominações → fragmentos/is/is-39-001--sec-5.3.md
+- `5.4` — Diferenças entre os requisitos de cumprimento → fragmentos/is/is-39-001--sec-5.4.md
+- `5.5` — Consequências do não cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.5.md
+- `5.6` — Metodologia de Notificação de Proposta de Regra – NPR– DA → fragmentos/is/is-39-001--sec-5.6.md
+- `5.7` — Emissão de DA → fragmentos/is/is-39-001--sec-5.7.md
+- `5.8` — Acesso ao texto de uma DA → fragmentos/is/is-39-001--sec-5.8.md
+- `5.9` — Determinação de DA aplicáveis → fragmentos/is/is-39-001--sec-5.9.md
+- `5.10` — Incorporação de uma DA → fragmentos/is/is-39-001--sec-5.10.md
+- `5.11` — Cumprimento das Instruções de uma Diretriz de Aeronavegabilidade → fragmentos/is/is-39-001--sec-5.11.md
+- `5.12` — Registros de cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.12.md
+- `5.13` — Registro Primário de Cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.13.md
+- `5.14` — Registro Secundário de Cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.14.md
+- `5.15` — Controle de Cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.15.md
+- `5.16` — Envio de Dados Requeridos → fragmentos/is/is-39-001--sec-5.16.md
+- `5.17` — Dificuldades em Serviço no Cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.17.md
+- `5.18` — Método Alternativo de Cumprimento - MAC de uma DA → fragmentos/is/is-39-001--sec-5.18.md
+- `5.19` — Traslado de aeronave para fins de cumprimento de uma DA → fragmentos/is/is-39-001--sec-5.19.md
+- `5.20` — Demonstração de Cumprimento → fragmentos/is/is-39-001--sec-5.20.md
+- `6.1` — APÊNDICE A - LISTA DE REDUÇÕES → fragmentos/is/is-39-001--sec-6.1.md
+- `6.2` — APÊNDICE B - QUADRO DEMONSTRATIVO DE EXEMPLOS DE ANÁLISE DA → fragmentos/is/is-39-001--sec-6.2.md
+- `6.3` — APÊNDICE C – CONTROLE DE ALTERAÇÕES → fragmentos/is/is-39-001--sec-6.3.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-39-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-39-001--sec-7.2.md
+- `(inteira)` — Apêndice A       Inclusão da sigla CPA- Certificado de Piloto Aerodesportivo → fragmentos/is/is-39-001--apêndice-a-inclusão-da-sigla-cpa-certifi.md
+- `(inteira)` → fragmentos/is/is-39-001--apendice.md
+- `(inteira)` — Apêndice C       Incluído controle de alterações da IS → fragmentos/is/is-39-001--apêndice-c-incluído-controle-de-alteraçõ.md
+- `(inteira)` → fragmentos/is/is-39-001--apendice.md
+
+## is-39-19-001
+- `cabecalho` → fragmentos/is/is-39-19-001--sec-cabecalho.md
+- `1.1` — 1    Esta IS estabelece a forma de cumprimento do previsto no regulamento RBAC 39.19, quanto → fragmentos/is/is-39-19-001--sec-1.1.md
+- `3.1` — 1    A seção 39.17 do RBAC 39 estabelece que se uma modificação em um produto afetar, de → fragmentos/is/is-39-19-001--sec-3.1.md
+- `4.1` — 1    Autoridade Primária: é a autoridade de aviação civil (AAC) do Estado do detentor do → fragmentos/is/is-39-19-001--sec-4.1.md
+- `5.1` — Entendendo um MAC → fragmentos/is/is-39-19-001--sec-5.1.md
+- `5.2` — Quando e porquê de um MAC → fragmentos/is/is-39-19-001--sec-5.2.md
+- `5.3` — O requerimento de um MAC → fragmentos/is/is-39-19-001--sec-5.3.md
+- `5.4` — Aprovação de um MAC → fragmentos/is/is-39-19-001--sec-5.4.md
+- `5.5` — A reprovação de um MAC → fragmentos/is/is-39-19-001--sec-5.5.md
+- `5.6` — A revisão e a revogação de um MAC → fragmentos/is/is-39-19-001--sec-5.6.md
+- `5.7` — MAC fornecido por autoridade que não a ANAC → fragmentos/is/is-39-19-001--sec-5.7.md
+- `6` — APÊNDICES → fragmentos/is/is-39-19-001--sec-6.md
+- `7.1` — 1    Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-39-19-001--sec-7.1.md
+
+## is-43-001
+- `cabecalho` → fragmentos/is/is-43-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-001--sec-1.md
+- `3.1` — O artigo 67 da Lei Federal nº 7.565, de 19 de dezembro de 1986, prevê que somente pode- → fragmentos/is/is-43-001--sec-3.1.md
+- `3.2` — A mesma Lei Federal, em seu artigo 70, parágrafo 2º, estabelece que todo explorador ou → fragmentos/is/is-43-001--sec-3.2.md
+- `3.3` — O RBAC 21 define as condições nas quais um produto aeronáutico pode ser considerado → fragmentos/is/is-43-001--sec-3.3.md
+- `4.1` — Peça aprovada: De acordo com o RBAC 21.305, peças que são produzidas por um siste- → fragmentos/is/is-43-001--sec-4.1.md
+- `4.2` — Peças aceitáveis: As seguintes peças podem ser aceitas para instalação em um produto → fragmentos/is/is-43-001--sec-4.2.md
+- `4.3` — Peça normalizada: Peça fabricada de acordo com especificações governamentais ou de → fragmentos/is/is-43-001--sec-4.3.md
+- `4.4` — Peça Produzida pelo Operador/Proprietário: Peça produzida por um opera- → fragmentos/is/is-43-001--sec-4.4.md
+- `4.5` — Peças suspeitas: Uma peça suspeita é uma peça que, por qualquer razão, acredita-se não → fragmentos/is/is-43-001--sec-4.5.md
+- `4.6` — Produto Classe I: Uma aeronave, motor ou hélice completos que possuem um CHT de → fragmentos/is/is-43-001--sec-4.6.md
+- `4.7` — Produto Classe II: Um produto Classe II é um componente maior de um produto Classe I → fragmentos/is/is-43-001--sec-4.7.md
+- `4.8` — Produto Classe III: Um produto Classe III é qualquer peça ou componente não enquadra- → fragmentos/is/is-43-001--sec-4.8.md
+- `4.9` — Produto novo: Um produto, acessório, peça, ou material que não possui tempo ou ciclos → fragmentos/is/is-43-001--sec-4.9.md
+- `4.10` — Excedentes: Descreve um produto, conjunto, peça, ou material que foi declarado como → fragmentos/is/is-43-001--sec-4.10.md
+- `4.11` — Revisado: Descreve uma estrutura ou motor ou hélice aeronáuticos, dispositivo, ou parte → fragmentos/is/is-43-001--sec-4.11.md
+- `4.12` — Recondicionado: Descreve uma estrutura, motor e hélice aeronáuticos, ou dispositivos que → fragmentos/is/is-43-001--sec-4.12.md
+- `4.13` — Conforme Adquirido: Descreve uma estrutura, motor, ou hélice aeronáutico, ou parte de → fragmentos/is/is-43-001--sec-4.13.md
+- `4.14` — Registro de Inspeções de Retorno ao Serviço: A pessoa que aprova ou desaprova o re- → fragmentos/is/is-43-001--sec-4.14.md
+- `4.15` — Pessoa Devidamente Certificada: Com relação à execução e retorno ao serviço após re- → fragmentos/is/is-43-001--sec-4.15.md
+- `5.1` — Discussão → fragmentos/is/is-43-001--sec-5.1.md
+- `5.2` — Destinação e descarte de materiais e peças irrecuperáveis → fragmentos/is/is-43-001--sec-5.2.md
+- `5.3` — Identificação de peças de reposição → fragmentos/is/is-43-001--sec-5.3.md
+- `5.4` — Informações relevantes de peças usadas → fragmentos/is/is-43-001--sec-5.4.md
+- `5.5` — Excedentes → fragmentos/is/is-43-001--sec-5.5.md
+- `5.6` — Condições para operação segura → fragmentos/is/is-43-001--sec-5.6.md
+- `5.7` — Peças de equipamentos eletrônicos e de instrumentos → fragmentos/is/is-43-001--sec-5.7.md
+- `5.8` — Conheça seus fornecedores → fragmentos/is/is-43-001--sec-5.8.md
+- `5.9` — Detecção de peça não-aprovada → fragmentos/is/is-43-001--sec-5.9.md
+- `5.10` — Relato de peças suspeitas → fragmentos/is/is-43-001--sec-5.10.md
+- `5.11` — Resumo → fragmentos/is/is-43-001--sec-5.11.md
+- `6` — APÊNDICES → fragmentos/is/is-43-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-43-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-43-001--sec-7.2.md
+
+## is-43-012
+- `cabecalho` → fragmentos/is/is-43-012--sec-cabecalho.md
+- `1.1` — Esta IS estabelece os critérios aceitáveis, mas não únicos, para esclarecer, detalhar e orientar → fragmentos/is/is-43-012--sec-1.1.md
+- `2.1` — Esta IS substitui e cancela a IS n° 43-012A, de 25 de março de 2013. → fragmentos/is/is-43-012--sec-2.1.md
+- `3.1` — O parágrafo 01.1 do RBAC nº 01 define manutenção e manutenção preventiva como: → fragmentos/is/is-43-012--sec-3.1.md
+- `3.2` — Adicionalmente, o parágrafo A43.1(c) do Apêndice A do RBAC nº 43 também limita a → fragmentos/is/is-43-012--sec-3.2.md
+- `3.3` — O parágrafo 43.3(g)-I do RBAC nº 43 estabelece que pilotos são autorizados a executar → fragmentos/is/is-43-012--sec-3.3.md
+- `3.4` — O parágrafo 43.3(h) do RBAC nº 43 estabelece que “a ANAC pode emitir aprovação para → fragmentos/is/is-43-012--sec-3.4.md
+- `3.5` — A seção 135.429 do RBAC nº 135 estabelece os requisitos para pessoal de inspeção → fragmentos/is/is-43-012--sec-3.5.md
+- `3.6` — O parágrafo 43.3(i) do RBAC nº 43 estabelece que “o piloto de uma aeronave com → fragmentos/is/is-43-012--sec-3.6.md
+- `3.7` — O parágrafo 43.7(e) do RBAC nº 43 estabelece as condições para empresas de transporte → fragmentos/is/is-43-012--sec-3.7.md
+- `3.8` — A IS 43.9-003A fornece orientação acerca da utilização, dentre outros, das cadernetas de → fragmentos/is/is-43-012--sec-3.8.md
+- `3.9` — A Lei n° 13.475 de 28 de agosto de 2017 dispõe sobre o exercício da profissão de tripulante → fragmentos/is/is-43-012--sec-3.9.md
+- `3.10` — A Resolução ANAC nº 30, de 21 de maio de 2008, em seu Art. 14, estabelece que a Agência → fragmentos/is/is-43-012--sec-3.10.md
+- `5.1` — Visão geral da manutenção preventiva realizada por piloto → fragmentos/is/is-43-012--sec-5.1.md
+- `5.2` — Critérios comuns a todos os grupos de manutenção preventiva por pilotos → fragmentos/is/is-43-012--sec-5.2.md
+- `5.3` — Critérios específicos para o grupo “Pilotos proprietários e assemelhados” → fragmentos/is/is-43-012--sec-5.3.md
+- `5.4` — Critérios específicos para o grupo “Diretrizes de Aeronavegabilidade e Tarefas de → fragmentos/is/is-43-012--sec-5.4.md
+- `5.5` — Critérios específicos para o grupo “Helicópteros operando sob o RBAC nº 135 em áreas → fragmentos/is/is-43-012--sec-5.5.md
+- `5.6` — Critérios específicos para o grupo “Reconfiguração de aeronaves operando segundo → fragmentos/is/is-43-012--sec-5.6.md
+- `6.1` — APÊNDICE A - LISTA DE REDUÇÕES → fragmentos/is/is-43-012--sec-6.1.md
+- `6.2` — APÊNDICE B - EXEMPLO DDE REGISTRO DE MANUTENÇÃO PREVENTIVA → fragmentos/is/is-43-012--sec-6.2.md
+- `6.3` — APÊNDICE C - CONTROLE DE ALTERAÇÕES → fragmentos/is/is-43-012--sec-6.3.md
+- `7.1` — Os casos omissos nesta IS serão dirimidos pela ANAC. → fragmentos/is/is-43-012--sec-7.1.md
+- `7.2` — Esta IS entra em vigor em 17 de junho de 2019. → fragmentos/is/is-43-012--sec-7.2.md
+
+## is-43-13-003
+- `cabecalho` → fragmentos/is/is-43-13-003--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-13-003--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-43-13-003--sec-2.md
+- `3.1` — O parágrafo 43.13(a) do RBAC 43 estabelece que cada pessoa executando “manutenção, → fragmentos/is/is-43-13-003--sec-3.1.md
+- `3.2` — Os END, assunto tratado nesta IS, determinam diretamente a aeronavegabilidade de um → fragmentos/is/is-43-13-003--sec-3.2.md
+- `3.3` — Histórico → fragmentos/is/is-43-13-003--sec-3.3.md
+- `4.1` — Critério de aceitação/rejeição: parâmetro estabelecido em norma ou procedimento espe- → fragmentos/is/is-43-13-003--sec-4.1.md
+- `4.2` — Documento de serviço: documento emitido pelo detentor do projeto de tipo do produto → fragmentos/is/is-43-13-003--sec-4.2.md
+- `4.3` — Método: tipo de inspeção por END (ex. radiografia, ultrassom, etc.). → fragmentos/is/is-43-13-003--sec-4.3.md
+- `4.4` — Qualificação no Nível 1 em END: nível de qualificação/autorização de uma pessoa (pro- → fragmentos/is/is-43-13-003--sec-4.4.md
+- `4.5` — Qualificação no Nível 2 em END: nível de qualificação/autorização de uma pessoa (pro- → fragmentos/is/is-43-13-003--sec-4.5.md
+- `4.6` — Qualificação no Nível 3 em END: nível de qualificação/autorização de uma pessoa (pro- → fragmentos/is/is-43-13-003--sec-4.6.md
+- `4.7` — Técnica: um procedimento dentro de um método. Por exemplo: técnica/procedimento de → fragmentos/is/is-43-13-003--sec-4.7.md
+- `5.1` — Qualificação e Certificação em END → fragmentos/is/is-43-13-003--sec-5.1.md
+- `5.2` — Certificados e Especificações Operativas → fragmentos/is/is-43-13-003--sec-5.2.md
+- `5.3` — Métodos de END → fragmentos/is/is-43-13-003--sec-5.3.md
+- `5.4` — Ordem de precedência e documentos de referência para END → fragmentos/is/is-43-13-003--sec-5.4.md
+- `5.5` — Requisitos para pessoal → fragmentos/is/is-43-13-003--sec-5.5.md
+- `5.6` — Detentores de certificado que desenvolvem o método radiográfico → fragmentos/is/is-43-13-003--sec-5.6.md
+- `5.7` — Manual da Organização de Manutenção - MOM → fragmentos/is/is-43-13-003--sec-5.7.md
+- `5.8` — Serviços executados em outra localidade → fragmentos/is/is-43-13-003--sec-5.8.md
+- `5.9` — Contratação de serviços de END → fragmentos/is/is-43-13-003--sec-5.9.md
+- `5.10` — Publicações Técnicas → fragmentos/is/is-43-13-003--sec-5.10.md
+- `5.11` — Normas aceitáveis para a elaboração de procedimentos específicos → fragmentos/is/is-43-13-003--sec-5.11.md
+- `5.12` — Normas de Qualificação e Certificação de Pessoal → fragmentos/is/is-43-13-003--sec-5.12.md
+- `5.13` — Blocos de ensaio ou calibração → fragmentos/is/is-43-13-003--sec-5.13.md
+- `5.14` — Laudo de END → fragmentos/is/is-43-13-003--sec-5.14.md
+- `6` — APÊNDICES → fragmentos/is/is-43-13-003--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-43-13-003--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-43-13-003--sec-7.2.md
+- `7.3` — Devido à extensão da revisão do conteúdo desta IS em relação à sua versão anterior, optou- → fragmentos/is/is-43-13-003--sec-7.3.md
+
+## is-43-13-004
+- `cabecalho` → fragmentos/is/is-43-13-004--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-13-004--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-43-13-004--sec-2.md
+- `3` — FUNDAMENTOS → fragmentos/is/is-43-13-004--sec-3.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-43-13-004--sec-4.md
+- `5.1` — Generalidades → fragmentos/is/is-43-13-004--sec-5.1.md
+- `5.2` — Aeronavegabilidade → fragmentos/is/is-43-13-004--sec-5.2.md
+- `5.3` — Transporte ou translado → fragmentos/is/is-43-13-004--sec-5.3.md
+- `5.4` — Início dos serviços → fragmentos/is/is-43-13-004--sec-5.4.md
+- `5.5` — Execução dos serviços → fragmentos/is/is-43-13-004--sec-5.5.md
+- `5.6` — Competência para liberação da aeronave para retorno ao voo → fragmentos/is/is-43-13-004--sec-5.6.md
+- `5.7` — Documentação técnica e registros de reparos → fragmentos/is/is-43-13-004--sec-5.7.md
+- `5.8` — Aeronaves irreparáveis → fragmentos/is/is-43-13-004--sec-5.8.md
+- `6` — APÊNDICES → fragmentos/is/is-43-13-004--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC → fragmentos/is/is-43-13-004--sec-7.1.md
+- `7.2` — Nesta edição (revisão C) da IS 43.13-004, não é necessário que se revise a documentação → fragmentos/is/is-43-13-004--sec-7.2.md
+
+## is-43-13-005
+- `cabecalho` → fragmentos/is/is-43-13-005--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-13-005--sec-1.md
+- `3.1` — O parágrafo 21.50(b) do RBAC 21 estabelece que o detentor de um certificado de tipo ou → fragmentos/is/is-43-13-005--sec-3.1.md
+- `3.2` — O parágrafo 43.13(a) do RBAC 43 estabelece que cada pessoa que estiver executando ma- → fragmentos/is/is-43-13-005--sec-3.2.md
+- `3.3` — O parágrafo 145.109(a) do RBAC 145 estabelece que cada organização de manutenção → fragmentos/is/is-43-13-005--sec-3.3.md
+- `3.4` — O parágrafo 145.109(a)-I do RBAC 145 estabelece que cada organização de manutenção → fragmentos/is/is-43-13-005--sec-3.4.md
+- `3.5` — O parágrafo 145.109(c) do RBAC 145 estabelece que os equipamentos, ferramentas e ma- → fragmentos/is/is-43-13-005--sec-3.5.md
+- `4.1` — Ferramentas especiais: são ferramentas especialmente projetadas para serem utilizadas → fragmentos/is/is-43-13-005--sec-4.1.md
+- `4.2` — Ferramentas especiais alternativas (ou opcionais): são ferramentas especiais, recomen- → fragmentos/is/is-43-13-005--sec-4.2.md
+- `4.3` — Ferramentas especiais equivalentes: são aquelas que, apesar de não serem as especifica- → fragmentos/is/is-43-13-005--sec-4.3.md
+- `5.1` — Ferramentas especiais → fragmentos/is/is-43-13-005--sec-5.1.md
+- `5.2` — Ferramentas especiais equivalentes → fragmentos/is/is-43-13-005--sec-5.2.md
+- `5.3` — Identificação de uma ferramenta especial equivalente → fragmentos/is/is-43-13-005--sec-5.3.md
+- `5.4` — Documentação de Equivalência → fragmentos/is/is-43-13-005--sec-5.4.md
+- `5.5` — Procedimentos no Manual de uma OM relativos a ferramentas especiais → fragmentos/is/is-43-13-005--sec-5.5.md
+- `6` — APÊNDICES → fragmentos/is/is-43-13-005--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-43-13-005--sec-7.1.md
+- `7.2` — Para as empresas que ainda não estiverem adequadas as novas instruções dessa IS, haverá → fragmentos/is/is-43-13-005--sec-7.2.md
+
+## is-43-9-001
+- `cabecalho` → fragmentos/is/is-43-9-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-9-001--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-43-9-001--sec-2.md
+- `3.1` — O RBAC 43.5(b) estabelece que nenhuma pessoa poderá aprovar o retorno ao serviço de → fragmentos/is/is-43-9-001--sec-3.1.md
+- `3.2` — O RBAC 43.9(d) estabelece que, adicionalmente à anotação requerida pelo parágrafo 43.9(a) → fragmentos/is/is-43-9-001--sec-3.2.md
+- `3.3` — O Apêndice B do RBAC 43 requer que cada pessoa executando uma grande alteração ou → fragmentos/is/is-43-9-001--sec-3.3.md
+- `4.1` — Grande alteração: significa uma alteração não listada na especificação técnica aprovada da → fragmentos/is/is-43-9-001--sec-4.1.md
+- `4.2` — Grande reparo: é um reparo que: → fragmentos/is/is-43-9-001--sec-4.2.md
+- `5.1` — Generalidades → fragmentos/is/is-43-9-001--sec-5.1.md
+- `5.2` — Instruções para preenchimento → fragmentos/is/is-43-9-001--sec-5.2.md
+- `5.3` — Processamento administrativo → fragmentos/is/is-43-9-001--sec-5.3.md
+- `6` — APÊNDICES → fragmentos/is/is-43-9-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC → fragmentos/is/is-43-9-001--sec-7.1.md
+
+## is-43-9-002
+- `cabecalho` → fragmentos/is/is-43-9-002--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-9-002--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-43-9-002--sec-2.md
+- `3.1` — O RBAC 43.9(a) exige que cada pessoa que execute manutenção, manutenção preventiva, → fragmentos/is/is-43-9-002--sec-3.1.md
+- `3.2` — O RBAC 21.325(b) estabelece que a ANAC prescreve a forma e maneira aceitável pela → fragmentos/is/is-43-9-002--sec-3.2.md
+- `4.1` — Artigo: É uma parte, componente, ou aparelho. → fragmentos/is/is-43-9-002--sec-4.1.md
+- `4.2` — Produto Aeronáutico: É uma aeronave, motor ou hélice completos. → fragmentos/is/is-43-9-002--sec-4.2.md
+- `4.3` — Registro Primário de Manutenção: As seções 43.9 e 43.11 do RBAC 43 estabelecem o → fragmentos/is/is-43-9-002--sec-4.3.md
+- `4.4` — Registro Secundário de Manutenção: De acordo com as seções 91.417, 135.439 e → fragmentos/is/is-43-9-002--sec-4.4.md
+- `5.1` — Introdução → fragmentos/is/is-43-9-002--sec-5.1.md
+- `5.2` — Uso da Etiqueta para aprovação para o retorno ao serviço → fragmentos/is/is-43-9-002--sec-5.2.md
+- `5.3` — Instruções para o preenchimento da Etiqueta para aprovação de retorno ao serviço → fragmentos/is/is-43-9-002--sec-5.3.md
+- `5.4` — Uso da Etiqueta como atestado de fabricação de motores de aeronaves, hélices e → fragmentos/is/is-43-9-002--sec-5.4.md
+- `5.5` — Instruções para o preenchimento da Etiqueta como atestado de fabricação de motores → fragmentos/is/is-43-9-002--sec-5.5.md
+- `5.6` — Generalidades → fragmentos/is/is-43-9-002--sec-5.6.md
+- `6` — APÊNDICE: → fragmentos/is/is-43-9-002--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-43-9-002--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-43-9-002--sec-7.2.md
+
+## is-43-9-003
+- `cabecalho` → fragmentos/is/is-43-9-003--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-9-003--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-43-9-003--sec-2.md
+- `3.1` — O RBAC 43.9(a) exige que cada pessoa que mantenha, execute manutenção preventiva, → fragmentos/is/is-43-9-003--sec-3.1.md
+- `4.1` — Caderneta de Célula: É o livro destinado aos registros primários e secundários dos → fragmentos/is/is-43-9-003--sec-4.1.md
+- `4.2` — Caderneta de Motor: É o livro destinado aos registros primários e secundários dos → fragmentos/is/is-43-9-003--sec-4.2.md
+- `4.3` — Caderneta de Hélice: É o livro destinado aos registros primários e secundários dos → fragmentos/is/is-43-9-003--sec-4.3.md
+- `4.4` — Hora de Voo, Tempo de Voo ou Tempo em serviço: Para efeito desta IS e do controle de → fragmentos/is/is-43-9-003--sec-4.4.md
+- `4.5` — Tempo desde Novo (TSN) ou Tempo Total de Voo para a Célula, Motor e Hélice: É a → fragmentos/is/is-43-9-003--sec-4.5.md
+- `4.6` — Registro Primário de Manutenção: É o registro principal das atividades de manutenção. → fragmentos/is/is-43-9-003--sec-4.6.md
+- `4.7` — Registro Secundário de Manutenção: É o registro simplificado das atividades de → fragmentos/is/is-43-9-003--sec-4.7.md
+- `5.1` — Normas Gerais → fragmentos/is/is-43-9-003--sec-5.1.md
+- `5.2` — Conteúdo das Cadernetas de Célula, de Motor e de Hélice → fragmentos/is/is-43-9-003--sec-5.2.md
+- `5.3` — Instruções Para Confecção das Cadernetas de Célula, de Motor e de Hélice → fragmentos/is/is-43-9-003--sec-5.3.md
+- `5.4` — Instruções para Assinatura das Cadernetas de Célula, de Motor e de Hélice → fragmentos/is/is-43-9-003--sec-5.4.md
+- `5.5` — Controle e Preservação das Cadernetas de Célula, de Motor e de Hélice → fragmentos/is/is-43-9-003--sec-5.5.md
+- `5.6` — Referência de Horas e Ciclos para Registro nas Cadernetas de Célula, de Motor e de → fragmentos/is/is-43-9-003--sec-5.6.md
+- `5.7` — Forma de Registro nas Cadernetas de Célula, de Motor e de Hélice → fragmentos/is/is-43-9-003--sec-5.7.md
+- `5.8` — Orientações para Preenchimento das Cadernetas de Célula, de Motor e de Hélice → fragmentos/is/is-43-9-003--sec-5.8.md
+- `6` — APÊNDICE: → fragmentos/is/is-43-9-003--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC → fragmentos/is/is-43-9-003--sec-7.1.md
+
+## is-43-9-004
+- `cabecalho` → fragmentos/is/is-43-9-004--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-43-9-004--sec-1.md
+- `3.1` — A Resolução ANAC n° 458, de 20 de dezembro de 2017, doravante chamada de Resolução → fragmentos/is/is-43-9-004--sec-3.1.md
+- `3.2` — Quando houver menção nesse documento à Resolução 458, deve ser entendido como a → fragmentos/is/is-43-9-004--sec-3.2.md
+- `3.3` — A Resolução nº 511, de 11 de abril de 2019, altera a Resolução 458 possibilitando o uso do → fragmentos/is/is-43-9-004--sec-3.3.md
+- `3.4` — O RBAC 43 versa sobre o conteúdo, forma e disposição de registros de manutenção, → fragmentos/is/is-43-9-004--sec-3.4.md
+- `3.5` — Faz-se necessário esclarecer que todos os requisitos referentes aos registros de manutenção → fragmentos/is/is-43-9-004--sec-3.5.md
+- `3.6` — Apesar de não se constituir uma lista exaustiva, em função do disposto no subitem 3.1, os → fragmentos/is/is-43-9-004--sec-3.6.md
+- `4.1` — Adicionalmente às definições constantes no Regulamento Brasileiro de Aviação Civil - → fragmentos/is/is-43-9-004--sec-4.1.md
+- `4.2` — dados significativos: informações de qualquer natureza requeridas pela legislação e → fragmentos/is/is-43-9-004--sec-4.2.md
+- `4.3` — documento: dados significativos e os meios físicos ou digitais nos quais estão contidos → fragmentos/is/is-43-9-004--sec-4.3.md
+- `4.4` — registro: documento preenchido e emitido por um ente regulado, que obrigatoriamente → fragmentos/is/is-43-9-004--sec-4.4.md
+- `4.5` — Sistema de Documentos e Registros de Manutenção Eletrônicos (SDRMe): conjunto → fragmentos/is/is-43-9-004--sec-4.5.md
+- `5.1` — Disposições Gerais → fragmentos/is/is-43-9-004--sec-5.1.md
+- `5.2` — Características gerais do SDRMe → fragmentos/is/is-43-9-004--sec-5.2.md
+- `5.3` — Implementação de SDRMe → fragmentos/is/is-43-9-004--sec-5.3.md
+- `5.4` — Procedimentos para uso do SDRMe para registros eletrônicos → fragmentos/is/is-43-9-004--sec-5.4.md
+- `5.5` — Procedimentos para uso do SDRMe para documentos eletrônicos → fragmentos/is/is-43-9-004--sec-5.5.md
+- `5.6` — Processo de autorização para uso do SDRMe → fragmentos/is/is-43-9-004--sec-5.6.md
+- `5.7` — Descontinuação de uso do SDRMe → fragmentos/is/is-43-9-004--sec-5.7.md
+- `6` — DISPOSIÇÕES FINAIS → fragmentos/is/is-43-9-004--sec-6.md
+
+## is-43.1-001
+- `cabecalho` → fragmentos/is/is-43.1-001--sec-cabecalho.md
+- `1.1` — 1    Estabelecer orientações quanto a solicitação, critérios e meios de avaliação para a concessão → fragmentos/is/is-43.1-001--sec-1.1.md
+- `3.1` — 1    O art. 70 da lei nº 7.565 – Código Brasileiro de Aeronáutica (CBA), de 19 de dezembro de → fragmentos/is/is-43.1-001--sec-3.1.md
+- `4.1` — Siglas → fragmentos/is/is-43.1-001--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-43.1-001--sec-5.1.md
+- `5.2` — Aplicabilidade da certificação expedita → fragmentos/is/is-43.1-001--sec-5.2.md
+- `5.3` — Procedimentos para solicitação de certificação expedita → fragmentos/is/is-43.1-001--sec-5.3.md
+- `5.4` — Avaliação sobre a disponibilidade de OM para realização do serviço pretendido. → fragmentos/is/is-43.1-001--sec-5.4.md
+- `5.5` — Avaliação dos certificados, licenças ou autorizações expedidas por outros países → fragmentos/is/is-43.1-001--sec-5.5.md
+- `5.6` — Sanções previstas em lei → fragmentos/is/is-43.1-001--sec-5.6.md
+- `7.1` — 1    Os casos omissos serão dirimidos pela ANAC → fragmentos/is/is-43.1-001--sec-7.1.md
+
+## is-61-004
+- `cabecalho` → fragmentos/is/is-61-004--sec-cabecalho.md
+- `1.1` — Estabelecer e tornar pública a lista de habilitações a serem averbadas pela ANAC nas → fragmentos/is/is-61-004--sec-1.1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-61-004--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-61-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-61-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b desta IS deve garantir → fragmentos/is/is-61-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-61-004--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 61.2 do RBAC nº 61, → fragmentos/is/is-61-004--sec-4.1.md
+- `5` — HABILITAÇÕES AVERBADAS NAS LICENÇAS DE PILOTOS → fragmentos/is/is-61-004--sec-5.md
+- `5.1` — Documentos base → fragmentos/is/is-61-004--sec-5.1.md
+- `5.2` — Habilitações → fragmentos/is/is-61-004--sec-5.2.md
+- `5.3` — Instruções para utilização da lista de habilitações de tipo → fragmentos/is/is-61-004--sec-5.3.md
+- `6` — APÊNDICES → fragmentos/is/is-61-004--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-61-004--sec-7.1.md
+- `7.2` — Os pilotos atualmente habilitados que sejam afetados pelas alterações desta IS devem → fragmentos/is/is-61-004--sec-7.2.md
+- `7.3` — Esta IS entra em vigor em 1º de outubro de 2021. → fragmentos/is/is-61-004--sec-7.3.md
+- `(inteira)` — APÊNDICE D – TABELA DE EQUIVALÊNCIAS PARA OPERAÇÃO DE AERONAVES → fragmentos/is/is-61-004--apêndice-d-tabela-de-equivalências-para.md
+- `(inteira)` → fragmentos/is/is-61-004--apendice.md
+
+## is-61-007
+- `cabecalho` → fragmentos/is/is-61-007--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-61-007--sec-1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-61-007--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-61-007--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-61-007--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-61-007--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01, no RBAC nº → fragmentos/is/is-61-007--sec-4.1.md
+- `4.2` — Lista de abreviaturas (em ordem alfabética): → fragmentos/is/is-61-007--sec-4.2.md
+- `5.1` — Disposições iniciais → fragmentos/is/is-61-007--sec-5.1.md
+- `5.2` — Cadastro no SISHAB → fragmentos/is/is-61-007--sec-5.2.md
+- `5.3` — Acesso ao SISHAB → fragmentos/is/is-61-007--sec-5.3.md
+- `5.4` — Estrutura de cadastramento de treinamentos no SISHAB → fragmentos/is/is-61-007--sec-5.4.md
+- `5.5` — Fluxo de atividades no SISHAB → fragmentos/is/is-61-007--sec-5.5.md
+- `5.6` — Notificação de realização de treinamento - NRT → fragmentos/is/is-61-007--sec-5.6.md
+- `5.7` — Possíveis estados de uma NRT → fragmentos/is/is-61-007--sec-5.7.md
+- `5.8` — Solicitação de autorização de exame – SAE → fragmentos/is/is-61-007--sec-5.8.md
+- `5.9` — Possíveis estados de uma SAE → fragmentos/is/is-61-007--sec-5.9.md
+- `5.10` — Notificação de emissão de CHT – NEC → fragmentos/is/is-61-007--sec-5.10.md
+- `5.11` — Possíveis estados de uma NEC → fragmentos/is/is-61-007--sec-5.11.md
+- `5.12` — Processo de certificação de pessoal de aviação civil para concessão de licenças de → fragmentos/is/is-61-007--sec-5.12.md
+- `5.13` — Cancelamento compulsório de NRT, SAE e NEC → fragmentos/is/is-61-007--sec-5.13.md
+- `5.14` — Alteração de conteúdo de PrTrnOp → fragmentos/is/is-61-007--sec-5.14.md
+- `6` — APÊNDICES → fragmentos/is/is-61-007--sec-6.md
+- `7.1` — 1       Uma empresa ou CTAC que não utiliza o SISHAB para gerenciamento de seus → fragmentos/is/is-61-007--sec-7.1.md
+- `(inteira)` — APÊNDICE B – TERMO DE COMPROMETIMENTO PARA UTILIZAÇÃO DO SISHAB → fragmentos/is/is-61-007--apêndice-b-termo-de-comprometimento-para.md
+- `(inteira)` → fragmentos/is/is-61-007--apendice.md
+
+## is-61-15-001
+- `cabecalho` → fragmentos/is/is-61-15-001--sec-cabecalho.md
+- `1.1` — Estabelecer os critérios para a concessão de Autorização para Piloto de Ensaios em Voo → fragmentos/is/is-61-15-001--sec-1.1.md
+- `2.1` — Esta IS revoga a IS no 61.15-001 Revisão C. → fragmentos/is/is-61-15-001--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-61-15-001--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-61-15-001--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve → fragmentos/is/is-61-15-001--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-61-15-001--sec-3.4.md
+- `3.5` — Esta IS fundamenta-se também no parágrafo 61.15(c) do RBAC nº 61, que versa que → fragmentos/is/is-61-15-001--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas no RBAC nº 01, na seção 61.2 → fragmentos/is/is-61-15-001--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-61-15-001--sec-5.1.md
+- `5.2` — Prerrogativas e limitações do titular da Autorização para PEV1 ou PEV2 → fragmentos/is/is-61-15-001--sec-5.2.md
+- `5.3` — Qualificações mínimas requeridas → fragmentos/is/is-61-15-001--sec-5.3.md
+- `5.4` — Reconhecimento de curso de ensaios em voo pela ANAC → fragmentos/is/is-61-15-001--sec-5.4.md
+- `5.5` — Concessão, validade e revalidação da Autorização para PEV1 ou PEV2 → fragmentos/is/is-61-15-001--sec-5.5.md
+- `5.6` — Pilotos de autoridades estrangeiras em ensaios em voo de aeronaves de matrícula → fragmentos/is/is-61-15-001--sec-5.6.md
+- `5.7` — Concessão de uma Habilitação de Tipo a PEV1 ou PEV2 que tenham participado de → fragmentos/is/is-61-15-001--sec-5.7.md
+- `6` — APÊNDICES → fragmentos/is/is-61-15-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-61-15-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-61-15-001--sec-7.2.md
+- `(inteira)` — Apêndice D                                                 Incluído. → fragmentos/is/is-61-15-001--apêndice-d-incluído.md
+- `(inteira)` → fragmentos/is/is-61-15-001--apendice.md
+
+## is-67-001
+- `cabecalho` → fragmentos/is/is-67-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-67-001--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-67-001--sec-2.md
+- `3.1` — A Resolução ANAC no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-67-001--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-67-001--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea b do parágrafo anterior deve → fragmentos/is/is-67-001--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-67-001--sec-3.4.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-67-001--sec-4.md
+- `5.1` — O CBPM deve possuir um coordenador técnico, o qual será responsável por estabelecer → fragmentos/is/is-67-001--sec-5.1.md
+- `5.2` — O coordenador técnico deve comprovar competência técnica para o oferecimento do → fragmentos/is/is-67-001--sec-5.2.md
+- `5.3` — O coordenador técnico deve desenvolver e encaminhar à ANAC um plano de curso → fragmentos/is/is-67-001--sec-5.3.md
+- `5.4` — O coordenador técnico deve encaminhar o(s) currículo(s) do(s) instrutor(es) para → fragmentos/is/is-67-001--sec-5.4.md
+- `5.5` — O local para realização do curso deve oferecer instalações seguras, confortáveis e → fragmentos/is/is-67-001--sec-5.5.md
+- `5.6` — O curso deve ter carga horária suficiente para expor os conteúdos. → fragmentos/is/is-67-001--sec-5.6.md
+- `5.7` — Os tempos de aula das disciplinas e de outras atividades pedagógicas devem ser → fragmentos/is/is-67-001--sec-5.7.md
+- `5.8` — Deve ser elaborada uma grade curricular e planos de aula para cada disciplina elencada → fragmentos/is/is-67-001--sec-5.8.md
+- `5.9` — Deve ser elaborada uma forma de avaliação de aproveitamento do curso, cuja nota → fragmentos/is/is-67-001--sec-5.9.md
+- `5.10` — Para cursos realizados na modalidade Educação a Distância (EaD), devem ser previstas → fragmentos/is/is-67-001--sec-5.10.md
+- `5.11` — Para cada hora de disciplina prevista em EaD, faz-se necessária avaliação parcial do → fragmentos/is/is-67-001--sec-5.11.md
+- `5.12` — O coordenador técnico deve conferir os certificados por ele assinados, em curso → fragmentos/is/is-67-001--sec-5.12.md
+- `5.13` — Os certificados conferidos aos aprovados devem conter: → fragmentos/is/is-67-001--sec-5.13.md
+- `5.14` — Os itens 5.2 a 5.13 devem ser aprovados pela ANAC antes da colocação em prática dos → fragmentos/is/is-67-001--sec-5.14.md
+- `5.15` — Os alunos, para serem considerados aprovados, devem obter aproveitamento → fragmentos/is/is-67-001--sec-5.15.md
+- `5.16` — Uma lista de alunos aprovados, contendo nome completo e CPF, deve ser enviada à → fragmentos/is/is-67-001--sec-5.16.md
+- `5.17` — A documentação referente ao plano de curso deve ser recebida na ANAC com → fragmentos/is/is-67-001--sec-5.17.md
+- `5.18` — O conteúdo a ser abordado no CBPM deve abranger os requisitos constantes no RBAC → fragmentos/is/is-67-001--sec-5.18.md
+- `6.1` — Este item objetiva expor as informações principais a serem abordadas em um CBPM. → fragmentos/is/is-67-001--sec-6.1.md
+- `6.2` — Os tópicos a serem abordados no CBPM são: → fragmentos/is/is-67-001--sec-6.2.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-67-001--sec-7.md
+
+## is-67-002
+- `cabecalho` → fragmentos/is/is-67-002--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-67-002--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-67-002--sec-2.md
+- `3.1` — A Resolução No 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-67-002--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-67-002--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea b do parágrafo anterior deve → fragmentos/is/is-67-002--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-67-002--sec-3.4.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-67-002--sec-4.md
+- `4.1` — Para os efeitos desta IS, são válidas todas as definições contidas no RBAC 01 e no RBAC → fragmentos/is/is-67-002--sec-4.1.md
+- `4.2` — Lista de abreviaturas (em ordem alfabética): → fragmentos/is/is-67-002--sec-4.2.md
+- `5` — PROCEDIMENTOS PARA A OBTENÇÃO DE UM CMA → fragmentos/is/is-67-002--sec-5.md
+- `5.1` — O candidato que desejar ser examinado para obter um CMA deve possuir um Código → fragmentos/is/is-67-002--sec-5.1.md
+- `5.2` — Em posse de seu Código ANAC, o candidato deve verificar qual a classe de CMA → fragmentos/is/is-67-002--sec-5.2.md
+- `5.3` — O candidato deve observar os seguintes critérios, em consonância com o RBAC 67: → fragmentos/is/is-67-002--sec-5.3.md
+- `5.4` — Os endereços e telefones dos examinadores estão listados no endereço eletrônico: → fragmentos/is/is-67-002--sec-5.4.md
+- `5.5` — A ANAC não regula os preços que os examinadores cobram para a realização dos exames → fragmentos/is/is-67-002--sec-5.5.md
+- `5.6` — Pode ser necessário agendar o exame com antecedência. É recomendável que o candidato → fragmentos/is/is-67-002--sec-5.6.md
+- `5.7` — De acordo com o RBAC 67, o candidato à obtenção de um CMA deve apresentar, no → fragmentos/is/is-67-002--sec-5.7.md
+- `5.8` — A fim de cumprir o estabelecido nos parágrafos 67.71(d), 67.111(d) e 67.191(d) do RBAC → fragmentos/is/is-67-002--sec-5.8.md
+- `5.9` — Após a realização do exame de saúde pericial, e em caso de julgamento “apto” por parte → fragmentos/is/is-67-002--sec-5.9.md
+- `5.10` — É de total responsabilidade do candidato portador de um CMA ainda válido, que deseje → fragmentos/is/is-67-002--sec-5.10.md
+- `6` — PROCEDIMENTOS EM CASOS DE JULGAMENTO “NÃO APTO” OU “APTO → fragmentos/is/is-67-002--sec-6.md
+- `6.1` — Após a realização do exame de saúde pericial, e em caso de discordância do julgamento → fragmentos/is/is-67-002--sec-6.1.md
+- `7.1` — O candidato pode recorrer da decisão junto à ANAC, que julgará a questão, auxiliada ou → fragmentos/is/is-67-002--sec-7.1.md
+- `7.2` — A ANAC pode, a seu critério, exigir teste médico de voo para julgar recurso do candidato. → fragmentos/is/is-67-002--sec-7.2.md
+- `7.3` — Os recursos, em qualquer instância, devem ser interpostos na ANAC, junto à → fragmentos/is/is-67-002--sec-7.3.md
+- `7.4` — Para dar início ao processo, o candidato deve solicitar cópia da FESP assinada pelo → fragmentos/is/is-67-002--sec-7.4.md
+- `7.5` — O interessado deve ainda observar o seguinte: → fragmentos/is/is-67-002--sec-7.5.md
+- `7.6` — Se a CCMA mantiver o julgamento que não atenda ao interesse do candidato, ele poderá → fragmentos/is/is-67-002--sec-7.6.md
+- `7.7` — Se ainda a GCEP mantiver o julgamento que não atenda ao interesse do candidato, um → fragmentos/is/is-67-002--sec-7.7.md
+- `7.8` — Após análise conclusiva do processo e de posse dos pareceres a favor ou contra o recurso → fragmentos/is/is-67-002--sec-7.8.md
+- `8` — EXAMES APÓS ACIDENTE OU INCIDENTE AERONÁUTICO GRAVE → fragmentos/is/is-67-002--sec-8.md
+- `8.1` — Caso um indivíduo detentor de um CMA tome parte em acidente ou incidente aeronáutico → fragmentos/is/is-67-002--sec-8.1.md
+- `8.2` — Após contato do usuário com a ANAC, a GTFH providenciará seu encaminhamento ao → fragmentos/is/is-67-002--sec-8.2.md
+- `8.3` — O indivíduo deve apresentar a cópia do ofício ou notificação da ANAC ao examinador → fragmentos/is/is-67-002--sec-8.3.md
+- `8.4` — No Termo de Responsabilidade e Formulário de Antecedentes Médicos, cujo modelo → fragmentos/is/is-67-002--sec-8.4.md
+- `9` — PROCEDIMENTOS PARA O REQUERIMENTO DE CONVALIDAÇÃO DE → fragmentos/is/is-67-002--sec-9.md
+- `9.1` — O tripulante brasileiro que seja detentor de um certificado médico emitido por Autoridade → fragmentos/is/is-67-002--sec-9.1.md
+- `9.2` — O usuário deverá encaminhar um pedido formal à CCMA. Ele deverá juntar uma cópia → fragmentos/is/is-67-002--sec-9.2.md
+- `9.3` — A equipe médica da CCMA procederá à análise do pedido tão logo a Autoridade de → fragmentos/is/is-67-002--sec-9.3.md
+- `9.4` — Assim que a CCMA analisar o pedido e entender que os requisitos psicofísicos da AAC → fragmentos/is/is-67-002--sec-9.4.md
+- `9.5` — Caso a análise da CCMA relativamente a um pedido de convalidação conclua que os → fragmentos/is/is-67-002--sec-9.5.md
+- `10` — APÊNDICES → fragmentos/is/is-67-002--sec-10.md
+- `11` — DISPOSIÇÕES FINAIS → fragmentos/is/is-67-002--sec-11.md
+- `11.1` — Os casos omissos serão dirimidos pela SPL. → fragmentos/is/is-67-002--sec-11.1.md
+- `11.2` — Esta IS entra em vigor em 1º de novembro de 2021. → fragmentos/is/is-67-002--sec-11.2.md
+- `12` — Surdez ou doença no ouvido                           30.Doença mental → fragmentos/is/is-67-002--sec-12.md
+- `13` — Doença no nariz, ouvido                              31.Diabetes → fragmentos/is/is-67-002--sec-13.md
+- `14` — Problema de fala                                     32.Tuberculose → fragmentos/is/is-67-002--sec-14.md
+- `15` — Lesão na cabeça                                      33.Alergia; asma; eczema → fragmentos/is/is-67-002--sec-15.md
+- `16` — Dores de cabeça frequentes ou fortes                                 Apenas para sexo feminino → fragmentos/is/is-67-002--sec-16.md
+- `17` — Tonturas ou desmaios                                 34.Transtornos ginecológicos → fragmentos/is/is-67-002--sec-17.md
+- `18` — Perda de consciência por qualquer razão              35.Gravidez atual → fragmentos/is/is-67-002--sec-18.md
+- `19` — Problemas neurológicos, derrame, epilepsia, → fragmentos/is/is-67-002--sec-19.md
+
+## is-67-003
+- `cabecalho` → fragmentos/is/is-67-003--sec-cabecalho.md
+- `1.1` — Oferecer aos examinadores (conforme definição do parágrafo 67.3(a)(18) do RBAC 67) → fragmentos/is/is-67-003--sec-1.1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-67-003--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-67-003--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-67-003--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b desta IS deve → fragmentos/is/is-67-003--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-67-003--sec-3.4.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-67-003--sec-4.md
+- `5` — PROCEDIMENTOS PARA PREENCHIMENTO → fragmentos/is/is-67-003--sec-5.md
+- `5.1` — Disposições gerais → fragmentos/is/is-67-003--sec-5.1.md
+- `5.2` — Procedimentos → fragmentos/is/is-67-003--sec-5.2.md
+- `6.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-67-003--sec-6.1.md
+- `6.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-67-003--sec-6.2.md
+
+## is-67-004
+- `cabecalho` → fragmentos/is/is-67-004--sec-cabecalho.md
+- `1.1` — Oferecer aos examinadores (conforme definição do parágrafo 67.3(a)(18) do RBAC nº → fragmentos/is/is-67-004--sec-1.1.md
+- `1.2` — Oferecer orientações e meios aceitáveis para o cumprimento do RBAC nº 67, mediante → fragmentos/is/is-67-004--sec-1.2.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-67-004--sec-2.md
+- `3.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-67-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-67-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2b desta IS deve garantir → fragmentos/is/is-67-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-67-004--sec-3.4.md
+- `4` — DEFINIÇÕES → fragmentos/is/is-67-004--sec-4.md
+- `5.1` — Disposições gerais → fragmentos/is/is-67-004--sec-5.1.md
+- `5.2` — Requisitos oftalmológicos → fragmentos/is/is-67-004--sec-5.2.md
+- `5.3` — Requisitos auditivos → fragmentos/is/is-67-004--sec-5.3.md
+- `5.4` — Requisitos otorrinolaringológicos → fragmentos/is/is-67-004--sec-5.4.md
+- `5.5` — Requisitos Mentais e Comportamentais → fragmentos/is/is-67-004--sec-5.5.md
+- `5.6` — Requisitos Neurológicos → fragmentos/is/is-67-004--sec-5.6.md
+- `5.7` — Requisitos Cardiológicos → fragmentos/is/is-67-004--sec-5.7.md
+- `5.8` — Requisitos pneumológicos → fragmentos/is/is-67-004--sec-5.8.md
+- `5.9` — Requisitos digestivos → fragmentos/is/is-67-004--sec-5.9.md
+- `5.10` — Requisitos metabólicos, nutricionais e endocrinológicos → fragmentos/is/is-67-004--sec-5.10.md
+- `5.11` — Requisitos hematológicos → fragmentos/is/is-67-004--sec-5.11.md
+- `5.12` — Requisitos nefrológicos e urológicos → fragmentos/is/is-67-004--sec-5.12.md
+- `5.13` — Doenças infecciosas → fragmentos/is/is-67-004--sec-5.13.md
+- `5.14` — Requisitos obstétricos → fragmentos/is/is-67-004--sec-5.14.md
+- `5.15` — Requisitos ósteo-articulares → fragmentos/is/is-67-004--sec-5.15.md
+- `5.16` — Doenças oncológicas → fragmentos/is/is-67-004--sec-5.16.md
+- `6.1` — Apêndice A – Controle de alterações → fragmentos/is/is-67-004--sec-6.1.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-67-004--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-67-004--sec-7.2.md
+
+## is-67-005
+- `cabecalho` → fragmentos/is/is-67-005--sec-cabecalho.md
+- `1.1` — Estabelecer os procedimentos administrativos para credenciamento e revalidação de → fragmentos/is/is-67-005--sec-1.1.md
+- `2.1` — Esta IS revoga a IS nº 67-005, Revisão A.. → fragmentos/is/is-67-005--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-67-005--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-67-005--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir nível → fragmentos/is/is-67-005--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-67-005--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 67.3 do RBAC nº 67 e as → fragmentos/is/is-67-005--sec-4.1.md
+- `5` — PROCEDIMENTOS PARA CREDENCIAMENTO → fragmentos/is/is-67-005--sec-5.md
+- `5.1` — Credenciamento de médicos, clínicas médicas e convênio com entidades públicas → fragmentos/is/is-67-005--sec-5.1.md
+- `5.2` — Solicitação prévia → fragmentos/is/is-67-005--sec-5.2.md
+- `5.3` — Solicitação formal → fragmentos/is/is-67-005--sec-5.3.md
+- `5.4` — Análise documental → fragmentos/is/is-67-005--sec-5.4.md
+- `5.5` — Demonstrações e Inspeções → fragmentos/is/is-67-005--sec-5.5.md
+- `5.6` — Certificação → fragmentos/is/is-67-005--sec-5.6.md
+- `6` — PROCEDIMENTOS PARA ATUALIZAÇÃO DE CADASTRO → fragmentos/is/is-67-005--sec-6.md
+- `6.1` — Para mudança nos telefones de contato, e-mail ou outros dados, o médico credenciado ou → fragmentos/is/is-67-005--sec-6.1.md
+- `6.2` — Se o médico credenciado desejar mudar de local de atendimento ou credenciar outro → fragmentos/is/is-67-005--sec-6.2.md
+- `6.3` — O médico credenciado ou DTM só poderá atuar em novo endereço após a publicação de → fragmentos/is/is-67-005--sec-6.3.md
+- `6.4` — No caso de CLC, o DTM deve solicitar previamente a autorização. Para tanto, ele envia carta → fragmentos/is/is-67-005--sec-6.4.md
+- `6.5` — Caso os documentos estejam aceitáveis, a GTFH propõe a inspeção local do novo endereço → fragmentos/is/is-67-005--sec-6.5.md
+- `6.6` — O médico credenciado ou DTM não pode atuar para a ANAC em endereço diferente daquele → fragmentos/is/is-67-005--sec-6.6.md
+- `7` — PROCEDIMENTOS PARA INDICAÇÃO DE SUPLENTE DE DTM → fragmentos/is/is-67-005--sec-7.md
+- `7.1` — O DTM pode indicar um suplente para substituí-lo em caso de afastamentos justificáveis. → fragmentos/is/is-67-005--sec-7.1.md
+- `7.2` — O DTM suplente deve atender aos mesmos requisitos exigidos para o DTM, conforme → fragmentos/is/is-67-005--sec-7.2.md
+- `7.3` — O DTM suplente deve ser aprovado previamente pela ANAC para o exercício de suas → fragmentos/is/is-67-005--sec-7.3.md
+- `7.4` — Os afastamentos justificáveis do DTM devem ser previamente comunicados à ANAC, de → fragmentos/is/is-67-005--sec-7.4.md
+- `7.5` — Um DTM não pode assumir a direção técnica de mais que 02 (duas) clínicas. → fragmentos/is/is-67-005--sec-7.5.md
+- `8` — PROCEDIMENTOS PARA REVALIDAÇÃO DE CREDENCIAMENTO DE → fragmentos/is/is-67-005--sec-8.md
+- `8.1` — Os médicos credenciados e DTM devem enviar a solicitação de revalidação de → fragmentos/is/is-67-005--sec-8.1.md
+- `8.2` — A solicitação formal deve ser enviada para a GTFH solicitando a revalidação do → fragmentos/is/is-67-005--sec-8.2.md
+- `8.3` — Além da documentação exigida para o credenciamento ou convênio, os médicos → fragmentos/is/is-67-005--sec-8.3.md
+- `9` — PROCEDIMENTOS PARA EXAME DE SAÚDE PERICIAL E SEU JULGAMENTO → fragmentos/is/is-67-005--sec-9.md
+- `9.1` — Os médicos credenciados e os DTM que tenham emitido julgamento não apto devem → fragmentos/is/is-67-005--sec-9.1.md
+- `9.2` — O exame de saúde pericial deve ser registrado em FESP padronizada pela ANAC. O modelo → fragmentos/is/is-67-005--sec-9.2.md
+- `10` — APÊNDICES → fragmentos/is/is-67-005--sec-10.md
+- `11.1` — As entidades médicas ora credenciadas da ANAC terão prazo de 1 (um) ano para se → fragmentos/is/is-67-005--sec-11.1.md
+- `11.2` — O não cumprimento dos meios e procedimentos desta IS sujeitará a entidade credenciada a → fragmentos/is/is-67-005--sec-11.2.md
+- `12.1` — As clínicas credenciadas podem aceitar a realização de prova de esforço e de exames → fragmentos/is/is-67-005--sec-12.1.md
+- `12.2` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-67-005--sec-12.2.md
+- `12.3` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-67-005--sec-12.3.md
+
+## is-91-002
+- `cabecalho` → fragmentos/is/is-91-002--sec-cabecalho.md
+- `1.1` — A presente Instrução Suplementar apresenta: → fragmentos/is/is-91-002--sec-1.1.md
+- `2.1` — Esta IS aplica-se às aeronaves de matricula brasileira operadas exclusivamente sob a égide → fragmentos/is/is-91-002--sec-2.1.md
+- `2.2` — Esta IS é restrita à utilização de EFBs classes 1 e 2 quando empregados com aplicativos → fragmentos/is/is-91-002--sec-2.2.md
+- `3.1` — Esta IS revoga a IS nº 91-002, Revisão C. → fragmentos/is/is-91-002--sec-3.1.md
+- `4.1` — A Resolução no 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-91-002--sec-4.1.md
+- `4.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-91-002--sec-4.2.md
+- `4.3` — O meio ou procedimento alternativo mencionado na alínea 4.2(b) desta IS deve garantir → fragmentos/is/is-91-002--sec-4.3.md
+- `4.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou → fragmentos/is/is-91-002--sec-4.4.md
+- `5.1` — No escopo da presente Instrução Suplementar, são válidas todas as definições contidas no → fragmentos/is/is-91-002--sec-5.1.md
+- `5.2` — Aplicativos Tipo A. São aplicativos que podem substituir material impresso, → fragmentos/is/is-91-002--sec-5.2.md
+- `5.3` — Aplicativos Tipo B. São aplicativos que podem substituir material impresso, capazes de → fragmentos/is/is-91-002--sec-5.3.md
+- `5.4` — Aplicativos Tipo C. São aplicativos aprovados pela autoridade aeronáutica com base na → fragmentos/is/is-91-002--sec-5.4.md
+- `5.5` — Computador Portátil. Computador pessoal disponível comercialmente, não → fragmentos/is/is-91-002--sec-5.5.md
+- `5.6` — Dispositivo Eletrônico Portátil (PED). Referência na seção 91.21 do RBHA 91. → fragmentos/is/is-91-002--sec-5.6.md
+- `5.7` — Electronic Chart Display (ECD). Dispositivo cuja funcionalidade permite a visualização → fragmentos/is/is-91-002--sec-5.7.md
+- `5.8` — Electronic Flight Bag. É um sistema (hardware + software) desenvolvido para uso em → fragmentos/is/is-91-002--sec-5.8.md
+- `5.9` — Electronic Flight Bag Classe 1. Computador pessoal disponível comercialmente, → fragmentos/is/is-91-002--sec-5.9.md
+- `5.10` — Electronic Flight Bag Classe 2. Computador pessoal disponível comercialmente, → fragmentos/is/is-91-002--sec-5.10.md
+- `5.11` — Electronic Flight Bag Classe 3. Dispositivo integrado à aeronave que requer certificação → fragmentos/is/is-91-002--sec-5.11.md
+- `5.12` — Fases críticas do voo. São as fases nas quais a carga de trabalho e o nível de atenção → fragmentos/is/is-91-002--sec-5.12.md
+- `5.13` — Informação estática. Informação disponibilizada pelo EFB que não é processada → fragmentos/is/is-91-002--sec-5.13.md
+- `5.14` — Informação interativa. Informação resultante do processamento de informações → fragmentos/is/is-91-002--sec-5.14.md
+- `6.1` — Permanecem válidas no presente documento as abreviaturas detalhadas no RBAC nº 01 e → fragmentos/is/is-91-002--sec-6.1.md
+- `6.2` — ECD. Electronic Chart Display; → fragmentos/is/is-91-002--sec-6.2.md
+- `6.3` — EFB. Electronic Flight Bag; → fragmentos/is/is-91-002--sec-6.3.md
+- `6.4` — PED. Portable Electronic Devices – Dispositivos Eletrônicos Portáteis; → fragmentos/is/is-91-002--sec-6.4.md
+- `6.5` — STC. Supplemental Type Certificate → fragmentos/is/is-91-002--sec-6.5.md
+- `6.6` — TC. Type Certificate → fragmentos/is/is-91-002--sec-6.6.md
+- `7.1` — Operadores regidos pelo RBHA 91 têm demonstrado crescente interesse na utilização de → fragmentos/is/is-91-002--sec-7.1.md
+- `7.2` — A utilização de PED está alicerçada na seção 91.21 do RBHA 91, que permite a utilização → fragmentos/is/is-91-002--sec-7.2.md
+- `7.3` — A classe do dispositivo e o tipo de aplicativo determinam a necessidade de aprovação do → fragmentos/is/is-91-002--sec-7.3.md
+- `8.1` — Electronic Flight Bags Classe 1 e 2, são considerados PED. A utilização de PED está → fragmentos/is/is-91-002--sec-8.1.md
+- `8.2` — A seção 91.503 do RBHA 91 dispõe sobre equipamentos de voo e informações → fragmentos/is/is-91-002--sec-8.2.md
+- `8.3` — A responsabilidade da permissão quanto à utilização de PED recai exclusivamente sobre → fragmentos/is/is-91-002--sec-8.3.md
+- `8.4` — O sistema EFB não deve substituir qualquer sistema ou equipamento requerido pelo → fragmentos/is/is-91-002--sec-8.4.md
+- `8.5` — As tripulações continuam obrigadas a portar seus certificados e habilitações. → fragmentos/is/is-91-002--sec-8.5.md
+- `8.6` — O sistema EFB disponibiliza informações estáticas ou interativas cujas funcionalidades → fragmentos/is/is-91-002--sec-8.6.md
+- `8.7` — O operador deve assegurar-se que as informações utilizadas são válidas e atualizadas. → fragmentos/is/is-91-002--sec-8.7.md
+- `8.8` — O operador deve assegurar-se que o PED não causa interferências nos sistemas de → fragmentos/is/is-91-002--sec-8.8.md
+- `8.9` — Esta IS apresenta, o Apêndice B intitulado “Ferramenta de Avaliação”, que deve ser → fragmentos/is/is-91-002--sec-8.9.md
+- `9` — SUBSTITUIÇÃO DE MATERIAL IMPRESSO POR MEIO DIGITAL → fragmentos/is/is-91-002--sec-9.md
+- `9.1` — Os EFB podem ser utilizados durante todas as fases do voo em substituição ao material → fragmentos/is/is-91-002--sec-9.1.md
+- `9.2` — A utilização de EFB em voo substituindo material impresso é uma decisão do operador → fragmentos/is/is-91-002--sec-9.2.md
+- `9.3` — Operadores de aeronaves que possuem certificado provisório de homologação de tipo → fragmentos/is/is-91-002--sec-9.3.md
+- `9.4` — Quando houver a substituição de qualquer publicação de consulta em voo, é mandatório → fragmentos/is/is-91-002--sec-9.4.md
+- `9.5` — O piloto em comando é o responsável por garantir que a bateria do EFB tenha carga → fragmentos/is/is-91-002--sec-9.5.md
+- `9.6` — A fim de otimizar o desempenho e a segurança do EFB é recomendado que este só → fragmentos/is/is-91-002--sec-9.6.md
+- `10` — CARACTERÍSTICAS ESPECÍFICAS. → fragmentos/is/is-91-002--sec-10.md
+- `10.1` — A fim de garantir a visualização adequada das informações é recomendado que o tamanho → fragmentos/is/is-91-002--sec-10.1.md
+- `10.2` — O operador deve garantir que o EFB utilizado apresente as seguintes características. → fragmentos/is/is-91-002--sec-10.2.md
+- `11.1` — O operador deve realizar avaliação da integração do dispositivo eletrônico relacionada → fragmentos/is/is-91-002--sec-11.1.md
+- `11.2` — A familiarização ou treinamento para implantação deve incluir cheques pré-voo, → fragmentos/is/is-91-002--sec-11.2.md
+- `11.3` — Operadores em processo para eliminação de material impresso devem se submeter a um → fragmentos/is/is-91-002--sec-11.3.md
+- `11.4` — É vedada a utilização de EFBs para fins não operacionais, tanto no ar quanto em solo. → fragmentos/is/is-91-002--sec-11.4.md
+- `12.1` — Os operadores devem assegurar-se que, quando aplicável, a instalação do EFB cumpre → fragmentos/is/is-91-002--sec-12.1.md
+- `12.2` — Os EFB podem ser utilizados isoladamente ou em conjunto com publicações impressas. → fragmentos/is/is-91-002--sec-12.2.md
+- `12.3` — É responsabilidade do piloto em comando a verificação quanto à aceitação de documentos → fragmentos/is/is-91-002--sec-12.3.md
+- `12.4` — Esta Instrução Suplementar entra em vigor na data de sua publicação. → fragmentos/is/is-91-002--sec-12.4.md
+- `12.5` — Os casos omissos serão dirimidos pela Superintendência de Padrões Operacionais. → fragmentos/is/is-91-002--sec-12.5.md
+- `13` — Foi percebida qualquer interferência com os sistemas de comunicação ou navegação da → fragmentos/is/is-91-002--sec-13.md
+
+## is-91-003b
+- `cabecalho` → fragmentos/is/is-91-003b--sec-cabecalho.md
+- `1.1` — A presente Instrução Suplementar apresenta: → fragmentos/is/is-91-003b--sec-1.1.md
+- `2.1` — Esta IS se aplica a operadores regidos pelos RBAC nº 121 e RBAC nº 135. Os procedimentos de → fragmentos/is/is-91-003b--sec-2.1.md
+- `2.2` — Apenas os operadores autorizados para operações de aproximação ILS CAT II, utilizando → fragmentos/is/is-91-003b--sec-2.2.md
+- `4.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar – IS, → fragmentos/is/is-91-003b--sec-4.1.md
+- `4.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito → fragmentos/is/is-91-003b--sec-4.2.md
+- `4.3` — O meio ou procedimento alternativo mencionado na alínea 4.2(b) desta IS deve garantir nível de → fragmentos/is/is-91-003b--sec-4.3.md
+- `4.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro ato → fragmentos/is/is-91-003b--sec-4.4.md
+- `5.1` — Esta Instrução Suplementar utiliza alguns termos e definições na língua inglesa por entender que → fragmentos/is/is-91-003b--sec-5.1.md
+- `5.2` — No escopo desta IS são válidas todas as definições contidas no RBAC nº 01 e RBAC nº 91. → fragmentos/is/is-91-003b--sec-5.2.md
+- `5.3` — Aproximação estabilizada. Aproximação efetuada de maneira controlada e apropriada em → fragmentos/is/is-91-003b--sec-5.3.md
+- `5.4` — Certificação Suplementar de Tipo. Constitui uma aprovação de grande modificação introduzida → fragmentos/is/is-91-003b--sec-5.4.md
+- `5.5` — Combined Vision System. Sistema que disponibiliza simultaneamente imagens oriundas de um → fragmentos/is/is-91-003b--sec-5.5.md
+- `5.6` — Decolagem com Baixa Visibilidade. Termo utilizado com relação a operações de decolagem em → fragmentos/is/is-91-003b--sec-5.6.md
+- `5.7` — Enhanced Flight Vision System. É um EVS associado a um HUD. → fragmentos/is/is-91-003b--sec-5.7.md
+- `5.8` — Enhanced Vision System. Sistema que disponibiliza eletronicamente imagens em tempo real do → fragmentos/is/is-91-003b--sec-5.8.md
+- `5.9` — Flight Path Angle. Trajetória vertical na condição presente de potência, configuração e posição → fragmentos/is/is-91-003b--sec-5.9.md
+- `5.10` — Flight Path Vector. Consiste num ícone apresentado no PFD ou HUD que indica a trajetória da → fragmentos/is/is-91-003b--sec-5.10.md
+- `5.11` — Head-down Display. Sistema que disponibiliza informações de voo, de desempenho ou de → fragmentos/is/is-91-003b--sec-5.11.md
+- `5.12` — Head Up Guidance System. Um sistema óptico e eletrônico que gera e projeta informações de → fragmentos/is/is-91-003b--sec-5.12.md
+- `5.13` — Head-up Display. Sistema que disponibiliza informações de voo no campo de visão externo do → fragmentos/is/is-91-003b--sec-5.13.md
+- `5.14` — Low Visibility Procedures. Conjunto de procedimentos específicos aplicados em um aeródromo → fragmentos/is/is-91-003b--sec-5.14.md
+- `5.15` — Low Visibility Take-Off. Decolagem com visibilidade reduzida. → fragmentos/is/is-91-003b--sec-5.15.md
+- `5.16` — Synthetic Vision System. Sistema que disponibiliza aos tripulantes imagens externas geradas → fragmentos/is/is-91-003b--sec-5.16.md
+- `5.17` — Visibilidade Intensificada. Distância medida a frente da aeronave, como vista do posto de → fragmentos/is/is-91-003b--sec-5.17.md
+- `6.1` — Permanecem válidas no presente documento as abreviaturas detalhadas no RBAC nº 01, ou no → fragmentos/is/is-91-003b--sec-6.1.md
+- `6.2` — Esta IS utiliza algumas abreviaturas de termos na língua inglesa por entender que os mesmos já → fragmentos/is/is-91-003b--sec-6.2.md
+- `6.3` — ACAS – Air Collision Avoidance System; → fragmentos/is/is-91-003b--sec-6.3.md
+- `6.4` — ALSF-1 – Approach Lighting System with Sequenced Flashing Lights configuration 1; → fragmentos/is/is-91-003b--sec-6.4.md
+- `6.5` — ALSF-2 – Approach Lighting System with Sequenced Flashing Lights configuration 2; → fragmentos/is/is-91-003b--sec-6.5.md
+- `6.8` — CST – Certificado Suplementar de Tipo; → fragmentos/is/is-91-003b--sec-6.8.md
+- `6.13` — EFVS – Enhanced Flight Vision System; → fragmentos/is/is-91-003b--sec-6.13.md
+- `6.17` — FSTD – Flight Simulation Training Device; → fragmentos/is/is-91-003b--sec-6.17.md
+- `6.18` — GPWS – Ground Proximity Warning System; → fragmentos/is/is-91-003b--sec-6.18.md
+- `6.25` — MALSR – Medium-intensity Approach Lighting System with Runway Alignment Indicator → fragmentos/is/is-91-003b--sec-6.25.md
+- `6.29` — RNP – Required Navigation Performance; → fragmentos/is/is-91-003b--sec-6.29.md
+- `6.31` — SOCMS – Sistema de Orientação e Controle da Movimentação no Solo; → fragmentos/is/is-91-003b--sec-6.31.md
+- `6.32` — SSALR – Simplified Short Approach Lighting System with Runway Alignment Indicator Lights; → fragmentos/is/is-91-003b--sec-6.32.md
+- `6.34` — TDA – Type Design Approval; → fragmentos/is/is-91-003b--sec-6.34.md
+- `7.1` — Os mínimos meteorológicos para uma particular operação devem assegurar que a combinação de → fragmentos/is/is-91-003b--sec-7.1.md
+- `7.2` — Na definição dos mínimos meteorológicos para determinada operação se faz necessário avaliar → fragmentos/is/is-91-003b--sec-7.2.md
+- `7.3` — O Head Up Display consiste de um sistema de aquisição de dados através de radar, rádio → fragmentos/is/is-91-003b--sec-7.3.md
+- `7.4` — Quando o HUD apresenta os dados primários de voo e de navegação que se sobrepõem à cena → fragmentos/is/is-91-003b--sec-7.4.md
+- `7.5` — A utilização do HGS pode melhorar a consciência situacional pela combinação de informação de → fragmentos/is/is-91-003b--sec-7.5.md
+- `7.6` — O HGS pode ser utilizado com os seguintes propósitos: → fragmentos/is/is-91-003b--sec-7.6.md
+- `7.7` — Quando a utilização da informação apresentada pelo HGS for utilizada como display primário de → fragmentos/is/is-91-003b--sec-7.7.md
+- `7.8` — O operador deve estabelecer políticas e procedimentos que devem ser submetidos à aprovação da → fragmentos/is/is-91-003b--sec-7.8.md
+- `7.9` — Não é escopo desta IS abordar aspectos de aeronavegabilidade, uma vez que os equipamentos → fragmentos/is/is-91-003b--sec-7.9.md
+- `8.1` — Esta seção estabelece a metodologia aplicada ao processo de aprovação adotado pela → fragmentos/is/is-91-003b--sec-8.1.md
+- `8.2` — Após o término do processo, a autorização para conduzir operações CAT I AR e LVTO devem ser → fragmentos/is/is-91-003b--sec-8.2.md
+- `8.3` — A autorização expressa deve ser restrita ao menor valor de teto ou visibilidade na qual o operador → fragmentos/is/is-91-003b--sec-8.3.md
+- `9.1` — O Anexo 6 à Convenção de Aviação Civil Internacional, ICAO, prevê que o Estado do operador → fragmentos/is/is-91-003b--sec-9.1.md
+- `9.2` — Considerando que a Circular de Informação Aeronáutica n° 53/18, publicada em novembro de → fragmentos/is/is-91-003b--sec-9.2.md
+- `9.3` — Os procedimentos ILS CAT I AR descritos nessa IS, destinados a operadores especificamente → fragmentos/is/is-91-003b--sec-9.3.md
+- `9.4` — As LVTO, abordadas nesta IS, também destinada a operadores especificamente aprovados → fragmentos/is/is-91-003b--sec-9.4.md
+- `9.5` — Em resumo, estes são os mínimos meteorológicos possíveis de serem alcançados quando → fragmentos/is/is-91-003b--sec-9.5.md
+- `10.1` — Nenhum piloto operando uma aeronave, em uma aproximação ILS CAT I AR, que prevê e → fragmentos/is/is-91-003b--sec-10.1.md
+- `10.2` — O piloto operando uma aeronave deve executar imediatamente o apropriado procedimento de → fragmentos/is/is-91-003b--sec-10.2.md
+- `11.1` — Não é escopo desta IS o detalhamento dos requisitos de aeronavegabilidade que os sistemas → fragmentos/is/is-91-003b--sec-11.1.md
+- `11.2` — Para que um HGS seja elegível a aproximações ILS CAT I AR e decolagens LVTO → fragmentos/is/is-91-003b--sec-11.2.md
+- `12.1` — A fim de obtenção de créditos meteorológicos o HGS deve necessariamente disponibilizar a → fragmentos/is/is-91-003b--sec-12.1.md
+- `12.2` — Além do item 12.1, o HGS deve disponibilizar, no mínimo, as seguintes informações: → fragmentos/is/is-91-003b--sec-12.2.md
+- `12.3` — No emprego do EFVS as referências as imagens devem ser disponibilizadas de forma alinhada e → fragmentos/is/is-91-003b--sec-12.3.md
+- `13.1` — As imagens em tempo real e as demais informações apresentadas através do EFVS devem ser → fragmentos/is/is-91-003b--sec-13.1.md
+- `13.2` — Deve ser garantida a ergometria do sistema, de modo a garantir que as informações estejam → fragmentos/is/is-91-003b--sec-13.2.md
+- `14.1` — A definição de EFVS não deve ser confundida com a definição de EVS. Um EVS é um meio → fragmentos/is/is-91-003b--sec-14.1.md
+- `14.2` — A utilização do EVS pode melhorar a consciência situacional dos tripulantes em determinadas → fragmentos/is/is-91-003b--sec-14.2.md
+- `14.3` — Durante algumas condições de visibilidade reduzida, um EFVS pode disponibilizar imagens que → fragmentos/is/is-91-003b--sec-14.3.md
+- `14.4` — Só existe a previsão de operar abaixo da DA ou DH durante uma aproximação de precisão → fragmentos/is/is-91-003b--sec-14.4.md
+- `14.5` — As cores das luzes disponibilizadas através do EFVS podem não ser fielmente representadas no → fragmentos/is/is-91-003b--sec-14.5.md
+- `14.6` — Pela razão exposta no item anterior as luzes indicadoras de trajetória vertical, PAPI, não devem → fragmentos/is/is-91-003b--sec-14.6.md
+- `14.7` — Esta IS não determina que o EFVS seja desligado ou seu display seja recolhido para a → fragmentos/is/is-91-003b--sec-14.7.md
+- `14.8` — Lâmpadas com tecnologia LED podem não ser visíveis aos equipamentos que utilizam → fragmentos/is/is-91-003b--sec-14.8.md
+- `15.1` — Este capítulo trata de operações de aproximações ILS com alcance visual da pista, RVR, mínimo → fragmentos/is/is-91-003b--sec-15.1.md
+- `15.2` — Durante a execução de aproximações ILS CAT I AR os órgão ATC e/ou o administrador → fragmentos/is/is-91-003b--sec-15.2.md
+- `15.3` — O conceito de aproximação estabilizada é amplamente utilizado pela indústria com o propósito → fragmentos/is/is-91-003b--sec-15.3.md
+- `15.4` — Conforme previsão da AIC N° 53-18, publicada pelo DECEA, para serem elegíveis para → fragmentos/is/is-91-003b--sec-15.4.md
+- `15.5` — Nos procedimentos ILS CAT I AR, a inclinação da rampa de descida normalmente será de 3 → fragmentos/is/is-91-003b--sec-15.5.md
+- `15.6` — Somente aeronaves operadas por dois pilotos são autorizadas a utilizar os mínimos → fragmentos/is/is-91-003b--sec-15.6.md
+- `15.7` — A pista em uso deve ter distância de pouso declarada superior a 1500 metros. → fragmentos/is/is-91-003b--sec-15.7.md
+- `15.8` — Apenas os operadores certificados para as aproximações ILS CAT II utilizando aeronaves → fragmentos/is/is-91-003b--sec-15.8.md
+- `15.9` — A pista deve disponibilizar os seguintes auxílios luminosos e equipamentos auxiliares: → fragmentos/is/is-91-003b--sec-15.9.md
+- `15.10` — Na tabela abaixo estão discriminadas as restrições operacionais quanto à funcionalidade dos → fragmentos/is/is-91-003b--sec-15.10.md
+- `15.11` — As restrições operacionais aplicáveis aos procedimentos de aproximação ILS CAT I, descritas → fragmentos/is/is-91-003b--sec-15.11.md
+- `16.1` — Durante as operações de decolagem, as referências visuais devem ser suficientes para garantir → fragmentos/is/is-91-003b--sec-16.1.md
+- `16.2` — As operações LVTO referidas nesta IS são balizadas nas indicações do localizador do sistema → fragmentos/is/is-91-003b--sec-16.2.md
+- `16.3` — Os mínimos de decolagem são expressos em termos de visibilidade e alcance visual na pista, → fragmentos/is/is-91-003b--sec-16.3.md
+- `16.4` — Somente aeronaves operadas por dois pilotos são autorizadas a utilizar os mínimos → fragmentos/is/is-91-003b--sec-16.4.md
+- `16.5` — Sistemas embarcados normalmente utilizados nas decolagens, sem os créditos meteorológicos, → fragmentos/is/is-91-003b--sec-16.5.md
+- `16.6` — Quando as operações LVTO estiverem associadas a um procedimento RNP, as disposições → fragmentos/is/is-91-003b--sec-16.6.md
+- `16.7` — Para as operações com RVR abaixo de 400 metros, o aeródromo deverá possuir procedimentos → fragmentos/is/is-91-003b--sec-16.7.md
+- `16.8` — O operador deve certificar-se que as informações relevantes às operações devem ser de → fragmentos/is/is-91-003b--sec-16.8.md
+- `16.9` — Em conformidade com o RBAC 154, uma barra de parada deve ser instalada em todas as → fragmentos/is/is-91-003b--sec-16.9.md
+- `16.10` — Os aeródromos em que o Sistema de Orientação e Controle da Movimentação no Solo, → fragmentos/is/is-91-003b--sec-16.10.md
+- `16.11` — O detentor de aprovação LVTO com o emprego do HGS está autorizado a conduzir operações → fragmentos/is/is-91-003b--sec-16.11.md
+- `16.12` — Na tabela abaixo estão discriminadas as restrições operacionais quanto à funcionalidade dos → fragmentos/is/is-91-003b--sec-16.12.md
+- `16.13` — Na tabela a seguir estão discriminados os requisitos mínimos de pista associados aos valores → fragmentos/is/is-91-003b--sec-16.13.md
+- `17.1` — É mandatório treinamento específico para operadores realizarem procedimentos de aproximação → fragmentos/is/is-91-003b--sec-17.1.md
+- `17.2` — O treinamento mínimo recomendado para pilotos envolvidos nas operações com HGS deve → fragmentos/is/is-91-003b--sec-17.2.md
+- `17.3` — Aos pilotos envolvidos nas operações que utilizam o EFVS o treinamento recomendado no item → fragmentos/is/is-91-003b--sec-17.3.md
+- `17.4` — O treinamento periódico requerido para a manutenção e renovação das habilitações da tripulação → fragmentos/is/is-91-003b--sec-17.4.md
+- `17.5` — Os pilotos devem ser treinados nos seus respectivos postos de pilotagem utilizando os mínimos → fragmentos/is/is-91-003b--sec-17.5.md
+- `17.6` — Durante os exames iniciais ou periódicos os pilotos devem ser avaliados nas condições → fragmentos/is/is-91-003b--sec-17.6.md
+- `17.7` — Operadores regidos pelo RBAC 121 e 135 devem incluir nos currículos de solo dos → fragmentos/is/is-91-003b--sec-17.7.md
+- `17.8` — Sempre que um operador solicitar autorização para conduzir operações de decolagem com → fragmentos/is/is-91-003b--sec-17.8.md
+- `17.9` — O treinamento das tripulações deve garantir o conhecimento dos equipamentos utilizados, os → fragmentos/is/is-91-003b--sec-17.9.md
+- `17.10` — Os operadores aéreos devem incluir treinamentos de diferenças para seus tripulantes → fragmentos/is/is-91-003b--sec-17.10.md
+- `18.1` — O requerente deve solicitar a revisão das Especificações Operativas ou a emissão da LOA. Os → fragmentos/is/is-91-003b--sec-18.1.md
+- `19.1` — Compete ao piloto em comando: → fragmentos/is/is-91-003b--sec-19.1.md
+- `20.1` — Não existem mínimos meteorológicos estabelecidos para o táxi. O piloto em comando é o → fragmentos/is/is-91-003b--sec-20.1.md
+- `20.2` — Procedimentos específicos de táxi em condições de baixa visibilidade devem ser adotados pelo → fragmentos/is/is-91-003b--sec-20.2.md
+- `21.1` — É requerido o envolvimento do administrador do aeroporto por meio de uma carta de acordo → fragmentos/is/is-91-003b--sec-21.1.md
+- `21.2` — Para operações de decolagem com RVR abaixo de 400 m, o aeródromo deve possuir → fragmentos/is/is-91-003b--sec-21.2.md
+- `21.3` — Os aeródromos em que o SOCMS (Sistema de Orientação e Controle da Movimentação no → fragmentos/is/is-91-003b--sec-21.3.md
+- `21.4` — Não é requerido do operador aéreo a apresentação ou o conhecimento da Carta de Acordo → fragmentos/is/is-91-003b--sec-21.4.md
+- `22.1` — Após a obtenção da aprovação operacional, o operador deve levar em consideração diversos → fragmentos/is/is-91-003b--sec-22.1.md
+- `22.2` — Faz parte ainda do processo de qualificação do operador um período inicial onde pode ser → fragmentos/is/is-91-003b--sec-22.2.md
+- `23.1` — A prerrogativa do órgão regulador conceder autorização específica para operações com mínimos → fragmentos/is/is-91-003b--sec-23.1.md
+- `23.2` — A autorização nas Especificações Operativas ou na LOA do operador deve conter expressamente → fragmentos/is/is-91-003b--sec-23.2.md
+
+## is-91-004
+- `cabecalho` → fragmentos/is/is-91-004--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-91-004--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-91-004--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar - → fragmentos/is/is-91-004--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito → fragmentos/is/is-91-004--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b desta IS deve garantir nível de → fragmentos/is/is-91-004--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-91-004--sec-3.4.md
+- `3.5` — Esta IS fundamenta-se também: → fragmentos/is/is-91-004--sec-3.5.md
+- `4.1` — Introdução → fragmentos/is/is-91-004--sec-4.1.md
+- `4.2` — Procedimentos para autorização das operações pretendidas → fragmentos/is/is-91-004--sec-4.2.md
+- `5.1` — Sempre que julgado pertinente pelo administrado requerente e pelo analista da ANAC → fragmentos/is/is-91-004--sec-5.1.md
+- `5.2` — Os casos omissos serão dirimidos pela SPO ou pela SAR. → fragmentos/is/is-91-004--sec-5.2.md
+- `5.3` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-91-004--sec-5.3.md
+
+## is-91-009
+- `cabecalho` → fragmentos/is/is-91-009--sec-cabecalho.md
+- `1.1` — Apresentar, como método aceitável de cumprimento dos parágrafos 121.195(d) e → fragmentos/is/is-91-009--sec-1.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar → fragmentos/is/is-91-009--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-91-009--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado na alínea 3.2(b) desta IS deve garantir → fragmentos/is/is-91-009--sec-3.3.md
+- `3.4` — A IS não pode criar requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-91-009--sec-3.4.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas nos RBAC nº 01, 121, 135, 153 → fragmentos/is/is-91-009--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-91-009--sec-5.1.md
+- `5.2` — Elegibilidade de aeródromos → fragmentos/is/is-91-009--sec-5.2.md
+- `5.3` — Elegibilidade da aeronave → fragmentos/is/is-91-009--sec-5.3.md
+- `5.4` — Condições meteorológicas → fragmentos/is/is-91-009--sec-5.4.md
+- `5.5` — Condições da pista → fragmentos/is/is-91-009--sec-5.5.md
+- `5.6` — Responsabilidades do operador aéreo → fragmentos/is/is-91-009--sec-5.6.md
+- `5.7` — Processo de autorização → fragmentos/is/is-91-009--sec-5.7.md
+- `7.1` — Os casos omissos serão dirimidos pela SPO. → fragmentos/is/is-91-009--sec-7.1.md
+
+## is-91-011
+- `cabecalho` → fragmentos/is/is-91-011--sec-cabecalho.md
+- `1` — PURPOSE. This advisory circular (AC) provides guidance for all operators using the → fragmentos/is/is-91-011--sec-1.md
+- `2` — RELATED TITLE 14 CFR REGULATIONS. → fragmentos/is/is-91-011--sec-2.md
+- `3` — RELATED READING MATERIAL (current editions). → fragmentos/is/is-91-011--sec-3.md
+- `4` — BACKGROUND. Controlled flight into terrain (CFIT) is a primary cause of worldwide → fragmentos/is/is-91-011--sec-4.md
+- `5` — APPLICABILITY. The FAA recommends CDFA for all of the following NPAs published → fragmentos/is/is-91-011--sec-5.md
+- `6` — OPERATIONAL PROCEDURES AND FLIGHT TECHNIQUES. → fragmentos/is/is-91-011--sec-6.md
+- `7` — FLIGHTCREW TRAINING. → fragmentos/is/is-91-011--sec-7.md
+- `8` — AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page of → fragmentos/is/is-91-011--sec-8.md
+
+## is-91-012-1
+- `1.1` — Apresentar uma metodologia que proporcione a elaboração de Lista de Equipamentos Mínimos (MEL) aceitável pela Anac, capa → fragmentos/is/is-91-012-1--sec-1.1.md
+- `1.2` — Apresentar os procedimentos requeridos no processo de aprovação e revisão de MEL, desde sua submissão à análise da Anac  → fragmentos/is/is-91-012-1--sec-1.2.md
+- `1.3` — Apresentar os procedimentos para utilização em serviço da MEL aprovada. → fragmentos/is/is-91-012-1--sec-1.3.md
+- `1.4` — Apresentar os procedimentos para operação com equipamentos e instrumentos inoperantes, sem MEL aprovada, conforme o pará → fragmentos/is/is-91-012-1--sec-1.4.md
+- `2.1` — Esta IS revoga a IS nº 91-012, Revisão B. → fragmentos/is/is-91-012-1--sec-2.1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar – IS, norma suplementar de ca → fragmentos/is/is-91-012-1--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito previsto em RBAC, poderá: → fragmentos/is/is-91-012-1--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no parágrafo 3.2(b) desta IS deve garantir nível de segurança igual ou sup → fragmentos/is/is-91-012-1--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro ato normativo. → fragmentos/is/is-91-012-1--sec-3.4.md
+- `3.5` — Esta IS é fundamentada e objetiva oferecer método de cumprimento às seções 91.213 e 91.1115 do RBAC nº 91, 121.628 do RB → fragmentos/is/is-91-012-1--sec-3.5.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na seção 01.1 do RBAC nº 01, na IS nº 118-001 e as seguinte → fragmentos/is/is-91-012-1--sec-4.1.md
+- `4.2` — Lista de abreviaturas: → fragmentos/is/is-91-012-1--sec-4.2.md
+- `5.1` — Elaboração da MEL → fragmentos/is/is-91-012-1--sec-5.1.md
+- `5.2` — Processos de aprovação, revisão e revogação de aprovação da MEL → fragmentos/is/is-91-012-1--sec-5.2.md
+- `5.3` — Utilização da MEL em serviço → fragmentos/is/is-91-012-1--sec-5.3.md
+- `5.4` — Operação com equipamentos e instrumentos inoperantes, sem MEL aprovada → fragmentos/is/is-91-012-1--sec-5.4.md
+- `7.1` — Os casos omissos serão dirimidos pela Anac. → fragmentos/is/is-91-012-1--sec-7.1.md
+- `7.2` — O operador pode utilizar uma MEL aprovada com base na IAC 3507-121/135 – 1298. Essa MEL deve ser revisada caso: → fragmentos/is/is-91-012-1--sec-7.2.md
+
+## is-91-014
+- `cabecalho` → fragmentos/is/is-91-014--sec-cabecalho.md
+- `2` — AY1-2Z68.:2[O2E212TJ → fragmentos/is/is-91-014--sec-2.md
+- `3` — 71A< → fragmentos/is/is-91-014--sec-3.md
+- `4` — C3.90?@31/3713F75J286371;.-7-45-71407 → fragmentos/is/is-91-014--sec-4.md
+
+## is-91-21-001
+- `cabecalho` → fragmentos/is/is-91-21-001--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-91-21-001--sec-1.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução → fragmentos/is/is-91-21-001--sec-3.1.md
+- `3.2` — O operador aéreo que pretenda, para qualquer finalidade, demonstrar o cumprimento de → fragmentos/is/is-91-21-001--sec-3.2.md
+- `3.3` — A seção 91.21 do RBHA nº 91, a seção 121.306 do RBAC nº 121 e a seção 135.144 do → fragmentos/is/is-91-21-001--sec-3.3.md
+- `4.1` — Para os efeitos desta IS, são válidas as definições listadas na Seção 119.3 do RBAC nº → fragmentos/is/is-91-21-001--sec-4.1.md
+- `5` — DESENVOLVIMENTO DO ASSUNTO → fragmentos/is/is-91-21-001--sec-5.md
+- `5.1` — Introdução → fragmentos/is/is-91-21-001--sec-5.1.md
+- `5.2` — Regulamentação atual → fragmentos/is/is-91-21-001--sec-5.2.md
+- `5.3` — Expansão do uso de PEDs → fragmentos/is/is-91-21-001--sec-5.3.md
+- `5.4` — Processo de Aceitação → fragmentos/is/is-91-21-001--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-91-21-001--sec-6.md
+- `7` — DISPOSIÇÕES FINAIS → fragmentos/is/is-91-21-001--sec-7.md
+- `8.1` — EASA. Safety Information Bulletin SIB n° 2013-21, emitido em 09 de dezembro de → fragmentos/is/is-91-21-001--sec-8.1.md
+- `8.2` — EASA. CS 25 Amdt.14, Certification Specifications and Acceptable Means of → fragmentos/is/is-91-21-001--sec-8.2.md
+- `8.3` — FAA. InFO 13010, Expanding Use of Passenger Portable Electronic Devices (PED), → fragmentos/is/is-91-21-001--sec-8.3.md
+- `8.4` — FAA. Relatório do PED ARC, emitido em 30 de setembro de 2013, disponível em → fragmentos/is/is-91-21-001--sec-8.4.md
+- `8.5` — RTCA DO-160 Revisão D ou posterior – Environmental Conditions and Test → fragmentos/is/is-91-21-001--sec-8.5.md
+- `8.6` — RTCA DO-294C – Guidance on Allowing Transmitting Portable Electronic Devices (T- → fragmentos/is/is-91-21-001--sec-8.6.md
+- `8.7` — RTCA DO-307 – Aircraft Design and Certification for Portable Electronic Device → fragmentos/is/is-91-21-001--sec-8.7.md
+- `(inteira)` — APÊNDICE A -          LISTA DE REDUÇÕES → fragmentos/is/is-91-21-001--apêndice-a-lista-de-reduções.md
+- `(inteira)` → fragmentos/is/is-91-21-001--apendice.md
+- `(inteira)` — APÊNDICE B -          GUIA PARA A ACEITAÇÃO DO USO EXPANDIDO DE PED POR → fragmentos/is/is-91-21-001--apêndice-b-guia-para-a-aceitação-do-uso.md
+- `(inteira)` → fragmentos/is/is-91-21-001--apendice.md
+- `(inteira)` — APÊNDICE C -          COMUNICAÇÕES DE CABINE E PEDS DE PASSAGEIROS → fragmentos/is/is-91-21-001--apêndice-c-comunicações-de-cabine-e-peds.md
+- `(inteira)` → fragmentos/is/is-91-21-001--apendice.md
+
+## is-91-319-001
+- `cabecalho` → fragmentos/is/is-91-319-001--sec-cabecalho.md
+- `1.1` — Esclarecer as condições em que o sobrevoo de área densamente povoada por aeronave → fragmentos/is/is-91-319-001--sec-1.1.md
+- `3.1` — A Lei 11.182, de 27 de setembro de 2005, definiu, por meio do seu art. 5º, que a ANAC é → fragmentos/is/is-91-319-001--sec-3.1.md
+- `3.2` — O Regulamento Brasileiro da Aviação Civil nº 91 – RBAC 91, em seu parágrafo 91.319(c), → fragmentos/is/is-91-319-001--sec-3.2.md
+- `3.3` — A Resolução nº 30, de 21 de maio de 2008, em seu Art. 14, estabelece que a ANAC pode → fragmentos/is/is-91-319-001--sec-3.3.md
+- `3.4` — Esta IS detalha a aplicação do parágrafo 91.319(c) do RBAC 91 e esclarece as condições em → fragmentos/is/is-91-319-001--sec-3.4.md
+- `4.1` — Certificado de Autorização de Voo (CAV): certificado de aeronavegabilidade especial que → fragmentos/is/is-91-319-001--sec-4.1.md
+- `4.2` — Certificado de Autorização de Voo Experimental (CAVE):                    certificado de → fragmentos/is/is-91-319-001--sec-4.2.md
+- `4.3` — Ente qualificado: no contexto desta IS, compreende: → fragmentos/is/is-91-319-001--sec-4.3.md
+- `5.1` — Contextualização → fragmentos/is/is-91-319-001--sec-5.1.md
+- `5.2` — Aplicabilidade → fragmentos/is/is-91-319-001--sec-5.2.md
+- `5.3` — Condições para o sobrevoo de áreas densamente povoadas por aeronaves → fragmentos/is/is-91-319-001--sec-5.3.md
+- `5.4` — Classificação dos aeródromos quanto à sua situação → fragmentos/is/is-91-319-001--sec-5.4.md
+- `5.5` — Autorização especial para operação em aeródromo RESTRITO → fragmentos/is/is-91-319-001--sec-5.5.md
+- `5.6` — Critérios de aeronavegabilidade para concessão da autorização especial para operar → fragmentos/is/is-91-319-001--sec-5.6.md
+- `5.7` — Emissão do relatório e do Formulário pelo ente qualificado → fragmentos/is/is-91-319-001--sec-5.7.md
+- `5.8` — Procedimentos operacionais → fragmentos/is/is-91-319-001--sec-5.8.md
+- `6` — APÊNDICES → fragmentos/is/is-91-319-001--sec-6.md
+- `7.1` — O ente qualificado é responsável pelo relatório e formulário que assina e poderá ser → fragmentos/is/is-91-319-001--sec-7.1.md
+- `7.2` — O operador é responsável, civil e criminalmente, pelos danos decorrentes das operações → fragmentos/is/is-91-319-001--sec-7.2.md
+- `7.3` — Na contratação de cobertura de seguro de responsabilidade civil, a possibilidade de sobrevoo → fragmentos/is/is-91-319-001--sec-7.3.md
+- `7.4` — Esta Instrução Suplementar poderá ser revisada com base em dados de sua implementação e → fragmentos/is/is-91-319-001--sec-7.4.md
+- `7.5` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-91-319-001--sec-7.5.md
+
+## is-94-002
+- `cabecalho` → fragmentos/is/is-94-002--sec-cabecalho.md
+- `1.1` — 1    Esta Instrução Suplementar – IS – tem por objetivo orientar a demonstração de cumprimento → fragmentos/is/is-94-002--sec-1.1.md
+- `3.1` — 1    O Art. 66, § 1º da Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de → fragmentos/is/is-94-002--sec-3.1.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-94-002--sec-5.1.md
+- `5.2` — Pontos Importantes Sobre Autorização de Projeto de RPAS → fragmentos/is/is-94-002--sec-5.2.md
+- `5.3` — Confidencialidade → fragmentos/is/is-94-002--sec-5.3.md
+- `5.4` — Demonstração de cumprimento com os requisitos técnicos → fragmentos/is/is-94-002--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-94-002--sec-6.md
+- `7.1` — 1    Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-94-002--sec-7.1.md
+
+## is-e94-001
+- `cabecalho` → fragmentos/is/is-e94-001--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem por objetivo fornecer informações sobre os → fragmentos/is/is-e94-001--sec-1.1.md
+- `2.1` — Esta IS cancela e substitui a IS E94-001A, de 2 de maio de 2017. → fragmentos/is/is-e94-001--sec-2.1.md
+- `3.1` — O Art. 66, § 1º da Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de → fragmentos/is/is-e94-001--sec-3.1.md
+- `3.2` — O art. 8º, XVII da Lei nº 11.182, de 27 de setembro de 2005, dispõe que cabe à Agência → fragmentos/is/is-e94-001--sec-3.2.md
+- `3.3` — A Resolução nº 30, de 21 de maio de 2008, considerando a redação dada pela Resolução n° → fragmentos/is/is-e94-001--sec-3.3.md
+- `3.4` — O art. 14 da Resolução nº 30, de 21 de maio de 2008, modificado pela Resolução n° 162, de → fragmentos/is/is-e94-001--sec-3.4.md
+- `3.5` — A seção E94.401 do RBAC-E 94 estabelece que, exceto nos casos listados, somente é → fragmentos/is/is-e94-001--sec-3.5.md
+- `4.1` — Requerente: Pessoa que solicita à ANAC e aos outros órgãos governamentais as → fragmentos/is/is-e94-001--sec-4.1.md
+- `4.2` — Responsável Técnico - RT: Engenheiro com atribuição adequada e registro no Conselho → fragmentos/is/is-e94-001--sec-4.2.md
+- `5.1` — Aplicabilidade → fragmentos/is/is-e94-001--sec-5.1.md
+- `5.2` — Atribuição de Responsabilidades → fragmentos/is/is-e94-001--sec-5.2.md
+- `5.3` — Processo de Autorização de Projeto de RPAS → fragmentos/is/is-e94-001--sec-5.3.md
+- `5.4` — Encerramento do Processo de Autorização → fragmentos/is/is-e94-001--sec-5.4.md
+- `5.5` — Suspensão ou Cancelamento de uma Autorização → fragmentos/is/is-e94-001--sec-5.5.md
+- `5.6` — Confidencialidade → fragmentos/is/is-e94-001--sec-5.6.md
+- `6` — APÊNDICES → fragmentos/is/is-e94-001--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-e94-001--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-e94-001--sec-7.2.md
+
+## is-e94-003
+- `cabecalho` → fragmentos/is/is-e94-003--sec-cabecalho.md
+- `1` — OBJETIVO → fragmentos/is/is-e94-003--sec-1.md
+- `2` — REVOGAÇÃO → fragmentos/is/is-e94-003--sec-2.md
+- `3.1` — A Resolução nº 30, de 21 de maio de 2008, institui em seu art. 14, a Instrução Suplementar - → fragmentos/is/is-e94-003--sec-3.1.md
+- `3.2` — O administrado que pretenda, para qualquer finalidade, demonstrar o cumprimento de requisito → fragmentos/is/is-e94-003--sec-3.2.md
+- `3.3` — O meio ou procedimento alternativo mencionado no item 3.2b desta IS deve garantir nível de → fragmentos/is/is-e94-003--sec-3.3.md
+- `3.4` — A IS não pode criar novos requisitos ou contrariar requisitos estabelecidos em RBAC ou outro → fragmentos/is/is-e94-003--sec-3.4.md
+- `4.1` — Para os efeitos desta IS são válidas as definições do RBAC-E nº 94, e as seguintes definições: → fragmentos/is/is-e94-003--sec-4.1.md
+- `5.1` — Introdução → fragmentos/is/is-e94-003--sec-5.1.md
+- `5.2` — Procedimentos para elaboração da avaliação de risco operacional → fragmentos/is/is-e94-003--sec-5.2.md
+- `6` — APÊNDICES → fragmentos/is/is-e94-003--sec-6.md
+- `7.1` — Os casos omissos serão dirimidos pelo Superintendente de Padrões Operacionais. → fragmentos/is/is-e94-003--sec-7.1.md
+- `7.2` — Esta IS entra em vigor na data de sua publicação. → fragmentos/is/is-e94-003--sec-7.2.md
+- `(inteira)` — APÊNDICE A – RESERVADO → fragmentos/is/is-e94-003--apêndice-a-reservado.md
+- `(inteira)` → fragmentos/is/is-e94-003--apendice.md
+- `(inteira)` — APÊNDICE B – MODELO DE AVALIAÇÃO DE RISCO OPERACIONAL → fragmentos/is/is-e94-003--apêndice-b-modelo-de-avaliação-de-risco.md
+- `(inteira)` → fragmentos/is/is-e94-003--apendice.md
+
+## is-e94-503-001c
+- `cabecalho` → fragmentos/is/is-e94-503-001c--sec-cabecalho.md
+- `1.1` — Esta Instrução Suplementar – IS tem o objetivo de orientar a emissão de Certificado de Autorização de Voo Experimental – → fragmentos/is/is-e94-503-001c--sec-1.1.md
+- `2.1` — 1 Esta IS cancela e substitui a IS Nº E94.503-001B, de 20 de setembro de 2021. → fragmentos/is/is-e94-503-001c--sec-2.1.md
+- `3.1` — A Lei 7.565/86 (Código Brasileiro de Aeronáutica - CBAer) estabelece, no parágrafo único do seu Art. 20, que "Pode a aut → fragmentos/is/is-e94-503-001c--sec-3.1.md
+- `3.2` — A mesma Lei determina, no seu Art. 119, que "As aeronaves em processo de homologação, as destinadas à pesquisa e desenvo → fragmentos/is/is-e94-503-001c--sec-3.2.md
+- `3.3` — A Resolução nº 30, de 21 de maio de 2008, considerando também a redação dada pela Resolução n° 162, de 20 de julho de 20 → fragmentos/is/is-e94-503-001c--sec-3.3.md
+- `3.4` — O art. 14 da Resolução nº 30, de 21 de maio de 2008, modificado pela Resolução n° 162, de 20 de julho de 2010, também de → fragmentos/is/is-e94-503-001c--sec-3.4.md
+- `3.5` — Considerando o exposto nesta seção, esta IS objetiva detalhar e orientar a aplicação da seção E94.503 do RBAC-E 94 visan → fragmentos/is/is-e94-503-001c--sec-3.5.md
+- `4.1` — Componente crítico: Aquele que possui limite de utilização para revisão, substituição, teste e/ou calibração previstos n → fragmentos/is/is-e94-503-001c--sec-4.1.md
+- `4.2` — Fabricante: Pessoa ou organização que manufatura o sistema de aeronave remotamente pilotada (Remotely-Piloted Aircraft S → fragmentos/is/is-e94-503-001c--sec-4.2.md
+- `4.3` — Item aberto: é um apontamento (fato ou dúvida) feito na análise documental ou durante a inspeção, pelo inspetor da ANAC  → fragmentos/is/is-e94-503-001c--sec-4.3.md
+- `4.4` — Item fechado: é um apontamento ou uma não conformidade cujos esclarecimentos ou correções, respectivamente, são consider → fragmentos/is/is-e94-503-001c--sec-4.4.md
+- `4.5` — Não conformidade: é um item aberto que não atende aos requsitos aplicáveis. → fragmentos/is/is-e94-503-001c--sec-4.5.md
+- `4.6` — Operador: Pessoa, órgão ou empresa dedicada à operação de RPAS. → fragmentos/is/is-e94-503-001c--sec-4.6.md
+- `4.7` — Recuperação de emergência: conjunto de funções e procedimentos que objetivam conduzir a Aeronave Remotamente Pilotada at → fragmentos/is/is-e94-503-001c--sec-4.7.md
+- `4.8` — Requerente: Pessoa que solicita à ANAC e aos outros órgãos governamentais as aprovações e solicitações necessárias à ope → fragmentos/is/is-e94-503-001c--sec-4.8.md
+- `4.9` — Sistema de terminação de voo: sistema que visa o término imediato do voo e a redução da energia cinética no momento do i → fragmentos/is/is-e94-503-001c--sec-4.9.md
+- `5` — DESENVOLVIMENTO DO ASSUNTO → fragmentos/is/is-e94-503-001c--sec-5.md
+- `5.1` — Geral → fragmentos/is/is-e94-503-001c--sec-5.1.md
+- `5.2` — Certificado de Autorização de Voo Experimental → fragmentos/is/is-e94-503-001c--sec-5.2.md
+- `5.3` — Processo de Emissão do CAVE → fragmentos/is/is-e94-503-001c--sec-5.3.md
+- `5.4` — Aeronavegabilidade Continuada → fragmentos/is/is-e94-503-001c--sec-5.4.md
+- `6` — APÊNDICES → fragmentos/is/is-e94-503-001c--sec-6.md
+- `7.1` — 1 Os casos omissos serão dirimidos pela ANAC. → fragmentos/is/is-e94-503-001c--sec-7.1.md
+
+## rbac-01
+- `cabecalho` → fragmentos/rbac/rbac-01--sec-cabecalho.md
+- `01.1` — – Definições → fragmentos/rbac/rbac-01--sec-01.1.md
+- `5.670` — Kg (12.500 lb). → fragmentos/rbac/rbac-01--sec-5.670.md
+- `01.2` — – Abreviaturas e símbolos → fragmentos/rbac/rbac-01--sec-01.2.md
+- `01.3` — - Regras de construção dos RBAC → fragmentos/rbac/rbac-01--sec-01.3.md
+- `01.4` — – Unidades de Medida → fragmentos/rbac/rbac-01--sec-01.4.md
+- `01.5` — – Disposições Finais → fragmentos/rbac/rbac-01--sec-01.5.md
+
+## rbac-045
+- `cabecalho` → fragmentos/rbac/rbac-045--sec-cabecalho.md
+- `45.1` — Aplicabilidade → fragmentos/rbac/rbac-045--sec-45.1.md
+- `45.11` — Geral → fragmentos/rbac/rbac-045--sec-45.11.md
+- `45.14` — Identificação de componentes críticos → fragmentos/rbac/rbac-045--sec-45.14.md
+- `45.15` — Peças para reposição ou modificação → fragmentos/rbac/rbac-045--sec-45.15.md
+- `45.16` — Marcação de peças com limite de vida → fragmentos/rbac/rbac-045--sec-45.16.md
+- `45.22` — Aeronaves antigas, de exibição e outras aeronaves: Requisitos Especiais → fragmentos/rbac/rbac-045--sec-45.22.md
+- `45.25` — Localização das marcas em aeronaves de asa fixa → fragmentos/rbac/rbac-045--sec-45.25.md
+- `45.27` — Localização das marcas em aeronaves de asas rotativas e outras aeronaves → fragmentos/rbac/rbac-045--sec-45.27.md
+- `45.33` — Venda da aeronave. Remoção das marcas → fragmentos/rbac/rbac-045--sec-45.33.md
+
+## rbac-103-emd-02
+- `cabecalho` → fragmentos/rbac/rbac-103-emd-02--sec-cabecalho.md
+- `103.1` — Aplicabilidade → fragmentos/rbac/rbac-103-emd-02--sec-103.1.md
+- `103.3` — Inspeções → fragmentos/rbac/rbac-103-emd-02--sec-103.3.md
+- `103.5` — Autorização especial → fragmentos/rbac/rbac-103-emd-02--sec-103.5.md
+- `103.7` — Documentação exigida → fragmentos/rbac/rbac-103-emd-02--sec-103.7.md
+- `103.11` — Regras operacionais → fragmentos/rbac/rbac-103-emd-02--sec-103.11.md
+- `103.13` — Regras de tráfego aéreo → fragmentos/rbac/rbac-103-emd-02--sec-103.13.md
+- `103.15` — Áreas de operação → fragmentos/rbac/rbac-103-emd-02--sec-103.15.md
+- `103.701` — Infrações → fragmentos/rbac/rbac-103-emd-02--sec-103.701.md
+
+## rbac-105
+- `cabecalho` → fragmentos/rbac/rbac-105--sec-cabecalho.md
+- `105.1` — Aplicabilidade → fragmentos/rbac/rbac-105--sec-105.1.md
+- `105.3` — Regras gerais → fragmentos/rbac/rbac-105--sec-105.3.md
+- `105.11` — Aplicabilidade → fragmentos/rbac/rbac-105--sec-105.11.md
+- `105.13` — Geral → fragmentos/rbac/rbac-105--sec-105.13.md
+- `105.15` — Saltos sobre áreas densamente povoadas ou sobre conjuntos de pessoas reunidas ao ar → fragmentos/rbac/rbac-105--sec-105.15.md
+- `105.17` — Saltos sobre ou com pouso em aeródromos → fragmentos/rbac/rbac-105--sec-105.17.md
+- `105.19` — Saltos dentro ou sobre espaços aéreos classes A, B, C e D → fragmentos/rbac/rbac-105--sec-105.19.md
+- `105.21` — Saltos dentro ou sobre áreas de serviço radar de aeródromos → fragmentos/rbac/rbac-105--sec-105.21.md
+- `105.23` — Saltos dentro ou sobre áreas de controle positivo ou áreas terminais. → fragmentos/rbac/rbac-105--sec-105.23.md
+- `105.25` — Saltos dentro ou sobre outros espaços aéreos → fragmentos/rbac/rbac-105--sec-105.25.md
+- `105.27` — Informações requeridas para emissão de NOTAM. → fragmentos/rbac/rbac-105--sec-105.27.md
+- `105.29` — Saltos sobre ou dentro de áreas proibidas ou restritas → fragmentos/rbac/rbac-105--sec-105.29.md
+- `105.31` — Visibilidade em voo e distanciamento de nuvens → fragmentos/rbac/rbac-105--sec-105.31.md
+- `105.33` — Operações entre pôr e nascer do sol → fragmentos/rbac/rbac-105--sec-105.33.md
+- `105.35` — Álcool e drogas → fragmentos/rbac/rbac-105--sec-105.35.md
+- `105.37` — Inspeções → fragmentos/rbac/rbac-105--sec-105.37.md
+
+## rbac-107
+- `cabecalho` → fragmentos/rbac/rbac-107--sec-cabecalho.md
+- `107.83` — a 107.89 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.83.md
+- `(inteira)` — Anexo ao Decreto nº 7.168, de 5 de maio de 2010, que dispõe sobre o Programa Nac → fragmentos/rbac/rbac-107--anexo-ao-decreto-nº-7-168-de-5-de-maio-d.md
+- `(inteira)` → fragmentos/rbac/rbac-107--apendice.md
+- `107.11` — a 107.15 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.11.md
+- `107.27` — a 107.35 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.27.md
+- `107.45` — a 107.53 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.45.md
+- `107.69` — a 107.79 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.69.md
+- `107.99` — [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.99.md
+- `107.107` — a 107.109 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.107.md
+- `107.113` — a 107.119 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.113.md
+- `107.133` — a 107.139 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.133.md
+- `107.149` — a 107.159 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.149.md
+- `107.173` — a 107.179 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.173.md
+- `107.181` — a 107.199 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.181.md
+- `107.207` — a 107.209 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.207.md
+- `107.221` — a 107.229 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.221.md
+- `107.231` — Disposições Finais → fragmentos/rbac/rbac-107--sec-107.231.md
+- `107.233` — Disposições Transitórias → fragmentos/rbac/rbac-107--sec-107.233.md
+- `107.235` — a 107.239 [RESERVADO] → fragmentos/rbac/rbac-107--sec-107.235.md
+- `107.5` — Siglas e Abreviaturas                                           Disposições gerais a serem observadas para qualquer clas → fragmentos/rbac/rbac-107--sec-107.5.md
+- `107.7` — Metodologia de Aplicação do Regulamento → fragmentos/rbac/rbac-107--sec-107.7.md
+- `107.9` — Classificações dos Aeródromos → fragmentos/rbac/rbac-107--sec-107.9.md
+- `107.17` — Avaliação de Risco e Planejamento              Dispensado.       Dispensado.      Obrigatório, quando o aeródromo        → fragmentos/rbac/rbac-107--sec-107.17.md
+- `107.19` — Aquisição de Equipamentos de Segurança         Dispensado.       Dispensado.                Obrigatório.                 → fragmentos/rbac/rbac-107--sec-107.19.md
+- `107.21` — Calibração de Equipamentos de Segurança        Dispensado.       Dispensado.                Obrigatório.                 → fragmentos/rbac/rbac-107--sec-107.21.md
+- `107.23` — Operação e Manutenção de Equipamentos de       Dispensado.       Dispensado.                Obrigatório.                 → fragmentos/rbac/rbac-107--sec-107.23.md
+- `107.25` — Recursos Humanos                               Dispensado.       Obrigatório.               Obrigatório.                 → fragmentos/rbac/rbac-107--sec-107.25.md
+- `107.37` — Ativação da Comissão de Segurança                Dispensado.        Recomendado.        Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107--sec-107.37.md
+- `107.39` — Atribuição de Responsabilidades à CSA            Dispensado.        Recomendado.        Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107--sec-107.39.md
+- `107.41` — Regimento Interno da CSA                         Dispensado.        Recomendado.        Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107--sec-107.41.md
+- `107.43` — Comunicação sobre assuntos de AVSEC              Dispensado.          Obrigatório.                 Obrigatório.          → fragmentos/rbac/rbac-107--sec-107.43.md
+- `107.55` — Perímetros Patrimonial e Operacional             Obrigatório.         Obrigatório.                Obrigatório.           → fragmentos/rbac/rbac-107--sec-107.55.md
+- `107.57` — Áreas Controladas e Áreas Restritas de           Obrigatório a        Obrigatório a     Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107--sec-107.57.md
+- `107.59` — Áreas do Terminal de Passageiros                  Dispensado.         Recomendado.                  Obrigatório.         → fragmentos/rbac/rbac-107--sec-107.59.md
+- `107.61` — Áreas do Terminal de Carga                        Dispensado.         Recomendado.        Obrigatório, quando o aeródrom → fragmentos/rbac/rbac-107--sec-107.61.md
+- `107.63` — Áreas de Uso dos Operadores de Táxi Aéreo e       Dispensado.           Dispensado.                 Recomendado.         → fragmentos/rbac/rbac-107--sec-107.63.md
+- `107.65` — Pontos Sensíveis                                  Dispensado.         Recomendado.                  Obrigatório.         → fragmentos/rbac/rbac-107--sec-107.65.md
+- `107.67` — Barreira de Segurança                              107.67(d). → fragmentos/rbac/rbac-107--sec-107.67.md
+- `107.81` — Vigilância e Supervisão                        Obrigatório, apenas      Obrigatório.                Obrigatório.         → fragmentos/rbac/rbac-107--sec-107.81.md
+- `107.91` — Gestão do Sistema de Credenciamento e               Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107--sec-107.91.md
+- `107.93` — Concessão de Credenciais e Autorizações             Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107--sec-107.93.md
+- `107.95` — Controle de Credenciais e Autorizações              Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107--sec-107.95.md
+- `107.97` — Conscientização com AVSEC                           Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107--sec-107.97.md
+- `107.101` — Pontos de Acesso                                    Dispensado.        Obrigatório.          Obrigatório, conforme       → fragmentos/rbac/rbac-107--sec-107.101.md
+- `107.103` — Controle de Acesso à Área Controlada                Dispensado.        Obrigatório.          Obrigatório, conforme       → fragmentos/rbac/rbac-107--sec-107.103.md
+- `107.105` — Controle de Acesso à Área Restrita de               Dispensado.        Dispensado.           Obrigatório, conforme       → fragmentos/rbac/rbac-107--sec-107.105.md
+- `107.111` — Inspeção de Pessoas e seus Pertences de Mão         Dispensado.        Dispensado.     Obrigatório, quando o aeródromo   → fragmentos/rbac/rbac-107--sec-107.111.md
+- `107.121` — Inspeção de Passageiros e seus Pertences de         Dispensado.        Dispensado.     Obrigatório, quando o aeródromo   → fragmentos/rbac/rbac-107--sec-107.121.md
+- `107.123` — Proteção de Passageiros e seus Pertences de         Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107--sec-107.123.md
+- `107.125` — Passageiros em Trânsito ou em Conexão               Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107--sec-107.125.md
+- `107.127` — Passageiros Armado                                  Dispensado.      Dispensado.              Obrigatório.               → fragmentos/rbac/rbac-107--sec-107.127.md
+- `107.129` — Passageiro sob Custódia                             Dispensado.      Dispensado.              Obrigatório.               → fragmentos/rbac/rbac-107--sec-107.129.md
+- `107.131` — Passageiro Indisciplinado                           Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107--sec-107.131.md
+- `107.141` — Proteção da Bagagem Despachada                      Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107--sec-107.141.md
+- `107.143` — Inspeção da Bagagem Despachada                      Dispensado.      Dispensado.    Obrigatório, quando aeródromo      O → fragmentos/rbac/rbac-107--sec-107.143.md
+- `107.145` — Bagagem Despachada em Trânsito ou em                Dispensado.      Dispensado.         Obrigatório, conforme           → fragmentos/rbac/rbac-107--sec-107.145.md
+- `107.147` — Bagagem Suspeita                                    Dispensado.      Dispensado.         Obrigatório, conforme           → fragmentos/rbac/rbac-107--sec-107.147.md
+- `107.161` — Aceitação da Carga e Mala Postal                    Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107--sec-107.161.md
+- `107.163` — Proteção da Carga e Mala Postal         Dispensado.          Dispensado.             Obrigatório, conforme             O → fragmentos/rbac/rbac-107--sec-107.163.md
+- `107.165` — Inspeção da Carga e Mala Postal         Dispensado.          Dispensado.        Obrigatório, no caso de previsão   Obrig → fragmentos/rbac/rbac-107--sec-107.165.md
+- `107.167` — Carga e Mala Postal em Trânsito ou em   Dispensado.          Dispensado.             Obrigatório, conforme             O → fragmentos/rbac/rbac-107--sec-107.167.md
+- `107.169` — Carga e Mala Postal Suspeitos           Dispensado.          Dispensado.             Obrigatório, conforme             O → fragmentos/rbac/rbac-107--sec-107.169.md
+- `107.171` — Transporte Aéreo de Valores             Dispensado.          Obrigatório.                  Obrigatório.                O → fragmentos/rbac/rbac-107--sec-107.171.md
+- `107.201` — Estrutura do Sistema de Contingência    Dispensado.         Recomendado.    Obrigatório, quando o aeródromo            O → fragmentos/rbac/rbac-107--sec-107.201.md
+- `107.203` — Medidas Adicionais de Segurança         Dispensado.          Obrigatório.              Obrigatório.                    O → fragmentos/rbac/rbac-107--sec-107.203.md
+- `107.205` — Comunicação Social e Atendimento a      Dispensado.          Dispensado.    Obrigatório, quando o aeródromo Obrigatório, → fragmentos/rbac/rbac-107--sec-107.205.md
+- `107.211` — Programa de Segurança Aeroportuária (PSA)         Dispensado.        Dispensado.      Obrigatório, quando o aeródromo    → fragmentos/rbac/rbac-107--sec-107.211.md
+- `107.213` — Plano de Contingência de AVSEC do Aeródromo       Dispensado.        Dispensado.            Obrigatório, conforme        → fragmentos/rbac/rbac-107--sec-107.213.md
+- `107.215` — Plano de Segurança de Empresa de Serviços         Dispensado.        Dispensado.            Obrigatório, conforme        → fragmentos/rbac/rbac-107--sec-107.215.md
+- `107.217` — Plano de Segurança de Transporte Aéreo de         Dispensado.        Obrigatório.               Obrigatório.             → fragmentos/rbac/rbac-107--sec-107.217.md
+- `107.219` — Plano de Segurança do Operador Aéreo (PSOA)       Dispensado.       Obrigatório, no   Obrigatório, observando critérios  → fragmentos/rbac/rbac-107--sec-107.219.md
+
+## rbac-107-emd-11
+- `cabecalho` → fragmentos/rbac/rbac-107-emd-11--sec-cabecalho.md
+- `107.83` — a 107.89 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.83.md
+- `(inteira)` — Anexo ao Decreto nº 7.168, de 5 de maio de 2010, que dispõe sobre o Programa Nac → fragmentos/rbac/rbac-107-emd-11--anexo-ao-decreto-nº-7-168-de-5-de-maio-d.md
+- `(inteira)` → fragmentos/rbac/rbac-107-emd-11--apendice.md
+- `107.11` — a 107.15 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.11.md
+- `107.27` — a 107.35 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.27.md
+- `107.45` — a 107.53 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.45.md
+- `107.69` — a 107.79 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.69.md
+- `107.99` — [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.99.md
+- `107.107` — a 107.109 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.107.md
+- `107.113` — a 107.119 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.113.md
+- `107.133` — a 107.139 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.133.md
+- `107.149` — a 107.159 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.149.md
+- `107.173` — a 107.179 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.173.md
+- `107.181` — a 107.199 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.181.md
+- `107.207` — a 107.209 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.207.md
+- `107.221` — a 107.229 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.221.md
+- `107.231` — Disposições Finais → fragmentos/rbac/rbac-107-emd-11--sec-107.231.md
+- `107.233` — Disposições Transitórias → fragmentos/rbac/rbac-107-emd-11--sec-107.233.md
+- `107.235` — a 107.239 [RESERVADO] → fragmentos/rbac/rbac-107-emd-11--sec-107.235.md
+- `107.5` — Siglas e Abreviaturas                                           Disposições gerais a serem observadas para qualquer clas → fragmentos/rbac/rbac-107-emd-11--sec-107.5.md
+- `107.7` — Metodologia de Aplicação do Regulamento → fragmentos/rbac/rbac-107-emd-11--sec-107.7.md
+- `107.9` — Classificações dos Aeródromos → fragmentos/rbac/rbac-107-emd-11--sec-107.9.md
+- `107.17` — Avaliação de Risco e Planejamento              Dispensado.       Dispensado.      Obrigatório, quando o aeródromo        → fragmentos/rbac/rbac-107-emd-11--sec-107.17.md
+- `107.19` — Aquisição de Equipamentos de Segurança         Dispensado.       Dispensado.                Obrigatório.                 → fragmentos/rbac/rbac-107-emd-11--sec-107.19.md
+- `107.21` — Calibração de Equipamentos de Segurança        Dispensado.       Dispensado.                Obrigatório.                 → fragmentos/rbac/rbac-107-emd-11--sec-107.21.md
+- `107.23` — Operação e Manutenção de Equipamentos de       Dispensado.       Dispensado.                Obrigatório.                 → fragmentos/rbac/rbac-107-emd-11--sec-107.23.md
+- `107.25` — Recursos Humanos                               Dispensado.       Obrigatório.               Obrigatório.                 → fragmentos/rbac/rbac-107-emd-11--sec-107.25.md
+- `107.37` — Ativação da Comissão de Segurança                Dispensado.        Recomendado.        Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107-emd-11--sec-107.37.md
+- `107.39` — Atribuição de Responsabilidades à CSA            Dispensado.        Recomendado.        Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107-emd-11--sec-107.39.md
+- `107.41` — Regimento Interno da CSA                         Dispensado.        Recomendado.        Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107-emd-11--sec-107.41.md
+- `107.43` — Comunicação sobre assuntos de AVSEC              Dispensado.          Obrigatório.                 Obrigatório.          → fragmentos/rbac/rbac-107-emd-11--sec-107.43.md
+- `107.55` — Perímetros Patrimonial e Operacional             Obrigatório.         Obrigatório.                Obrigatório.           → fragmentos/rbac/rbac-107-emd-11--sec-107.55.md
+- `107.57` — Áreas Controladas e Áreas Restritas de           Obrigatório a        Obrigatório a     Obrigatório, quando o aeródromo  → fragmentos/rbac/rbac-107-emd-11--sec-107.57.md
+- `107.59` — Áreas do Terminal de Passageiros                  Dispensado.         Recomendado.                  Obrigatório.         → fragmentos/rbac/rbac-107-emd-11--sec-107.59.md
+- `107.61` — Áreas do Terminal de Carga                        Dispensado.         Recomendado.        Obrigatório, quando o aeródrom → fragmentos/rbac/rbac-107-emd-11--sec-107.61.md
+- `107.63` — Áreas de Uso dos Operadores de Táxi Aéreo e       Dispensado.           Dispensado.                 Recomendado.         → fragmentos/rbac/rbac-107-emd-11--sec-107.63.md
+- `107.65` — Pontos Sensíveis                                  Dispensado.         Recomendado.                  Obrigatório.         → fragmentos/rbac/rbac-107-emd-11--sec-107.65.md
+- `107.67` — Barreira de Segurança                              107.67(d). → fragmentos/rbac/rbac-107-emd-11--sec-107.67.md
+- `107.81` — Vigilância e Supervisão                        Obrigatório, apenas      Obrigatório.                Obrigatório.         → fragmentos/rbac/rbac-107-emd-11--sec-107.81.md
+- `107.91` — Gestão do Sistema de Credenciamento e               Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107-emd-11--sec-107.91.md
+- `107.93` — Concessão de Credenciais e Autorizações             Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107-emd-11--sec-107.93.md
+- `107.95` — Controle de Credenciais e Autorizações              Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107-emd-11--sec-107.95.md
+- `107.97` — Conscientização com AVSEC                           Dispensado.        Obrigatório.              Obrigatório.            → fragmentos/rbac/rbac-107-emd-11--sec-107.97.md
+- `107.101` — Pontos de Acesso                                    Dispensado.        Obrigatório.          Obrigatório, conforme       → fragmentos/rbac/rbac-107-emd-11--sec-107.101.md
+- `107.103` — Controle de Acesso à Área Controlada                Dispensado.        Obrigatório.          Obrigatório, conforme       → fragmentos/rbac/rbac-107-emd-11--sec-107.103.md
+- `107.105` — Controle de Acesso à Área Restrita de               Dispensado.        Dispensado.           Obrigatório, conforme       → fragmentos/rbac/rbac-107-emd-11--sec-107.105.md
+- `107.111` — Inspeção de Pessoas e seus Pertences de Mão         Dispensado.        Dispensado.     Obrigatório, quando o aeródromo   → fragmentos/rbac/rbac-107-emd-11--sec-107.111.md
+- `107.121` — Inspeção de Passageiros e seus Pertences de         Dispensado.        Dispensado.     Obrigatório, quando o aeródromo   → fragmentos/rbac/rbac-107-emd-11--sec-107.121.md
+- `107.123` — Proteção de Passageiros e seus Pertences de         Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107-emd-11--sec-107.123.md
+- `107.125` — Passageiros em Trânsito ou em Conexão               Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107-emd-11--sec-107.125.md
+- `107.127` — Passageiros Armado                                  Dispensado.      Dispensado.              Obrigatório.               → fragmentos/rbac/rbac-107-emd-11--sec-107.127.md
+- `107.129` — Passageiro sob Custódia                             Dispensado.      Dispensado.              Obrigatório.               → fragmentos/rbac/rbac-107-emd-11--sec-107.129.md
+- `107.131` — Passageiro Indisciplinado                           Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107-emd-11--sec-107.131.md
+- `107.141` — Proteção da Bagagem Despachada                      Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107-emd-11--sec-107.141.md
+- `107.143` — Inspeção da Bagagem Despachada                      Dispensado.      Dispensado.    Obrigatório, quando aeródromo      O → fragmentos/rbac/rbac-107-emd-11--sec-107.143.md
+- `107.145` — Bagagem Despachada em Trânsito ou em                Dispensado.      Dispensado.         Obrigatório, conforme           → fragmentos/rbac/rbac-107-emd-11--sec-107.145.md
+- `107.147` — Bagagem Suspeita                                    Dispensado.      Dispensado.         Obrigatório, conforme           → fragmentos/rbac/rbac-107-emd-11--sec-107.147.md
+- `107.161` — Aceitação da Carga e Mala Postal                    Dispensado.      Dispensado.   Obrigatório, quando o aeródromo       → fragmentos/rbac/rbac-107-emd-11--sec-107.161.md
+- `107.163` — Proteção da Carga e Mala Postal         Dispensado.          Dispensado.             Obrigatório, conforme             O → fragmentos/rbac/rbac-107-emd-11--sec-107.163.md
+- `107.165` — Inspeção da Carga e Mala Postal         Dispensado.          Dispensado.        Obrigatório, no caso de previsão   Obrig → fragmentos/rbac/rbac-107-emd-11--sec-107.165.md
+- `107.167` — Carga e Mala Postal em Trânsito ou em   Dispensado.          Dispensado.             Obrigatório, conforme             O → fragmentos/rbac/rbac-107-emd-11--sec-107.167.md
+- `107.169` — Carga e Mala Postal Suspeitos           Dispensado.          Dispensado.             Obrigatório, conforme             O → fragmentos/rbac/rbac-107-emd-11--sec-107.169.md
+- `107.171` — Transporte Aéreo de Valores             Dispensado.          Obrigatório.                  Obrigatório.                O → fragmentos/rbac/rbac-107-emd-11--sec-107.171.md
+- `107.201` — Estrutura do Sistema de Contingência    Dispensado.         Recomendado.    Obrigatório, quando o aeródromo            O → fragmentos/rbac/rbac-107-emd-11--sec-107.201.md
+- `107.203` — Medidas Adicionais de Segurança         Dispensado.          Obrigatório.              Obrigatório.                    O → fragmentos/rbac/rbac-107-emd-11--sec-107.203.md
+- `107.205` — Comunicação Social e Atendimento a      Dispensado.          Dispensado.    Obrigatório, quando o aeródromo Obrigatório, → fragmentos/rbac/rbac-107-emd-11--sec-107.205.md
+- `107.211` — Programa de Segurança Aeroportuária (PSA)         Dispensado.        Dispensado.      Obrigatório, quando o aeródromo    → fragmentos/rbac/rbac-107-emd-11--sec-107.211.md
+- `107.213` — Plano de Contingência de AVSEC do Aeródromo       Dispensado.        Dispensado.            Obrigatório, conforme        → fragmentos/rbac/rbac-107-emd-11--sec-107.213.md
+- `107.215` — Plano de Segurança de Empresa de Serviços         Dispensado.        Dispensado.            Obrigatório, conforme        → fragmentos/rbac/rbac-107-emd-11--sec-107.215.md
+- `107.217` — Plano de Segurança de Transporte Aéreo de         Dispensado.        Obrigatório.               Obrigatório.             → fragmentos/rbac/rbac-107-emd-11--sec-107.217.md
+- `107.219` — Plano de Segurança do Operador Aéreo (PSOA)       Dispensado.       Obrigatório, no   Obrigatório, observando critérios  → fragmentos/rbac/rbac-107-emd-11--sec-107.219.md
+
+## rbac-108
+- `cabecalho` → fragmentos/rbac/rbac-108--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 108 – REQUISITOS APLICÁVEIS EM CADA CLASSE. → fragmentos/rbac/rbac-108--apêndice-a-do-rbac-108-requisitos-aplicá.md
+- `(inteira)` → fragmentos/rbac/rbac-108--apendice.md
+- `(inteira)` — Apêndice A. → fragmentos/rbac/rbac-108--apêndice-a.md
+- `(inteira)` → fragmentos/rbac/rbac-108--apendice.md
+- `108.15` — a 108.23 [Reservado] → fragmentos/rbac/rbac-108--sec-108.15.md
+- `108.35` — a 108.53 [Reservado] → fragmentos/rbac/rbac-108--sec-108.35.md
+- `108.71` — a 108.93 [Reservado] → fragmentos/rbac/rbac-108--sec-108.71.md
+- `108.101` — a 108.123 [Reservado] → fragmentos/rbac/rbac-108--sec-108.101.md
+- `108.141` — a 108.163 [Reservado] → fragmentos/rbac/rbac-108--sec-108.141.md
+- `108.173` — a 108.193 [Reservado] → fragmentos/rbac/rbac-108--sec-108.173.md
+- `108.201` — a 108.223 [Reservado] → fragmentos/rbac/rbac-108--sec-108.201.md
+- `108.231` — a 108.253 [Reservado] → fragmentos/rbac/rbac-108--sec-108.231.md
+- `108.259` — a 108.273 [Reservado] → fragmentos/rbac/rbac-108--sec-108.259.md
+- `108.275` — Disposições finais e transitórias → fragmentos/rbac/rbac-108--sec-108.275.md
+- `108.1` — Termos e Definições                  Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108--sec-108.1.md
+- `108.3` — Siglas e Abreviaturas                Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108--sec-108.3.md
+- `108.5` — Fundamentação                        Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108--sec-108.5.md
+- `108.7` — Aplicabilidade                       Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108--sec-108.7.md
+- `108.9` — Objetivo                             Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108--sec-108.9.md
+- `108.11` — Classificação dos Operadores         Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108--sec-108.11.md
+- `108.13` — Atividades e Profissionais         Aplicável,        Aplicável        Aplicável       Aplicável,      Aplicável,      Ap → fragmentos/rbac/rbac-108--sec-108.13.md
+- `108.25` — Processo de Despacho do          Aplicável     Aplicável     Aplicável     Aplicáveis    Aplicável    Aplicável          → fragmentos/rbac/rbac-108--sec-108.25.md
+- `108.27` — Passageiro em Trânsito ou      Não aplicável Não aplicável Não aplicável Não aplicável  Aplicáveis   Aplicáveis          → fragmentos/rbac/rbac-108--sec-108.27.md
+- `108.29` — Passageiro Armado              Não Aplicável Não Aplicável   Aplicável   Não aplicável   Aplicável    Aplicável          → fragmentos/rbac/rbac-108--sec-108.29.md
+- `108.31` — Passageiro sob Custódia        Não aplicável Não aplicável   Aplicável   Não aplicável   Aplicável    Aplicável          → fragmentos/rbac/rbac-108--sec-108.31.md
+- `108.33` — Passageiro Indisciplinado      Não aplicável Não aplicável Recomendado Não aplicável     Aplicável    Aplicável          → fragmentos/rbac/rbac-108--sec-108.33.md
+- `108.55` — Identificação (Conciliação) e     Não aplicável Não aplicável Aplicável  Não aplicável Aplicável   Aplicável             → fragmentos/rbac/rbac-108--sec-108.55.md
+- `108.57` — Proteção da Bagagem               Não aplicável   Não aplicável     Aplicável     Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.57.md
+- `108.59` — Inspeção da Bagagem               Não aplicável   Não aplicável   Não aplicável   Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.59.md
+- `108.61` — Reconciliação do Passageiro e     Não aplicável   Não aplicável     Aplicável     Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.61.md
+- `108.63` — Bagagem Desacompanhada            Não aplicável   Não aplicável   Não aplicável   Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.63.md
+- `108.65` — Bagagem Extraviada                Não aplicável   Não aplicável    Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.65.md
+- `108.67` — Bagagem Suspeita                  Não aplicável   Não aplicável    Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.67.md
+- `108.69` — Transporte de Arma de Fogo          Aplicável       Aplicável      Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108--sec-108.69.md
+- `108.95` — Produção, Armazenamento e Não aplicável Não aplicável Recomendado     Aplicável   Aplicável      Aplicável               → fragmentos/rbac/rbac-108--sec-108.95.md
+- `108.97` — Identificação e Aceitação de       Não aplicável   Não aplicável Recomendado      Aplicável     Aplicável      Aplicável → fragmentos/rbac/rbac-108--sec-108.97.md
+- `108.99` — Inspeção de Provisões de           Não aplicável   Não aplicável Recomendado      Aplicável     Aplicável      Aplicável → fragmentos/rbac/rbac-108--sec-108.99.md
+- `108.125` — Identificação e Aceitação da  Não aplicável Não aplicável  Aplicável    Aplicável    Aplicável    Aplicável              → fragmentos/rbac/rbac-108--sec-108.125.md
+- `108.127` — Inspeção da Carga e Correio        Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108--sec-108.127.md
+- `108.129` — Armazenamento da Carga e           Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108--sec-108.129.md
+- `108.131` — Transporte e Carregamento          Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108--sec-108.131.md
+- `108.133` — Carga e Correio Suspeitos          Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108--sec-108.133.md
+- `108.135` — Artigos Perigosos e Produtos        Aplicável       Aplicável        Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108--sec-108.135.md
+- `108.137` — Materiais e Correspondências       Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108--sec-108.137.md
+- `108.139` — Transporte Aéreo de            Não aplicável    Aplicáveis  Aplicável. Quando   Aplicáveis     Aplicável      Aplicável → fragmentos/rbac/rbac-108--sec-108.139.md
+- `108.165` — Controle de Acesso à          Aplicável, com Aplicável, com      Aplicável      Aplicável.    Aplicável.     Aplicável.  → fragmentos/rbac/rbac-108--sec-108.165.md
+- `108.167` — Verificação de Segurança      Recomendado Recomendado            Aplicável       Aplicável  Aplicável em    Aplicável em → fragmentos/rbac/rbac-108--sec-108.167.md
+- `108.169` — Inspeção de Segurança da        Aplicáveis       Aplicáveis          Aplicáveis           Aplicável     Aplicável      A → fragmentos/rbac/rbac-108--sec-108.169.md
+- `108.171` — Despacho AVSEC do Voo          Não aplicável   Não aplicável       Recomendado            Aplicável     Aplicável      A → fragmentos/rbac/rbac-108--sec-108.171.md
+- `108.195` — Reunião Inicial AVSEC      Não aplicável   Não aplicável     Recomendado          Aplicável       Aplicável     Aplicáve → fragmentos/rbac/rbac-108--sec-108.195.md
+- `108.197` — Acesso à Cabine de         Não aplicável   Não aplicável     Recomendado        Não aplicável     Aplicável     Aplicáve → fragmentos/rbac/rbac-108--sec-108.197.md
+- `108.199` — Passageiro Armado ou       Não aplicável   Não aplicável     Recomendado        Não aplicável     Aplicável     Aplicáve → fragmentos/rbac/rbac-108--sec-108.199.md
+- `108.225` — Plano de Contingência   Não Aplicável Não Aplicável     Aplicável      Aplicável   Aplicável    Aplicável                → fragmentos/rbac/rbac-108--sec-108.225.md
+- `108.227` — Medidas Adicionais de    Aplicável,    Aplicável,   Aplicável, exceto Aplicável,  Aplicável,   Aplicável,                → fragmentos/rbac/rbac-108--sec-108.227.md
+- `108.229` — Comunicação               Aplicável     Aplicável       Aplicável      Aplicável   Aplicável    Aplicável                → fragmentos/rbac/rbac-108--sec-108.229.md
+- `108.255` — Elaboração do              Não aplicável  Não aplicável Aplicáveis para     Aplicáveis   Aplicável para   Aplicáveis     → fragmentos/rbac/rbac-108--sec-108.255.md
+- `108.257` — Conteúdo do Programa       Não aplicável Não aplicável Aplicável para Aplicável para Aplicável para        Aplicável     → fragmentos/rbac/rbac-108--sec-108.257.md
+
+## rbac-108-emd-10
+- `cabecalho` → fragmentos/rbac/rbac-108-emd-10--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 108 – REQUISITOS APLICÁVEIS EM CADA CLASSE. → fragmentos/rbac/rbac-108-emd-10--apêndice-a-do-rbac-108-requisitos-aplicá.md
+- `(inteira)` → fragmentos/rbac/rbac-108-emd-10--apendice.md
+- `(inteira)` — Apêndice A. → fragmentos/rbac/rbac-108-emd-10--apêndice-a.md
+- `(inteira)` → fragmentos/rbac/rbac-108-emd-10--apendice.md
+- `108.15` — a 108.23 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.15.md
+- `108.35` — a 108.53 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.35.md
+- `108.71` — a 108.93 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.71.md
+- `108.101` — a 108.123 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.101.md
+- `108.141` — a 108.163 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.141.md
+- `108.173` — a 108.193 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.173.md
+- `108.201` — a 108.223 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.201.md
+- `108.231` — a 108.253 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.231.md
+- `108.259` — a 108.273 [Reservado] → fragmentos/rbac/rbac-108-emd-10--sec-108.259.md
+- `108.275` — Disposições finais e transitórias → fragmentos/rbac/rbac-108-emd-10--sec-108.275.md
+- `108.1` — Termos e Definições                  Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10--sec-108.1.md
+- `108.3` — Siglas e Abreviaturas                Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10--sec-108.3.md
+- `108.5` — Fundamentação                        Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10--sec-108.5.md
+- `108.7` — Aplicabilidade                       Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10--sec-108.7.md
+- `108.9` — Objetivo                             Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10--sec-108.9.md
+- `108.11` — Classificação dos Operadores         Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10--sec-108.11.md
+- `108.13` — Atividades e Profissionais         Aplicável,        Aplicável        Aplicável       Aplicável,      Aplicável,      Ap → fragmentos/rbac/rbac-108-emd-10--sec-108.13.md
+- `108.25` — Processo de Despacho do          Aplicável     Aplicável     Aplicável     Aplicáveis    Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10--sec-108.25.md
+- `108.27` — Passageiro em Trânsito ou      Não aplicável Não aplicável Não aplicável Não aplicável  Aplicáveis   Aplicáveis          → fragmentos/rbac/rbac-108-emd-10--sec-108.27.md
+- `108.29` — Passageiro Armado              Não Aplicável Não Aplicável   Aplicável   Não aplicável   Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10--sec-108.29.md
+- `108.31` — Passageiro sob Custódia        Não aplicável Não aplicável   Aplicável   Não aplicável   Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10--sec-108.31.md
+- `108.33` — Passageiro Indisciplinado      Não aplicável Não aplicável Recomendado Não aplicável     Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10--sec-108.33.md
+- `108.55` — Identificação (Conciliação) e     Não aplicável Não aplicável Aplicável  Não aplicável Aplicável   Aplicável             → fragmentos/rbac/rbac-108-emd-10--sec-108.55.md
+- `108.57` — Proteção da Bagagem               Não aplicável   Não aplicável     Aplicável     Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.57.md
+- `108.59` — Inspeção da Bagagem               Não aplicável   Não aplicável   Não aplicável   Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.59.md
+- `108.61` — Reconciliação do Passageiro e     Não aplicável   Não aplicável     Aplicável     Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.61.md
+- `108.63` — Bagagem Desacompanhada            Não aplicável   Não aplicável   Não aplicável   Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.63.md
+- `108.65` — Bagagem Extraviada                Não aplicável   Não aplicável    Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.65.md
+- `108.67` — Bagagem Suspeita                  Não aplicável   Não aplicável    Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.67.md
+- `108.69` — Transporte de Arma de Fogo          Aplicável       Aplicável      Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10--sec-108.69.md
+- `108.95` — Produção, Armazenamento e Não aplicável Não aplicável Recomendado     Aplicável   Aplicável      Aplicável               → fragmentos/rbac/rbac-108-emd-10--sec-108.95.md
+- `108.97` — Identificação e Aceitação de       Não aplicável   Não aplicável Recomendado      Aplicável     Aplicável      Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.97.md
+- `108.99` — Inspeção de Provisões de           Não aplicável   Não aplicável Recomendado      Aplicável     Aplicável      Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.99.md
+- `108.125` — Identificação e Aceitação da  Não aplicável Não aplicável  Aplicável    Aplicável    Aplicável    Aplicável              → fragmentos/rbac/rbac-108-emd-10--sec-108.125.md
+- `108.127` — Inspeção da Carga e Correio        Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.127.md
+- `108.129` — Armazenamento da Carga e           Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.129.md
+- `108.131` — Transporte e Carregamento          Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.131.md
+- `108.133` — Carga e Correio Suspeitos          Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.133.md
+- `108.135` — Artigos Perigosos e Produtos        Aplicável       Aplicável        Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.135.md
+- `108.137` — Materiais e Correspondências       Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.137.md
+- `108.139` — Transporte Aéreo de            Não aplicável    Aplicáveis  Aplicável. Quando   Aplicáveis     Aplicável      Aplicável → fragmentos/rbac/rbac-108-emd-10--sec-108.139.md
+- `108.165` — Controle de Acesso à          Aplicável, com Aplicável, com      Aplicável      Aplicável.    Aplicável.     Aplicável.  → fragmentos/rbac/rbac-108-emd-10--sec-108.165.md
+- `108.167` — Verificação de Segurança      Recomendado Recomendado            Aplicável       Aplicável  Aplicável em    Aplicável em → fragmentos/rbac/rbac-108-emd-10--sec-108.167.md
+- `108.169` — Inspeção de Segurança da        Aplicáveis       Aplicáveis          Aplicáveis           Aplicável     Aplicável      A → fragmentos/rbac/rbac-108-emd-10--sec-108.169.md
+- `108.171` — Despacho AVSEC do Voo          Não aplicável   Não aplicável       Recomendado            Aplicável     Aplicável      A → fragmentos/rbac/rbac-108-emd-10--sec-108.171.md
+- `108.195` — Reunião Inicial AVSEC      Não aplicável   Não aplicável     Recomendado          Aplicável       Aplicável     Aplicáve → fragmentos/rbac/rbac-108-emd-10--sec-108.195.md
+- `108.197` — Acesso à Cabine de         Não aplicável   Não aplicável     Recomendado        Não aplicável     Aplicável     Aplicáve → fragmentos/rbac/rbac-108-emd-10--sec-108.197.md
+- `108.199` — Passageiro Armado ou       Não aplicável   Não aplicável     Recomendado        Não aplicável     Aplicável     Aplicáve → fragmentos/rbac/rbac-108-emd-10--sec-108.199.md
+- `108.225` — Plano de Contingência   Não Aplicável Não Aplicável     Aplicável      Aplicável   Aplicável    Aplicável                → fragmentos/rbac/rbac-108-emd-10--sec-108.225.md
+- `108.227` — Medidas Adicionais de    Aplicável,    Aplicável,   Aplicável, exceto Aplicável,  Aplicável,   Aplicável,                → fragmentos/rbac/rbac-108-emd-10--sec-108.227.md
+- `108.229` — Comunicação               Aplicável     Aplicável       Aplicável      Aplicável   Aplicável    Aplicável                → fragmentos/rbac/rbac-108-emd-10--sec-108.229.md
+- `108.255` — Elaboração do              Não aplicável  Não aplicável Aplicáveis para     Aplicáveis   Aplicável para   Aplicáveis     → fragmentos/rbac/rbac-108-emd-10--sec-108.255.md
+- `108.257` — Conteúdo do Programa       Não aplicável Não aplicável Aplicável para Aplicável para Aplicável para        Aplicável     → fragmentos/rbac/rbac-108-emd-10--sec-108.257.md
+
+## rbac-108-emd-10-1
+- `cabecalho` → fragmentos/rbac/rbac-108-emd-10-1--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 108 – REQUISITOS APLICÁVEIS EM CADA CLASSE. → fragmentos/rbac/rbac-108-emd-10-1--apêndice-a-do-rbac-108-requisitos-aplicá.md
+- `(inteira)` → fragmentos/rbac/rbac-108-emd-10-1--apendice.md
+- `(inteira)` — Apêndice A. → fragmentos/rbac/rbac-108-emd-10-1--apêndice-a.md
+- `(inteira)` → fragmentos/rbac/rbac-108-emd-10-1--apendice.md
+- `108.15` — a 108.23 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.15.md
+- `108.35` — a 108.53 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.35.md
+- `108.71` — a 108.93 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.71.md
+- `108.101` — a 108.123 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.101.md
+- `108.141` — a 108.163 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.141.md
+- `108.173` — a 108.193 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.173.md
+- `108.201` — a 108.223 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.201.md
+- `108.231` — a 108.253 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.231.md
+- `108.259` — a 108.273 [Reservado] → fragmentos/rbac/rbac-108-emd-10-1--sec-108.259.md
+- `108.275` — Disposições finais e transitórias → fragmentos/rbac/rbac-108-emd-10-1--sec-108.275.md
+- `108.1` — Termos e Definições                  Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10-1--sec-108.1.md
+- `108.3` — Siglas e Abreviaturas                Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10-1--sec-108.3.md
+- `108.5` — Fundamentação                        Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10-1--sec-108.5.md
+- `108.7` — Aplicabilidade                       Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10-1--sec-108.7.md
+- `108.9` — Objetivo                             Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10-1--sec-108.9.md
+- `108.11` — Classificação dos Operadores         Aplicável   Aplicável    Aplicável     Aplicável        Aplicável      Aplicável    → fragmentos/rbac/rbac-108-emd-10-1--sec-108.11.md
+- `108.13` — Atividades e Profissionais         Aplicável,        Aplicável        Aplicável       Aplicável,      Aplicável,      Ap → fragmentos/rbac/rbac-108-emd-10-1--sec-108.13.md
+- `108.25` — Processo de Despacho do          Aplicável     Aplicável     Aplicável     Aplicáveis    Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10-1--sec-108.25.md
+- `108.27` — Passageiro em Trânsito ou      Não aplicável Não aplicável Não aplicável Não aplicável  Aplicáveis   Aplicáveis          → fragmentos/rbac/rbac-108-emd-10-1--sec-108.27.md
+- `108.29` — Passageiro Armado              Não Aplicável Não Aplicável   Aplicável   Não aplicável   Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10-1--sec-108.29.md
+- `108.31` — Passageiro sob Custódia        Não aplicável Não aplicável   Aplicável   Não aplicável   Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10-1--sec-108.31.md
+- `108.33` — Passageiro Indisciplinado      Não aplicável Não aplicável Recomendado Não aplicável     Aplicável    Aplicável          → fragmentos/rbac/rbac-108-emd-10-1--sec-108.33.md
+- `108.55` — Identificação (Conciliação) e     Não aplicável Não aplicável Aplicável  Não aplicável Aplicável   Aplicável             → fragmentos/rbac/rbac-108-emd-10-1--sec-108.55.md
+- `108.57` — Proteção da Bagagem               Não aplicável   Não aplicável     Aplicável     Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.57.md
+- `108.59` — Inspeção da Bagagem               Não aplicável   Não aplicável   Não aplicável   Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.59.md
+- `108.61` — Reconciliação do Passageiro e     Não aplicável   Não aplicável     Aplicável     Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.61.md
+- `108.63` — Bagagem Desacompanhada            Não aplicável   Não aplicável   Não aplicável   Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.63.md
+- `108.65` — Bagagem Extraviada                Não aplicável   Não aplicável    Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.65.md
+- `108.67` — Bagagem Suspeita                  Não aplicável   Não aplicável    Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.67.md
+- `108.69` — Transporte de Arma de Fogo          Aplicável       Aplicável      Aplicável      Não aplicável    Aplicável     Aplicáv → fragmentos/rbac/rbac-108-emd-10-1--sec-108.69.md
+- `108.95` — Produção, Armazenamento e Não aplicável Não aplicável Recomendado     Aplicável   Aplicável      Aplicável               → fragmentos/rbac/rbac-108-emd-10-1--sec-108.95.md
+- `108.97` — Identificação e Aceitação de       Não aplicável   Não aplicável Recomendado      Aplicável     Aplicável      Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.97.md
+- `108.99` — Inspeção de Provisões de           Não aplicável   Não aplicável Recomendado      Aplicável     Aplicável      Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.99.md
+- `108.125` — Identificação e Aceitação da  Não aplicável Não aplicável  Aplicável    Aplicável    Aplicável    Aplicável              → fragmentos/rbac/rbac-108-emd-10-1--sec-108.125.md
+- `108.127` — Inspeção da Carga e Correio        Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.127.md
+- `108.129` — Armazenamento da Carga e           Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.129.md
+- `108.131` — Transporte e Carregamento          Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.131.md
+- `108.133` — Carga e Correio Suspeitos          Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.133.md
+- `108.135` — Artigos Perigosos e Produtos        Aplicável       Aplicável        Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.135.md
+- `108.137` — Materiais e Correspondências       Não aplicável   Não aplicável     Aplicável    Aplicável    Aplicável       Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.137.md
+- `108.139` — Transporte Aéreo de            Não aplicável    Aplicáveis  Aplicável. Quando   Aplicáveis     Aplicável      Aplicável → fragmentos/rbac/rbac-108-emd-10-1--sec-108.139.md
+- `108.165` — Controle de Acesso à          Aplicável, com Aplicável, com      Aplicável      Aplicável.    Aplicável.     Aplicável.  → fragmentos/rbac/rbac-108-emd-10-1--sec-108.165.md
+- `108.167` — Verificação de Segurança      Recomendado Recomendado            Aplicável       Aplicável  Aplicável em    Aplicável em → fragmentos/rbac/rbac-108-emd-10-1--sec-108.167.md
+- `108.169` — Inspeção de Segurança da        Aplicáveis       Aplicáveis          Aplicáveis           Aplicável     Aplicável      A → fragmentos/rbac/rbac-108-emd-10-1--sec-108.169.md
+- `108.171` — Despacho AVSEC do Voo          Não aplicável   Não aplicável       Recomendado            Aplicável     Aplicável      A → fragmentos/rbac/rbac-108-emd-10-1--sec-108.171.md
+- `108.195` — Reunião Inicial AVSEC      Não aplicável   Não aplicável     Recomendado          Aplicável       Aplicável     Aplicáve → fragmentos/rbac/rbac-108-emd-10-1--sec-108.195.md
+- `108.197` — Acesso à Cabine de         Não aplicável   Não aplicável     Recomendado        Não aplicável     Aplicável     Aplicáve → fragmentos/rbac/rbac-108-emd-10-1--sec-108.197.md
+- `108.199` — Passageiro Armado ou       Não aplicável   Não aplicável     Recomendado        Não aplicável     Aplicável     Aplicáve → fragmentos/rbac/rbac-108-emd-10-1--sec-108.199.md
+- `108.225` — Plano de Contingência   Não Aplicável Não Aplicável     Aplicável      Aplicável   Aplicável    Aplicável                → fragmentos/rbac/rbac-108-emd-10-1--sec-108.225.md
+- `108.227` — Medidas Adicionais de    Aplicável,    Aplicável,   Aplicável, exceto Aplicável,  Aplicável,   Aplicável,                → fragmentos/rbac/rbac-108-emd-10-1--sec-108.227.md
+- `108.229` — Comunicação               Aplicável     Aplicável       Aplicável      Aplicável   Aplicável    Aplicável                → fragmentos/rbac/rbac-108-emd-10-1--sec-108.229.md
+- `108.255` — Elaboração do              Não aplicável  Não aplicável Aplicáveis para     Aplicáveis   Aplicável para   Aplicáveis     → fragmentos/rbac/rbac-108-emd-10-1--sec-108.255.md
+- `108.257` — Conteúdo do Programa       Não aplicável Não aplicável Aplicável para Aplicável para Aplicável para        Aplicável     → fragmentos/rbac/rbac-108-emd-10-1--sec-108.257.md
+
+## rbac-11
+- `cabecalho` → fragmentos/rbac/rbac-11--sec-cabecalho.md
+- `11.1` — Aplicabilidade → fragmentos/rbac/rbac-11--sec-11.1.md
+- `11.3` — Arquivo e registro → fragmentos/rbac/rbac-11--sec-11.3.md
+- `11.21` — Objetivo → fragmentos/rbac/rbac-11--sec-11.21.md
+- `11.23` — Início do procedimento para elaboração de regras → fragmentos/rbac/rbac-11--sec-11.23.md
+- `11.25` — Petição para emissão ou alteração de regras e para isenção → fragmentos/rbac/rbac-11--sec-11.25.md
+- `11.29` — Condições especiais → fragmentos/rbac/rbac-11--sec-11.29.md
+- `11.31` — Notificação de proposta de regra → fragmentos/rbac/rbac-11--sec-11.31.md
+- `11.33` — Participação de pessoas interessadas na emissão ou alteração de regras → fragmentos/rbac/rbac-11--sec-11.33.md
+- `11.35` — Procedimentos adicionais de emissão ou alteração de regras → fragmentos/rbac/rbac-11--sec-11.35.md
+- `11.37` — Reservado → fragmentos/rbac/rbac-11--sec-11.37.md
+- `11.41` — Objetivo → fragmentos/rbac/rbac-11--sec-11.41.md
+- `11.43` — Processamento de petições para emissão ou alteração de regras e isenções → fragmentos/rbac/rbac-11--sec-11.43.md
+- `11.45` — Emissão da notificação de proposta de regra → fragmentos/rbac/rbac-11--sec-11.45.md
+- `11.47` — Procedimentos após a notificação de proposta de regra → fragmentos/rbac/rbac-11--sec-11.47.md
+- `11.49` — Adoção de regra → fragmentos/rbac/rbac-11--sec-11.49.md
+- `11.51` — Indeferimento de petição para elaboração de regra → fragmentos/rbac/rbac-11--sec-11.51.md
+- `11.53` — Deferimento ou indeferimento de petição para isenção → fragmentos/rbac/rbac-11--sec-11.53.md
+- `11.55` — Reconsideração sobre o deferimento ou indeferimento de uma petição para isenção → fragmentos/rbac/rbac-11--sec-11.55.md
+- `11.61` — Responsabilidade → fragmentos/rbac/rbac-11--sec-11.61.md
+- `11.81` — Objetivo → fragmentos/rbac/rbac-11--sec-11.81.md
+- `11.83` — Processamento de petições para elaboração ou isenção de uma DA → fragmentos/rbac/rbac-11--sec-11.83.md
+- `11.85` — Emissão de notificação de proposta de regra para diretriz de aeronavegabilidade – → fragmentos/rbac/rbac-11--sec-11.85.md
+- `11.87` — Procedimentos após a emissão de uma NPR/DA → fragmentos/rbac/rbac-11--sec-11.87.md
+- `11.89` — Adoção de uma diretriz de aeronavegabilidade → fragmentos/rbac/rbac-11--sec-11.89.md
+- `11.91` — Deferimento ou indeferimento de isenção → fragmentos/rbac/rbac-11--sec-11.91.md
+- `11.93` — Petições para reconsideração de diretrizes de aeronavegabilidade → fragmentos/rbac/rbac-11--sec-11.93.md
+
+## rbac-110
+- `cabecalho` → fragmentos/rbac/rbac-110--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A - ATIVIDADES AVSEC E CERTIFICAÇÕES EXIGIDAS → fragmentos/rbac/rbac-110--apêndice-a-atividades-avsec-e-certificaç.md
+- `(inteira)` → fragmentos/rbac/rbac-110--apendice.md
+- `(inteira)` — APÊNDICE B - CURSOS AVSEC → fragmentos/rbac/rbac-110--apêndice-b-cursos-avsec.md
+- `(inteira)` — APÊNDICE C - DESENHO ESQUEMÁTICO DO PROCESSO DE FORMAÇÃO E ATUALIZAÇÃO → fragmentos/rbac/rbac-110--apêndice-c-desenho-esquemático-do-proces.md
+- `(inteira)` → fragmentos/rbac/rbac-110--apendice.md
+- `110.1` — Aplicabilidade → fragmentos/rbac/rbac-110--sec-110.1.md
+- `110.3` — Definições → fragmentos/rbac/rbac-110--sec-110.3.md
+- `110.5` — Abreviaturas e símbolos → fragmentos/rbac/rbac-110--sec-110.5.md
+- `110.7` — a 110.9 [RESERVADO] → fragmentos/rbac/rbac-110--sec-110.7.md
+- `110.11` — Requisitos para desempenho de atividades AVSEC → fragmentos/rbac/rbac-110--sec-110.11.md
+- `110.13` — Capacitação em Segurança da Aviação Civil - AVSEC → fragmentos/rbac/rbac-110--sec-110.13.md
+- `(inteira)` — Apêndice C deste Regulamento. → fragmentos/rbac/rbac-110--apêndice-c-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-110--apendice.md
+- `110.15` — Certificação dos profissionais em Segurança da Aviação Civil - AVSEC → fragmentos/rbac/rbac-110--sec-110.15.md
+- `(inteira)` — Apêndice B deste Regulamento. → fragmentos/rbac/rbac-110--apêndice-b-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-110--apendice.md
+- `110.17` — Atualização da certificação em Segurança da Aviação Civil - AVSEC → fragmentos/rbac/rbac-110--sec-110.17.md
+- `110.19` — a 110.21 [RESERVADO] → fragmentos/rbac/rbac-110--sec-110.19.md
+- `110.23` — Centro de instrução → fragmentos/rbac/rbac-110--sec-110.23.md
+- `110.25` — Validade da autorização do centro de instrução → fragmentos/rbac/rbac-110--sec-110.25.md
+- `110.27` — Requisitos para obtenção de autorização de centro de instrução → fragmentos/rbac/rbac-110--sec-110.27.md
+- `110.29` — Requerimento de autorização de centro de instrução → fragmentos/rbac/rbac-110--sec-110.29.md
+- `110.31` — Quadro funcional → fragmentos/rbac/rbac-110--sec-110.31.md
+- `110.33` — Grade curricular → fragmentos/rbac/rbac-110--sec-110.33.md
+- `110.35` — Produção de material instrucional e planos de aula → fragmentos/rbac/rbac-110--sec-110.35.md
+- `110.37` — Sistema simulador de equipamento de raios-X → fragmentos/rbac/rbac-110--sec-110.37.md
+- `110.39` — Manual de Procedimentos do Centro de Instrução (MPCI) → fragmentos/rbac/rbac-110--sec-110.39.md
+- `110.41` — Turma de curso AVSEC → fragmentos/rbac/rbac-110--sec-110.41.md
+- `110.43` — Matrícula em curso AVSEC → fragmentos/rbac/rbac-110--sec-110.43.md
+- `110.45` — Instalações para ministrar curso AVSEC → fragmentos/rbac/rbac-110--sec-110.45.md
+- `110.47` — Regulamento de curso → fragmentos/rbac/rbac-110--sec-110.47.md
+- `110.49` — Melhoria da qualidade da instrução ministrada → fragmentos/rbac/rbac-110--sec-110.49.md
+- `110.51` — Responsabilidades na certificação em Segurança da Aviação Civil - AVSEC → fragmentos/rbac/rbac-110--sec-110.51.md
+- `(inteira)` — Apêndice B. → fragmentos/rbac/rbac-110--apêndice-b.md
+- `(inteira)` → fragmentos/rbac/rbac-110--apendice.md
+- `110.53` — Avaliação de desempenho teórica → fragmentos/rbac/rbac-110--sec-110.53.md
+- `110.55` — Segunda chamada de avaliação de desempenho teórica → fragmentos/rbac/rbac-110--sec-110.55.md
+- `110.57` — Interposição de recursos às avaliações de desempenho teóricas → fragmentos/rbac/rbac-110--sec-110.57.md
+- `110.59` — Garantia da idoneidade da avaliação de desempenho e elaboração de recursos → fragmentos/rbac/rbac-110--sec-110.59.md
+- `110.61` — Certificado AVSEC → fragmentos/rbac/rbac-110--sec-110.61.md
+- `110.63` — Registros do centro de instrução → fragmentos/rbac/rbac-110--sec-110.63.md
+- `110.65` — a 110.67 [RESERVADO] → fragmentos/rbac/rbac-110--sec-110.65.md
+- `110.69` — Responsabilidade pela proficiência do profissional → fragmentos/rbac/rbac-110--sec-110.69.md
+- `110.71` — Treinamento em Serviço para profissionais que desempenham atividade de → fragmentos/rbac/rbac-110--sec-110.71.md
+- `110.73` — Reciclagem → fragmentos/rbac/rbac-110--sec-110.73.md
+- `110.75` — Apresentação de aeronaves para verificação e inspeção → fragmentos/rbac/rbac-110--sec-110.75.md
+- `110.77` — Plano de Instrução AVSEC (PIAVSEC) → fragmentos/rbac/rbac-110--sec-110.77.md
+- `110.79` — Registros de organização com responsabilidade AVSEC → fragmentos/rbac/rbac-110--sec-110.79.md
+- `110.81` — a 110.89 [RESERVADO] → fragmentos/rbac/rbac-110--sec-110.81.md
+- `110.91` — Fiscalização da ANAC → fragmentos/rbac/rbac-110--sec-110.91.md
+- `110.93` — Consequências administrativas → fragmentos/rbac/rbac-110--sec-110.93.md
+- `110.95` — Sanções administrativas de suspensão e cassação → fragmentos/rbac/rbac-110--sec-110.95.md
+- `110.97` — a 110.99 [RESERVADO] → fragmentos/rbac/rbac-110--sec-110.97.md
+- `110.101` — Disposições finais e transitórias → fragmentos/rbac/rbac-110--sec-110.101.md
+- `110.103` — a 110.105 [RESERVADO] → fragmentos/rbac/rbac-110--sec-110.103.md
+
+## rbac-119
+- `cabecalho` → fragmentos/rbac/rbac-119--sec-cabecalho.md
+- `119.1` — – Aplicabilidade → fragmentos/rbac/rbac-119--sec-119.1.md
+- `119.3` — – Definições → fragmentos/rbac/rbac-119--sec-119.3.md
+- `119.5` — - Certificações, Autorizações e Proibições → fragmentos/rbac/rbac-119--sec-119.5.md
+- `119.7` — - Especificações operativas → fragmentos/rbac/rbac-119--sec-119.7.md
+- `119.9` — - Utilização do nome comercial → fragmentos/rbac/rbac-119--sec-119.9.md
+- `119.21` — - Operadores aéreos regulares e não regulares engajados em serviços de transporte → fragmentos/rbac/rbac-119--sec-119.21.md
+- `119.23` — - Operadores engajados em serviços aéreos privado em aeronaves com configuração → fragmentos/rbac/rbac-119--sec-119.23.md
+- `119.25` — - Operadores aéreos regulares e não regulares engajados em serviços de transporte → fragmentos/rbac/rbac-119--sec-119.25.md
+- `119.31` — – Aplicabilidade → fragmentos/rbac/rbac-119--sec-119.31.md
+- `119.33` — - Requisitos gerais → fragmentos/rbac/rbac-119--sec-119.33.md
+- `119.34` — – Demonstrações → fragmentos/rbac/rbac-119--sec-119.34.md
+- `119.35` — - Requisitos para requerimento para certificação. Todos os operadores → fragmentos/rbac/rbac-119--sec-119.35.md
+- `119.36` — - Requisitos econômicos, financeiros e jurídicos. Todos os operadores → fragmentos/rbac/rbac-119--sec-119.36.md
+- `119.37` — - Conteúdo do Certificado de Empresa de Transporte Aéreo → fragmentos/rbac/rbac-119--sec-119.37.md
+- `119.39` — - Emissão, ou indeferimento de um certificado → fragmentos/rbac/rbac-119--sec-119.39.md
+
+## rbac-120
+- `cabecalho` → fragmentos/rbac/rbac-120--sec-cabecalho.md
+- `120.1` — Aplicabilidade → fragmentos/rbac/rbac-120--sec-120.1.md
+- `120.3` — Obrigatoriedades → fragmentos/rbac/rbac-120--sec-120.3.md
+- `120.5` — Validade do Programa → fragmentos/rbac/rbac-120--sec-120.5.md
+- `120.7` — Definições → fragmentos/rbac/rbac-120--sec-120.7.md
+- `120.9` — Proibições → fragmentos/rbac/rbac-120--sec-120.9.md
+- `120.301` — Forma do Programa → fragmentos/rbac/rbac-120--sec-120.301.md
+- `120.303` — Aplicabilidade do Programa → fragmentos/rbac/rbac-120--sec-120.303.md
+- `120.305` — Divulgação do Programa → fragmentos/rbac/rbac-120--sec-120.305.md
+- `120.307` — Resultados do Programa → fragmentos/rbac/rbac-120--sec-120.307.md
+- `120.309` — Representante designado → fragmentos/rbac/rbac-120--sec-120.309.md
+- `120.311` — Supervisores treinados para encaminhamento a ETSP → fragmentos/rbac/rbac-120--sec-120.311.md
+- `120.321` — Geral → fragmentos/rbac/rbac-120--sec-120.321.md
+- `120.323` — Conteúdo do Subprograma de Educação → fragmentos/rbac/rbac-120--sec-120.323.md
+- `120.331` — Geral → fragmentos/rbac/rbac-120--sec-120.331.md
+- `120.333` — Funções e requisitos do médico revisor → fragmentos/rbac/rbac-120--sec-120.333.md
+- `120.335` — Substâncias psicoativas consideradas → fragmentos/rbac/rbac-120--sec-120.335.md
+
+## rbac-121
+- `cabecalho` → fragmentos/rbac/rbac-121--sec-cabecalho.md
+- `121.97` — Aeródromos. Informações requeridas → fragmentos/rbac/rbac-121--sec-121.97.md
+- `(inteira)` — APÊNDICE A – Conjunto de primeiros socorros e conjunto médico de emergência → fragmentos/rbac/rbac-121--apêndice-a-conjunto-de-primeiros-socorro.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE B – Especificação de gravador de dados de voo para aviões → fragmentos/rbac/rbac-121--apêndice-b-especificação-de-gravador-de.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE C – Conjuntos de sobrevivência no mar e na selva → fragmentos/rbac/rbac-121--apêndice-c-conjuntos-de-sobrevivência-no.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE D – Critérios para demonstração de procedimentos para evacuação em → fragmentos/rbac/rbac-121--apêndice-d-critérios-para-demonstração-d.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE E – Requisitos para treinamento de voo → fragmentos/rbac/rbac-121--apêndice-e-requisitos-para-treinamento-d.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE F – Exigências para exames de proeficiência → fragmentos/rbac/rbac-121--apêndice-f-exigências-para-exames-de-pro.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE G – Radar doppler e sistema de navegação inercial (INS): requerimento p → fragmentos/rbac/rbac-121--apêndice-g-radar-doppler-e-sistema-de-na.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE H – Simuladores avançados → fragmentos/rbac/rbac-121--apêndice-h-simuladores-avançados.md
+- `(inteira)` — APÊNDICE I – [Reservado] → fragmentos/rbac/rbac-121--apêndice-i-reservado.md
+- `(inteira)` — APÊNDICE J – [Reservado] → fragmentos/rbac/rbac-121--apêndice-j-reservado.md
+- `(inteira)` — APÊNDICE K – Requisitos de desempenho para aviões com motores turboélice. → fragmentos/rbac/rbac-121--apêndice-k-requisitos-de-desempenho-para.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE L – Regulamentos de certificação de tipo superados → fragmentos/rbac/rbac-121--apêndice-l-regulamentos-de-certificação.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE M – Especificações de gravadores digitais de dados de voo para aviões → fragmentos/rbac/rbac-121--apêndice-m-especificações-de-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE N – [Reservado] → fragmentos/rbac/rbac-121--apêndice-n-reservado.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE O – Requisitos para treinamento em artigos perigosos para detentores de → fragmentos/rbac/rbac-121--apêndice-o-requisitos-para-treinamento-e.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE P – Requisitos para operações ETOPS → fragmentos/rbac/rbac-121--apêndice-p-requisitos-para-operações-eto.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE Q – Estrutura do sistema de gerenciamento da segurança operacional → fragmentos/rbac/rbac-121--apêndice-q-estrutura-do-sistema-de-geren.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE R – Fases de implantação do sistema de gerenciamento da segurança → fragmentos/rbac/rbac-121--apêndice-r-fases-de-implantação-do-siste.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `121.1` — – APLICABILIDADE → fragmentos/rbac/rbac-121--sec-121.1.md
+- `121.2` — – PROGRAMA DE CONFORMIDADE PARA OPERADORES                                          EM → fragmentos/rbac/rbac-121--sec-121.2.md
+- `121.4` — – APLICABILIDADE                 DAS   REGRAS      PARA     OPERADORES          NÃO → fragmentos/rbac/rbac-121--sec-121.4.md
+- `121.7` — – DEFINIÇÕES → fragmentos/rbac/rbac-121--sec-121.7.md
+- `121.11` — – REGRAS APLICÁVEIS PARA OPERAÇÕES EM PAÍSES ESTRANGEIROS → fragmentos/rbac/rbac-121--sec-121.11.md
+- `121.15` — – TRANSPORTE DE DROGAS NARCÓTICAS, MACONHA E OUTRAS → fragmentos/rbac/rbac-121--sec-121.15.md
+- `121.91` — – APLICABILIDADE. → fragmentos/rbac/rbac-121--sec-121.91.md
+- `121.93` — – REQUISITOS DE ROTAS. GERAL → fragmentos/rbac/rbac-121--sec-121.93.md
+- `121.95` — – LARGURA DE ROTA → fragmentos/rbac/rbac-121--sec-121.95.md
+- `121.99` — – FACILIDADES DE COMUNICAÇÕES → fragmentos/rbac/rbac-121--sec-121.99.md
+- `121.101` — – SERVIÇOS DE INFORMAÇÕES METEOROLÓGICAS → fragmentos/rbac/rbac-121--sec-121.101.md
+- `121.103` — – FACILIDADES DE NAVEGAÇÃO EM ROTA → fragmentos/rbac/rbac-121--sec-121.103.md
+- `121.105` — – FACILIDADES DE SERVIÇOS E DE MANUTENÇÃO DE RAMPA → fragmentos/rbac/rbac-121--sec-121.105.md
+- `121.106` — – AERÓDROMO DE ALTERNATIVA EM ROTA ETOPS: SERVIÇOS DE → fragmentos/rbac/rbac-121--sec-121.106.md
+- `121.107` — – CENTROS DE DESPACHO DE VOO → fragmentos/rbac/rbac-121--sec-121.107.md
+- `(inteira)` — Anexo 6 à Convenção de Chicago. → fragmentos/rbac/rbac-121--anexo-6-à-convenção-de-chicago.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice L deste regulamento), exceto que o total de calor liberado durante os 2 → fragmentos/rbac/rbac-121--apêndice-l-deste-regulamento-exceto-que.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice B deste regulamento: → fragmentos/rbac/rbac-121--apêndice-b-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice B deste regulamento e que esteja disponível na barra de dados digitais  → fragmentos/rbac/rbac-121--apêndice-b-deste-regulamento-e-que-estej.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice M deste regulamento. Os parâmetros listados de (a)(12) até (a)(17) pode → fragmentos/rbac/rbac-121--apêndice-m-deste-regulamento-os-parâmetr.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice M deste regulamento em 20 de agosto de 2005. Os parâmetros listados de  → fragmentos/rbac/rbac-121--apêndice-m-deste-regulamento-em-20-de-ag.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice M deste regulamento; → fragmentos/rbac/rbac-121--apêndice-m-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice M deste regulamento. → fragmentos/rbac/rbac-121--apêndice-m-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice B do RBAC 135, exceto que: → fragmentos/rbac/rbac-121--apêndice-b-do-rbac-135-exceto-que.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice M deste regulamento; → fragmentos/rbac/rbac-121--apêndice-m-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice H deste regulamento; e → fragmentos/rbac/rbac-121--apêndice-h-deste-regulamento-e.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice F deste regulamento; ou → fragmentos/rbac/rbac-121--apêndice-f-deste-regulamento-ou.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — Apêndice E deste regulamento. → fragmentos/rbac/rbac-121--apêndice-e-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE A – CONJUNTO DE PRIMEIROS SOCORROS E CONJUNTO MÉDICO → fragmentos/rbac/rbac-121--apêndice-a-conjunto-de-primeiros-socorro.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE K - REQUISITOS DE DESEMPENHO PARA AVIÕES COM MOTORES → fragmentos/rbac/rbac-121--apêndice-k-requisitos-de-desempenho-para.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — apêndice deve demonstrar cumprimento com os requisitos de desempenho da categori → fragmentos/rbac/rbac-121--apêndice-deve-demonstrar-cumprimento-com.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+- `(inteira)` — APÊNDICE M – ESPECIFICAÇÕES DE GRAVADORES DIGITAIS DE DADOS DE → fragmentos/rbac/rbac-121--apêndice-m-especificações-de-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-121--apendice.md
+
+## rbac-121-emd-25
+- `cabecalho` → fragmentos/rbac/rbac-121-emd-25--sec-cabecalho.md
+- `121.97` — Aeródromos. Informações requeridas → fragmentos/rbac/rbac-121-emd-25--sec-121.97.md
+- `(inteira)` — APÊNDICE A – Conjunto de primeiros socorros e conjunto médico de emergência → fragmentos/rbac/rbac-121-emd-25--apêndice-a-conjunto-de-primeiros-socorro.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE B – Especificação de gravador de dados de voo para aviões → fragmentos/rbac/rbac-121-emd-25--apêndice-b-especificação-de-gravador-de.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE C – Conjuntos de sobrevivência no mar e na selva → fragmentos/rbac/rbac-121-emd-25--apêndice-c-conjuntos-de-sobrevivência-no.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE D – Critérios para demonstração de procedimentos para evacuação em → fragmentos/rbac/rbac-121-emd-25--apêndice-d-critérios-para-demonstração-d.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE E – Requisitos para treinamento de voo → fragmentos/rbac/rbac-121-emd-25--apêndice-e-requisitos-para-treinamento-d.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE F – Exigências para exames de proeficiência → fragmentos/rbac/rbac-121-emd-25--apêndice-f-exigências-para-exames-de-pro.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE G – Radar doppler e sistema de navegação inercial (INS): requerimento p → fragmentos/rbac/rbac-121-emd-25--apêndice-g-radar-doppler-e-sistema-de-na.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE H – Simuladores avançados → fragmentos/rbac/rbac-121-emd-25--apêndice-h-simuladores-avançados.md
+- `(inteira)` — APÊNDICE I – [Reservado] → fragmentos/rbac/rbac-121-emd-25--apêndice-i-reservado.md
+- `(inteira)` — APÊNDICE J – [Reservado] → fragmentos/rbac/rbac-121-emd-25--apêndice-j-reservado.md
+- `(inteira)` — APÊNDICE K – Requisitos de desempenho para aviões com motores turboélice. → fragmentos/rbac/rbac-121-emd-25--apêndice-k-requisitos-de-desempenho-para.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE L – Regulamentos de certificação de tipo superados → fragmentos/rbac/rbac-121-emd-25--apêndice-l-regulamentos-de-certificação.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE M – Especificações de gravadores digitais de dados de voo para aviões → fragmentos/rbac/rbac-121-emd-25--apêndice-m-especificações-de-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE N – [Reservado] → fragmentos/rbac/rbac-121-emd-25--apêndice-n-reservado.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE O – Requisitos para treinamento em artigos perigosos para detentores de → fragmentos/rbac/rbac-121-emd-25--apêndice-o-requisitos-para-treinamento-e.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE P – Requisitos para operações ETOPS → fragmentos/rbac/rbac-121-emd-25--apêndice-p-requisitos-para-operações-eto.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE Q – Estrutura do sistema de gerenciamento da segurança operacional → fragmentos/rbac/rbac-121-emd-25--apêndice-q-estrutura-do-sistema-de-geren.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE R – Fases de implantação do sistema de gerenciamento da segurança → fragmentos/rbac/rbac-121-emd-25--apêndice-r-fases-de-implantação-do-siste.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `121.1` — – APLICABILIDADE → fragmentos/rbac/rbac-121-emd-25--sec-121.1.md
+- `121.2` — – PROGRAMA DE CONFORMIDADE PARA OPERADORES                                          EM → fragmentos/rbac/rbac-121-emd-25--sec-121.2.md
+- `121.4` — – APLICABILIDADE                 DAS   REGRAS      PARA     OPERADORES          NÃO → fragmentos/rbac/rbac-121-emd-25--sec-121.4.md
+- `121.7` — – DEFINIÇÕES → fragmentos/rbac/rbac-121-emd-25--sec-121.7.md
+- `121.11` — – REGRAS APLICÁVEIS PARA OPERAÇÕES EM PAÍSES ESTRANGEIROS → fragmentos/rbac/rbac-121-emd-25--sec-121.11.md
+- `121.15` — – TRANSPORTE DE DROGAS NARCÓTICAS, MACONHA E OUTRAS → fragmentos/rbac/rbac-121-emd-25--sec-121.15.md
+- `121.91` — – APLICABILIDADE. → fragmentos/rbac/rbac-121-emd-25--sec-121.91.md
+- `121.93` — – REQUISITOS DE ROTAS. GERAL → fragmentos/rbac/rbac-121-emd-25--sec-121.93.md
+- `121.95` — – LARGURA DE ROTA → fragmentos/rbac/rbac-121-emd-25--sec-121.95.md
+- `121.99` — – FACILIDADES DE COMUNICAÇÕES → fragmentos/rbac/rbac-121-emd-25--sec-121.99.md
+- `121.101` — – SERVIÇOS DE INFORMAÇÕES METEOROLÓGICAS → fragmentos/rbac/rbac-121-emd-25--sec-121.101.md
+- `121.103` — – FACILIDADES DE NAVEGAÇÃO EM ROTA → fragmentos/rbac/rbac-121-emd-25--sec-121.103.md
+- `121.105` — – FACILIDADES DE SERVIÇOS E DE MANUTENÇÃO DE RAMPA → fragmentos/rbac/rbac-121-emd-25--sec-121.105.md
+- `121.106` — – AERÓDROMO DE ALTERNATIVA EM ROTA ETOPS: SERVIÇOS DE → fragmentos/rbac/rbac-121-emd-25--sec-121.106.md
+- `121.107` — – CENTROS DE DESPACHO DE VOO → fragmentos/rbac/rbac-121-emd-25--sec-121.107.md
+- `(inteira)` — Anexo 6 à Convenção de Chicago. → fragmentos/rbac/rbac-121-emd-25--anexo-6-à-convenção-de-chicago.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice L deste regulamento), exceto que o total de calor liberado durante os 2 → fragmentos/rbac/rbac-121-emd-25--apêndice-l-deste-regulamento-exceto-que.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice B deste regulamento: → fragmentos/rbac/rbac-121-emd-25--apêndice-b-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice B deste regulamento e que esteja disponível na barra de dados digitais  → fragmentos/rbac/rbac-121-emd-25--apêndice-b-deste-regulamento-e-que-estej.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice M deste regulamento. Os parâmetros listados de (a)(12) até (a)(17) pode → fragmentos/rbac/rbac-121-emd-25--apêndice-m-deste-regulamento-os-parâmetr.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice M deste regulamento em 20 de agosto de 2005. Os parâmetros listados de  → fragmentos/rbac/rbac-121-emd-25--apêndice-m-deste-regulamento-em-20-de-ag.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice M deste regulamento; → fragmentos/rbac/rbac-121-emd-25--apêndice-m-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice M deste regulamento. → fragmentos/rbac/rbac-121-emd-25--apêndice-m-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice B do RBAC 135, exceto que: → fragmentos/rbac/rbac-121-emd-25--apêndice-b-do-rbac-135-exceto-que.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice M deste regulamento; → fragmentos/rbac/rbac-121-emd-25--apêndice-m-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice H deste regulamento; e → fragmentos/rbac/rbac-121-emd-25--apêndice-h-deste-regulamento-e.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice F deste regulamento; ou → fragmentos/rbac/rbac-121-emd-25--apêndice-f-deste-regulamento-ou.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — Apêndice E deste regulamento. → fragmentos/rbac/rbac-121-emd-25--apêndice-e-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE A – CONJUNTO DE PRIMEIROS SOCORROS E CONJUNTO MÉDICO → fragmentos/rbac/rbac-121-emd-25--apêndice-a-conjunto-de-primeiros-socorro.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE K - REQUISITOS DE DESEMPENHO PARA AVIÕES COM MOTORES → fragmentos/rbac/rbac-121-emd-25--apêndice-k-requisitos-de-desempenho-para.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — apêndice deve demonstrar cumprimento com os requisitos de desempenho da categori → fragmentos/rbac/rbac-121-emd-25--apêndice-deve-demonstrar-cumprimento-com.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+- `(inteira)` — APÊNDICE M – ESPECIFICAÇÕES DE GRAVADORES DIGITAIS DE DADOS DE → fragmentos/rbac/rbac-121-emd-25--apêndice-m-especificações-de-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-121-emd-25--apendice.md
+
+## rbac-133
+- `cabecalho` → fragmentos/rbac/rbac-133--sec-cabecalho.md
+- `133.1` — Aplicabilidade → fragmentos/rbac/rbac-133--sec-133.1.md
+- `133.2` — Definições → fragmentos/rbac/rbac-133--sec-133.2.md
+- `133.11` — Autorização requerida → fragmentos/rbac/rbac-133--sec-133.11.md
+- `133.13` — Duração da autorização → fragmentos/rbac/rbac-133--sec-133.13.md
+- `133.14` — Transporte de materiais sujeitos a restrições → fragmentos/rbac/rbac-133--sec-133.14.md
+- `133.15` — Requerimento para emissão ou renovação de autorização → fragmentos/rbac/rbac-133--sec-133.15.md
+- `133.17` — Requisitos para emissão de uma autorização para operação de aeronaves de asas → fragmentos/rbac/rbac-133--sec-133.17.md
+- `133.19` — Aeronave → fragmentos/rbac/rbac-133--sec-133.19.md
+- `133.21` — Pessoal → fragmentos/rbac/rbac-133--sec-133.21.md
+- `133.23` — Conhecimento e habilidade → fragmentos/rbac/rbac-133--sec-133.23.md
+- `133.25` — Modificações à autorização → fragmentos/rbac/rbac-133--sec-133.25.md
+- `133.27` — Disponibilidade, transferência e desistência da autorização → fragmentos/rbac/rbac-133--sec-133.27.md
+- `133.31` — Operações em emergência → fragmentos/rbac/rbac-133--sec-133.31.md
+- `133.33` — Regras de operação → fragmentos/rbac/rbac-133--sec-133.33.md
+- `133.35` — Transporte de pessoas → fragmentos/rbac/rbac-133--sec-133.35.md
+- `133.37` — Requisitos para treinamento, exames e experiência dos tripulantes de voo → fragmentos/rbac/rbac-133--sec-133.37.md
+- `133.39` — Inspetores autorizados → fragmentos/rbac/rbac-133--sec-133.39.md
+- `133.41` — Requisitos de características de voo → fragmentos/rbac/rbac-133--sec-133.41.md
+- `133.43` — Estruturas e projeto → fragmentos/rbac/rbac-133--sec-133.43.md
+- `133.45` — Limitações operacionais → fragmentos/rbac/rbac-133--sec-133.45.md
+- `133.47` — Manual de Voo da Combinação Aeronave-Carga Externa → fragmentos/rbac/rbac-133--sec-133.47.md
+- `133.49` — Placares e marcas → fragmentos/rbac/rbac-133--sec-133.49.md
+- `133.51` — Certificação de aeronavegabilidade → fragmentos/rbac/rbac-133--sec-133.51.md
+
+## rbac-135
+- `cabecalho` → fragmentos/rbac/rbac-135--sec-cabecalho.md
+- `135.68` — [Reservado] → fragmentos/rbac/rbac-135--sec-135.68.md
+- `(inteira)` — APÊNDICE A - REQUISITOS ADICIONAIS DE AERONAVEGABILIDADE PARA AVIÕES COM 10 OU → fragmentos/rbac/rbac-135--apêndice-a-requisitos-adicionais-de-aero.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE B - ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA AVIÕES → fragmentos/rbac/rbac-135--apêndice-b-especificação-para-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE C - ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA HELICÓPTEROS → fragmentos/rbac/rbac-135--apêndice-c-especificação-para-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE D - ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA AVIÕES → fragmentos/rbac/rbac-135--apêndice-d-especificação-para-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE E - ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA HELICÓPTEROS → fragmentos/rbac/rbac-135--apêndice-e-especificação-para-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE F - ESPECIFICAÇÕES DE GRAVADORES DE DADOS DE VOO PARA AVIÕES → fragmentos/rbac/rbac-135--apêndice-f-especificações-de-gravadores.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE G - VOOS A GRANDES DISTANCIAS DE AVIÕES COM DOIS MOTORES A TURBINA → fragmentos/rbac/rbac-135--apêndice-g-voos-a-grandes-distancias-de.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE H - ESTRUTURA DO SISTEMA DE GERENCIAMENTO DA SEGURANÇA OPERACIONAL → fragmentos/rbac/rbac-135--apêndice-h-estrutura-do-sistema-de-geren.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — APÊNDICE I - FASES DE IMPLANTAÇÃO DO SISTEMA DE GERENCIAMENTO DA SEGURANÇA → fragmentos/rbac/rbac-135--apêndice-i-fases-de-implantação-do-siste.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `135.1` — Aplicabilidade → fragmentos/rbac/rbac-135--sec-135.1.md
+- `135.2` — Programa de conformidade para operadores transicionando para o RBAC 121; alguns → fragmentos/rbac/rbac-135--sec-135.2.md
+- `135.3` — Regras especiais aplicáveis a operações sujeitas a este regulamento → fragmentos/rbac/rbac-135--sec-135.3.md
+- `(inteira)` — Anexo ou dos regulamentos do país estrangeiro e que possam ser cumpridas sem vio → fragmentos/rbac/rbac-135--anexo-ou-dos-regulamentos-do-país-estran.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `135.7` — Aplicabilidade das regras para operadores não autorizados → fragmentos/rbac/rbac-135--sec-135.7.md
+- `135.12` — Tripulantes treinados previamente → fragmentos/rbac/rbac-135--sec-135.12.md
+- `135.19` — Operações de emergência → fragmentos/rbac/rbac-135--sec-135.19.md
+- `135.21` — Requisitos do manual → fragmentos/rbac/rbac-135--sec-135.21.md
+- `135.23` — Conteúdo do manual → fragmentos/rbac/rbac-135--sec-135.23.md
+- `135.25` — Requisitos das aeronaves → fragmentos/rbac/rbac-135--sec-135.25.md
+- `135.27` — Documentos requeridos a bordo da aeronave → fragmentos/rbac/rbac-135--sec-135.27.md
+- `135.29` — Sistema de gerenciamento da segurança operacional → fragmentos/rbac/rbac-135--sec-135.29.md
+- `135.41` — Transporte de substâncias psicoativas → fragmentos/rbac/rbac-135--sec-135.41.md
+- `135.43` — [Reservado] → fragmentos/rbac/rbac-135--sec-135.43.md
+- `135.61` — Geral → fragmentos/rbac/rbac-135--sec-135.61.md
+- `135.63` — Requisitos de conservação de registros → fragmentos/rbac/rbac-135--sec-135.63.md
+- `135.64` — Guarda de contratos e suas emendas: operações não-regulares → fragmentos/rbac/rbac-135--sec-135.64.md
+- `135.65` — Livro(s) de registros da tripulação e da aeronave → fragmentos/rbac/rbac-135--sec-135.65.md
+- `135.67` — Informação sobre condições meteorológicas potencialmente perigosas e irregularidades → fragmentos/rbac/rbac-135--sec-135.67.md
+- `135.69` — Restrições ou suspensão de operação: continuação de um voo em uma emergência → fragmentos/rbac/rbac-135--sec-135.69.md
+- `135.71` — Verificação de aeronavegabilidade → fragmentos/rbac/rbac-135--sec-135.71.md
+- `135.73` — Inspeções e exames da ANAC → fragmentos/rbac/rbac-135--sec-135.73.md
+- `135.75` — Assento dianteiro do observador: admissão à cabine de pilotos: credencial de inspetor → fragmentos/rbac/rbac-135--sec-135.75.md
+- `135.77` — Responsabilidade pelo controle operacional → fragmentos/rbac/rbac-135--sec-135.77.md
+- `135.79` — Requisitos de localização de voo → fragmentos/rbac/rbac-135--sec-135.79.md
+- `135.80` — Informações sobre equipamentos de emergência e sobrevivência → fragmentos/rbac/rbac-135--sec-135.80.md
+- `135.81` — Informações operacionais e alterações das mesmas → fragmentos/rbac/rbac-135--sec-135.81.md
+- `135.83` — Informações operacionais requeridas → fragmentos/rbac/rbac-135--sec-135.83.md
+- `135.85` — Transporte de pessoas sem atender às provisões de transporte de passageiros deste → fragmentos/rbac/rbac-135--sec-135.85.md
+- `(inteira)` — apêndice F deste regulamento. → fragmentos/rbac/rbac-135--apêndice-f-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — apêndice F deste regulamento. → fragmentos/rbac/rbac-135--apêndice-f-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — apêndice M do RBAC 121; → fragmentos/rbac/rbac-135--apêndice-m-do-rbac-121.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+- `(inteira)` — apêndice C do RBAC 25. Em adição, deve haver meios para indicar, ao apropriado t → fragmentos/rbac/rbac-135--apêndice-c-do-rbac-25-em-adição-deve-hav.md
+- `(inteira)` → fragmentos/rbac/rbac-135--apendice.md
+
+## rbac-137--EMD00
+- `cabecalho` → fragmentos/rbac/rbac-137--EMD00--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 137 – MODELO DE DIÁRIO DE BORDO → fragmentos/rbac/rbac-137--EMD00--apêndice-a-do-rbac-137-modelo-de-diário.md
+- `(inteira)` → fragmentos/rbac/rbac-137--EMD00--apendice.md
+- `137.1` — Aplicabilidade → fragmentos/rbac/rbac-137--EMD00--sec-137.1.md
+- `137.3` — Definições e conceitos → fragmentos/rbac/rbac-137--EMD00--sec-137.3.md
+- `137.5` — Certificação, autorização e proibição → fragmentos/rbac/rbac-137--EMD00--sec-137.5.md
+- `137.7` — Especificações Operativas (EO) → fragmentos/rbac/rbac-137--EMD00--sec-137.7.md
+- `137.9` — Utilização do nome comercial → fragmentos/rbac/rbac-137--EMD00--sec-137.9.md
+- `137.101` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD00--sec-137.101.md
+- `137.103` — Requisitos para as aeronaves agrícolas → fragmentos/rbac/rbac-137--EMD00--sec-137.103.md
+- `137.105` — Requisitos econômicos, financeiros e jurídicos → fragmentos/rbac/rbac-137--EMD00--sec-137.105.md
+- `137.107` — Processo de certificação de operador aeroagrícola → fragmentos/rbac/rbac-137--EMD00--sec-137.107.md
+- `137.109` — Conteúdo do COA → fragmentos/rbac/rbac-137--EMD00--sec-137.109.md
+- `137.111` — Emissão ou indeferimento de um COA → fragmentos/rbac/rbac-137--EMD00--sec-137.111.md
+- `137.113` — Validade de um COA → fragmentos/rbac/rbac-137--EMD00--sec-137.113.md
+- `137.115` — Emendas ao COA → fragmentos/rbac/rbac-137--EMD00--sec-137.115.md
+- `137.117` — Obrigações do detentor de COA → fragmentos/rbac/rbac-137--EMD00--sec-137.117.md
+- `137.119` — Sede operacional e mudança de endereço → fragmentos/rbac/rbac-137--EMD00--sec-137.119.md
+- `137.121` — Conteúdo das EO → fragmentos/rbac/rbac-137--EMD00--sec-137.121.md
+- `137.123` — Emendas às EO → fragmentos/rbac/rbac-137--EMD00--sec-137.123.md
+- `137.125` — Pessoal de administração requerido para operações conduzidas segundo este → fragmentos/rbac/rbac-137--EMD00--sec-137.125.md
+- `137.127` — Requisitos para o pessoal de administração requerido para operações conduzidas → fragmentos/rbac/rbac-137--EMD00--sec-137.127.md
+- `137.129` — Inspeções e vistorias → fragmentos/rbac/rbac-137--EMD00--sec-137.129.md
+- `137.201` — Requisitos das aeronaves e equipamentos → fragmentos/rbac/rbac-137--EMD00--sec-137.201.md
+- `137.203` — Requisitos de manutenção → fragmentos/rbac/rbac-137--EMD00--sec-137.203.md
+- `137.205` — Limitações para operadores privados aeroagrícolas → fragmentos/rbac/rbac-137--EMD00--sec-137.205.md
+- `137.207` — Requisitos para pilotos → fragmentos/rbac/rbac-137--EMD00--sec-137.207.md
+- `137.209` — Equipamentos de segurança de voo → fragmentos/rbac/rbac-137--EMD00--sec-137.209.md
+- `137.211` — Operações sobre áreas densamente povoadas → fragmentos/rbac/rbac-137--EMD00--sec-137.211.md
+- `137.213` — Condições atmosféricas para operações aeroagrícolas → fragmentos/rbac/rbac-137--EMD00--sec-137.213.md
+- `137.301` — Área de pouso para uso aeroagrícola → fragmentos/rbac/rbac-137--EMD00--sec-137.301.md
+- `137.303` — Operações aeroagrícolas em aeródromos → fragmentos/rbac/rbac-137--EMD00--sec-137.303.md
+
+## rbac-137--EMD01
+- `cabecalho` → fragmentos/rbac/rbac-137--EMD01--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 137 – MODELO DE DIÁRIO DE BORDO → fragmentos/rbac/rbac-137--EMD01--apêndice-a-do-rbac-137-modelo-de-diário.md
+- `(inteira)` → fragmentos/rbac/rbac-137--EMD01--apendice.md
+- `137.1` — Aplicabilidade → fragmentos/rbac/rbac-137--EMD01--sec-137.1.md
+- `137.3` — Definições e conceitos → fragmentos/rbac/rbac-137--EMD01--sec-137.3.md
+- `137.5` — Certificação, autorização e proibição → fragmentos/rbac/rbac-137--EMD01--sec-137.5.md
+- `137.7` — Especificações Operativas (EO) → fragmentos/rbac/rbac-137--EMD01--sec-137.7.md
+- `137.9` — Utilização do nome comercial → fragmentos/rbac/rbac-137--EMD01--sec-137.9.md
+- `137.101` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD01--sec-137.101.md
+- `137.103` — Requisitos para as aeronaves agrícolas → fragmentos/rbac/rbac-137--EMD01--sec-137.103.md
+- `137.105` — Requisitos econômicos, financeiros e jurídicos → fragmentos/rbac/rbac-137--EMD01--sec-137.105.md
+- `137.107` — Processo de certificação de operador aeroagrícola → fragmentos/rbac/rbac-137--EMD01--sec-137.107.md
+- `137.109` — Conteúdo do COA → fragmentos/rbac/rbac-137--EMD01--sec-137.109.md
+- `137.111` — Emissão ou indeferimento de um COA → fragmentos/rbac/rbac-137--EMD01--sec-137.111.md
+- `137.113` — Validade de um COA → fragmentos/rbac/rbac-137--EMD01--sec-137.113.md
+- `137.115` — Emendas ao COA → fragmentos/rbac/rbac-137--EMD01--sec-137.115.md
+- `137.117` — Obrigações do detentor de COA → fragmentos/rbac/rbac-137--EMD01--sec-137.117.md
+- `137.119` — Sede operacional e mudança de endereço → fragmentos/rbac/rbac-137--EMD01--sec-137.119.md
+- `137.121` — Conteúdo das EO → fragmentos/rbac/rbac-137--EMD01--sec-137.121.md
+- `137.123` — Emendas às EO → fragmentos/rbac/rbac-137--EMD01--sec-137.123.md
+- `137.125` — Pessoal de administração requerido para operações conduzidas segundo este → fragmentos/rbac/rbac-137--EMD01--sec-137.125.md
+- `137.127` — Requisitos para o pessoal de administração requerido para operações conduzidas → fragmentos/rbac/rbac-137--EMD01--sec-137.127.md
+- `137.128` — Responsabilidades do gestor responsável e do diretor ou gerente de segurança → fragmentos/rbac/rbac-137--EMD01--sec-137.128.md
+- `137.129` — Inspeções e vistorias → fragmentos/rbac/rbac-137--EMD01--sec-137.129.md
+- `137.201` — Requisitos das aeronaves e equipamentos → fragmentos/rbac/rbac-137--EMD01--sec-137.201.md
+- `137.203` — Requisitos de manutenção → fragmentos/rbac/rbac-137--EMD01--sec-137.203.md
+- `137.205` — Limitações para operadores privados aeroagrícolas → fragmentos/rbac/rbac-137--EMD01--sec-137.205.md
+- `137.207` — Requisitos para pilotos → fragmentos/rbac/rbac-137--EMD01--sec-137.207.md
+- `137.209` — Equipamentos de segurança de voo → fragmentos/rbac/rbac-137--EMD01--sec-137.209.md
+- `137.211` — Operações sobre áreas densamente povoadas → fragmentos/rbac/rbac-137--EMD01--sec-137.211.md
+- `137.213` — Condições atmosféricas para operações aeroagrícolas → fragmentos/rbac/rbac-137--EMD01--sec-137.213.md
+- `137.301` — Área de pouso para uso aeroagrícola → fragmentos/rbac/rbac-137--EMD01--sec-137.301.md
+- `137.303` — Operações aeroagrícolas em aeródromos → fragmentos/rbac/rbac-137--EMD01--sec-137.303.md
+
+## rbac-137--EMD03
+- `cabecalho` → fragmentos/rbac/rbac-137--EMD03--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 137 – MODELO DE DIÁRIO DE BORDO → fragmentos/rbac/rbac-137--EMD03--apêndice-a-do-rbac-137-modelo-de-diário.md
+- `(inteira)` → fragmentos/rbac/rbac-137--EMD03--apendice.md
+- `137.1` — Aplicabilidade → fragmentos/rbac/rbac-137--EMD03--sec-137.1.md
+- `137.3` — Definições e conceitos → fragmentos/rbac/rbac-137--EMD03--sec-137.3.md
+- `137.5` — Certificação, autorização e proibição → fragmentos/rbac/rbac-137--EMD03--sec-137.5.md
+- `137.7` — Especificações Operativas (EO) → fragmentos/rbac/rbac-137--EMD03--sec-137.7.md
+- `137.9` — Utilização do nome comercial → fragmentos/rbac/rbac-137--EMD03--sec-137.9.md
+- `137.101` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD03--sec-137.101.md
+- `137.103` — Requisitos para as aeronaves agrícolas → fragmentos/rbac/rbac-137--EMD03--sec-137.103.md
+- `137.105` — Requisitos econômicos, financeiros e jurídicos → fragmentos/rbac/rbac-137--EMD03--sec-137.105.md
+- `137.107` — Processo de certificação de operador aeroagrícola → fragmentos/rbac/rbac-137--EMD03--sec-137.107.md
+- `137.109` — Conteúdo do COA → fragmentos/rbac/rbac-137--EMD03--sec-137.109.md
+- `137.111` — Emissão ou indeferimento de um COA → fragmentos/rbac/rbac-137--EMD03--sec-137.111.md
+- `137.113` — Validade de um COA → fragmentos/rbac/rbac-137--EMD03--sec-137.113.md
+- `137.115` — Emendas ao COA → fragmentos/rbac/rbac-137--EMD03--sec-137.115.md
+- `137.117` — Obrigações do detentor de COA → fragmentos/rbac/rbac-137--EMD03--sec-137.117.md
+- `137.119` — Sede operacional e mudança de endereço → fragmentos/rbac/rbac-137--EMD03--sec-137.119.md
+- `137.121` — Conteúdo das EO → fragmentos/rbac/rbac-137--EMD03--sec-137.121.md
+- `137.123` — Emendas às EO → fragmentos/rbac/rbac-137--EMD03--sec-137.123.md
+- `137.125` — Pessoal de administração requerido para operações conduzidas segundo este → fragmentos/rbac/rbac-137--EMD03--sec-137.125.md
+- `137.127` — Requisitos para o pessoal de administração requerido para operações conduzidas → fragmentos/rbac/rbac-137--EMD03--sec-137.127.md
+- `137.128` — Responsabilidades do gestor responsável e do diretor ou gerente de segurança → fragmentos/rbac/rbac-137--EMD03--sec-137.128.md
+- `137.129` — Inspeções e vistorias → fragmentos/rbac/rbac-137--EMD03--sec-137.129.md
+- `137.201` — Requisitos das aeronaves e equipamentos → fragmentos/rbac/rbac-137--EMD03--sec-137.201.md
+- `137.203` — Requisitos de manutenção → fragmentos/rbac/rbac-137--EMD03--sec-137.203.md
+- `137.205` — Limitações para operadores privados aeroagrícolas → fragmentos/rbac/rbac-137--EMD03--sec-137.205.md
+- `137.207` — Requisitos para pilotos → fragmentos/rbac/rbac-137--EMD03--sec-137.207.md
+- `137.209` — Equipamentos de segurança de voo → fragmentos/rbac/rbac-137--EMD03--sec-137.209.md
+- `137.211` — Operações sobre áreas densamente povoadas → fragmentos/rbac/rbac-137--EMD03--sec-137.211.md
+- `137.213` — Condições atmosféricas para operações aeroagrícolas → fragmentos/rbac/rbac-137--EMD03--sec-137.213.md
+- `137.301` — Área de pouso para uso aeroagrícola → fragmentos/rbac/rbac-137--EMD03--sec-137.301.md
+
+## rbac-137--EMD05
+- `cabecalho` → fragmentos/rbac/rbac-137--EMD05--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC Nº 137 - [RESERVADO] → fragmentos/rbac/rbac-137--EMD05--apêndice-a-do-rbac-nº-137-reservado.md
+- `(inteira)` — APÊNDICE B DO RBAC Nº 137 - DOSIMETRIA DAS SANÇÕES APLICÁVEIS ÀS INFRAÇÕES AO RE → fragmentos/rbac/rbac-137--EMD05--apêndice-b-do-rbac-nº-137-dosimetria-das.md
+- `(inteira)` → fragmentos/rbac/rbac-137--EMD05--apendice.md
+- `137.1` — Aplicabilidade → fragmentos/rbac/rbac-137--EMD05--sec-137.1.md
+- `137.3` — Definições e conceitos → fragmentos/rbac/rbac-137--EMD05--sec-137.3.md
+- `137.9` — Utilização do nome comercial → fragmentos/rbac/rbac-137--EMD05--sec-137.9.md
+- `137.101` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD05--sec-137.101.md
+- `137.107` — Processo de cadastramento de operador aeroagrícola → fragmentos/rbac/rbac-137--EMD05--sec-137.107.md
+- `137.109` — Conteúdo do CDAG → fragmentos/rbac/rbac-137--EMD05--sec-137.109.md
+- `137.113` — Validade de um CDAG → fragmentos/rbac/rbac-137--EMD05--sec-137.113.md
+- `137.115` — Atualização do CDAG → fragmentos/rbac/rbac-137--EMD05--sec-137.115.md
+- `137.117` — Guarda do CDAG → fragmentos/rbac/rbac-137--EMD05--sec-137.117.md
+- `137.121` — a 137.125 [Reservado] → fragmentos/rbac/rbac-137--EMD05--sec-137.121.md
+- `137.201` — Requisitos para operação → fragmentos/rbac/rbac-137--EMD05--sec-137.201.md
+- `137.203` — Requisitos de manutenção → fragmentos/rbac/rbac-137--EMD05--sec-137.203.md
+- `137.205` — Limitações para operadores privados aeroagrícolas → fragmentos/rbac/rbac-137--EMD05--sec-137.205.md
+- `137.207` — Requisitos para pilotos → fragmentos/rbac/rbac-137--EMD05--sec-137.207.md
+- `137.209` — Equipamentos de segurança de voo → fragmentos/rbac/rbac-137--EMD05--sec-137.209.md
+- `137.211` — Operações sobre áreas densamente povoadas → fragmentos/rbac/rbac-137--EMD05--sec-137.211.md
+- `137.213` — Condições atmosféricas para operações aeroagrícolas → fragmentos/rbac/rbac-137--EMD05--sec-137.213.md
+- `137.215` — Gerenciamento de risco → fragmentos/rbac/rbac-137--EMD05--sec-137.215.md
+- `137.301` — Área de pouso para uso aeroagrícola → fragmentos/rbac/rbac-137--EMD05--sec-137.301.md
+- `137.303` — Operações aeroagrícolas em aeródromos → fragmentos/rbac/rbac-137--EMD05--sec-137.303.md
+- `137.501` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD05--sec-137.501.md
+- `137.517` — Registros e relatórios → fragmentos/rbac/rbac-137--EMD05--sec-137.517.md
+- `137.521` — Diário de bordo → fragmentos/rbac/rbac-137--EMD05--sec-137.521.md
+- `(inteira)` — APÊNDICE A DO RBAC Nº 137 → fragmentos/rbac/rbac-137--EMD05--apêndice-a-do-rbac-nº-137.md
+- `(inteira)` — APÊNDICE B DO RBAC Nº 137 → fragmentos/rbac/rbac-137--EMD05--apêndice-b-do-rbac-nº-137.md
+- `(inteira)` → fragmentos/rbac/rbac-137--EMD05--apendice.md
+- `137.119` — Sede administrativa e 1.600 2.800 4.000 Multa, nos valores da tabela, para o operador da acronave, para cada ocorrência. → fragmentos/rbac/rbac-137--EMD05--sec-137.119.md
+- `137.127` — Requisitos para o pessoal de | 5 6, 9.800 14.000 || Multa, nos valores da tabela, para o operador da aeronave, para cada → fragmentos/rbac/rbac-137--EMD05--sec-137.127.md
+
+## rbac-137--EMD06
+- `cabecalho` → fragmentos/rbac/rbac-137--EMD06--sec-cabecalho.md
+- `137.1` — Aplicabilidade → fragmentos/rbac/rbac-137--EMD06--sec-137.1.md
+- `137.109` — Conteúdo do CDAG → fragmentos/rbac/rbac-137--EMD06--sec-137.109.md
+- `(inteira)` — APÊNDICE A DO RBAC Nº 137 - [RESERVADO] → fragmentos/rbac/rbac-137--EMD06--apêndice-a-do-rbac-nº-137-reservado.md
+- `(inteira)` — APÊNDICE B DO RBAC Nº 137 - DOSIMETRIA DAS SANÇÕES APLICÁVEIS ÀS INFRAÇÕES AO RE → fragmentos/rbac/rbac-137--EMD06--apêndice-b-do-rbac-nº-137-dosimetria-das.md
+- `(inteira)` → fragmentos/rbac/rbac-137--EMD06--apendice.md
+- `137.3` — Definições e conceitos → fragmentos/rbac/rbac-137--EMD06--sec-137.3.md
+- `137.9` — Utilização do nome comercial → fragmentos/rbac/rbac-137--EMD06--sec-137.9.md
+- `137.101` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD06--sec-137.101.md
+- `137.107` — Processo de cadastramento de operador aeroagrícola → fragmentos/rbac/rbac-137--EMD06--sec-137.107.md
+- `137.113` — Validade de um CDAG → fragmentos/rbac/rbac-137--EMD06--sec-137.113.md
+- `137.115` — Atualização do CDAG → fragmentos/rbac/rbac-137--EMD06--sec-137.115.md
+- `137.117` — Guarda do CDAG → fragmentos/rbac/rbac-137--EMD06--sec-137.117.md
+- `137.121` — a 137.125 [Reservado] → fragmentos/rbac/rbac-137--EMD06--sec-137.121.md
+- `137.201` — Requisitos para operação → fragmentos/rbac/rbac-137--EMD06--sec-137.201.md
+- `137.203` — Requisitos de manutenção → fragmentos/rbac/rbac-137--EMD06--sec-137.203.md
+- `137.205` — Limitações para operadores privados aeroagrícola​s → fragmentos/rbac/rbac-137--EMD06--sec-137.205.md
+- `137.207` — Requisitos para pilotos → fragmentos/rbac/rbac-137--EMD06--sec-137.207.md
+- `137.209` — Equipamentos de segurança de voo → fragmentos/rbac/rbac-137--EMD06--sec-137.209.md
+- `137.211` — Operações sobre áreas densamente povoadas → fragmentos/rbac/rbac-137--EMD06--sec-137.211.md
+- `137.213` — Condições atmosféricas para operações aeroagrícola​s → fragmentos/rbac/rbac-137--EMD06--sec-137.213.md
+- `137.215` — Gerenciamento de risco → fragmentos/rbac/rbac-137--EMD06--sec-137.215.md
+- `137.301` — Área de pouso para uso aeroagrícola → fragmentos/rbac/rbac-137--EMD06--sec-137.301.md
+- `137.303` — Operações aeroagrícola​s em aeródromos → fragmentos/rbac/rbac-137--EMD06--sec-137.303.md
+- `137.501` — Requisitos gerais → fragmentos/rbac/rbac-137--EMD06--sec-137.501.md
+- `137.517` — Registros e relatórios → fragmentos/rbac/rbac-137--EMD06--sec-137.517.md
+- `137.521` — Diário de bordo → fragmentos/rbac/rbac-137--EMD06--sec-137.521.md
+- `137.119` — 1.600    2.800            4.000    Multa, nos valores da tabela, para o operador da aeronave, para cada ocorrência. → fragmentos/rbac/rbac-137--EMD06--sec-137.119.md
+- `137.127` — 5.600    9.800            14.000   Multa, nos valores da tabela, para o operador da aeronave, para cada ocorrência. → fragmentos/rbac/rbac-137--EMD06--sec-137.127.md
+
+## rbac-141
+- `cabecalho` → fragmentos/rbac/rbac-141--sec-cabecalho.md
+- `141.1` — Aplicabilidade → fragmentos/rbac/rbac-141--sec-141.1.md
+- `141.3` — Definições → fragmentos/rbac/rbac-141--sec-141.3.md
+- `141.5` — Certificado de CIAC e EI → fragmentos/rbac/rbac-141--sec-141.5.md
+- `141.7` — Solicitação, emissão e emenda do certificado de CIAC e de suas respectivas EI → fragmentos/rbac/rbac-141--sec-141.7.md
+- `141.9` — Suspensão ou revogação do certificado de CIAC → fragmentos/rbac/rbac-141--sec-141.9.md
+- `141.11` — Validade do certificado de CIAC → fragmentos/rbac/rbac-141--sec-141.11.md
+- `141.13` — Tipos de CIAC → fragmentos/rbac/rbac-141--sec-141.13.md
+- `141.15` — Fiscalizações da ANAC → fragmentos/rbac/rbac-141--sec-141.15.md
+- `141.21` — Sistema de manuais do CIAC → fragmentos/rbac/rbac-141--sec-141.21.md
+- `141.23` — Programas de instrução → fragmentos/rbac/rbac-141--sec-141.23.md
+- `141.25` — Manual de instruções e procedimentos (MIP) → fragmentos/rbac/rbac-141--sec-141.25.md
+- `141.27` — Sistema de gerenciamento da segurança operacional (SGSO) → fragmentos/rbac/rbac-141--sec-141.27.md
+- `141.29` — Sistema de garantia da qualidade (SGQ) → fragmentos/rbac/rbac-141--sec-141.29.md
+- `141.41` — Requisitos de instalações → fragmentos/rbac/rbac-141--sec-141.41.md
+- `141.43` — Requisitos de equipamentos de instrução → fragmentos/rbac/rbac-141--sec-141.43.md
+- `141.45` — Requisitos de aeronaves → fragmentos/rbac/rbac-141--sec-141.45.md
+- `141.47` — Requisitos de FSTD → fragmentos/rbac/rbac-141--sec-141.47.md
+- `141.49` — Sede do CIAC → fragmentos/rbac/rbac-141--sec-141.49.md
+- `141.51` — CIAC satélite → fragmentos/rbac/rbac-141--sec-141.51.md
+- `141.61` — Pessoal de administração requerido → fragmentos/rbac/rbac-141--sec-141.61.md
+- `141.63` — Instrutores de solo e de voo → fragmentos/rbac/rbac-141--sec-141.63.md
+- `141.71` — Prerrogativas do CIAC → fragmentos/rbac/rbac-141--sec-141.71.md
+- `141.73` — Obrigações e limitações do CIAC → fragmentos/rbac/rbac-141--sec-141.73.md
+- `141.75` — Requisitos para matrícula → fragmentos/rbac/rbac-141--sec-141.75.md
+- `141.77` — Aproveitamento de estudos ou de experiência prévia → fragmentos/rbac/rbac-141--sec-141.77.md
+- `141.79` — Registros → fragmentos/rbac/rbac-141--sec-141.79.md
+- `141.81` — Certificado de conclusão de curso → fragmentos/rbac/rbac-141--sec-141.81.md
+- `141.83` — Histórico da instrução → fragmentos/rbac/rbac-141--sec-141.83.md
+- `141.85` — Prestação de informações à ANAC → fragmentos/rbac/rbac-141--sec-141.85.md
+- `141.87` — Limitações ao uso de marcas, expressões e sinais de propaganda → fragmentos/rbac/rbac-141--sec-141.87.md
+- `141.91` — Disposições gerais → fragmentos/rbac/rbac-141--sec-141.91.md
+- `141.93` — Validade do credenciamento → fragmentos/rbac/rbac-141--sec-141.93.md
+
+## rbac-142
+- `cabecalho` → fragmentos/rbac/rbac-142--sec-cabecalho.md
+- `142.1` — Aplicabilidade → fragmentos/rbac/rbac-142--sec-142.1.md
+- `142.3` — Definições → fragmentos/rbac/rbac-142--sec-142.3.md
+- `142.5` — Certificado de CTAC e Especificações de Treinamento → fragmentos/rbac/rbac-142--sec-142.5.md
+- `142.7` — Solicitação, emissão, emenda, suspensão, revogação ou cassação de certificado de CTAC → fragmentos/rbac/rbac-142--sec-142.7.md
+- `142.9` — Validade do certificado de CTAC → fragmentos/rbac/rbac-142--sec-142.9.md
+- `142.13` — Inspeções e vistorias → fragmentos/rbac/rbac-142--sec-142.13.md
+- `142.21` — Requisitos de certificação → fragmentos/rbac/rbac-142--sec-142.21.md
+- `142.23` — Aprovação de programas de treinamento e suas revisões → fragmentos/rbac/rbac-142--sec-142.23.md
+- `142.25` — Currículos do programa de treinamento → fragmentos/rbac/rbac-142--sec-142.25.md
+- `142.27` — Manual de Instruções e Procedimentos (MIP) → fragmentos/rbac/rbac-142--sec-142.27.md
+- `142.29` — Edificações e instalações → fragmentos/rbac/rbac-142--sec-142.29.md
+- `142.31` — Requisitos de equipamentos e materiais de ensino e apoio de treinamento → fragmentos/rbac/rbac-142--sec-142.31.md
+- `142.33` — Requisitos de aeronaves → fragmentos/rbac/rbac-142--sec-142.33.md
+- `142.35` — Dispositivos de treinamento para simulação de voo → fragmentos/rbac/rbac-142--sec-142.35.md
+- `142.37` — CTAC satélite → fragmentos/rbac/rbac-142--sec-142.37.md
+- `142.39` — CTAC remoto → fragmentos/rbac/rbac-142--sec-142.39.md
+- `142.41` — CTAC estrangeiro → fragmentos/rbac/rbac-142--sec-142.41.md
+- `142.43` — Pessoal técnico e administrativo requerido → fragmentos/rbac/rbac-142--sec-142.43.md
+- `142.45` — Requisitos para instrutores de CTAC → fragmentos/rbac/rbac-142--sec-142.45.md
+- `142.47` — Requisitos para examinadores credenciados de CTAC → fragmentos/rbac/rbac-142--sec-142.47.md
+- `142.49` — Condução de outros cursos autorizados → fragmentos/rbac/rbac-142--sec-142.49.md
+- `142.51` — Sistema de Garantia de Qualidade → fragmentos/rbac/rbac-142--sec-142.51.md
+- `142.61` — Requisitos gerais → fragmentos/rbac/rbac-142--sec-142.61.md
+- `142.63` — Prerrogativas do CTAC → fragmentos/rbac/rbac-142--sec-142.63.md
+- `142.65` — Limitações do CTAC → fragmentos/rbac/rbac-142--sec-142.65.md
+- `142.67` — Prerrogativas e limitações de instrutores de CTAC → fragmentos/rbac/rbac-142--sec-142.67.md
+- `142.69` — Prerrogativas e limitações de examinadores credenciados de CTAC → fragmentos/rbac/rbac-142--sec-142.69.md
+- `142.71` — Requisitos para emissão, conservação e envio de registros à ANAC → fragmentos/rbac/rbac-142--sec-142.71.md
+- `142.73` — Notificações de alterações à ANAC → fragmentos/rbac/rbac-142--sec-142.73.md
+- `142.75` — Limitações ao uso de marcas, expressões e sinais de propaganda → fragmentos/rbac/rbac-142--sec-142.75.md
+- `142.111` — Requisitos gerais → fragmentos/rbac/rbac-142--sec-142.111.md
+
+## rbac-145
+- `cabecalho` → fragmentos/rbac/rbac-145--sec-cabecalho.md
+- `145.5` — Requisitos para o certificado e especificações operativas → fragmentos/rbac/rbac-145--sec-145.5.md
+- `145.55` — Validade e renovação do certificado → fragmentos/rbac/rbac-145--sec-145.55.md
+- `145.57` — Emenda ou transferência de certificado → fragmentos/rbac/rbac-145--sec-145.57.md
+- `145.61` — Limitações de certificação → fragmentos/rbac/rbac-145--sec-145.61.md
+- `145.103` — Requisitos para instalações e recursos → fragmentos/rbac/rbac-145--sec-145.103.md
+- `145.105` — Mudança de localização, instalações ou recursos → fragmentos/rbac/rbac-145--sec-145.105.md
+- `145.109` — Requisitos de equipamentos, ferramentas, materiais e dados técnicos → fragmentos/rbac/rbac-145--sec-145.109.md
+- `145.153` — Requisitos do pessoal de supervisão → fragmentos/rbac/rbac-145--sec-145.153.md
+- `145.155` — Requisitos do pessoal de inspeção → fragmentos/rbac/rbac-145--sec-145.155.md
+- `145.157` — Pessoal autorizado para aprovar um artigo para retorno ao serviço → fragmentos/rbac/rbac-145--sec-145.157.md
+- `145.161` — Registros do pessoal de administração, supervisão e inspeção → fragmentos/rbac/rbac-145--sec-145.161.md
+- `145.165` — Treinamento em artigos perigosos → fragmentos/rbac/rbac-145--sec-145.165.md
+- `145.201` — Prerrogativas e limitações do certificado → fragmentos/rbac/rbac-145--sec-145.201.md
+- `145.203` — Trabalho executado em outra localidade → fragmentos/rbac/rbac-145--sec-145.203.md
+- `145.205` — Execução de manutenção, manutenção preventiva ou alteração para detentor de certificado segundo os RBAC → fragmentos/rbac/rbac-145--sec-145.205.md
+- `145.207` — Manual da organização de manutenção → fragmentos/rbac/rbac-145--sec-145.207.md
+- `145.209` — Conteúdo do manual da organização de manutenção → fragmentos/rbac/rbac-145--sec-145.209.md
+- `145.211` — Sistema de controle da qualidade → fragmentos/rbac/rbac-145--sec-145.211.md
+- `145.213` — Inspeção da manutenção, manutenção preventiva e alteração → fragmentos/rbac/rbac-145--sec-145.213.md
+- `145.215` — Lista de capacidade → fragmentos/rbac/rbac-145--sec-145.215.md
+
+## rbac-153
+- `cabecalho` → fragmentos/rbac/rbac-153--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 153 – TABELA DE REQUISITOS SEGUNDO A CLASSE DO AERÓDROMO → fragmentos/rbac/rbac-153--apêndice-a-do-rbac-153-tabela-de-requisi.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `(inteira)` — APÊNDICE B DO RBAC 153 – [RESERVADO] → fragmentos/rbac/rbac-153--apêndice-b-do-rbac-153-reservado.md
+- `(inteira)` — APÊNDICE C DO RBAC 153 - PROGRAMAS DE MANUTENÇÃO DO AERÓDROMO → fragmentos/rbac/rbac-153--apêndice-c-do-rbac-153-programas-de-manu.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `(inteira)` — APÊNDICE D DO RBAC 153 – [RESERVADO] → fragmentos/rbac/rbac-153--apêndice-d-do-rbac-153-reservado.md
+- `(inteira)` — APÊNDICE E DO RBAC 153 - [RESERVADO] → fragmentos/rbac/rbac-153--apêndice-e-do-rbac-153-reservado.md
+- `(inteira)` — APÊNDICE F DO RBAC 153 – MÉTODO ACN/PCN → fragmentos/rbac/rbac-153--apêndice-f-do-rbac-153-método-acn-pcn.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `(inteira)` — APÊNDICE G DO RBAC 153 – [RESERVADO] → fragmentos/rbac/rbac-153--apêndice-g-do-rbac-153-reservado.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `153.1` — TERMOS E DEFINIÇÕES → fragmentos/rbac/rbac-153--sec-153.1.md
+- `(inteira)` — Apêndice F deste Regulamento. → fragmentos/rbac/rbac-153--apêndice-f-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `153.3` — ABREVIATURAS E SÍMBOLOS → fragmentos/rbac/rbac-153--sec-153.3.md
+- `153.5` — APLICABILIDADE → fragmentos/rbac/rbac-153--sec-153.5.md
+- `(inteira)` — Apêndice A deste Regulamento a exigência de cumprimento e especificidades de cad → fragmentos/rbac/rbac-153--apêndice-a-deste-regulamento-a-exigência.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `153.7` — CLASSIFICAÇÃO DO AERÓDROMO → fragmentos/rbac/rbac-153--sec-153.7.md
+- `153.9` — METODOLOGIA DE LEITURA E APLICAÇÃO DO RBAC 153 → fragmentos/rbac/rbac-153--sec-153.9.md
+- `153.13` — CONSTITUIÇÃO DO OPERADOR DE AERÓDROMO → fragmentos/rbac/rbac-153--sec-153.13.md
+- `153.15` — RESPONSÁVEIS PELAS ATIVIDADES OPERACIONAIS → fragmentos/rbac/rbac-153--sec-153.15.md
+- `(inteira)` — Apêndice A deste Regulamento. → fragmentos/rbac/rbac-153--apêndice-a-deste-regulamento.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `153.19` — ATRIBUIÇÕES DO OPERADOR DE AERÓDROMO → fragmentos/rbac/rbac-153--sec-153.19.md
+- `153.21` — RESPONSABILIDADES DO OPERADOR DE AERÓDROMO → fragmentos/rbac/rbac-153--sec-153.21.md
+- `153.23` — RESPONSABILIDADES DO PROFISSIONAL RESPONSÁVEL PELA → fragmentos/rbac/rbac-153--sec-153.23.md
+- `153.25` — RESPONSABILIDADES DO PROFISSIONAL RESPONSÁVEL PELO → fragmentos/rbac/rbac-153--sec-153.25.md
+- `153.27` — RESPONSABILIDADES DO PROFISSIONAL RESPONSÁVEL PELA → fragmentos/rbac/rbac-153--sec-153.27.md
+- `153.29` — RESPONSABILIDADES DO PROFISSIONAL RESPONSÁVEL PELA → fragmentos/rbac/rbac-153--sec-153.29.md
+- `153.31` — RESPONSABILIDADES DO PROFISSIONAL RESPONSÁVEL PELA → fragmentos/rbac/rbac-153--sec-153.31.md
+- `153.33` — RESPONSABILIDADES DE DIVERSOS ENTES NA ÁREA DE → fragmentos/rbac/rbac-153--sec-153.33.md
+- `153.35` — QUALIFICAÇÃO DOS RESPONSÁVEIS PELAS ATIVIDADES → fragmentos/rbac/rbac-153--sec-153.35.md
+- `153.37` — TREINAMENTO DOS PROFISSIONAIS QUE EXERCEM ATIVIDADES → fragmentos/rbac/rbac-153--sec-153.37.md
+- `153.39` — DOCUMENTAÇÃO → fragmentos/rbac/rbac-153--sec-153.39.md
+- `153.41` — A 153.49 [RESERVADO] → fragmentos/rbac/rbac-153--sec-153.41.md
+- `153.51` — GENERALIDADES → fragmentos/rbac/rbac-153--sec-153.51.md
+- `153.53` — POLÍTICA E OBJETIVOS DE SEGURANÇA OPERACIONAL → fragmentos/rbac/rbac-153--sec-153.53.md
+- `153.55` — GERENCIAMENTO DOS RISCOS DE SEGURANÇA OPERACIONAL → fragmentos/rbac/rbac-153--sec-153.55.md
+- `153.57` — GARANTIA DA SEGURANÇA OPERACIONAL → fragmentos/rbac/rbac-153--sec-153.57.md
+- `(inteira)` — Apêndice A e ainda considerando a complexidade de suas operações e desempenho de → fragmentos/rbac/rbac-153--apêndice-a-e-ainda-considerando-a-comple.md
+- `(inteira)` → fragmentos/rbac/rbac-153--apendice.md
+- `153.59` — PROMOÇÃO DA SEGURANÇA OPERACIONAL → fragmentos/rbac/rbac-153--sec-153.59.md
+- `153.61` — PLANEJAMENTO FORMAL PARA IMPLANTAÇÃO DO SGSO → fragmentos/rbac/rbac-153--sec-153.61.md
+- `153.63` — A 153.99 [RESERVADO] → fragmentos/rbac/rbac-153--sec-153.63.md
+- `153.101` — POSICIONAMENTO DE EQUIPAMENTOS NA ÁREA OPERACIONAL DO → fragmentos/rbac/rbac-153--sec-153.101.md
+- `153.103` — CONDIÇÃO OPERACIONAL PARA A INFRAESTRUTURA DISPONÍVEL → fragmentos/rbac/rbac-153--sec-153.103.md
+
+## rbac-154
+- `cabecalho` → fragmentos/rbac/rbac-154--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 154 - CORES PARA LUZES AERONÁUTICAS DE SUPERFÍCIE, → fragmentos/rbac/rbac-154--apêndice-a-do-rbac-154-cores-para-luzes.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE B DO RBAC 154 - CARACTERÍSTICAS DAS LUZES AERONÁUTICAS DE SUPERFÍCIE → fragmentos/rbac/rbac-154--apêndice-b-do-rbac-154-características-d.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE C DO RBAC 154 - SINALIZAÇÕES HORIZONTAIS DE INSTRUÇÃO OBRIGATÓRIA E → fragmentos/rbac/rbac-154--apêndice-c-do-rbac-154-sinalizações-hori.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE D DO RBAC 154 - REQUISITOS RELATIVOS AO PROJETO DE SINALIZAÇÕES → fragmentos/rbac/rbac-154--apêndice-d-do-rbac-154-requisitos-relati.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE E DO RBAC 154 - [RESERVADO] → fragmentos/rbac/rbac-154--apêndice-e-do-rbac-154-reservado.md
+- `(inteira)` — APÊNDICE F DO RBAC 154 - LOCALIZAÇÃO DE LUZES EM OBSTÁCULOS → fragmentos/rbac/rbac-154--apêndice-f-do-rbac-154-localização-de-lu.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE G DO RBAC 154 - MATERIAL DE ORIENTAÇÃO COMPLEMENTAR AO RBAC 154 → fragmentos/rbac/rbac-154--apêndice-g-do-rbac-154-material-de-orien.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE H DO RBAC 154 - [RESERVADO] → fragmentos/rbac/rbac-154--apêndice-h-do-rbac-154-reservado.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `154.1` — Aplicabilidade → fragmentos/rbac/rbac-154--sec-154.1.md
+- `(inteira)` — Apêndice A para essa cor devem ser aplicadas. → fragmentos/rbac/rbac-154--apêndice-a-para-essa-cor-devem-ser-aplic.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `154.5` — Disposições gerais → fragmentos/rbac/rbac-154--sec-154.5.md
+- `154.9` — Sistemas de referência comuns → fragmentos/rbac/rbac-154--sec-154.9.md
+- `154.13` — Código de referência → fragmentos/rbac/rbac-154--sec-154.13.md
+- `154.15` — Definições → fragmentos/rbac/rbac-154--sec-154.15.md
+- `154.17` — Siglas → fragmentos/rbac/rbac-154--sec-154.17.md
+- `154.19` — Símbolos → fragmentos/rbac/rbac-154--sec-154.19.md
+- `154.101` — Dados aeronáuticos → fragmentos/rbac/rbac-154--sec-154.101.md
+- `154.103` — Ponto de referência do aeródromo → fragmentos/rbac/rbac-154--sec-154.103.md
+- `154.105` — Elevações do aeródromo e da pista de pouso e decolagem → fragmentos/rbac/rbac-154--sec-154.105.md
+- `154.107` — Temperatura de referência do aeródromo → fragmentos/rbac/rbac-154--sec-154.107.md
+- `154.109` — Dimensões do aeródromo e informações correlatas → fragmentos/rbac/rbac-154--sec-154.109.md
+- `154.111` — Resistência de pavimentos → fragmentos/rbac/rbac-154--sec-154.111.md
+- `154.113` — Ponto de teste de altímetro antes do voo → fragmentos/rbac/rbac-154--sec-154.113.md
+- `154.115` — Distâncias declaradas → fragmentos/rbac/rbac-154--sec-154.115.md
+- `154.201` — Pistas de pouso e decolagem → fragmentos/rbac/rbac-154--sec-154.201.md
+- `154.203` — Acostamentos de pista de pouso e decolagem → fragmentos/rbac/rbac-154--sec-154.203.md
+- `154.205` — Área de giro de pista de pouso e decolagem → fragmentos/rbac/rbac-154--sec-154.205.md
+- `154.207` — Faixas de pista de pouso e decolagem → fragmentos/rbac/rbac-154--sec-154.207.md
+- `154.209` — Áreas de Segurança de Fim de Pista (RESA) → fragmentos/rbac/rbac-154--sec-154.209.md
+- `154.211` — Zonas desimpedidas (clearways) → fragmentos/rbac/rbac-154--sec-154.211.md
+- `154.213` — Zonas de parada (stopways) → fragmentos/rbac/rbac-154--sec-154.213.md
+- `(inteira)` — Apêndice C. (Redação dada pela Resolução nº 802, de 18.05.2026) → fragmentos/rbac/rbac-154--apêndice-c-redação-dada-pela-resolução-n.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — Apêndice B, Figura AB-5. → fragmentos/rbac/rbac-154--apêndice-b-figura-ab-5.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — Apêndice B, Figura AB-5. → fragmentos/rbac/rbac-154--apêndice-b-figura-ab-5.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — Apêndice B, Figura AB-12. O número de níveis de controle de brilho para essas lu → fragmentos/rbac/rbac-154--apêndice-b-figura-ab-12-o-número-de-níve.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — Apêndice D. → fragmentos/rbac/rbac-154--apêndice-d.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — Apêndice D, quando destinadas ao uso: → fragmentos/rbac/rbac-154--apêndice-d-quando-destinadas-ao-uso.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — APÊNDICE D DO RBAC 154 - REQUISITOS RELATIVOS AO PROJETO DE SINALIZAÇÕES VERTICA → fragmentos/rbac/rbac-154--apêndice-d-do-rbac-154-requisitos-relati.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+- `(inteira)` — Apêndice A. → fragmentos/rbac/rbac-154--apêndice-a.md
+- `(inteira)` → fragmentos/rbac/rbac-154--apendice.md
+
+## rbac-155
+- `cabecalho` → fragmentos/rbac/rbac-155--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 155 – REQUISITOS DE QUALIDADE DE DADOS AERONÁUTICOS ......... → fragmentos/rbac/rbac-155--apêndice-a-do-rbac-155-requisitos-de-qua.md
+- `(inteira)` → fragmentos/rbac/rbac-155--apendice.md
+- `(inteira)` — APÊNDICE B DO RBAC 155 – FORMAS DAS LETRAS DAS SINALIZAÇÕES HORIZONTAIS ........ → fragmentos/rbac/rbac-155--apêndice-b-do-rbac-155-formas-das-letras.md
+- `(inteira)` → fragmentos/rbac/rbac-155--apendice.md
+- `(inteira)` — APÊNDICE C DO RBAC 155 – DIAGRAMAS DE ISOCANDELA ............................... → fragmentos/rbac/rbac-155--apêndice-c-do-rbac-155-diagramas-de-isoc.md
+- `(inteira)` → fragmentos/rbac/rbac-155--apendice.md
+- `(inteira)` — APÊNDICE D DO RBAC 155 – MAPA DE GRADE EXTERNO ................................. → fragmentos/rbac/rbac-155--apêndice-d-do-rbac-155-mapa-de-grade-ext.md
+- `(inteira)` → fragmentos/rbac/rbac-155--apendice.md
+- `(inteira)` — APÊNDICE E DO RBAC 155 – DOSIMETRIA DAS SANÇÕES APLICÁVEIS ÀS INFRAÇÕES AO → fragmentos/rbac/rbac-155--apêndice-e-do-rbac-155-dosimetria-das-sa.md
+- `(inteira)` → fragmentos/rbac/rbac-155--apendice.md
+- `155.1` — Aplicabilidade → fragmentos/rbac/rbac-155--sec-155.1.md
+- `155.3` — Termos e definições → fragmentos/rbac/rbac-155--sec-155.3.md
+- `155.5` — Abreviaturas e siglas → fragmentos/rbac/rbac-155--sec-155.5.md
+- `155.7` — Sistemas de referência comuns → fragmentos/rbac/rbac-155--sec-155.7.md
+- `155.9` — a 155.49 [Reservado] → fragmentos/rbac/rbac-155--sec-155.9.md
+- `155.51` — Responsabilidades do operador de heliponto → fragmentos/rbac/rbac-155--sec-155.51.md
+- `155.53` — Treinamento de pessoal → fragmentos/rbac/rbac-155--sec-155.53.md
+- `155.55` — Documentação → fragmentos/rbac/rbac-155--sec-155.55.md
+- `155.57` — a 155.99 [Reservado] → fragmentos/rbac/rbac-155--sec-155.57.md
+- `155.101` — Dados Aeronáuticos → fragmentos/rbac/rbac-155--sec-155.101.md
+- `155.103` — Ponto de referência do heliponto → fragmentos/rbac/rbac-155--sec-155.103.md
+- `155.105` — Elevação do heliponto → fragmentos/rbac/rbac-155--sec-155.105.md
+- `155.107` — Dimensões do heliponto e informações correlatas → fragmentos/rbac/rbac-155--sec-155.107.md
+- `155.109` — Distâncias declaradas → fragmentos/rbac/rbac-155--sec-155.109.md
+- `155.111` — a 155.199 [Reservado] → fragmentos/rbac/rbac-155--sec-155.111.md
+- `155.201` — Generalidades → fragmentos/rbac/rbac-155--sec-155.201.md
+- `155.203` — Área de aproximação final e decolagem (FATO) de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.203.md
+- `155.205` — Zona Desimpedida (Clearway) de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.205.md
+- `155.207` — Área de toque e elevação inicial (TLOF) de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.207.md
+- `155.209` — Áreas de segurança de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.209.md
+- `155.211` — Pistas e rotas de táxi terrestre de helicópteros de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.211.md
+- `155.213` — Pistas e rotas de táxi aéreo de helicópteros de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.213.md
+- `155.215` — Pátios e posições de estacionamento de helicópteros de helipontos ao nível do solo → fragmentos/rbac/rbac-155--sec-155.215.md
+- `155.217` — Área de aproximação final e decolagem (FATO) de helipontos elevados → fragmentos/rbac/rbac-155--sec-155.217.md
+- `155.219` — Zona Desimpedida (Clearway) em helipontos elevados → fragmentos/rbac/rbac-155--sec-155.219.md
+- `155.221` — Área de toque e elevação inicial (TLOF) de helipontos elevados → fragmentos/rbac/rbac-155--sec-155.221.md
+- `155.223` — Áreas de segurança de helipontos elevados → fragmentos/rbac/rbac-155--sec-155.223.md
+- `155.225` — Grades ou redes de segurança em helipontos elevados → fragmentos/rbac/rbac-155--sec-155.225.md
+- `155.227` — Pistas e rotas de táxi terrestre de helicópteros de helipontos elevados → fragmentos/rbac/rbac-155--sec-155.227.md
+- `155.229` — Pistas e rotas de táxi aéreo de helicópteros de helipontos elevados → fragmentos/rbac/rbac-155--sec-155.229.md
+- `155.231` — Pátios e posições de estacionamento de helicópteros de helipontos elevados → fragmentos/rbac/rbac-155--sec-155.231.md
+- `155.233` — a 155.299 [Reservado] → fragmentos/rbac/rbac-155--sec-155.233.md
+- `155.301` — Indicador de Direção do Vento (Biruta) → fragmentos/rbac/rbac-155--sec-155.301.md
+- `155.303` — Sinalização horizontal de identificação de heliponto, exceto para FATO tipo pista de → fragmentos/rbac/rbac-155--sec-155.303.md
+- `155.305` — Sinalização horizontal de identificação de heliponto para FATO tipo pista de pouso e → fragmentos/rbac/rbac-155--sec-155.305.md
+- `155.307` — Sinalização horizontal de massa máxima admissível, exceto para FATO tipo pista de → fragmentos/rbac/rbac-155--sec-155.307.md
+- `155.311` — Sinalização horizontal de dimensões de FATO → fragmentos/rbac/rbac-155--sec-155.311.md
+- `155.313` — Sinalização horizontal ou sinalizadores de perímetro de FATO, exceto para FATO tipo → fragmentos/rbac/rbac-155--sec-155.313.md
+- `155.315` — Sinalização horizontal ou sinalizadores de perímetro de FATO tipo pista de pouso e → fragmentos/rbac/rbac-155--sec-155.315.md
+- `155.317` — Sinalização horizontal de designação de FATO tipo pista de pouso e decolagem → fragmentos/rbac/rbac-155--sec-155.317.md
+- `155.319` — Sinalização horizontal de ponto de visada de heliponto → fragmentos/rbac/rbac-155--sec-155.319.md
+- `155.321` — Sinalização horizontal de perímetro de TLOF → fragmentos/rbac/rbac-155--sec-155.321.md
+- `155.323` — Sinalização horizontal de ponto de toque e posicionamento → fragmentos/rbac/rbac-155--sec-155.323.md
+- `155.325` — Sinalização horizontal de denominação de heliponto → fragmentos/rbac/rbac-155--sec-155.325.md
+- `155.327` — Sinalização horizontal e sinalizadores de pista de táxi terrestre → fragmentos/rbac/rbac-155--sec-155.327.md
+- `155.329` — Sinalização horizontal e sinalizadores de pista de táxi aéreo → fragmentos/rbac/rbac-155--sec-155.329.md
+- `155.331` — Sinalizações horizontais de pátio e posições de estacionamento de helicópteros → fragmentos/rbac/rbac-155--sec-155.331.md
+- `155.333` — Sinalização horizontal de orientação de alinhamento de trajetória de voo → fragmentos/rbac/rbac-155--sec-155.333.md
+- `155.335` — Sinalizações horizontais de interdições → fragmentos/rbac/rbac-155--sec-155.335.md
+- `155.337` — Luzes em helipontos → fragmentos/rbac/rbac-155--sec-155.337.md
+- `155.339` — Farol de heliponto → fragmentos/rbac/rbac-155--sec-155.339.md
+- `155.341` — Sistema de luzes de aproximação → fragmentos/rbac/rbac-155--sec-155.341.md
+- `155.343` — Sistema de iluminação de orientação de alinhamento de trajetória de voo → fragmentos/rbac/rbac-155--sec-155.343.md
+- `155.345` — Sistema visual de orientação de alinhamento → fragmentos/rbac/rbac-155--sec-155.345.md
+- `155.347` — Indicador visual de rampa de aproximação → fragmentos/rbac/rbac-155--sec-155.347.md
+- `155.349` — Sistema de iluminação da área de aproximação final e decolagem (FATO) → fragmentos/rbac/rbac-155--sec-155.349.md
+- `155.351` — Luzes de ponto de visada de helipontos → fragmentos/rbac/rbac-155--sec-155.351.md
+- `155.353` — Sistema de iluminação de área de toque e elevação inicial (TLOF) → fragmentos/rbac/rbac-155--sec-155.353.md
+- `155.355` — Luzes de pista de táxi terrestre → fragmentos/rbac/rbac-155--sec-155.355.md
+- `155.357` — Luzes de pátio de estacionamento de helicópteros → fragmentos/rbac/rbac-155--sec-155.357.md
+- `155.359` — a 155.399 [Reservado] → fragmentos/rbac/rbac-155--sec-155.359.md
+- `155.401` — a 155.499 [Reservado] → fragmentos/rbac/rbac-155--sec-155.401.md
+- `155.501` — a 155.599 [Reservado] → fragmentos/rbac/rbac-155--sec-155.501.md
+- `155.601` — Disposições gerais → fragmentos/rbac/rbac-155--sec-155.601.md
+- `155.603` — Planificação de emergência em helipontos → fragmentos/rbac/rbac-155--sec-155.603.md
+- `155.605` — Recursos e auxílios externos para planificação de emergência em helipontos → fragmentos/rbac/rbac-155--sec-155.605.md
+- `155.607` — a 155.699 [Reservado] → fragmentos/rbac/rbac-155--sec-155.607.md
+- `155.701` — Disposições Transitórias → fragmentos/rbac/rbac-155--sec-155.701.md
+- `155.703` — Disposições finais → fragmentos/rbac/rbac-155--sec-155.703.md
+
+## rbac-183
+- `cabecalho` → fragmentos/rbac/rbac-183--sec-cabecalho.md
+- `183.1` — Objetivo → fragmentos/rbac/rbac-183--sec-183.1.md
+- `183.11` — Critérios gerais → fragmentos/rbac/rbac-183--sec-183.11.md
+- `183.13` — Emissão e condições do credenciamento → fragmentos/rbac/rbac-183--sec-183.13.md
+- `183.15` — Validade dos credenciamentos → fragmentos/rbac/rbac-183--sec-183.15.md
+- `183.17` — Relatórios → fragmentos/rbac/rbac-183--sec-183.17.md
+- `183.21` — Profissionais credenciados em exames de saúde periciais → fragmentos/rbac/rbac-183--sec-183.21.md
+- `183.23` — Profissionais credenciados em exames de proficiência de tripulante de voo ou de cabine → fragmentos/rbac/rbac-183--sec-183.23.md
+- `183.25` — Profissional credenciado em exames de pessoal técnico → fragmentos/rbac/rbac-183--sec-183.25.md
+- `183.29` — Profissionais credenciados em projeto → fragmentos/rbac/rbac-183--sec-183.29.md
+- `183.31` — Profissional credenciado em fabricação → fragmentos/rbac/rbac-183--sec-183.31.md
+- `183.33` — Profissional credenciado em aeronavegabilidade → fragmentos/rbac/rbac-183--sec-183.33.md
+- `183.41` — Aplicabilidade e definições → fragmentos/rbac/rbac-183--sec-183.41.md
+- `183.45` — Emissão e condições de validade do credenciamento de pessoa jurídica → fragmentos/rbac/rbac-183--sec-183.45.md
+- `183.47` — Qualificação → fragmentos/rbac/rbac-183--sec-183.47.md
+- `183.49` — Atividades autorizadas → fragmentos/rbac/rbac-183--sec-183.49.md
+- `183.51` — Pessoal da unidade executiva → fragmentos/rbac/rbac-183--sec-183.51.md
+- `183.53` — Manual de procedimentos → fragmentos/rbac/rbac-183--sec-183.53.md
+- `183.55` — Limitações → fragmentos/rbac/rbac-183--sec-183.55.md
+- `183.57` — Responsabilidades do detentor de um credenciamento de pessoa jurídica → fragmentos/rbac/rbac-183--sec-183.57.md
+- `183.59` — Inspeções → fragmentos/rbac/rbac-183--sec-183.59.md
+- `183.61` — Registros e relatórios → fragmentos/rbac/rbac-183--sec-183.61.md
+- `183.63` — Requisitos de aeronavegabilidade continuada: produtos, peças ou dispositivos → fragmentos/rbac/rbac-183--sec-183.63.md
+- `183.65` — Requisitos de exames de saúde periciais e proficiência linguística → fragmentos/rbac/rbac-183--sec-183.65.md
+- `183.67` — Transferência e validade → fragmentos/rbac/rbac-183--sec-183.67.md
+- `183.71` — Aplicabilidade e definições → fragmentos/rbac/rbac-183--sec-183.71.md
+- `183.73` — Credenciamento → fragmentos/rbac/rbac-183--sec-183.73.md
+- `183.43` — deste regulamento. → fragmentos/rbac/rbac-183--sec-183.43.md
+- `183.75` — Utilização de examinadores e instrutores pelas associações → fragmentos/rbac/rbac-183--sec-183.75.md
+- `183.77` — Prerrogativas e limitações → fragmentos/rbac/rbac-183--sec-183.77.md
+- `183.79` — Deveres e atribuições → fragmentos/rbac/rbac-183--sec-183.79.md
+- `183.81` — Acompanhamento e fiscalização → fragmentos/rbac/rbac-183--sec-183.81.md
+- `183.83` — Descredenciamento → fragmentos/rbac/rbac-183--sec-183.83.md
+
+## rbac-21
+- `cabecalho` → fragmentos/rbac/rbac-21--sec-cabecalho.md
+- `21.3` — Comunicação de falhas, mau funcionamento e defeitos → fragmentos/rbac/rbac-21--sec-21.3.md
+- `21.4` — Requisitos para comunicação de ocorrências em operação prolongada (ETOPS) → fragmentos/rbac/rbac-21--sec-21.4.md
+- `21.5` — Manual de voo de aviões e aeronaves de asas rotativas → fragmentos/rbac/rbac-21--sec-21.5.md
+- `21.6` — Fabricação de aeronaves, motores de aeronave ou hélices novos → fragmentos/rbac/rbac-21--sec-21.6.md
+- `21.7` — Aeronavegalibidade continuada e melhorias da segurança → fragmentos/rbac/rbac-21--sec-21.7.md
+- `21.15` — Requerimento para certificado de tipo → fragmentos/rbac/rbac-21--sec-21.15.md
+- `21.17` — Determinação dos requisitos aplicáveis → fragmentos/rbac/rbac-21--sec-21.17.md
+- `21.19` — Modificações que requerem um novo certificado de tipo → fragmentos/rbac/rbac-21--sec-21.19.md
+- `21.21` — Emissão de certificado de tipo: aeronaves categoria normal, utilidade, acrobática, transporte regional, → fragmentos/rbac/rbac-21--sec-21.21.md
+- `21.24` — Emissão de certificado de tipo: aeronave categoria primária → fragmentos/rbac/rbac-21--sec-21.24.md
+- `21.25` — Emissão de certificado de tipo: aeronave categoria restrita → fragmentos/rbac/rbac-21--sec-21.25.md
+- `21.27` — Emissão de certificado de tipo: conversão de aeronaves militares para emprego civil → fragmentos/rbac/rbac-21--sec-21.27.md
+- `21.29` — Emissão de certificado de tipo: produtos importados → fragmentos/rbac/rbac-21--sec-21.29.md
+- `21.39` — Calibração da instrumentação de ensaios em voo e respectivos relatórios → fragmentos/rbac/rbac-21--sec-21.39.md
+- `21.41` — Certificado de tipo → fragmentos/rbac/rbac-21--sec-21.41.md
+- `21.43` — Localização das instalações para fabricação → fragmentos/rbac/rbac-21--sec-21.43.md
+- `21.49` — Disponibilidade e guarda de registros → fragmentos/rbac/rbac-21--sec-21.49.md
+- `21.50` — Instruções para aeronavegabilidade continuada e manuais de manutenção do fabricante contendo seções → fragmentos/rbac/rbac-21--sec-21.50.md
+- `21.55` — Apresentação do acordo de licenciamento → fragmentos/rbac/rbac-21--sec-21.55.md
+- `21.73` — Elegibilidade → fragmentos/rbac/rbac-21--sec-21.73.md
+
+## rbac-21-emd-15
+- `cabecalho` → fragmentos/rbac/rbac-21-emd-15--sec-cabecalho.md
+- `21.3` — Comunicação de falhas, mau funcionamento e defeitos → fragmentos/rbac/rbac-21-emd-15--sec-21.3.md
+- `21.4` — Requisitos para comunicação de ocorrências em operação prolongada (ETOPS) → fragmentos/rbac/rbac-21-emd-15--sec-21.4.md
+- `21.5` — Manual de voo de aviões e aeronaves de asas rotativas → fragmentos/rbac/rbac-21-emd-15--sec-21.5.md
+- `21.6` — Fabricação de aeronaves, motores de aeronave ou hélices novos → fragmentos/rbac/rbac-21-emd-15--sec-21.6.md
+- `21.7` — Aeronavegalibidade continuada e melhorias da segurança → fragmentos/rbac/rbac-21-emd-15--sec-21.7.md
+- `21.15` — Requerimento para certificado de tipo → fragmentos/rbac/rbac-21-emd-15--sec-21.15.md
+- `21.17` — Determinação dos requisitos aplicáveis → fragmentos/rbac/rbac-21-emd-15--sec-21.17.md
+- `21.19` — Modificações que requerem um novo certificado de tipo → fragmentos/rbac/rbac-21-emd-15--sec-21.19.md
+- `21.21` — Emissão de certificado de tipo: aeronaves categoria normal, utilidade, acrobática, transporte regional, → fragmentos/rbac/rbac-21-emd-15--sec-21.21.md
+- `21.24` — Emissão de certificado de tipo: aeronave categoria primária → fragmentos/rbac/rbac-21-emd-15--sec-21.24.md
+- `21.25` — Emissão de certificado de tipo: aeronave categoria restrita → fragmentos/rbac/rbac-21-emd-15--sec-21.25.md
+- `21.27` — Emissão de certificado de tipo: conversão de aeronaves militares para emprego civil → fragmentos/rbac/rbac-21-emd-15--sec-21.27.md
+- `21.29` — Emissão de certificado de tipo: produtos importados → fragmentos/rbac/rbac-21-emd-15--sec-21.29.md
+- `21.39` — Calibração da instrumentação de ensaios em voo e respectivos relatórios → fragmentos/rbac/rbac-21-emd-15--sec-21.39.md
+- `21.41` — Certificado de tipo → fragmentos/rbac/rbac-21-emd-15--sec-21.41.md
+- `21.43` — Localização das instalações para fabricação → fragmentos/rbac/rbac-21-emd-15--sec-21.43.md
+- `21.49` — Disponibilidade e guarda de registros → fragmentos/rbac/rbac-21-emd-15--sec-21.49.md
+- `21.50` — Instruções para aeronavegabilidade continuada e manuais de manutenção do fabricante contendo seções → fragmentos/rbac/rbac-21-emd-15--sec-21.50.md
+- `21.55` — Apresentação do acordo de licenciamento → fragmentos/rbac/rbac-21-emd-15--sec-21.55.md
+- `21.73` — Elegibilidade → fragmentos/rbac/rbac-21-emd-15--sec-21.73.md
+
+## rbac-31
+- `cabecalho` → fragmentos/rbac/rbac-31--sec-cabecalho.md
+- `31.1` — Applicability.                               31.1 Aplicabilidade. → fragmentos/rbac/rbac-31--sec-31.1.md
+- `31.12` — Proof of compliance.                  31.12    Prova de cumprimento. → fragmentos/rbac/rbac-31--sec-31.12.md
+- `31.14` — Weight limits.                        31.14    Limites de peso. → fragmentos/rbac/rbac-31--sec-31.14.md
+- `31.16` — Empty weight.                            31.16     Peso vazio. → fragmentos/rbac/rbac-31--sec-31.16.md
+- `31.17` — Performance: Climb. → fragmentos/rbac/rbac-31--sec-31.17.md
+- `31.20` — Controllability. → fragmentos/rbac/rbac-31--sec-31.20.md
+- `31.21` — Loads.                                    31.21    Cargas. → fragmentos/rbac/rbac-31--sec-31.21.md
+- `31.23` — Flight load factor.                       31.23    Fator de carga de voo. → fragmentos/rbac/rbac-31--sec-31.23.md
+- `31.25` — Factor of safety.                         31.25    Fator de segurança. → fragmentos/rbac/rbac-31--sec-31.25.md
+- `31.27` — Strength. → fragmentos/rbac/rbac-31--sec-31.27.md
+- `31.19` — of this RBAC, whichever is higher, → fragmentos/rbac/rbac-31--sec-31.19.md
+- `31.31` — General.                                  31.31    Geral. → fragmentos/rbac/rbac-31--sec-31.31.md
+- `31.33` — Materials.                                31.33    Materiais. → fragmentos/rbac/rbac-31--sec-31.33.md
+- `31.35` — Fabrication methods.                      31.35    Processos de fabricação. → fragmentos/rbac/rbac-31--sec-31.35.md
+- `31.37` — Fastenings.                               31.37    Fixações. → fragmentos/rbac/rbac-31--sec-31.37.md
+- `31.39` — Protection.                               31.39    Proteção. → fragmentos/rbac/rbac-31--sec-31.39.md
+- `31.41` — Inspection provisions.                       31.41    Provisões para inspeção. → fragmentos/rbac/rbac-31--sec-31.41.md
+- `31.43` — Fitting factor.                              31.43    Fator de conexão → fragmentos/rbac/rbac-31--sec-31.43.md
+- `31.45` — Fuel cells.                                  31.45    Células a combustível. → fragmentos/rbac/rbac-31--sec-31.45.md
+- `31.46` — Pressurized fuel systems.                    31.46    Sistemas de combustível pressurizado. → fragmentos/rbac/rbac-31--sec-31.46.md
+- `31.47` — Burners.                                   31.47   Queimadores. → fragmentos/rbac/rbac-31--sec-31.47.md
+- `31.49` — Control systems.                        31.49    Sistemas de controle → fragmentos/rbac/rbac-31--sec-31.49.md
+- `31.51` — Ballast.                                    31.51    Lastro. → fragmentos/rbac/rbac-31--sec-31.51.md
+
+## rbac-34
+- `cabecalho` → fragmentos/rbac/rbac-34--sec-cabecalho.md
+- `34.9` — Métodos para avaliação de emissões de motores → fragmentos/rbac/rbac-34--sec-34.9.md
+- `34.1` — Geral → fragmentos/rbac/rbac-34--sec-34.1.md
+- `34.3` — Definições → fragmentos/rbac/rbac-34--sec-34.3.md
+- `34.5` — Requisitos de drenagem de combustível → fragmentos/rbac/rbac-34--sec-34.5.md
+- `34.7` — Requisitos de emissões de motores de aeronaves → fragmentos/rbac/rbac-34--sec-34.7.md
+
+## rbac-35
+- `cabecalho` → fragmentos/rbac/rbac-35--sec-cabecalho.md
+- `35.1` — Applicability                           35.1    Aplicabilidade → fragmentos/rbac/rbac-35--sec-35.1.md
+- `35.2` — Propeller configuration                 35.2    Configuração da hélice → fragmentos/rbac/rbac-35--sec-35.2.md
+- `35.3` — Instructions for propeller installation 35.3    Instruções para instalação e opera- → fragmentos/rbac/rbac-35--sec-35.3.md
+- `35.4` — Instructions     for    Continued   Air- 35.4       Instruções para aeronavegabilidade → fragmentos/rbac/rbac-35--sec-35.4.md
+- `35.5` — Propeller ratings and operating limi- 35.5          Regimes e limitações operacionais da → fragmentos/rbac/rbac-35--sec-35.5.md
+- `35.7` — Features and characteristics              35.7     Características e peculiaridades → fragmentos/rbac/rbac-35--sec-35.7.md
+- `35.11` — [Reserved]                                       35.11 [Reservado] → fragmentos/rbac/rbac-35--sec-35.11.md
+- `35.13` — [Reserved]                                       35.13 [Reservado] → fragmentos/rbac/rbac-35--sec-35.13.md
+- `35.16` — Propeller Critical Parts                   35.16    Partes críticas de hélice → fragmentos/rbac/rbac-35--sec-35.16.md
+- `35.15` — must be established by:                         pela seção 35.15 deve ser estabelecida por: → fragmentos/rbac/rbac-35--sec-35.15.md
+- `35.17` — Materials and manufactoring meth- 35.17 Materiais e métodos de manufatura → fragmentos/rbac/rbac-35--sec-35.17.md
+- `35.19` — Durability                                 35.19   Durabilidade → fragmentos/rbac/rbac-35--sec-35.19.md
+- `35.21` — Variable and reversible pitch propel- 35.21 Hélices de passo variável e reversível → fragmentos/rbac/rbac-35--sec-35.21.md
+- `35.22` — Feathering propellers                      35.22    Hélices embandeiráveis → fragmentos/rbac/rbac-35--sec-35.22.md
+- `35.23` — Propeller control system                   35.23    Sistema de controle da hélice → fragmentos/rbac/rbac-35--sec-35.23.md
+- `35.24` — Strength                                35.24    Resistência → fragmentos/rbac/rbac-35--sec-35.24.md
+- `35.31` — [Reserved]                                    35.31 [Reservado] → fragmentos/rbac/rbac-35--sec-35.31.md
+- `35.33` — General                                  35.33   Geral → fragmentos/rbac/rbac-35--sec-35.33.md
+- `35.34` — Inspections, adjustments and repairs     35.34   Inspeções, ajustes e reparos → fragmentos/rbac/rbac-35--sec-35.34.md
+- `35.35` — Centrifugal load tests                   35.35   Ensaios de carga centrífuga → fragmentos/rbac/rbac-35--sec-35.35.md
+- `35.36` — Bird impact                                35.36   Impacto de pássaro → fragmentos/rbac/rbac-35--sec-35.36.md
+- `35.37` — Fatigue limits and evaluation              35.37   Limites e avaliação de fadiga → fragmentos/rbac/rbac-35--sec-35.37.md
+- `35.38` — Lightning strike                          35.38    Impacto de descargas atmosféricas → fragmentos/rbac/rbac-35--sec-35.38.md
+
+## rbac-36
+- `cabecalho` → fragmentos/rbac/rbac-36--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A-I DO RBAC 36 – REPUBLICAÇÃO DO 14 CFR PART 36, EMENDA 36-28, ADOTADO  → fragmentos/rbac/rbac-36--apêndice-a-i-do-rbac-36-republicação-do.md
+- `(inteira)` → fragmentos/rbac/rbac-36--apendice.md
+- `36.00` — Requisitos da adoção → fragmentos/rbac/rbac-36--sec-36.00.md
+
+## rbac-39
+- `cabecalho` → fragmentos/rbac/rbac-39--sec-cabecalho.md
+- `39.3` — Definição de Diretriz de Aeronavegabilidade. → fragmentos/rbac/rbac-39--sec-39.3.md
+- `39.5` — Condições para que a ANAC emita uma Diretriz de Aeronavegabilidade. → fragmentos/rbac/rbac-39--sec-39.5.md
+- `39.7` — Efeitos legais decorrentes do não cumprimento de uma Diretriz de Aeronavegabilidade. → fragmentos/rbac/rbac-39--sec-39.7.md
+- `39.9` — Consequência de reiteradamente operar uma aeronave ou utilizar um produto que não cumpre uma Diretriz → fragmentos/rbac/rbac-39--sec-39.9.md
+- `39.11` — Ações exigidas por uma Diretriz de Aeronavegabilidade. → fragmentos/rbac/rbac-39--sec-39.11.md
+- `39.15` — Aplicabilidade de uma Diretriz de Aeronavegabilidade para produtos modificados. → fragmentos/rbac/rbac-39--sec-39.15.md
+- `39.17` — Modificações prévias que podem afetar as ações requeridas para cumprimento de uma Diretriz de Aeronave- → fragmentos/rbac/rbac-39--sec-39.17.md
+- `39.19` — Método alternativo de cumprimento de uma Diretriz de Aeronavegabilidade. → fragmentos/rbac/rbac-39--sec-39.19.md
+- `39.21` — Informação sobre métodos alternativos de cumprimento aprovados pela ANAC. → fragmentos/rbac/rbac-39--sec-39.21.md
+- `39.23` — Traslado de aeronave para fins de cumprimento de uma Diretriz de Aeronavegabilidade. → fragmentos/rbac/rbac-39--sec-39.23.md
+- `39.25` — Obtenção de uma Autorização Especial de Voo. → fragmentos/rbac/rbac-39--sec-39.25.md
+- `39.27` — Prescrições de uma Diretriz de Aeronavegabilidade e documentação de serviço do fabricante. → fragmentos/rbac/rbac-39--sec-39.27.md
+
+## rbac-43
+- `cabecalho` → fragmentos/rbac/rbac-43--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 43                 GRANDES ALTERAÇÕES, GRANDES REPAROS E MANU → fragmentos/rbac/rbac-43--apêndice-a-do-rbac-43-grandes-alterações.md
+- `(inteira)` → fragmentos/rbac/rbac-43--apendice.md
+- `(inteira)` — APÊNDICE B DO RBAC 43 REGISTROS DE GRANDES REPAROS E GRANDES ALTERAÇÕES → fragmentos/rbac/rbac-43--apêndice-b-do-rbac-43-registros-de-grand.md
+- `(inteira)` → fragmentos/rbac/rbac-43--apendice.md
+- `(inteira)` — APÊNDICE C DO RBAC 43 [RESERVADO] → fragmentos/rbac/rbac-43--apêndice-c-do-rbac-43-reservado.md
+- `(inteira)` — APÊNDICE D DO RBAC 43 OBJETIVOS E DETALHES DE ITENS A SEREM INCLUÍDOS NAS INSPEÇ → fragmentos/rbac/rbac-43--apêndice-d-do-rbac-43-objetivos-e-detalh.md
+- `(inteira)` → fragmentos/rbac/rbac-43--apendice.md
+- `(inteira)` — APÊNDICE E DO RBAC 43 → fragmentos/rbac/rbac-43--apêndice-e-do-rbac-43.md
+- `(inteira)` → fragmentos/rbac/rbac-43--apendice.md
+- `(inteira)` — APÊNDICE F DO RBAC 43 TESTES E INSPEÇÕES NO TRANSPONDER → fragmentos/rbac/rbac-43--apêndice-f-do-rbac-43-testes-e-inspeções.md
+- `(inteira)` → fragmentos/rbac/rbac-43--apendice.md
+- `43.1` — Aplicabilidade → fragmentos/rbac/rbac-43--sec-43.1.md
+- `43.2` — Registro de revisão geral e reconstrução → fragmentos/rbac/rbac-43--sec-43.2.md
+- `43.3` — Pessoas autorizadas a executar manutenção, manutenção preventiva, reconstrução e → fragmentos/rbac/rbac-43--sec-43.3.md
+- `43.5` — Aprovação para retorno ao serviço após manutenção, manutenção preventiva, → fragmentos/rbac/rbac-43--sec-43.5.md
+- `43.7` — Pessoas autorizadas a aprovar o retorno ao serviço de um artigo após manutenção, → fragmentos/rbac/rbac-43--sec-43.7.md
+- `43.9` — Conteúdo, forma e disposição de registros de manutenção, manutenção preventiva, → fragmentos/rbac/rbac-43--sec-43.9.md
+- `43.10` — Controle de peças com limite de vida → fragmentos/rbac/rbac-43--sec-43.10.md
+- `43.11` — Conteúdo, forma e distribuição de registros de inspeções conduzidas conforme o RBAC → fragmentos/rbac/rbac-43--sec-43.11.md
+- `43.12` — Registros de manutenção – falsificação, reprodução ou alteração → fragmentos/rbac/rbac-43--sec-43.12.md
+- `43.13` — Regras de execução (geral) → fragmentos/rbac/rbac-43--sec-43.13.md
+- `43.15` — Regras adicionais para execução de inspeções → fragmentos/rbac/rbac-43--sec-43.15.md
+- `(inteira)` — Apêndice D deste regulamento e no parágrafo (b) desta seção, quando aplicável. → fragmentos/rbac/rbac-43--apêndice-d-deste-regulamento-e-no-parágr.md
+- `(inteira)` → fragmentos/rbac/rbac-43--apendice.md
+- `43.16` — Limitações de aeronavegabilidade → fragmentos/rbac/rbac-43--sec-43.16.md
+- `43.17` — Manutenção, manutenção preventiva, reconstrução e alteração executada em artigos → fragmentos/rbac/rbac-43--sec-43.17.md
+
+## rbac-60
+- `cabecalho` → fragmentos/rbac/rbac-60--sec-cabecalho.md
+- `60.1` — Applicability                                 60.1 Aplicabilidade → fragmentos/rbac/rbac-60--sec-60.1.md
+- `60.3` — Definitions                                   60.3 Definições → fragmentos/rbac/rbac-60--sec-60.3.md
+- `60.5` — Quality management system (QMS)                60.5    Sistema de gerenciamento da → fragmentos/rbac/rbac-60--sec-60.5.md
+- `60.7` — Sponsor requirements                           60.7 Requisitos para o operador de FSTD → fragmentos/rbac/rbac-60--sec-60.7.md
+- `60.9` — Additional responsibilities of the            60.9   Responsabilidades adicionais do → fragmentos/rbac/rbac-60--sec-60.9.md
+- `60.11` — FSTD use                                       60.11 Uso do FSTD → fragmentos/rbac/rbac-60--sec-60.11.md
+- `60.13` — FSTD objective data requirements              60.13 Requisitos de dados objetivos do → fragmentos/rbac/rbac-60--sec-60.13.md
+- `60.14` — Special equipment and personnel              60.14      Requisitos de equipamentos → fragmentos/rbac/rbac-60--sec-60.14.md
+- `60.4` — of this regulation, that are in effect at the     seção 60.4 deste regulamento, que estiverem → fragmentos/rbac/rbac-60--sec-60.4.md
+- `60.16` — Additional qualifications for a              60.16 Qualificações adicionais para um → fragmentos/rbac/rbac-60--sec-60.16.md
+- `60.17` — Previously qualified FSTDs                      60.17 FSTDs qualificados previamente → fragmentos/rbac/rbac-60--sec-60.17.md
+- `60.19` — Inspection, continuing qualification          60.19 Requisitos de inspeção, avaliação → fragmentos/rbac/rbac-60--sec-60.19.md
+- `60.20` — Logging FSTD discrepancies                   60.20 Registro de discrepâncias do FSTD → fragmentos/rbac/rbac-60--sec-60.20.md
+- `60.21` — Interim qualification of FSTDs for           60.21 Qualificação provisória de FSTDs de → fragmentos/rbac/rbac-60--sec-60.21.md
+- `60.15` — of this regulation, based on the final       inicial de acordo com a seção 60.15 deste → fragmentos/rbac/rbac-60--sec-60.15.md
+- `60.23` — Modifications to FSTDs                       60.23 Modificações a FSTDs → fragmentos/rbac/rbac-60--sec-60.23.md
+- `60.25` — Operation     with    missing,          60.25     Operação do FSTD              com → fragmentos/rbac/rbac-60--sec-60.25.md
+
+## rbac-61
+- `cabecalho` → fragmentos/rbac/rbac-61--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC 61 - EXAME DE PROFICIÊNCIA LINGUÍSTICA NA LINGUA INGLESA → fragmentos/rbac/rbac-61--apêndice-a-do-rbac-61-exame-de-proficiên.md
+- `(inteira)` → fragmentos/rbac/rbac-61--apendice.md
+- `(inteira)` — APÊNDICE B DO RBAC 61 - CERTIFICAÇÃO PESSOAL PARA CONCESSÃO DE LICENÇA DE PILOTO → fragmentos/rbac/rbac-61--apêndice-b-do-rbac-61-certificação-pesso.md
+- `(inteira)` → fragmentos/rbac/rbac-61--apendice.md
+- `61.1` — Aplicabilidade → fragmentos/rbac/rbac-61--sec-61.1.md
+- `61.2` — Abreviaturas e definições → fragmentos/rbac/rbac-61--sec-61.2.md
+- `61.3` — Condições relativas à utilização de licenças, certificados, habilitações e autorizações → fragmentos/rbac/rbac-61--sec-61.3.md
+- `61.4` — Cassação de licenças e certificados de pilotos → fragmentos/rbac/rbac-61--sec-61.4.md
+- `61.5` — Licenças, certificados e habilitações emitidos em conformidade com este Regulamento → fragmentos/rbac/rbac-61--sec-61.5.md
+- `61.7` — Certificados e habilitações obsoletas → fragmentos/rbac/rbac-61--sec-61.7.md
+- `61.9` — [Reservado] → fragmentos/rbac/rbac-61--sec-61.9.md
+- `61.13` — Solicitação de licenças, certificados e/ou habilitações → fragmentos/rbac/rbac-61--sec-61.13.md
+- `61.15` — Autorização específica para realização de voo → fragmentos/rbac/rbac-61--sec-61.15.md
+- `61.17` — Vigência das licenças de piloto e CPL → fragmentos/rbac/rbac-61--sec-61.17.md
+- `61.19` — Validade das habilitações de piloto → fragmentos/rbac/rbac-61--sec-61.19.md
+- `61.23` — Instrução revisória → fragmentos/rbac/rbac-61--sec-61.23.md
+- `61.25` — Validade do CMA → fragmentos/rbac/rbac-61--sec-61.25.md
+- `61.27` — Mudança de nome e de endereço → fragmentos/rbac/rbac-61--sec-61.27.md
+- `61.29` — Contagem e registro de horas de voo → fragmentos/rbac/rbac-61--sec-61.29.md
+- `61.31` — Sistema Eletrônico de Registro de Voo e CIV → fragmentos/rbac/rbac-61--sec-61.31.md
+- `61.33` — Prazo e tolerância para revalidação de habilitação → fragmentos/rbac/rbac-61--sec-61.33.md
+- `61.41` — Aplicabilidade → fragmentos/rbac/rbac-61--sec-61.41.md
+- `61.43` — Concessão de licenças a estrangeiros → fragmentos/rbac/rbac-61--sec-61.43.md
+- `61.45` — Convalidação de licenças e habilitações estrangeiras → fragmentos/rbac/rbac-61--sec-61.45.md
+- `61.47` — Concessão de licença para oficiais aviadores das Forças Armadas Brasileiras → fragmentos/rbac/rbac-61--sec-61.47.md
+- `61.49` — Concessão de uma habilitação de tipo ao piloto de ensaio em voo → fragmentos/rbac/rbac-61--sec-61.49.md
+- `61.51` — Aplicabilidade → fragmentos/rbac/rbac-61--sec-61.51.md
+- `61.53` — Requisitos gerais para a concessão da licença de aluno piloto → fragmentos/rbac/rbac-61--sec-61.53.md
+- `61.55` — Requisitos de aptidão psicofísica para a concessão da licença de aluno piloto → fragmentos/rbac/rbac-61--sec-61.55.md
+- `61.57` — Requisitos de conhecimentos teóricos para a concessão da licença de aluno piloto → fragmentos/rbac/rbac-61--sec-61.57.md
+- `61.59` — Requisitos de instrução de voo para a concessão da licença de aluno piloto → fragmentos/rbac/rbac-61--sec-61.59.md
+- `61.10` — deste Regulamento. → fragmentos/rbac/rbac-61--sec-61.10.md
+- `61.21` — deste Regulamento. Nesse caso, e estando a habilitação de instrutor de voo ainda dentro de → fragmentos/rbac/rbac-61--sec-61.21.md
+
+## rbac-63
+- `cabecalho` → fragmentos/rbac/rbac-63--sec-cabecalho.md
+- `63.83` — Prerrogativas do titular de licença de comissário de voo → fragmentos/rbac/rbac-63--sec-63.83.md
+- `63.1` — Aplicabilidade → fragmentos/rbac/rbac-63--sec-63.1.md
+- `63.3` — Definições → fragmentos/rbac/rbac-63--sec-63.3.md
+- `63.5` — Licenças e habilitações emitidas em conformidade com este Regulamento → fragmentos/rbac/rbac-63--sec-63.5.md
+- `63.7` — Requisitos para exercício da função de comissário de voo → fragmentos/rbac/rbac-63--sec-63.7.md
+- `63.9` — Requisitos para exercício da função de mecânico de voo → fragmentos/rbac/rbac-63--sec-63.9.md
+- `63.11` — Solicitação de licença e/ou habilitação → fragmentos/rbac/rbac-63--sec-63.11.md
+- `63.13` — Prazo de tolerância para realização do treinamento e exame prático periódico. Comissários e mecânicos de → fragmentos/rbac/rbac-63--sec-63.13.md
+- `63.15` — Exame prático após reprovação → fragmentos/rbac/rbac-63--sec-63.15.md
+- `63.17` — Atualização dos dados cadastrais → fragmentos/rbac/rbac-63--sec-63.17.md
+- `63.19` — Condições relativas à utilização de licenças e habilitações → fragmentos/rbac/rbac-63--sec-63.19.md
+- `63.31` — Aplicabilidade → fragmentos/rbac/rbac-63--sec-63.31.md
+- `63.33` — Concessão de licenças a estrangeiros → fragmentos/rbac/rbac-63--sec-63.33.md
+- `63.35` — Conversão de licenças e habilitações estrangeiras → fragmentos/rbac/rbac-63--sec-63.35.md
+- `63.37` — Concessão de licença de mecânico de voo para militares das Forças Armadas do Brasil → fragmentos/rbac/rbac-63--sec-63.37.md
+- `63.39` — Concessão de habilitação de tipo adicional → fragmentos/rbac/rbac-63--sec-63.39.md
+- `63.41` — Requisitos gerais para a concessão de licença de mecânico de voo → fragmentos/rbac/rbac-63--sec-63.41.md
+- `63.43` — Requisitos de aptidão psicofísica para a concessão de licença de mecânico de voo → fragmentos/rbac/rbac-63--sec-63.43.md
+- `63.45` — Requisitos d: hecimentos teóri trei t del d d → fragmentos/rbac/rbac-63--sec-63.45.md
+- `63.47` — Requisitos de experiência de voo e instrução de voo para a concessão de licença de mecânico de voo → fragmentos/rbac/rbac-63--sec-63.47.md
+- `63.49` — Requisitos de proficiência para a concessão de licença de mecânico de voo — exame prático → fragmentos/rbac/rbac-63--sec-63.49.md
+- `63.51` — Treinamento e exame periódico para mecânico de voo → fragmentos/rbac/rbac-63--sec-63.51.md
+- `63.53` — Prerrogativa do titular de licença de mecânico de voo → fragmentos/rbac/rbac-63--sec-63.53.md
+- `63.71` — Requisitos gerais para a concessão de licença de comissário de voo → fragmentos/rbac/rbac-63--sec-63.71.md
+- `63.73` — Requisitos de aptidão psicofísica para a concessão de licença de comissário de voo → fragmentos/rbac/rbac-63--sec-63.73.md
+- `63.75` — Requisitos de conhecimentos teóricos e treinamento para a concessão de licença de comissário de voo → fragmentos/rbac/rbac-63--sec-63.75.md
+- `63.77` — Requisitos de experiência para operação em rota para a concessão de licença de comissário de voo → fragmentos/rbac/rbac-63--sec-63.77.md
+- `63.79` — Requisitos de competência para a concessão de licença de comissário de voo - exame prático → fragmentos/rbac/rbac-63--sec-63.79.md
+- `63.81` — Treinamento e exame periódico para comissário de voo → fragmentos/rbac/rbac-63--sec-63.81.md
+
+## rbac-65
+- `cabecalho` → fragmentos/rbac/rbac-65--sec-cabecalho.md
+- `65.1` — Aplicabilidade → fragmentos/rbac/rbac-65--sec-65.1.md
+- `65.2` — Abreviaturas e definições → fragmentos/rbac/rbac-65--sec-65.2.md
+- `65.3` — Concessão de licenças para estrangeiros não residentes no Brasil → fragmentos/rbac/rbac-65--sec-65.3.md
+- `65.4` — Convalidação e validação temporária de licenças e habilitações estrangeiras → fragmentos/rbac/rbac-65--sec-65.4.md
+- `65.6` — Suspensão e cassação de licença ou habilitação → fragmentos/rbac/rbac-65--sec-65.6.md
+- `65.11` — Solicitação de licença ou habilitações → fragmentos/rbac/rbac-65--sec-65.11.md
+- `65.12` — Uso de substâncias psicoativas → fragmentos/rbac/rbac-65--sec-65.12.md
+- `65.14` — Impedimento por motivo de segurança da aviação contra atos de interferência ilícita → fragmentos/rbac/rbac-65--sec-65.14.md
+- `65.16` — Alteração de nome do titular de licença → fragmentos/rbac/rbac-65--sec-65.16.md
+- `65.17` — Procedimentos gerais para exames → fragmentos/rbac/rbac-65--sec-65.17.md
+- `65.18` — Condutas não autorizadas em exames teóricos → fragmentos/rbac/rbac-65--sec-65.18.md
+- `65.19` — Exame após reprovação → fragmentos/rbac/rbac-65--sec-65.19.md
+- `65.20` — Falsificação, reprodução ou alteração de solicitações, licenças, livros de registros, → fragmentos/rbac/rbac-65--sec-65.20.md
+- `65.21` — Alteração de endereço → fragmentos/rbac/rbac-65--sec-65.21.md
+- `65.51` — Obrigatoriedade de licença e habilitação → fragmentos/rbac/rbac-65--sec-65.51.md
+- `65.52` — Validade de licenças e habilitações → fragmentos/rbac/rbac-65--sec-65.52.md
+- `65.53` — Pré-requisitos para concessão de licença e de habilitação adicional → fragmentos/rbac/rbac-65--sec-65.53.md
+- `65.54` — Revalidação de habilitações → fragmentos/rbac/rbac-65--sec-65.54.md
+- `65.55` — Requisitos de conhecimentos teóricos → fragmentos/rbac/rbac-65--sec-65.55.md
+- `65.57` — Requisitos de experiência e treinamento → fragmentos/rbac/rbac-65--sec-65.57.md
+- `65.59` — Requisitos de habilidade → fragmentos/rbac/rbac-65--sec-65.59.md
+- `65.60` — Prerrogativas do despachante operacional de voo → fragmentos/rbac/rbac-65--sec-65.60.md
+- `65.62` — Requisitos de experiência recente → fragmentos/rbac/rbac-65--sec-65.62.md
+- `65.71` — Pré-requisitos para concessão de licença e de habilitação → fragmentos/rbac/rbac-65--sec-65.71.md
+- `65.72` — Validade de licenças e habilitações → fragmentos/rbac/rbac-65--sec-65.72.md
+- `65.73` — Habilitações → fragmentos/rbac/rbac-65--sec-65.73.md
+- `65.75` — Requisitos de conhecimentos teóricos → fragmentos/rbac/rbac-65--sec-65.75.md
+- `65.77` — Requisitos de experiência prática → fragmentos/rbac/rbac-65--sec-65.77.md
+- `65.79` — Requisitos de habilidade → fragmentos/rbac/rbac-65--sec-65.79.md
+- `65.81` — Prerrogativas e limitações gerais da licença → fragmentos/rbac/rbac-65--sec-65.81.md
+
+## rbac-67
+- `cabecalho` → fragmentos/rbac/rbac-67--sec-cabecalho.md
+- `67.1` — Aplicabilidade → fragmentos/rbac/rbac-67--sec-67.1.md
+- `67.3` — Conceitos, definições e siglas → fragmentos/rbac/rbac-67--sec-67.3.md
+- `67.11` — Condições para a concessão ou revalidação de um CMA → fragmentos/rbac/rbac-67--sec-67.11.md
+- `67.13` — Classes e categorias de CMA → fragmentos/rbac/rbac-67--sec-67.13.md
+- `67.15` — Validade dos CMA → fragmentos/rbac/rbac-67--sec-67.15.md
+- `67.17` — Suspensão, revogação ou cassação de um CMA → fragmentos/rbac/rbac-67--sec-67.17.md
+- `67.19` — Convalidação de um certificado médico estrangeiro → fragmentos/rbac/rbac-67--sec-67.19.md
+- `67.37` — Requisitos para credenciamento de médicos → fragmentos/rbac/rbac-67--sec-67.37.md
+- `67.39` — Requisitos para credenciamento de clínicas → fragmentos/rbac/rbac-67--sec-67.39.md
+- `67.41` — Requisitos para cadastramento de médicos → fragmentos/rbac/rbac-67--sec-67.41.md
+- `67.43` — Requisitos para revalidação de credenciamento de MC e CLC e revalidação de cadastramento → fragmentos/rbac/rbac-67--sec-67.43.md
+- `67.45` — Atribuições dos MC, CLC e MCad → fragmentos/rbac/rbac-67--sec-67.45.md
+- `67.47` — Fiscalizações da ANAC → fragmentos/rbac/rbac-67--sec-67.47.md
+- `67.49` — Suspensão, revogação ou cassação de credenciamentos e cadastramentos de MC, CLC ou → fragmentos/rbac/rbac-67--sec-67.49.md
+- `67.53` — Requisitos de registros → fragmentos/rbac/rbac-67--sec-67.53.md
+- `67.55` — Isenções para a CLC → fragmentos/rbac/rbac-67--sec-67.55.md
+- `67.57` — Entidades conveniadas → fragmentos/rbac/rbac-67--sec-67.57.md
+- `67.71` — Disposições gerais → fragmentos/rbac/rbac-67--sec-67.71.md
+- `67.75` — Requisitos mentais e comportamentais → fragmentos/rbac/rbac-67--sec-67.75.md
+- `67.77` — Requisitos neurológicos → fragmentos/rbac/rbac-67--sec-67.77.md
+- `67.79` — Requisitos cardiológicos → fragmentos/rbac/rbac-67--sec-67.79.md
+- `67.81` — Requisitos pneumológicos → fragmentos/rbac/rbac-67--sec-67.81.md
+
+## rbac-90
+- `cabecalho` → fragmentos/rbac/rbac-90--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC Nº 90 – APROVAÇÃO DE MANUAIS E TREINAMENTOS → fragmentos/rbac/rbac-90--apêndice-a-do-rbac-nº-90-aprovação-de-ma.md
+- `(inteira)` → fragmentos/rbac/rbac-90--apendice.md
+- `90.1` — Aplicabilidade → fragmentos/rbac/rbac-90--sec-90.1.md
+- `90.3` — Definições e siglas → fragmentos/rbac/rbac-90--sec-90.3.md
+- `90.5` — Atribuições das unidades aéreas dos órgãos e entes públicos → fragmentos/rbac/rbac-90--sec-90.5.md
+- `90.11` — Requisitos gerais para pessoal de administração requerido → fragmentos/rbac/rbac-90--sec-90.11.md
+- `90.21` — Requisitos gerais para tripulação → fragmentos/rbac/rbac-90--sec-90.21.md
+- `90.23` — Requisitos para exercício da função de piloto em comando → fragmentos/rbac/rbac-90--sec-90.23.md
+- `90.25` — Requisitos para exercício da função de piloto segundo em comando → fragmentos/rbac/rbac-90--sec-90.25.md
+- `90.27` — Instrutor eventual da UAP → fragmentos/rbac/rbac-90--sec-90.27.md
+- `90.31` — Requisitos para exercício da função de operador aerotático → fragmentos/rbac/rbac-90--sec-90.31.md
+- `90.33` — Requisitos para exercício da função de comissário de voo da UAP → fragmentos/rbac/rbac-90--sec-90.33.md
+- `90.35` — Requisitos para exercício da função de gestor da UAP → fragmentos/rbac/rbac-90--sec-90.35.md
+- `90.37` — Requisitos para exercício da função do GSO → fragmentos/rbac/rbac-90--sec-90.37.md
+- `90.39` — Requisitos para exercício da função de chefe de operações → fragmentos/rbac/rbac-90--sec-90.39.md
+- `90.41` — Requisitos para exercício da função de responsável pelo controle de manutenção das → fragmentos/rbac/rbac-90--sec-90.41.md
+- `90.43` — Requisitos para exercício da função de operador de suporte médico → fragmentos/rbac/rbac-90--sec-90.43.md
+- `90.45` — Profissional de saúde embarcado → fragmentos/rbac/rbac-90--sec-90.45.md
+- `90.47` — Requisitos para exercício da função de examinador credenciado da UAP - piloto → fragmentos/rbac/rbac-90--sec-90.47.md
+- `90.29` — deste Regulamento; → fragmentos/rbac/rbac-90--sec-90.29.md
+- `90.49` — Requisitos para exercício da função de examinador credenciado em RPA da UAP → fragmentos/rbac/rbac-90--sec-90.49.md
+- `90.61` — Controle de horas de voo dos pilotos da UAP → fragmentos/rbac/rbac-90--sec-90.61.md
+- `90.63` — Controle das licenças, habilitações e certificados dos tripulantes da UAP e demais funções → fragmentos/rbac/rbac-90--sec-90.63.md
+- `90.71` — Requisitos gerais → fragmentos/rbac/rbac-90--sec-90.71.md
+- `90.81` — Requisitos gerais para aeronaves → fragmentos/rbac/rbac-90--sec-90.81.md
+- `90.83` — Manutenção, manutenção preventiva, reconstrução e alteração → fragmentos/rbac/rbac-90--sec-90.83.md
+- `90.85` — Grandes alterações em aeronaves → fragmentos/rbac/rbac-90--sec-90.85.md
+- `90.87` — Equipamentos e instrumentos inoperantes → fragmentos/rbac/rbac-90--sec-90.87.md
+- `90.91` — Requisitos gerais → fragmentos/rbac/rbac-90--sec-90.91.md
+
+## rbac-91
+- `cabecalho` → fragmentos/rbac/rbac-91--sec-cabecalho.md
+- `(inteira)` — APÊNDICE A DO RBAC Nº 91 – [RESERVADO] → fragmentos/rbac/rbac-91--apêndice-a-do-rbac-nº-91-reservado.md
+- `(inteira)` — APÊNDICE B DO RBAC Nº 91 – [RESERVADO] → fragmentos/rbac/rbac-91--apêndice-b-do-rbac-nº-91-reservado.md
+- `(inteira)` → fragmentos/rbac/rbac-91--apendice.md
+- `(inteira)` — APÊNDICE C DO RBAC Nº 91 – [RESERVADO] → fragmentos/rbac/rbac-91--apêndice-c-do-rbac-nº-91-reservado.md
+- `(inteira)` — APÊNDICE D DO RBAC Nº 91 – [RESERVADO] → fragmentos/rbac/rbac-91--apêndice-d-do-rbac-nº-91-reservado.md
+- `(inteira)` — APÊNDICE E DO RBAC Nº 91 – ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA → fragmentos/rbac/rbac-91--apêndice-e-do-rbac-nº-91-especificação-p.md
+- `(inteira)` → fragmentos/rbac/rbac-91--apendice.md
+- `(inteira)` — APÊNDICE F DO RBAC Nº 91 – ESPECIFICAÇÃO PARA GRAVADORES DE DADOS DE VOO PARA → fragmentos/rbac/rbac-91--apêndice-f-do-rbac-nº-91-especificação-p.md
+- `(inteira)` → fragmentos/rbac/rbac-91--apendice.md
+- `91.1` — Aplicabilidade → fragmentos/rbac/rbac-91--sec-91.1.md
+- `91.3` — Responsabilidade e autoridade do piloto em comando → fragmentos/rbac/rbac-91--sec-91.3.md
+- `91.5` — Requisitos para tripulações → fragmentos/rbac/rbac-91--sec-91.5.md
+- `91.7` — Aeronavegabilidade de aeronave civil → fragmentos/rbac/rbac-91--sec-91.7.md
+- `91.9` — Requisitos para manual de voo aprovado ou manual de operação da aeronave (AOM), → fragmentos/rbac/rbac-91--sec-91.9.md
+- `91.13` — Operação descuidada ou negligente → fragmentos/rbac/rbac-91--sec-91.13.md
+- `91.15` — Lançamento de objetos → fragmentos/rbac/rbac-91--sec-91.15.md
+- `91.17` — Uso de substâncias psicoativas → fragmentos/rbac/rbac-91--sec-91.17.md
+- `91.19` — Transporte de substâncias ou medicamentos sujeitos a controle especial → fragmentos/rbac/rbac-91--sec-91.19.md
+- `91.21` — Dispositivos eletrônicos portáteis → fragmentos/rbac/rbac-91--sec-91.21.md
+- `91.101` — Aplicabilidade → fragmentos/rbac/rbac-91--sec-91.101.md
+- `91.102` — Regras gerais → fragmentos/rbac/rbac-91--sec-91.102.md
+- `91.103` — Atribuições de pré-voo → fragmentos/rbac/rbac-91--sec-91.103.md
+- `91.105` — Posto de trabalho de tripulantes de voo → fragmentos/rbac/rbac-91--sec-91.105.md
+- `91.107` — Uso de cintos de segurança, cintos de ombro e cadeira de segurança para crianças → fragmentos/rbac/rbac-91--sec-91.107.md
+- `91.109` — Instrução de voo, voo por instrumentos simulado e certos exames em voo → fragmentos/rbac/rbac-91--sec-91.109.md
+- `91.111` — Proximidade com outra(s) aeronave(s) → fragmentos/rbac/rbac-91--sec-91.111.md
+- `91.119` — Alturas e altitudes mínimas de segurança → fragmentos/rbac/rbac-91--sec-91.119.md
+- `91.144` — Restrição temporária de operações de vôo durante condições anormais de altas pressões → fragmentos/rbac/rbac-91--sec-91.144.md
+- `91.149` — Informação sobre condições potencialmente perigosas → fragmentos/rbac/rbac-91--sec-91.149.md
+- `91.151` — Requisitos de combustível e óleo para voos visuais (VFR) → fragmentos/rbac/rbac-91--sec-91.151.md
+- `91.167` — Requisitos de combustível e óleo para voos por instrumentos (IFR) → fragmentos/rbac/rbac-91--sec-91.167.md
+- `91.171` — Verificação do equipamento de VOR para voo IFR → fragmentos/rbac/rbac-91--sec-91.171.md
+- `91.201` — Definição → fragmentos/rbac/rbac-91--sec-91.201.md
+- `91.203` — Aeronave civil - documentos requeridos → fragmentos/rbac/rbac-91--sec-91.203.md
+- `91.205` — Requisitos de instrumentos e equipamentos - aeronave civil motorizada detentora de → fragmentos/rbac/rbac-91--sec-91.205.md
+- `91.207` — Transmissores localizadores de emergência (ELT) e Personal Locator Beacon (PLB) → fragmentos/rbac/rbac-91--sec-91.207.md
+- `91.209` — Luzes da aeronave → fragmentos/rbac/rbac-91--sec-91.209.md
+- `91.211` — Oxigênio suplementar → fragmentos/rbac/rbac-91--sec-91.211.md
+- `91.213` — Equipamentos e instrumentos inoperantes → fragmentos/rbac/rbac-91--sec-91.213.md
+
+## resolucao-106
+- `(inteira)` → fragmentos/resolucoes/resolucao-106.md
+
+## resolucao-143
+- `(inteira)` → fragmentos/resolucoes/resolucao-143.md
+
+## resolucao-145
+- `(inteira)` → fragmentos/resolucoes/resolucao-145.md
+
+## resolucao-146
+- `(inteira)` → fragmentos/resolucoes/resolucao-146.md
+
+## resolucao-169
+- `(inteira)` → fragmentos/resolucoes/resolucao-169.md
+
+## resolucao-174
+- `(inteira)` → fragmentos/resolucoes/resolucao-174.md
+
+## resolucao-178
+- `(inteira)` → fragmentos/resolucoes/resolucao-178.md
+
+## resolucao-188
+- `(inteira)` → fragmentos/resolucoes/resolucao-188.md
+
+## resolucao-190
+- `(inteira)` → fragmentos/resolucoes/resolucao-190.md
+
+## resolucao-203
+- `(inteira)` → fragmentos/resolucoes/resolucao-203.md
+
+## resolucao-211
+- `(inteira)` → fragmentos/resolucoes/resolucao-211.md
+
+## resolucao-223
+- `(inteira)` → fragmentos/resolucoes/resolucao-223.md
+
+## resolucao-232
+- `(inteira)` → fragmentos/resolucoes/resolucao-232.md
+
+## resolucao-233
+- `(inteira)` → fragmentos/resolucoes/resolucao-233.md
+
+## resolucao-238
+- `(inteira)` → fragmentos/resolucoes/resolucao-238.md
+
+## resolucao-240
+- `(inteira)` → fragmentos/resolucoes/resolucao-240.md
+
+## resolucao-254
+- `(inteira)` → fragmentos/resolucoes/resolucao-254.md
+
+## resolucao-265
+- `(inteira)` → fragmentos/resolucoes/resolucao-265.md
+
+## resolucao-293
+- `(inteira)` → fragmentos/resolucoes/resolucao-293.md
+
+## resolucao-310
+- `(inteira)` → fragmentos/resolucoes/resolucao-310.md
+
+## resolucao-348
+- `(inteira)` → fragmentos/resolucoes/resolucao-348.md
+
+## resolucao-361
+- `(inteira)` → fragmentos/resolucoes/resolucao-361.md
+
+## resolucao-362
+- `(inteira)` → fragmentos/resolucoes/resolucao-362.md
+
+## resolucao-363
+- `(inteira)` → fragmentos/resolucoes/resolucao-363.md
+
+## resolucao-377
+- `(inteira)` → fragmentos/resolucoes/resolucao-377.md
+
+## resolucao-420
+- `(inteira)` → fragmentos/resolucoes/resolucao-420.md
+
+## resolucao-445
+- `(inteira)` → fragmentos/resolucoes/resolucao-445.md
+
+## resolucao-457
+- `(inteira)` → fragmentos/resolucoes/resolucao-457.md
+
+## resolucao-465
+- `(inteira)` → fragmentos/resolucoes/resolucao-465.md
+
+## resolucao-467
+- `(inteira)` → fragmentos/resolucoes/resolucao-467.md
+
+## resolucao-469
+- `(inteira)` → fragmentos/resolucoes/resolucao-469.md
+
+## resolucao-471
+- `(inteira)` → fragmentos/resolucoes/resolucao-471.md
+
+## resolucao-472
+- `(inteira)` → fragmentos/resolucoes/resolucao-472.md
+
+## resolucao-473
+- `(inteira)` → fragmentos/resolucoes/resolucao-473.md
+
+## resolucao-476
+- `(inteira)` → fragmentos/resolucoes/resolucao-476.md
+
+## resolucao-477
+- `(inteira)` → fragmentos/resolucoes/resolucao-477.md
+
+## resolucao-486
+- `(inteira)` → fragmentos/resolucoes/resolucao-486.md
+
+## resolucao-492
+- `(inteira)` → fragmentos/resolucoes/resolucao-492.md
+
+## resolucao-503
+- `(inteira)` → fragmentos/resolucoes/resolucao-503.md
+
+## resolucao-509
+- `(inteira)` → fragmentos/resolucoes/resolucao-509.md
+
+## resolucao-510
+- `(inteira)` → fragmentos/resolucoes/resolucao-510.md
+
+## resolucao-512
+- `(inteira)` → fragmentos/resolucoes/resolucao-512.md
+
+## resolucao-513
+- `(inteira)` → fragmentos/resolucoes/resolucao-513.md
+
+## resolucao-514
+- `(inteira)` → fragmentos/resolucoes/resolucao-514.md
+
+## resolucao-516
+- `(inteira)` → fragmentos/resolucoes/resolucao-516.md
+
+## resolucao-524
+- `(inteira)` → fragmentos/resolucoes/resolucao-524.md
+
+## resolucao-529
+- `(inteira)` → fragmentos/resolucoes/resolucao-529.md
+
+## resolucao-536
+- `(inteira)` → fragmentos/resolucoes/resolucao-536.md
+
+## resolucao-545
+- `(inteira)` → fragmentos/resolucoes/resolucao-545.md
+
+## resolucao-546
+- `(inteira)` → fragmentos/resolucoes/resolucao-546.md
+
+## resolucao-547
+- `(inteira)` → fragmentos/resolucoes/resolucao-547.md
+
+## resolucao-555
+- `(inteira)` → fragmentos/resolucoes/resolucao-555.md
+
+## resolucao-567
+- `(inteira)` → fragmentos/resolucoes/resolucao-567.md
+
+## resolucao-606
+- `(inteira)` → fragmentos/resolucoes/resolucao-606.md
+
+## resolucao-612
+- `(inteira)` → fragmentos/resolucoes/resolucao-612.md
+
+## resolucao-615
+- `(inteira)` → fragmentos/resolucoes/resolucao-615.md
+
+## resolucao-628
+- `(inteira)` → fragmentos/resolucoes/resolucao-628.md
+
+## resolucao-63
+- `(inteira)` → fragmentos/resolucoes/resolucao-63.md
+
+## resolucao-636
+- `(inteira)` → fragmentos/resolucoes/resolucao-636.md
+
+## resolucao-646
+- `(inteira)` → fragmentos/resolucoes/resolucao-646.md
+
+## resolucao-674
+- `(inteira)` → fragmentos/resolucoes/resolucao-674.md
+
+## resolucao-706
+- `(inteira)` → fragmentos/resolucoes/resolucao-706.md
+
+## resolucao-716
+- `(inteira)` → fragmentos/resolucoes/resolucao-716.md
+
+## resolucao-721
+- `(inteira)` → fragmentos/resolucoes/resolucao-721.md
+
+## resolucao-748
+- `(inteira)` → fragmentos/resolucoes/resolucao-748.md
+
+## resolucao-751
+- `(inteira)` → fragmentos/resolucoes/resolucao-751.md
+
+## resolucao-761
+- `(inteira)` → fragmentos/resolucoes/resolucao-761.md
+
+## resolucao-762
+- `(inteira)` → fragmentos/resolucoes/resolucao-762.md
+
+## resolucao-767
+- `(inteira)` → fragmentos/resolucoes/resolucao-767.md
+
+## resolucao-772
+- `(inteira)` → fragmentos/resolucoes/resolucao-772.md
+
+## resolucao-773
+- `(inteira)` → fragmentos/resolucoes/resolucao-773.md
+
+## resolucao-802
+- `(inteira)` → fragmentos/resolucoes/resolucao-802.md
+
+## resolucao-805
+- `(inteira)` → fragmentos/resolucoes/resolucao-805.md
+
+## resolucao-93
+- `(inteira)` → fragmentos/resolucoes/resolucao-93.md

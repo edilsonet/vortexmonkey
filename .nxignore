@@ -1,0 +1,6 @@
+# Arvores de referencia NAO fazem parte do workspace Nx v4.
+# v1 = errado/superseded (React+Vite+Turborepo); serve so como fonte de dominio.
+# repos-externos = repositorios de terceiros clonados para estudo.
+v1
+repos-externos
+dist

@@ -1,0 +1,23 @@
+// Constantes e tipos de compliance LGPD (Lei 13.709/2018)
+
+export const PHASE_3_COMPLIANCE_EVENTS = {
+  LGPD_EXPORT_REQUESTED: 'LGPD_EXPORT_REQUESTED',
+  LGPD_EXPORT_COMPLETED: 'LGPD_EXPORT_COMPLETED',
+  LGPD_ERASURE_REQUESTED: 'LGPD_ERASURE_REQUESTED',
+  LGPD_ERASURE_COMPLETED: 'LGPD_ERASURE_COMPLETED',
+  CONSENT_GRANTED: 'CONSENT_GRANTED',
+  CONSENT_REVOKED: 'CONSENT_REVOKED',
+} as const;
+
+export type LgpdRequestType = 'EXPORT' | 'ERASURE' | 'CONSENT_REVOKE';
+export type LgpdRequestStatus = 'PENDING' | 'PROCESSING' | 'COMPLETED' | 'FAILED';
+
+// RBAC 43.9 / 145.163: registros de manutenção NÃO podem ser apagados.
+// O esquecimento LGPD anonimiza dados pessoais mas PRESERVA a trilha do ledger.
+export const NON_ERASABLE_ENTITY_TYPES = [
+  'MAINTENANCE_RECORD',
+  'AIRWORTHINESS_DIRECTIVE',
+  'PROTOCOL',
+  'PROTOCOL_EVENT',
+  'LEDGER_VERIFICATION',
+] as const;

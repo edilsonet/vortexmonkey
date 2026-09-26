@@ -1,0 +1,107 @@
+---
+categoria: "Regulamento Brasileiro da Aviação Civil"
+sigla: "RBAC"
+slug: "rbac-141"
+titulo: "RBAC 141"
+fonte: "ANAC — acervo oficial (PDF/SEI), coletado em 12/09/2026"
+arquivo_original: "normas/rbac/rbac-141--Abrir.txt"
+norma: "rbac-141"
+fragmento: "rbac-141--sec-141.3"
+secao: "141.3"
+titulo_secao: "Definições"
+---
+
+141.3 Definições
+   (a) Para os propósitos deste Regulamento são válidas as definições do RBAC nº 01 e as definições
+elencadas abaixo:
+      (1) aproveitamento de estudos significa situação em que o aluno fica dispensado de cursar
+uma ou mais disciplinas ou instruções, por se considerar equivalente determinada instrução
+previamente recebida em outro local que não o CIAC no qual o aluno está se matriculando;
+       (2) avaliação da aprendizagem significa processo contínuo e sistemático, por meio do qual se
+acompanha a aprendizagem ou o rendimento do aluno durante o desenvolvimento do curso, com a
+finalidade de verificar o alcance, pelo aluno, dos objetivos propostos;
+       (3) centro de instrução de aviação civil (CIAC) significa organização certificada cuja
+finalidade é formar recursos humanos para a aviação civil, conduzindo seus alunos para a obtenção
+das licenças, habilitações e certificados requeridos pela ANAC;
+      (4) certificação significa processo de reconhecimento pela ANAC de que a organização
+avaliada tem capacidade para exercer as atividades de formação de recursos humanos a que se propõe,
+de acordo com os requisitos deste Regulamento;
+
+Origem: SPO                                                                                     3/30
+ Data da emissão: 29 de abril de 2019                                                  RBAC nº 141
+                                                                                       Emenda n° 00
+
+      (5) certificado de CIAC significa documento emitido pela ANAC, depois de concluído o
+processo de certificação, atestando que a organização cumpre os requisitos deste Regulamento e está
+autorizada a ministrar os cursos previstos em suas especificações de instrução (EI);
+      (6) CIAC satélite significa uma filial de um CIAC localizada no Brasil, sujeita à mesma
+regulamentação que o CIAC;
+      (7) competência significa a combinação de habilidades, conhecimentos e atitudes requeridas
+para desempenhar uma tarefa ajustando-se à norma prescrita;
+      (8) conteúdo programático significa o conjunto de assuntos que compõem a parte teórica e/ou
+a parte prática de um curso, acompanhados dos respectivos objetivos específicos e organizados em
+uma estrutura lógica que contribui para o alcance do objetivo do curso;
+      (9) crédito significa o reconhecimento de qualificação prévia decorrente do aproveitamento de
+estudos;
+     (10) currículo significa a descrição detalhada de um curso incluindo o conteúdo programático,
+a carga horária e a descrição de quaisquer outras experiências de aprendizagem a serem
+proporcionadas aos alunos;
+      (11) disciplina significa o conjunto de assuntos afins, pertencentes a um determinado ramo do
+conhecimento e que, agrupados em unidades e subunidades didáticas acompanhadas de seus
+respectivos objetivos específicos, deverão ser tratados sistematicamente, sob a forma de instrução
+teórica;
+     (12) dispositivo de simulação para treinamento de voo (Flight Simulation Training Device
+– FSTD) significa simulador de voo (Full Flight Simulator – FFS), dispositivo de treinamento de
+voo (Flight Training Device – FTD) ou treinador de voo por instrumentos (Aviation Training Device
+– ATD), qualificados ou validados pela ANAC;
+      (13) educação a distância (EaD) significa a modalidade educacional na qual a mediação
+didático-pedagógica nos processos de ensino e aprendizagem ocorre com a utilização de meios e
+tecnologias de informação e comunicação, com alunos e tutores desenvolvendo atividades educativas
+em lugares e tempos diversos;
+      (14) efetiva instrução significa o voo de instrução em que o instrutor é o piloto em comando
+da aeronave;
+      (15) equipamentos de instrução são os FSTD, ferramentas, corpos de prova, computadores
+e/ou quaisquer outros materiais utilizados para realizar ou dar suporte a uma atividade de instrução
+do CIAC;
+      (16) especificações de instrução (EI) significa o documento emitido pela ANAC que detalha
+os termos e as condições de operação de um CIAC certificado;
+     (17) exame de conhecimentos teóricos significa o exame aplicado pela ANAC ou por
+organização por ela autorizada;
+   (18) exame prático significa a verificação de competência e/ou proficiência aplicada pela
+ANAC ou examinador por ela credenciado;
+     (19) formação significa o conjunto de conhecimentos e experiências necessários ao
+desenvolvimento de habilidades indispensáveis à execução de uma determinada tarefa ou função no
+desempenho de uma profissão;
+      (20) instrução significa aula teórica ou prática;
+
+Origem: SPO                                                                                   4/30
+ Data da emissão: 29 de abril de 2019                                                   RBAC nº 141
+                                                                                        Emenda n° 00
+
+      (21) material instrucional significa o material elaborado para cada curso, incluindo planos de
+aula, apostilas, livros, descrição de lições, programas computadorizados, programas audiovisuais e
+manuais de instrução;
+      (22) organização conveniada significa a pessoa jurídica com a qual o CIAC celebra uma
+parceria via convênio, seja para desenvolvimento de atividades de instrução prática, seja para uso de
+instalações necessárias à realização da instrução;
+      (23) parte prática significa a parte do curso destinada à instrução prática;
+      (24) parte teórica significa a parte do curso destinada à instrução teórica. É composta de
+disciplinas;
+     (25) proficiência significa capacidade de desempenhar uma tarefa em tempo real, no padrão
+requerido e sem assistência;
+      (26) programa de instrução significa o documento no qual o CIAC descreve a finalidade e os
+objetivos da instrução, os métodos, os auxílios à instrução, o material instrucional, a sequência e a
+padronização das atividades e os currículos dos cursos que ministra;
+      (27) qualificação significa o conjunto de conhecimentos e experiências necessários ao
+aperfeiçoamento das habilidades adquiridas durante a formação profissional inicial;
+      (28) registros de instrução significa todo e qualquer documento de um CIAC que guarda as
+informações referentes à instrução do aluno;
+     (29) sede do CIAC significa o local principal onde o CIAC mantém a sua administração, o
+material instrucional e os registros dos cursos cujos programas de instrução sejam aprovados pela
+ANAC;
+       (30) sistema de garantia da qualidade significa um conjunto sistemático de atividades
+planejadas que a organização realiza a fim de demonstrar o compromisso com a qualidade e a
+satisfação do usuário; e
+      (31) tutor significa uma pessoa especialista na disciplina que atua nos cursos de EaD no
+planejamento, acompanhamento e apoio ao aprendizado do aluno, estimulando e mediando a sua
+participação.

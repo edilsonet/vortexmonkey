@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # VORTEX — Script de Restauração (PostgreSQL + MinIO)
-# Uso: ./scripts/restore.sh <arquivo_backup.tar.gz>
+# Uso: bash restore.sh <arquivo_backup.tar.gz>
 # Requer: pg_restore, mc (MinIO Client), variáveis de ambiente do .env
 #
 set -euo pipefail
@@ -25,9 +25,11 @@ if [ -f .env ]; then
 fi
 
 RESTORE_ROOT="$(mktemp -d)"
-POSTGRES_HOST="${POSTGRES_HOST:-localhost}"
-POSTGRES_PORT="${POSTGRES_PORT:-5432}"
+POSTGRES_HOST="${DB_HOST:-localhost}"
+POSTGRES_PORT="${DB_PORT:-5432}"
 MINIO_ALIAS="${MINIO_ALIAS:-vortex}"
+# Senha do restore: pg_restore le de PGPASSWORD.
+export PGPASSWORD="${DB_ADMIN_PASSWORD:-}"
 
 echo "==> Extraindo backup: ${BACKUP_FILE}"
 tar -xzf "${BACKUP_FILE}" -C "${RESTORE_ROOT}"
@@ -48,8 +50,8 @@ if [ -n "${DUMP_FILE}" ]; then
   pg_restore \
     -h "${POSTGRES_HOST}" \
     -p "${POSTGRES_PORT}" \
-    -U "${POSTGRES_USER}" \
-    -d "${POSTGRES_DB}" \
+    -U "${DB_ADMIN_USER:-vortex_admin}" \
+    -d "${DB_NAME:-vortex}" \
     --clean \
     --if-exists \
     "${DUMP_FILE}"
@@ -61,7 +63,7 @@ fi
 # Restaura MinIO
 if [ -d "${BACKUP_DIR}/minio" ]; then
   echo "==> Restaurando MinIO..."
-  if mc alias set "${MINIO_ALIAS}" "${MINIO_ENDPOINT}" "${MINIO_ACCESS_KEY}" "${MINIO_SECRET_KEY}" >/dev/null 2>&1; then
+  if mc alias set "${MINIO_ALIAS}" "${MINIO_ENDPOINT}" "${MINIO_ROOT_USER}" "${MINIO_ROOT_PASSWORD}" >/dev/null 2>&1; then
     mc mirror --overwrite "${BACKUP_DIR}/minio" "${MINIO_ALIAS}"
     echo "==> MinIO restaurado."
   else
