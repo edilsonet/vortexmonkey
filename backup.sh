@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # VORTEX — Script de Backup (PostgreSQL + MinIO)
-# Uso: ./scripts/backup.sh [diretório_destino]
+# Uso: bash backup.sh [diretório_destino]
 # Requer: pg_dump, mc (MinIO Client), variáveis de ambiente carregadas do .env
 #
 set -euo pipefail
@@ -17,10 +17,12 @@ fi
 BACKUP_ROOT="${1:-./backups}"
 TIMESTAMP="$(date +%Y%m%d_%H%M%S)"
 BACKUP_DIR="${BACKUP_ROOT}/${TIMESTAMP}"
-POSTGRES_HOST="${POSTGRES_HOST:-localhost}"
-POSTGRES_PORT="${POSTGRES_PORT:-5432}"
+POSTGRES_HOST="${DB_HOST:-localhost}"
+POSTGRES_PORT="${DB_PORT:-5432}"
 MINIO_ALIAS="${MINIO_ALIAS:-vortex}"
 RETENTION_DAYS="${BACKUP_RETENTION_DAYS:-30}"
+# Senha do dump: pg_dump le de PGPASSWORD (nunca de argumento de linha de comando).
+export PGPASSWORD="${DB_ADMIN_PASSWORD:-}"
 
 echo "==> Iniciando backup VORTEX em ${BACKUP_DIR}"
 mkdir -p "${BACKUP_DIR}"
@@ -30,14 +32,14 @@ echo "==> PostgreSQL: gerando dump..."
 pg_dump \
   -h "${POSTGRES_HOST}" \
   -p "${POSTGRES_PORT}" \
-  -U "${POSTGRES_USER}" \
-  -d "${POSTGRES_DB}" \
+  -U "${DB_ADMIN_USER:-vortex_admin}" \
+  -d "${DB_NAME:-vortex}" \
   -F c \
   -f "${BACKUP_DIR}/vortex_postgres_${TIMESTAMP}.dump"
 
 # 2. Backup do MinIO (espelho de todos os buckets)
 echo "==> MinIO: espelhando objetos..."
-if ! mc alias set "${MINIO_ALIAS}" "${MINIO_ENDPOINT}" "${MINIO_ACCESS_KEY}" "${MINIO_SECRET_KEY}" >/dev/null 2>&1; then
+if ! mc alias set "${MINIO_ALIAS}" "${MINIO_ENDPOINT}" "${MINIO_ROOT_USER}" "${MINIO_ROOT_PASSWORD}" >/dev/null 2>&1; then
   echo "AVISO: não foi possível conectar ao MinIO. Verifique MINIO_ENDPOINT/credenciais."
 else
   mc mirror --overwrite "${MINIO_ALIAS}" "${BACKUP_DIR}/minio"

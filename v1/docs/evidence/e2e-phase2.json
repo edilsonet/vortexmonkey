@@ -1,0 +1,24 @@
+{
+  "marker": "F2-1788662326658-32af64",
+  "publicProtocol": "2026-000035",
+  "restrictedProtocol": "2026-000036",
+  "idempotency": "ok",
+  "concurrentProtocols": 32,
+  "uniqueConcurrentNumbers": 32,
+  "timelineEvents": 2,
+  "publicSearchResults": 33,
+  "viewResponseDays": 5,
+  "viewAccessDays": 10,
+  "ledger": {
+    "valid": true,
+    "totalBlocks": 228,
+    "lastHash": "62a92fda01da1295fc4c3077bfee4a62360bc7d203fcee3373f7ef54096fb727"
+  },
+  "merkle": {
+    "blockCount": 229,
+    "rootHash": "a01d164839b3ccb45cf5b1fd0122e221831fda0368d6697512503575fde085c9",
+    "proofVerified": true
+  },
+  "auditEventsRead": 86,
+  "failedActionAudited": true
+}

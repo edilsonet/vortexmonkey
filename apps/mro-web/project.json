@@ -1,0 +1,105 @@
+{
+  "name": "mro-web",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "prefix": "vx",
+  "sourceRoot": "apps/mro-web/src",
+  "tags": ["scope:mro", "type:app"],
+  "targets": {
+    "build": {
+      "executor": "@nx/angular:webpack-browser",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/apps/mro-web",
+        "index": "apps/mro-web/src/index.html",
+        "main": "apps/mro-web/src/main.ts",
+        "polyfills": [],
+        "tsConfig": "apps/mro-web/tsconfig.app.json",
+        "inlineStyleLanguage": "scss",
+        "stylePreprocessorOptions": {
+          "includePaths": ["libs/ui/src/styles"]
+        },
+        "assets": [
+          {
+            "glob": "**/*",
+            "input": "apps/mro-web/public"
+          }
+        ],
+        "styles": ["apps/mro-web/src/styles.scss"],
+        "customWebpackConfig": {
+          "path": "apps/mro-web/webpack.config.ts"
+        }
+      },
+      "configurations": {
+        "production": {
+          "budgets": [
+            {
+              "type": "initial",
+              "maximumWarning": "500kb",
+              "maximumError": "1mb"
+            },
+            {
+              "type": "anyComponentStyle",
+              "maximumWarning": "4kb",
+              "maximumError": "8kb"
+            }
+          ],
+          "outputHashing": "all",
+          "customWebpackConfig": {
+            "path": "apps/mro-web/webpack.prod.config.ts"
+          }
+        },
+        "development": {
+          "optimization": false,
+          "extractLicenses": false,
+          "sourceMap": true
+        }
+      },
+      "defaultConfiguration": "production"
+    },
+    "serve": {
+      "continuous": true,
+      "executor": "@nx/angular:dev-server",
+      "configurations": {
+        "production": {
+          "buildTarget": "mro-web:build:production"
+        },
+        "development": {
+          "buildTarget": "mro-web:build:development"
+        }
+      },
+      "defaultConfiguration": "development",
+      "options": {
+        "port": 4301,
+        "publicHost": "http://localhost:4301",
+        "proxyConfig": "apps/mro-web/proxy.conf.json",
+        "allowedHosts": [".monkeycode-ai.live"]
+      }
+    },
+    "extract-i18n": {
+      "executor": "@angular/build:extract-i18n",
+      "options": {
+        "buildTarget": "mro-web:build"
+      }
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint"
+    },
+    "test": {
+      "executor": "@nx/vite:test",
+      "outputs": ["{options.reportsDirectory}"],
+      "options": {
+        "reportsDirectory": "../../coverage/apps/mro-web"
+      }
+    },
+    "serve-static": {
+      "continuous": true,
+      "executor": "@nx/web:file-server",
+      "options": {
+        "buildTarget": "mro-web:build",
+        "staticFilePath": "dist/apps/mro-web",
+        "spa": true
+      }
+    }
+  }
+}

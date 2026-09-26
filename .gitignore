@@ -1,0 +1,26 @@
+# Repositórios externos de referência: código de terceiros nao versionado.
+# Ignora os clones (diretorios) mas mantem os documentos de analise nesta pasta.
+/repos-externos/*/
+
+# Node / Nx
+node_modules/
+dist/
+tmp/
+.nx/cache/
+.nx/workspace-data/
+coverage/
+test-output/
+
+# Chaves e dados locais de desenvolvimento (nunca versionar)
+.data/
+.secrets/
+
+# Nunca versionar credenciais
+.env
+.env.*
+!.env.example
+
+.angular
+
+vite.config.*.timestamp*
+vitest.config.*.timestamp*

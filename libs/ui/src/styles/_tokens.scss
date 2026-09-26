@@ -1,0 +1,79 @@
+// VORTEX Design System — tokens.
+//
+// Linguagem visual: painel de instrumentos. Superficies planas, bordas de 1px,
+// tipografia tecnica e numeros tabulares. Nenhum componente do DS usa cor
+// literal: tudo passa por estas variaveis, para que a troca de tema
+// (claro/escuro/personalizado) nao toque em componente algum.
+//
+// `light-dark()` resolve o tema pelo `color-scheme` do documento, que o
+// `ThemeService` (libs/core) controla.
+
+$vx-font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto,
+  'Helvetica Neue', Arial, sans-serif;
+$vx-font-mono: ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas,
+  'Liberation Mono', monospace;
+
+@mixin vx-tokens() {
+  :root {
+    color-scheme: light dark;
+
+    --vx-font-sans: #{$vx-font-sans};
+    --vx-font-mono: #{$vx-font-mono};
+
+    // Escala de espaco (base 4) e ritmo vertical.
+    --vx-space-1: 0.25rem;
+    --vx-space-2: 0.5rem;
+    --vx-space-3: 0.75rem;
+    --vx-space-4: 1rem;
+    --vx-space-5: 1.5rem;
+    --vx-space-6: 2rem;
+    --vx-space-7: 3rem;
+
+    // Raios: discretos, coerentes com o tom instrumental.
+    --vx-radius-xs: 3px;
+    --vx-radius-sm: 5px;
+    --vx-radius-md: 8px;
+    --vx-radius-lg: 12px;
+    --vx-radius-pill: 999px;
+
+    // Superficies e linhas.
+    --vx-bg: light-dark(#e9edf2, #080c10);
+    --vx-panel: light-dark(#ffffff, #10171e);
+    --vx-panel-2: light-dark(#f4f7fa, #161f28);
+    --vx-line: light-dark(#d3dbe4, #253039);
+    --vx-line-strong: light-dark(#b6c2ce, #38454f);
+    --vx-shadow-1: light-dark(0 1px 2px rgb(15 23 32 / 8%), 0 1px 2px rgb(0 0 0 / 50%));
+    --vx-shadow-2: light-dark(0 6px 18px rgb(15 23 32 / 10%), 0 8px 22px rgb(0 0 0 / 55%));
+
+    // Texto.
+    --vx-text: light-dark(#0d151d, #e6edf3);
+    --vx-text-muted: light-dark(#5a6a79, #94a5b4);
+    --vx-text-faint: light-dark(#8194a5, #6d7d8b);
+
+    // Acento de marca (aviacao: azul-instrumento) e apoio.
+    --vx-accent: light-dark(#0b5f8a, #4cc2ff);
+    --vx-accent-soft: light-dark(#e3f1f9, #0d2a3a);
+    --vx-accent-ink: light-dark(#ffffff, #04222f);
+    --vx-signal: light-dark(#b45309, #f0a63c);
+
+    // Urgencia de conformidade (mesma semantica do Hub de Alertas).
+    --vx-overdue: light-dark(#b3261e, #ff6b6b);
+    --vx-overdue-bg: light-dark(#fdecea, #3a1414);
+    --vx-due-soon: light-dark(#8a5300, #f0a63c);
+    --vx-due-soon-bg: light-dark(#fff3e0, #3a2a10);
+    --vx-upcoming: light-dark(#1c6b47, #5fd39a);
+    --vx-upcoming-bg: light-dark(#e6f5ed, #10301f);
+    --vx-none: light-dark(#5a6a79, #94a5b4);
+    --vx-none-bg: light-dark(#eef1f5, #1b242c);
+
+    // Foco acessivel.
+    --vx-focus: light-dark(#0b5f8a, #4cc2ff);
+  }
+}
+
+/// Aplica numeros tabulares — obrigatorio em qualquer leitura de medidor,
+/// horas ou ciclos, para que colunas numericas nao dancem.
+@mixin vx-tabular() {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum' 1;
+}

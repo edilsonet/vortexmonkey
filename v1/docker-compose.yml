@@ -1,0 +1,183 @@
+name: vortex-phase2
+services:
+  secrets-init:
+    image: alpine:3.21
+    command: >-
+      sh -ec '
+        umask 077;
+        make_secret() { test -s "/secrets/$$1" || (dd if=/dev/urandom bs=36 count=1 2>/dev/null | base64 > "/secrets/$$1"); };
+        make_secret postgres-admin;
+        make_secret postgres-app;
+        make_secret redis;
+        make_secret rabbitmq;
+        make_secret minio;
+        make_secret jwt;
+        if test ! -s /secrets/ledger-private.pem; then
+          apk add --no-cache openssl >/dev/null;
+          openssl genpkey -algorithm ED25519 -out /secrets/ledger-private.pem;
+          openssl pkey -in /secrets/ledger-private.pem -pubout -out /secrets/ledger-public.pem;
+        fi;
+        chown 1000:1000 /secrets/*;
+        chmod 0600 /secrets/*;
+      '
+    volumes: [vortex-secrets:/secrets]
+    restart: "no"
+
+  postgres:
+    image: postgres:16.10-alpine
+    depends_on:
+      secrets-init: { condition: service_completed_successfully }
+    environment:
+      POSTGRES_DB: vortex
+      POSTGRES_USER: vortex_admin
+      POSTGRES_PASSWORD_FILE: /run/vortex-secrets/postgres-admin
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - vortex-secrets:/run/vortex-secrets:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U vortex_admin -d vortex"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    networks: [backend]
+
+  redis:
+    image: redis:8.2-alpine
+    depends_on:
+      secrets-init: { condition: service_completed_successfully }
+    command: ["sh", "-ec", "exec redis-server --appendonly yes --requirepass \"$$(cat /run/vortex-secrets/redis)\""]
+    volumes:
+      - redis-data:/data
+      - vortex-secrets:/run/vortex-secrets:ro
+    healthcheck:
+      test: ["CMD-SHELL", "redis-cli -a \"$$(cat /run/vortex-secrets/redis)\" ping | grep PONG"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    networks: [backend]
+
+  rabbitmq:
+    image: rabbitmq:4.1-management-alpine
+    depends_on:
+      secrets-init: { condition: service_completed_successfully }
+    command: ["sh", "-ec", "export RABBITMQ_DEFAULT_PASS=$$(cat /run/vortex-secrets/rabbitmq); exec docker-entrypoint.sh rabbitmq-server"]
+    environment:
+      RABBITMQ_DEFAULT_USER: vortex
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+      - vortex-secrets:/run/vortex-secrets:ro
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+    networks: [backend]
+
+  minio:
+    image: minio/minio:RELEASE.2025-07-23T15-54-02Z
+    depends_on:
+      secrets-init: { condition: service_completed_successfully }
+    command: server /data --console-address :9001
+    environment:
+      MINIO_ROOT_USER: vortex
+      MINIO_ROOT_PASSWORD_FILE: /run/vortex-secrets/minio
+    volumes:
+      - minio-data:/data
+      - vortex-secrets:/run/vortex-secrets:ro
+    healthcheck:
+      test: ["CMD", "mc", "ready", "local"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+    networks: [backend]
+
+  migrate:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+      target: build
+    depends_on:
+      postgres: { condition: service_healthy }
+    command: ["pnpm", "db:migrate"]
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: vortex
+      DB_ADMIN_USER: vortex_admin
+      DB_ADMIN_PASSWORD_FILE: /run/vortex-secrets/postgres-admin
+      DB_APP_USER: vortex_app
+      DB_APP_PASSWORD_FILE: /run/vortex-secrets/postgres-app
+    volumes: [vortex-secrets:/run/vortex-secrets:ro]
+    networks: [backend]
+    restart: "no"
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.api
+      target: runtime
+    depends_on:
+      migrate: { condition: service_completed_successfully }
+      redis: { condition: service_healthy }
+      rabbitmq: { condition: service_healthy }
+      minio: { condition: service_healthy }
+    environment:
+      NODE_ENV: production
+      PORT: 3000
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: vortex
+      DB_USER: vortex_app
+      DB_PASSWORD_FILE: /run/vortex-secrets/postgres-app
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      REDIS_PASSWORD_FILE: /run/vortex-secrets/redis
+      RABBITMQ_HOST: rabbitmq
+      RABBITMQ_PORT: 5672
+      RABBITMQ_USER: vortex
+      RABBITMQ_PASSWORD_FILE: /run/vortex-secrets/rabbitmq
+      JWT_SECRET_FILE: /run/vortex-secrets/jwt
+      JWT_ISSUER: vortex.local
+      JWT_AUDIENCE: vortex-api
+      LEDGER_PRIVATE_KEY_FILE: /run/vortex-secrets/ledger-private.pem
+      LEDGER_PUBLIC_KEY_FILE: /run/vortex-secrets/ledger-public.pem
+      MINIO_HOST: minio
+      MINIO_PORT: 9000
+      MINIO_USE_SSL: "false"
+      MINIO_ACCESS_KEY: vortex
+      MINIO_SECRET_KEY_FILE: /run/vortex-secrets/minio
+      MINIO_BUCKET: vortex-documents
+      ASAAS_API_KEY: asaas_sandbox_secret
+    volumes: [vortex-secrets:/run/vortex-secrets:ro]
+    ports: ["3000:3000"]
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3000/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+    networks: [backend, frontend]
+
+  web:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.web
+    depends_on:
+      api: { condition: service_healthy }
+    ports: ["8080:8080"]
+    networks: [frontend]
+
+  prometheus:
+    image: prom/prometheus:v3.6.0
+    volumes: ["./infra/prometheus.yml:/etc/prometheus/prometheus.yml:ro"]
+    ports: ["9090:9090"]
+    networks: [backend]
+
+volumes:
+  vortex-secrets:
+  postgres-data:
+  redis-data:
+  rabbitmq-data:
+  minio-data:
+networks:
+  backend: { internal: true }
+  frontend:

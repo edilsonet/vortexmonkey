@@ -1,0 +1,18 @@
+FROM node:22.19-alpine AS build
+WORKDIR /app
+RUN npm install --global pnpm@12.3.4
+COPY . .
+RUN pnpm install --frozen-lockfile && pnpm build
+
+FROM nginx:1.29-alpine
+COPY infra/nginx.conf /etc/nginx/nginx.conf
+COPY --from=build /app/apps/shell/dist /srv/shell
+COPY --from=build /app/apps/rconta/dist /srv/remotes/rconta
+COPY --from=build /app/apps/catalogo/dist /srv/remotes/catalogo
+COPY --from=build /app/apps/rloja/dist /srv/remotes/rloja
+COPY --from=build /app/apps/recrutamento/dist /srv/remotes/recrutamento
+COPY --from=build /app/apps/mro/dist /srv/remotes/mro
+COPY --from=build /app/apps/ops/dist /srv/remotes/ops
+COPY --from=build /app/apps/training/dist /srv/remotes/training
+COPY --from=build /app/apps/airport/dist /srv/remotes/airport
+EXPOSE 8080

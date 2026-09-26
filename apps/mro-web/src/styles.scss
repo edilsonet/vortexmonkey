@@ -1,0 +1,5 @@
+// Estilo raiz do app: emite os tokens do Angular Material e do VORTEX.
+// O caminho de `libs/ui/src/styles` vem de `stylePreprocessorOptions` (project.json).
+@use 'theme' as vx;
+
+@include vx.vx-theme();

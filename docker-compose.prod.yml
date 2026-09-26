@@ -1,94 +1,116 @@
-version: "3.9"
-
+# VORTEX v4 — variante de PRODUCAO (VPS/container host).
+#
+# Diferencas em relacao ao docker-compose.yml (desenvolvimento):
+#   - `restart: always` em todos os servicos;
+#   - Redis com `--requirepass`;
+#   - infraestrutura SEM portas publicadas (so a API expoe 3400);
+#   - segredos obrigatorios vindos do ambiente/secret manager (sem defaults).
+#
+#   export DB_ADMIN_PASSWORD=... DB_APP_PASSWORD=... REDIS_PASSWORD=...
+#   docker compose -f docker-compose.prod.yml up -d --build
 name: vortex-prod
 
 services:
   postgres:
-    image: postgres:16-alpine
+    image: docker.io/library/postgres:16-alpine
     restart: always
     environment:
-      POSTGRES_USER: ${POSTGRES_USER}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_DB: ${DB_NAME:-vortex}
+      POSTGRES_USER: ${DB_ADMIN_USER:-vortex_admin}
+      POSTGRES_PASSWORD: ${DB_ADMIN_PASSWORD:?defina DB_ADMIN_PASSWORD}
     volumes:
-      - postgres_data:/var/lib/postgresql/data
-    networks:
-      - vortex-net
+      - postgres-data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      test: ['CMD-SHELL', 'pg_isready -U ${DB_ADMIN_USER:-vortex_admin} -d ${DB_NAME:-vortex}']
       interval: 10s
       timeout: 5s
-      retries: 5
+      retries: 10
 
   redis:
-    image: redis:7-alpine
+    image: docker.io/library/redis:7-alpine
     restart: always
-    command: ["redis-server", "--appendonly", "yes", "--requirepass", "${REDIS_PASSWORD}"]
+    command: ['redis-server', '--appendonly', 'yes', '--requirepass', '${REDIS_PASSWORD:?defina REDIS_PASSWORD}']
     volumes:
-      - redis_data:/data
-    networks:
-      - vortex-net
+      - redis-data:/data
     healthcheck:
-      test: ["CMD", "redis-cli", "-a", "${REDIS_PASSWORD}", "ping"]
+      test: ['CMD-SHELL', 'redis-cli -a "$$REDIS_PASSWORD" ping | grep PONG']
       interval: 10s
       timeout: 5s
-      retries: 5
+      retries: 10
+    environment:
+      REDIS_PASSWORD: ${REDIS_PASSWORD:?defina REDIS_PASSWORD}
 
   rabbitmq:
-    image: rabbitmq:3.13-management-alpine
+    image: docker.io/library/rabbitmq:3.13-management-alpine
     restart: always
     environment:
-      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER}
-      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASSWORD}
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_USER:-vortex}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_PASSWORD:?defina RABBITMQ_PASSWORD}
     volumes:
-      - rabbitmq_data:/var/lib/rabbitmq
-    networks:
-      - vortex-net
+      - rabbitmq-data:/var/lib/rabbitmq
     healthcheck:
-      test: ["CMD", "rabbitmq-diagnostics", "-q", "ping"]
+      test: ['CMD', 'rabbitmq-diagnostics', '-q', 'ping']
       interval: 15s
       timeout: 10s
-      retries: 5
+      retries: 10
 
   minio:
-    image: minio/minio:latest
+    image: docker.io/minio/minio
     restart: always
-    command: server /data --console-address ":9001"
+    command: ['server', '/data', '--console-address', ':9001']
     environment:
-      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
-      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:?defina MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:?defina MINIO_ROOT_PASSWORD}
     volumes:
-      - minio_data:/data
-    networks:
-      - vortex-net
+      - minio-data:/data
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      test: ['CMD-SHELL', 'mc ready local || exit 1']
       interval: 15s
       timeout: 5s
-      retries: 5
+      retries: 10
 
-  api-gateway:
+  api:
+    image: vortex-ops-mro:${IMAGE_TAG:-prod}
     build:
       context: .
       dockerfile: Dockerfile
-      target: production
+      target: runtime
     restart: always
     environment:
       NODE_ENV: production
-      DATABASE_URL: postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
-      REDIS_URL: redis://:${REDIS_PASSWORD}@redis:6379
-      RABBITMQ_URL: amqp://${RABBITMQ_USER}:${RABBITMQ_PASSWORD}@rabbitmq:5672
-      MINIO_ENDPOINT: minio
-      MINIO_PORT: 9000
-      MINIO_ACCESS_KEY: ${MINIO_ROOT_USER}
-      MINIO_SECRET_KEY: ${MINIO_ROOT_PASSWORD}
-      JWT_SECRET: ${JWT_SECRET}
-      LEDGER_PRIVATE_KEY: ${LEDGER_PRIVATE_KEY}
-      LEDGER_PUBLIC_KEY: ${LEDGER_PUBLIC_KEY}
-      ASAAS_API_KEY: ${ASAAS_API_KEY}
-      RESEND_API_KEY: ${RESEND_API_KEY}
+      PORT: 3400
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-vortex}
+      DB_ADMIN_USER: ${DB_ADMIN_USER:-vortex_admin}
+      DB_ADMIN_PASSWORD: ${DB_ADMIN_PASSWORD:?defina DB_ADMIN_PASSWORD}
+      DB_APP_USER: ${DB_APP_USER:-vortex_app}
+      DB_APP_PASSWORD: ${DB_APP_PASSWORD:?defina DB_APP_PASSWORD}
+      JWT_SECRET: ${JWT_SECRET:?defina JWT_SECRET}
+      JWT_TTL_SECONDS: ${JWT_TTL_SECONDS:-3600}
+      AUTH_ALLOW_HEADER_CONTEXT: 'false'
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      REDIS_PASSWORD: ${REDIS_PASSWORD:?defina REDIS_PASSWORD}
+      RABBITMQ_URL: amqp://${RABBITMQ_USER:-vortex}:${RABBITMQ_PASSWORD:?defina RABBITMQ_PASSWORD}@rabbitmq:5672
+      LEDGER_PRIVATE_KEY_FILE: /run/secrets/ledger_ed25519.pem
+      LEDGER_PUBLIC_KEY_FILE: /run/secrets/ledger_ed25519.pub
+      SEED_ON_BOOT: 'false'
     ports:
-      - "3000:3000"
+      - '${API_PORT:-3400}:3400'
+    secrets:
+      - ledger_ed25519.pem
+      - ledger_ed25519.pub
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3400/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"
+      interval: 15s
+      timeout: 5s
+      start_period: 40s
+      retries: 5
     depends_on:
       postgres:
         condition: service_healthy
@@ -96,44 +118,15 @@ services:
         condition: service_healthy
       rabbitmq:
         condition: service_healthy
-      minio:
-        condition: service_healthy
-    networks:
-      - vortex-net
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
-      interval: 15s
-      timeout: 5s
-      retries: 5
 
-  worker-daemon:
-    build:
-      context: .
-      dockerfile: Dockerfile
-      target: production
-    restart: always
-    command: ["node", "dist/apps/worker/main.js"]
-    environment:
-      NODE_ENV: production
-      DATABASE_URL: postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/${POSTGRES_DB}
-      REDIS_URL: redis://:${REDIS_PASSWORD}@redis:6379
-      RABBITMQ_URL: amqp://${RABBITMQ_USER}:${RABBITMQ_PASSWORD}@rabbitmq:5672
-      LEDGER_PRIVATE_KEY: ${LEDGER_PRIVATE_KEY}
-      LEDGER_PUBLIC_KEY: ${LEDGER_PUBLIC_KEY}
-    depends_on:
-      postgres:
-        condition: service_healthy
-      rabbitmq:
-        condition: service_healthy
-    networks:
-      - vortex-net
-
-networks:
-  vortex-net:
-    driver: bridge
+secrets:
+  ledger_ed25519.pem:
+    file: ${LEDGER_PRIVATE_KEY_FILE:-./.secrets/ledger_ed25519.pem}
+  ledger_ed25519.pub:
+    file: ${LEDGER_PUBLIC_KEY_FILE:-./.secrets/ledger_ed25519.pub}
 
 volumes:
-  postgres_data:
-  redis_data:
-  rabbitmq_data:
-  minio_data:
+  postgres-data:
+  redis-data:
+  rabbitmq-data:
+  minio-data:

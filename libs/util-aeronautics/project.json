@@ -1,0 +1,33 @@
+{
+  "name": "@vortex/util-aeronautics",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/util-aeronautics/src",
+  "projectType": "library",
+  "tags": ["scope:shared", "type:util"],
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/util-aeronautics",
+        "main": "libs/util-aeronautics/src/index.ts",
+        "tsConfig": "libs/util-aeronautics/tsconfig.lib.json",
+        "assets": ["libs/util-aeronautics/*.md"]
+      }
+    },
+    "test": {
+      "executor": "@nx/vite:test",
+      "outputs": ["{options.reportsDirectory}"],
+      "options": {
+        "configFile": "libs/util-aeronautics/vite.config.ts",
+        "reportsDirectory": "libs/util-aeronautics/test-output/vitest"
+      }
+    },
+    "typecheck": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "tsc -p libs/util-aeronautics/tsconfig.lib.json --noEmit"
+      }
+    }
+  }
+}
