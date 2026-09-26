@@ -1,7 +1,7 @@
 # Análise de Reuso — Repositórios Externos aplicados ao VORTEX
 
 > Documento gerado a partir da leitura direta dos 7 repositórios clonados em `repos-externos/`.
-> Objetivo: dizer **o que reaproveitar**, **em qual app/schema do VORTEX**, **como adaptar** e **o que descartar** por conflitar com as regras imutáveis do contrato (`vortex-v2/CLAUDE.md`).
+> Objetivo: dizer **o que reaproveitar**, **em qual app/schema do VORTEX**, **como adaptar** e **o que descartar** por conflitar com as regras imutáveis do contrato (`CLAUDE.md`).
 > Data da análise: 2026-09-24. Alvo: VORTEX v4 (14 apps, Angular 19 + Nx, NestJS, PostgreSQL 16/RLS, TypeORM + SQL nativo, sem Prisma, sem MongoDB, sem CQRS, ledger append-only).
 
 ---
