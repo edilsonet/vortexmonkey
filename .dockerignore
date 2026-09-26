@@ -1,0 +1,47 @@
+# VORTEX v4 — contexto de build da imagem `ops-mro`.
+# O Dockerfile usa apenas `package.json`/lockfiles, `apps/`, `libs/`,
+# `migrations/` e `tools/{migrate,seed-dev}.mjs`. Todo o resto e excluido para
+# evitar enviar ~1,6 GB de contexto (rascunhos, material regulatorio, deps).
+
+# Versionamento e metadados
+.git
+.gitignore
+.github
+.vscode
+
+# Dependencias e artefatos locais (reconstruidos dentro da imagem)
+node_modules
+**/node_modules
+dist
+**/dist
+.nx
+**/.nx
+tmp
+coverage
+test-output
+.angular
+
+# Segredos e dados locais (nunca entram na imagem)
+.env
+.env.*
+.secrets
+.data
+backups
+
+# Material nao-v4 / fora do grafo Nx (referencia, nao build)
+v1
+v1-rascunho-superado
+vortex-v2
+ANAC
+repos-externos
+
+# Ferramentas de host e documentacao (nao usados no build)
+backup.sh
+restore.sh
+docker-compose.yml
+docker-compose.prod.yml
+Makefile
+Makefile.makefile
+Dockerfile.dockerfile
+*.md
+*.docx

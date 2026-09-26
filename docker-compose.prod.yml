@@ -64,7 +64,9 @@ services:
     volumes:
       - minio-data:/data
     healthcheck:
-      test: ['CMD-SHELL', 'mc ready local || exit 1']
+      # Aceita as duas formas de sonda do MinIO: `mc ready local` quando o
+      # cliente esta na imagem, e o endpoint HTTP de saude caso contrario.
+      test: ['CMD-SHELL', 'mc ready local 2>/dev/null || curl -fsS http://127.0.0.1:9000/minio/health/live || exit 1']
       interval: 15s
       timeout: 5s
       retries: 10
@@ -96,6 +98,19 @@ services:
       LEDGER_PRIVATE_KEY_FILE: /run/secrets/ledger_ed25519.pem
       LEDGER_PUBLIC_KEY_FILE: /run/secrets/ledger_ed25519.pub
       SEED_ON_BOOT: 'false'
+      # Bootstrap do administrador (primeiro acesso). Rode uma vez com
+      # BOOTSTRAP_ON_BOOT=true e depois volte para 'false'.
+      BOOTSTRAP_ON_BOOT: ${BOOTSTRAP_ON_BOOT:-false}
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-}
+      ADMIN_NAME: ${ADMIN_NAME:-}
+      ADMIN_CPF: ${ADMIN_CPF:-}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      TENANT_NAME: ${TENANT_NAME:-}
+      TENANT_TYPE: ${TENANT_TYPE:-MANUTENCAO}
+      COMPANY_CNPJ: ${COMPANY_CNPJ:-}
+      COMPANY_NAME: ${COMPANY_NAME:-}
+      COMPANY_TRADE_NAME: ${COMPANY_TRADE_NAME:-}
+      BOOTSTRAP_RESET_PASSWORD: ${BOOTSTRAP_RESET_PASSWORD:-false}
     ports:
       - '${API_PORT:-3400}:3400'
     secrets:
@@ -118,6 +133,24 @@ services:
         condition: service_healthy
       rabbitmq:
         condition: service_healthy
+
+  web:
+    image: vortex-mro-web:${IMAGE_TAG:-prod}
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+      target: runtime
+    restart: always
+    ports:
+      - '${WEB_PORT:-8080}:80'
+    depends_on:
+      api:
+        condition: service_healthy
+    healthcheck:
+      test: ['CMD-SHELL', 'wget -qO- http://127.0.0.1/ >/dev/null || exit 1']
+      interval: 15s
+      timeout: 5s
+      retries: 5
 
 secrets:
   ledger_ed25519.pem:

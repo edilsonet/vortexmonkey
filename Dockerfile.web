@@ -1,0 +1,42 @@
+# syntax=docker/dockerfile:1
+#
+# VORTEX v4 — imagem do frontend do ERP Manutencao (`mro-web`).
+# O `mro-web` roda standalone (tem login e shell proprios via `@vortex/shell`) e
+# fala com a API pela mesma origem em `/api`, que o nginx faz proxy para o
+# servico `api` do compose. Nao depende do subdominio `mro.vortex.com` do
+# Module Federation porque serve a aplicacao completa, nao o remote isolado.
+
+ARG NODE_VERSION=22-slim
+ARG PNPM_VERSION=10.34.5
+ARG NGINX_VERSION=1.27-alpine
+
+# ---------------------------------------------------------------- deps ----
+FROM node:${NODE_VERSION} AS deps
+# Redeclarar o ARG: o declarado antes do FROM nao vale dentro da stage.
+ARG PNPM_VERSION
+RUN npm install -g pnpm@${PNPM_VERSION} && pnpm --version
+WORKDIR /workspace
+COPY package.json pnpm-lock.yaml pnpm-workspace.yaml .npmrc ./
+COPY apps/ops-mro/package.json apps/ops-mro/
+COPY libs/shared-dto/package.json libs/shared-dto/
+COPY libs/util-aeronautics/package.json libs/util-aeronautics/
+RUN --mount=type=cache,id=pnpm-store,target=/root/.local/share/pnpm/store \
+    pnpm install --frozen-lockfile
+
+# --------------------------------------------------------------- build ----
+FROM deps AS build
+ENV NX_DAEMON=false
+ENV CI=true
+COPY nx.json tsconfig.base.json ./
+COPY apps ./apps
+COPY libs ./libs
+RUN pnpm nx build mro-web --configuration=production --skip-nx-cache
+
+# ------------------------------------------------------------- runtime ----
+FROM nginx:${NGINX_VERSION} AS runtime
+ARG NGINX_VERSION
+COPY docker/web/nginx.conf /etc/nginx/conf.d/default.conf
+COPY --from=build /workspace/dist/apps/mro-web /usr/share/nginx/html
+EXPOSE 80
+HEALTHCHECK --interval=15s --timeout=5s --start-period=10s --retries=5 \
+    CMD wget -qO- http://127.0.0.1/ >/dev/null 2>&1 || exit 1

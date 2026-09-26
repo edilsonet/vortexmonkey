@@ -97,6 +97,18 @@ services:
       # Chave Ed25519 do ledger persistida em volume; gerada no primeiro boot.
       LEDGER_PRIVATE_KEY_FILE: /app/.data/ledger-ed25519.pem
       SEED_ON_BOOT: ${SEED_ON_BOOT:-false}
+      # Bootstrap do administrador (opcional; ver docker-compose.prod.yml).
+      BOOTSTRAP_ON_BOOT: ${BOOTSTRAP_ON_BOOT:-false}
+      ADMIN_EMAIL: ${ADMIN_EMAIL:-}
+      ADMIN_NAME: ${ADMIN_NAME:-}
+      ADMIN_CPF: ${ADMIN_CPF:-}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      TENANT_NAME: ${TENANT_NAME:-}
+      TENANT_TYPE: ${TENANT_TYPE:-MANUTENCAO}
+      COMPANY_CNPJ: ${COMPANY_CNPJ:-}
+      COMPANY_NAME: ${COMPANY_NAME:-}
+      COMPANY_TRADE_NAME: ${COMPANY_TRADE_NAME:-}
+      BOOTSTRAP_RESET_PASSWORD: ${BOOTSTRAP_RESET_PASSWORD:-false}
     ports:
       - '${API_PORT:-3400}:3400'
     volumes:

@@ -45,5 +45,12 @@ if [ "${SEED_ON_BOOT:-false}" = "true" ]; then
   node /app/tools/seed-dev.mjs
 fi
 
+# Administrador de producao: cria tenant/empresa/admin na primeira subida.
+# Idempotente; so roda quando BOOTSTRAP_ON_BOOT=true. Exige ADMIN_* definidos.
+if [ "${BOOTSTRAP_ON_BOOT:-false}" = "true" ]; then
+  echo "[vortex] executando bootstrap do administrador ..."
+  node /app/tools/bootstrap-admin.mjs
+fi
+
 echo "[vortex] iniciando API: $*"
 exec "$@"

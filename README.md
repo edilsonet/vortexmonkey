@@ -201,6 +201,7 @@ curl http://localhost:3400/api/ledger/verify
 | `make migrate` / `make seed` | Aplica migrações / seed de desenvolvimento |
 | `make ledger-key` | Gera o par Ed25519 do ledger em `.secrets/` |
 | `make prod-up` / `make prod-down` | Sobe/derruba produção |
+| `make prod-bootstrap` | Cria o administrador de produção (container em execução) |
 | `make backup` / `make restore FILE=...` | Backup e restauração |
 
 ## Deploy (VPS + Docker Compose)
@@ -213,17 +214,41 @@ git clone <seu-repo-url> /opt/vortex && cd /opt/vortex
 cp .env.example .env
 nano .env   # DB_ADMIN_PASSWORD, DB_APP_PASSWORD, REDIS_PASSWORD,
             # RABBITMQ_PASSWORD, MINIO_ROOT_*, LEDGER_*
+            # opcionais: API_PORT (API), WEB_PORT (frontend), IMAGE_TAG (tag)
 
 # Gere a chave do ledger e aponte LEDGER_PRIVATE_KEY_FILE/LEDGER_PUBLIC_KEY_FILE
 make ledger-key
 
 # Suba em producao
 make prod-up
+
+# Crie o administrador (numa VPS limpa nao existe usuario; sem isso o login
+# retorna 401). Preencha ADMIN_*/TENANT_*/COMPANY_* no .env antes:
+make prod-bootstrap
 ```
 
-A API fica em `http://SEU_IP:3400`. Para domínio próprio com HTTPS, configure um
-proxy reverso (Nginx/Caddy) apontando para a porta 3400 e emita certificado
-Let's Encrypt.
+A UI fica em `http://SEU_IP:8080` (`WEB_PORT`) e fala com a API pela mesma
+origem (`/api`, proxy do nginx do container web). A API sozinha responde em
+`http://SEU_IP:3400`. Para domínio próprio com HTTPS, configure um proxy reverso
+(Nginx/Caddy) apontando para a porta `WEB_PORT` e emita certificado Let's
+Encrypt.
+
+### Administrador de produção
+
+`tools/bootstrap-admin.mjs` cria a identidade mínima para o primeiro acesso:
+tenant, empresa, usuário e vínculo `ADMIN`. É idempotente e não troca a senha de
+um admin existente (use `BOOTSTRAP_RESET_PASSWORD=true` para redefinir). Pode
+rodar no boot (`BOOTSTRAP_ON_BOOT=true`) ou sob demanda (`make prod-bootstrap`).
+A senha exige 12+ caracteres e 3 das 4 classes (minúsculas, maiúsculas, dígitos,
+símbolos).
+
+### Backup e restauração
+
+`make backup` / `make restore FILE=...` rodam no host e exigem `pg_dump` /
+`pg_restore`. Para o MinIO usam o `mc` do host ou, na ausência, a imagem oficial
+`minio/mc` via Docker/Podman. O host precisa alcançar o `MINIO_ENDPOINT` e o
+PostgreSQL: em produção estes serviços não publicam portas, então exponha-os em
+loopback ou rode o backup dentro da rede do compose.
 
 ## Documentação
 

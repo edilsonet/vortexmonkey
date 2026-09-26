@@ -1,4 +1,4 @@
-.PHONY: help install build typecheck lint test e2e verify serve web infra-up up down logs migrate seed ledger-key api-up prod-up prod-down backup restore
+.PHONY: help install build typecheck lint test e2e verify serve web infra-up up down logs migrate seed ledger-key bootstrap-admin api-up prod-up prod-down prod-bootstrap backup restore
 
 DOCKER_COMPOSE ?= docker compose
 DB_HOST ?= 127.0.0.1
@@ -28,9 +28,11 @@ help: ## Lista os comandos disponiveis
 	@echo "  make logs        Acompanha os logs dos containers"
 	@echo "  make migrate     Aplica migracoes SQL"
 	@echo "  make seed        Aplica o seed de desenvolvimento"
+	@echo "  make bootstrap-admin  Cria o administrador de producao (via .env)"
 	@echo "  make ledger-key  Gera o par Ed25519 do ledger em .secrets/"
 	@echo "  make prod-up     Sobe producao (docker-compose.prod.yml)"
 	@echo "  make prod-down   Derruba producao"
+	@echo "  make prod-bootstrap  Bootstrap de admin no container de producao"
 	@echo "  make backup      Backup PostgreSQL + MinIO"
 	@echo "  make restore FILE=...  Restauracao"
 
@@ -79,6 +81,9 @@ migrate:
 seed:
 	node tools/seed-dev.mjs
 
+bootstrap-admin:
+	node tools/bootstrap-admin.mjs
+
 ledger-key:
 	node tools/gen-ledger-key.mjs
 
@@ -90,6 +95,9 @@ prod-up:
 
 prod-down:
 	$(DOCKER_COMPOSE) -f docker-compose.prod.yml down
+
+prod-bootstrap:
+	$(DOCKER_COMPOSE) -f docker-compose.prod.yml exec api node /app/tools/bootstrap-admin.mjs
 
 backup:
 	bash backup.sh
