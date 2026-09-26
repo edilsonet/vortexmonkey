@@ -1,0 +1,16 @@
+export const loadConfig = () => ({
+  nodeEnv: process.env.NODE_ENV ?? "development",
+  apiPort: Number(process.env.API_PORT ?? 3001),
+  databaseUrl: process.env.DATABASE_URL ?? "postgres://vortex:vortex_dev_password@localhost:5432/vortex",
+  redisUrl: process.env.REDIS_URL ?? "redis://:vortex_redis_password@localhost:6379",
+  jwtSecret: process.env.JWT_SECRET ?? "change_me_jwt_secret_dev_only",
+  jwtExpiresIn: process.env.JWT_EXPIRES_IN ?? "15m",
+  ledgerPrivateKey: process.env.LEDGER_PRIVATE_KEY ?? "",
+  ledgerPublicKey: process.env.LEDGER_PUBLIC_KEY ?? "",
+  minioEndpoint: process.env.MINIO_ENDPOINT ?? "localhost",
+  minioPort: Number(process.env.MINIO_PORT ?? 9000),
+  minioAccessKey: process.env.MINIO_ROOT_USER ?? "vortex",
+  minioSecretKey: process.env.MINIO_ROOT_PASSWORD ?? "vortex_minio_password",
+  minioBucket: process.env.MINIO_BUCKET ?? "vortex-documents",
+  minioUseSsl: process.env.MINIO_USE_SSL === "true",
+});

@@ -227,11 +227,26 @@ Let's Encrypt.
 
 ## Documentação
 
-- `CLAUDE.md` — contrato global e plano de construção
-- `docs/` — visão geral, matrizes regulatórias, delimitação, esqueleto de ERP e
-  navegação por app
+- `vortex-v2/CLAUDE.md` — contrato global vigente (v2: Angular + Nx) e plano de
+  construção; `vortex-v2/docs/` e `vortex-v2/prompts-v4/` são o material de apoio.
+- `CLAUDE.md` (raiz) — rascunho v1 (React + Turborepo), superado; mantido apenas
+  como registro do primeiro desenho.
 - `repos-externos/ANALISE-APLICACAO-VORTEX.md` — registro do reaproveitamento de
   lógica, lacunas explícitas e próximo passo
+
+## Material não-v4
+
+O produto é o workspace Nx v4 (`apps/`, `libs/`, `migrations/`, `tools/`). O
+restante do repositório é referência ou rascunho superado, fora do grafo de
+projetos do Nx (ver `.nxignore`):
+
+- `v1/` — rascunho v1 (React 19 + Vite + Turborepo), superado.
+- `v1-rascunho-superado/` — cópia em texto do rascunho v1 no estado inicial.
+- `vortex-v2/` — contrato v2 e documentação (ver acima).
+- `ANAC/` — fragmentos das resoluções/regulamentos (fonte regulatória).
+- `repos-externos/` — clones de terceiros para estudo.
+- `Makefile.makefile`, `Dockerfile.dockerfile` e `.env.example.env` — cópias do
+  template antigo, marcadas como SUPERADAS no próprio conteúdo.
 
 ## Licença
 

@@ -1,6 +1,12 @@
 # Arvores de referencia NAO fazem parte do workspace Nx v4.
 # v1 = errado/superseded (React+Vite+Turborepo); serve so como fonte de dominio.
+# v1-rascunho-superado = copia em texto do rascunho v1 (fora do grafo Nx).
+# vortex-v2 = contrato global v2 (Angular+Nx) + docs + prompts-v4; documentacao, nao projeto.
+# ANAC = fragmentos regulatorios (fonte de consulta), sem codigo.
 # repos-externos = repositorios de terceiros clonados para estudo.
 v1
+v1-rascunho-superado
+vortex-v2
+ANAC
 repos-externos
 dist
