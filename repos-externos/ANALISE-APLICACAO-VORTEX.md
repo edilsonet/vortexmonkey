@@ -15,7 +15,7 @@
   2. **nextjs-fastify-saas-rbac** (didático) — RBAC/ABAC com CASL (abilities, roles, subjects, conditions), modelo organizações/membros/convites/tokens, guard de membership. Traduzível para Guards/interceptors NestJS + RLS.
 - Relevantes como **referência conceitual** de MRO/operações: **SlingologyMX** (Apache-2.0), **ultimate-backend** (MIT), **next-saas-rbac**.
 - Pouco ou nada a reaproveitar: **Aircraft-Maintenance-Inventory-System** (SQL MySQL didático, sem licença) e **aviation-management-system** (Django/React, contexto militar, **licença proprietária/sem LICENSE**).
-- O código real do VORTEX **não está no repo clonado** (que é especificação v4 + `ANAC/` + zips `Vórtex-Fase-1..8.zip`). A aplicação dos padrões abaixo se dará quando o código das fases for materializado (nos zips / nas 14 partes do `prompts-v4/`).
+- O código real do VORTEX **não está no repo clonado** (que é especificação v4 + `ANAC/` + o rascunho v1 em `v1/` e `v1-rascunho-superado/`). A aplicação dos padrões abaixo se dará quando o código das fases for materializado (no rascunho v1 / nas 14 partes do `prompts-v4/`).
 
 ### Ranking de valor
 
