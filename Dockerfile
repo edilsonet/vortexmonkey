@@ -16,6 +16,10 @@ ARG PNPM_VERSION=10.34.5
 
 # ---------------------------------------------------------------- deps ----
 FROM node:${NODE_VERSION} AS deps
+# O ARG declarado antes do FROM so vale para o proprio FROM; para usa-lo dentro
+# da stage e obrigatorio redeclara-lo aqui. Sem isto `${PNPM_VERSION}` expande
+# vazio e o build instala o `pnpm` mais recente em vez da versao fixada.
+ARG PNPM_VERSION
 RUN npm install -g pnpm@${PNPM_VERSION} && pnpm --version
 WORKDIR /workspace
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml .npmrc ./
