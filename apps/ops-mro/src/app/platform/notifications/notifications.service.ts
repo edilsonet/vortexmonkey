@@ -5,6 +5,7 @@ import type {
   RequestContext,
 } from '@vortex/shared-dto';
 import { CommunicationRepository } from '../../communication/communication.repository';
+import { CommunicationGateway } from '../../communication/communication.gateway';
 import { NotificationsRepository } from './notifications.repository';
 
 /** Contexto e dispositivo de um reuso de refresh token detectado. */
@@ -31,6 +32,7 @@ export class NotificationsService {
   public constructor(
     private readonly repository: NotificationsRepository,
     private readonly communication: CommunicationRepository,
+    private readonly gateway: CommunicationGateway,
   ) {}
 
   public async list(context: RequestContext): Promise<ListNotificationsResponse> {
@@ -60,7 +62,7 @@ export class NotificationsService {
     };
     const origin = this.describeOrigin(input);
     try {
-      await this.repository.create(context, {
+      const notification = await this.repository.create(context, {
         code: 'SESSION_REUSE_DETECTED',
         severity: 'CRITICAL',
         title: 'Sessao encerrada por seguranca',
@@ -71,6 +73,8 @@ export class NotificationsService {
         relatedEntityType: 'identity.session_family',
         relatedEntityId: input.familyId,
       });
+      // Aviso em tempo real: o usuario pode estar com a Shell aberta.
+      this.gateway.emitNotice(context.userId, notification);
 
       const email = await this.repository.userEmail(context);
       if (email !== null) {

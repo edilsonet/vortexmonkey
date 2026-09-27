@@ -18,6 +18,7 @@ export * from './lib/auth/session.store';
 export * from './lib/audit/audit.service';
 export * from './lib/communication/communication.store';
 export * from './lib/communication/communication.service';
+export * from './lib/communication/communication-realtime.service';
 export * from './lib/notifications/notification.service';
 export * from './lib/mro/mro.service';
 export * from './lib/theme/theme.service';

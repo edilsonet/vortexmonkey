@@ -3,7 +3,10 @@
 # Diferencas em relacao ao docker-compose.yml (desenvolvimento):
 #   - `restart: always` em todos os servicos;
 #   - Redis com `--requirepass`;
-#   - infraestrutura SEM portas publicadas (so a API expoe 3400);
+#   - Postgres e MinIO publicados SO em loopback (127.0.0.1), para que
+#     backup.sh/restore.sh rodem no host sem expor a infraestrutura a internet;
+#   - a API tambem publica apenas em loopback (a UI fala com ela pela rede do
+#     compose em http://api:3400);
 #   - segredos obrigatorios vindos do ambiente/secret manager (sem defaults).
 #
 #   export DB_ADMIN_PASSWORD=... DB_APP_PASSWORD=... REDIS_PASSWORD=...
@@ -20,6 +23,10 @@ services:
       POSTGRES_PASSWORD: ${DB_ADMIN_PASSWORD:?defina DB_ADMIN_PASSWORD}
     volumes:
       - postgres-data:/var/lib/postgresql/data
+    ports:
+      # Loopback apenas: permite `make backup`/`make restore` no host (pg_dump /
+      # pg_restore) sem publicar o banco para a internet. Nao abrir no firewall.
+      - '127.0.0.1:${DB_PORT:-5432}:5432'
     healthcheck:
       test: ['CMD-SHELL', 'pg_isready -U ${DB_ADMIN_USER:-vortex_admin} -d ${DB_NAME:-vortex}']
       interval: 10s
@@ -63,6 +70,10 @@ services:
       MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:?defina MINIO_ROOT_PASSWORD}
     volumes:
       - minio-data:/data
+    ports:
+      # Loopback apenas: o `mc` do host (ou a imagem minio/mc com --network host
+      # usada por backup.sh) alcanca http://127.0.0.1:9000.
+      - '127.0.0.1:9000:9000'
     healthcheck:
       # Aceita as duas formas de sonda do MinIO: `mc ready local` quando o
       # cliente esta na imagem, e o endpoint HTTP de saude caso contrario.
@@ -91,6 +102,10 @@ services:
       JWT_SECRET: ${JWT_SECRET:?defina JWT_SECRET}
       JWT_TTL_SECONDS: ${JWT_TTL_SECONDS:-3600}
       AUTH_ALLOW_HEADER_CONTEXT: 'false'
+      # O nginx e o proxy direto da API: confiar nele (1 hop) para que o rate
+      # limit e as sessoes enxerguem o IP real do cliente (X-Forwarded-For).
+      TRUST_PROXY: '1'
+      RATE_LIMIT_PER_MINUTE: ${RATE_LIMIT_PER_MINUTE:-300}
       REDIS_HOST: redis
       REDIS_PORT: 6379
       REDIS_PASSWORD: ${REDIS_PASSWORD:?defina REDIS_PASSWORD}
@@ -112,7 +127,9 @@ services:
       COMPANY_TRADE_NAME: ${COMPANY_TRADE_NAME:-}
       BOOTSTRAP_RESET_PASSWORD: ${BOOTSTRAP_RESET_PASSWORD:-false}
     ports:
-      - '${API_PORT:-3400}:3400'
+      # Loopback apenas: a UI (servico `web`) chega na API pela rede do compose
+      # (http://api:3400). Para acessar de fora, use um tunel SSH; nao exponha.
+      - '127.0.0.1:${API_PORT:-3400}:3400'
     secrets:
       - ledger_ed25519.pem
       - ledger_ed25519.pub

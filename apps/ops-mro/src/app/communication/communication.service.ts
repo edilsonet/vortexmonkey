@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, Logger } from '@nestjs/common';
 import type {
   AnnouncementReadResponse,
   AnnouncementRecord,
@@ -20,6 +20,7 @@ import type {
   RequestContext,
 } from '@vortex/shared-dto';
 import { CommunicationRepository } from './communication.repository';
+import { CommunicationGateway } from './communication.gateway';
 
 /**
  * Central de Comunicacao: orquestra a leitura/exibicao dos registros e a
@@ -28,7 +29,12 @@ import { CommunicationRepository } from './communication.repository';
  */
 @Injectable()
 export class CommunicationService {
-  public constructor(private readonly repository: CommunicationRepository) {}
+  private readonly logger = new Logger(CommunicationService.name);
+
+  public constructor(
+    private readonly repository: CommunicationRepository,
+    private readonly gateway: CommunicationGateway,
+  ) {}
 
   public summary(context: RequestContext): Promise<CommunicationSummary> {
     return this.repository.summary(context);
@@ -42,7 +48,14 @@ export class CommunicationService {
     context: RequestContext,
     input: CreateConversationRequest,
   ): Promise<CreateConversationResponse> {
-    return this.repository.createConversation(context, input);
+    return this.repository.createConversation(context, input).then((response) => {
+      // Aviso pos-commit (best-effort): o registro ja esta no ledger/banco.
+      this.gateway.emitConversation(
+        [context.userId, ...(input.participantUserIds ?? [])],
+        response.conversation,
+      );
+      return response;
+    });
   }
 
   public listMessages(context: RequestContext, conversationId: string): Promise<MessageRecord[]> {
@@ -54,7 +67,10 @@ export class CommunicationService {
     conversationId: string,
     input: PostMessageRequest,
   ): Promise<PostMessageResponse> {
-    return this.repository.postMessage(context, conversationId, input);
+    return this.repository.postMessage(context, conversationId, input).then((response) => {
+      void this.pushMessage(context, response.message);
+      return response;
+    });
   }
 
   public markConversationRead(
@@ -72,7 +88,10 @@ export class CommunicationService {
     context: RequestContext,
     input: PublishAnnouncementRequest,
   ): Promise<PublishAnnouncementResponse> {
-    return this.repository.publishAnnouncement(context, input);
+    return this.repository.publishAnnouncement(context, input).then((response) => {
+      this.gateway.emitAnnouncement(context, response.announcement);
+      return response;
+    });
   }
 
   public markAnnouncementRead(
@@ -96,5 +115,19 @@ export class CommunicationService {
 
   public listAlerts(context: RequestContext): Promise<CommunicationAlerts> {
     return this.repository.listAlerts(context);
+  }
+
+  /** Destinatarios da conversa (RLS) e push; falha de aviso nao afeta a escrita. */
+  private async pushMessage(context: RequestContext, message: MessageRecord): Promise<void> {
+    try {
+      const participants = await this.repository.participantUserIds(context, message.conversationId);
+      this.gateway.emitMessage(participants, message);
+    } catch (error) {
+      this.logger.warn(
+        `Mensagem ${message.id} sem aviso em tempo real: ${
+          error instanceof Error ? error.message : String(error)
+        }`,
+      );
+    }
   }
 }

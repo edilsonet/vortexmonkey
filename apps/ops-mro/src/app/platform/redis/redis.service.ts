@@ -37,6 +37,15 @@ export class RedisService implements OnApplicationShutdown {
     await this.client.del(key);
   }
 
+  /**
+   * Executa um script Lua de forma atomica. Usado pelo rate limit, que precisa
+   * contar e expirar no mesmo passo (INCR + PEXPIRE nao podem ser intercalados).
+   */
+  public async eval(script: string, keys: readonly string[], args: readonly (string | number)[]): Promise<unknown> {
+    await this.connect();
+    return this.client.eval(script, keys.length, ...keys, ...args);
+  }
+
   /** Trava NX com expiracao: devolve true apenas para quem a obteve. */
   public async acquire(key: string, seconds: number): Promise<boolean> {
     await this.connect();

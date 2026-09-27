@@ -1,6 +1,7 @@
 import { DestroyRef, ChangeDetectionStrategy, Component, computed, inject, signal } from '@angular/core';
 import { takeUntilDestroyed } from '@angular/core/rxjs-interop';
 import {
+  CommunicationRealtime,
   CommunicationStore,
   CommunicationService,
   NotificationService,
@@ -80,6 +81,10 @@ const MODULES: readonly ModuleDescriptor[] = [
         </button>
       }
 
+      @if (realtime.status() === 'online') {
+        <span class="cc__live" title="Tempo real conectado" aria-label="Tempo real conectado"></span>
+      }
+
       <button class="cc__btn" type="button" (click)="theme.cycle()" [title]="theme.label()">
         {{ theme.label() }}
       </button>
@@ -155,6 +160,12 @@ const MODULES: readonly ModuleDescriptor[] = [
       line-height: 16px;
       text-align: center;
     }
+    .cc__live {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: var(--vx-upcoming);
+    }
     .cc__scrim {
       position: fixed;
       inset: 0;
@@ -228,6 +239,7 @@ const MODULES: readonly ModuleDescriptor[] = [
 })
 export class CommunicationCenter {
   protected readonly theme = inject(ThemeService);
+  protected readonly realtime = inject(CommunicationRealtime);
   private readonly store = inject(CommunicationStore);
   private readonly service = inject(CommunicationService);
   private readonly notifications = inject(NotificationService);

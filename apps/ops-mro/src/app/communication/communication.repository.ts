@@ -343,6 +343,39 @@ export class CommunicationRepository {
     return row.company_id;
   }
 
+  /**
+   * `true` quando o usuario do contexto participa da conversa. Serve ao
+   * WebSocket: so entra na sala `conversation:*` quem o RLS confirma. Nao lanca
+   * — conversa invisivel apenas nega a entrada (o socket nao recebe erro 500).
+   */
+  public async isParticipant(context: RequestContext, conversationId: string): Promise<boolean> {
+    return this.database.withContext(context, async (client) => {
+      const result = await client.query<{ allowed: boolean }>(
+        `SELECT EXISTS (
+           SELECT 1 FROM communication.conversation_participants
+            WHERE conversation_id = $1 AND user_id = $2
+         ) AS allowed`,
+        [conversationId, context.userId],
+      );
+      return result.rows[0]?.allowed === true;
+    });
+  }
+
+  /** Destinatarios da conversa (para empurrar a mensagem em tempo real). */
+  public participantUserIds(
+    context: RequestContext,
+    conversationId: string,
+  ): Promise<string[]> {
+    return this.database.withContext(context, async (client) => {
+      const result = await client.query<{ user_id: string }>(
+        `SELECT user_id FROM communication.conversation_participants
+          WHERE conversation_id = $1`,
+        [conversationId],
+      );
+      return result.rows.map((row) => row.user_id);
+    });
+  }
+
   public listAnnouncements(context: RequestContext): Promise<AnnouncementRecord[]> {
     return this.database.withContext(context, async (client) => {
       const result = await client.query<AnnouncementRow>(

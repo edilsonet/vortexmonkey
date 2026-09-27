@@ -6,4 +6,5 @@ export * from './lib/auth-api';
 export * from './lib/ledger-api';
 export * from './lib/protocol-api';
 export * from './lib/communication-api';
+export * from './lib/communication-realtime';
 export * from './lib/notification-api';

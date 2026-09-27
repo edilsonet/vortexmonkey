@@ -59,7 +59,12 @@ Implementado e verificado:
   A **Central de Comunicação** (`/api/communication/*`) expõe chat, alertas,
   comunicados e e-mails: conversas, mensagens, comunicados e e-mails ancoram
   bloco no ledger, os badges da Shell são contagem derivada e as marcas de
-  leitura são estado de consumo por usuário (não geram bloco).
+  leitura são estado de consumo por usuário (não geram bloco). A Central também
+  tem **push em tempo real** por WebSocket (socket.io): o canal só **avisa** o
+  que já foi ancorado no ledger, o handshake autentica o JWT e cada socket entra
+  nas salas do seu contexto (usuário, tenant, empresa) e, sob confirmação do
+  RLS, na sala de cada conversa. A API aplica **rate limit por IP** em Redis
+  (teto global e limites mais apertados em `login`/`refresh`/`logout`).
 - `apps/shell-web` — **host federado** (`app.vortex.com`): portal, login e o
   chrome compartilhado (`@vortex/shell`), montando os MFEs dos domínios em
   subcaminhos (hoje o MRO sob `/mro`). O chrome traz a **Central de
@@ -74,15 +79,18 @@ Implementado e verificado:
 - `libs/util-aeronautics` — motor puro portado e testado (49 testes).
 - `libs/core` / `libs/ui` — núcleo de acesso (envelope + erro normalizado,
   sessão com renovação silenciosa, interceptor Bearer + `Idempotency-Key` +
-  retry no `TOKEN_EXPIRED`, guards, tema) e Design System.
+  retry no `TOKEN_EXPIRED`, guards, tema) e Design System. O `@vortex/core`
+  traz ainda o cliente de tempo real da Central de Comunicação
+  (`CommunicationRealtime`), que alimenta os badges por push e relê o resumo ao
+  reconectar.
 
 Ainda não implementado (ver seções 19 a 21 de
 `repos-externos/ANALISE-APLICACAO-VORTEX.md`): SSO entre subdomínios, os demais
-MFEs, o empacotamento de deploy do frontend, WebSocket/push da Central e o envio
-real de e-mails (o aviso de reuso apenas **enfileira** o transacional, não o
-despacha); também seguem abertos a profundidade das filas do RabbitMQ
-(exige plugin de management), o alarme por e-mail/in-app dos alarmes do bus e
-2FA/RBAC fino.
+MFEs, o empacotamento de deploy do frontend, o envio real de e-mails (o aviso de
+reuso apenas **enfileira** o transacional, não o despacha) e a tela de composição
+do chat (o socket entrega os avisos, mas ainda não há editor de conversas na
+Shell). Também seguem abertos a profundidade das filas do RabbitMQ (exige plugin
+de management), o alarme por e-mail/in-app dos alarmes do bus e 2FA/RBAC fino.
 
 ## Endpoints principais
 
@@ -202,36 +210,157 @@ curl http://localhost:3400/api/ledger/verify
 | `make ledger-key` | Gera o par Ed25519 do ledger em `.secrets/` |
 | `make prod-up` / `make prod-down` | Sobe/derruba produção |
 | `make prod-bootstrap` | Cria o administrador de produção (container em execução) |
+| `make prod-bootstrap-check` | Valida `ADMIN_*`/`TENANT_*`/`COMPANY_*` sem gravar nada |
 | `make backup` / `make restore FILE=...` | Backup e restauração |
 
-## Deploy (VPS + Docker Compose)
+## Instalação em VPS limpa
+
+Procedimento completo em um servidor Debian/Ubuntu recém-instalado. Requer
+Docker Engine com o plugin Compose v2, `git`, `make`, `openssl` e (para backup)
+o cliente do PostgreSQL 16. O Node.js **não** é necessário no host: as imagens
+trazem o runtime. Se `make` não estiver disponível, cada alvo abaixo é um atalho
+para o `docker compose` equivalente.
+
+### 1. Docker e utilitários
 
 ```bash
-# No servidor: instale Docker e o plugin Compose, depois clone o repositorio
-git clone <seu-repo-url> /opt/vortex && cd /opt/vortex
+apt-get update
+apt-get install -y ca-certificates curl git make openssl ufw
+curl -fsSL https://get.docker.com | sh
+docker compose version
+```
 
-# Configure os segredos obrigatorios
+O `docker compose version` deve responder `v2.x`. Se o comando não existir,
+instale o plugin: `apt-get install -y docker-compose-plugin`.
+
+O cliente do PostgreSQL (mesma versão 16 do servidor) é necessário para
+`make backup` / `make restore` no host. Instale pelo repositório oficial, que
+garante a versão 16 mesmo em distros que empacotam uma mais antiga:
+
+```bash
+install -d /usr/share/postgresql-common/pgdg
+curl -fsSL https://www.postgresql.org/media/keys/ACCC4CF8.asc -o /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc
+. /etc/os-release
+echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt ${VERSION_CODENAME}-pgdg main" > /etc/apt/sources.list.d/pgdg.list
+apt-get update
+apt-get install -y postgresql-client-16
+pg_dump --version
+```
+
+`pg_dump --version` deve responder `16.x`. O cliente do MinIO (`mc`) é opcional:
+o `backup.sh` usa o `mc` do host se existir; caso contrário, baixa a imagem
+`minio/mc` automaticamente via Docker.
+
+### 2. Código e configuração
+
+```bash
+mkdir -p /opt && cd /opt
+git clone <seu-repo-url> vortex && cd vortex
 cp .env.example .env
-nano .env   # DB_ADMIN_PASSWORD, DB_APP_PASSWORD, REDIS_PASSWORD,
-            # RABBITMQ_PASSWORD, MINIO_ROOT_*, LEDGER_*
-            # opcionais: API_PORT (API), WEB_PORT (frontend), IMAGE_TAG (tag)
+```
 
-# Gere a chave do ledger e aponte LEDGER_PRIVATE_KEY_FILE/LEDGER_PUBLIC_KEY_FILE
-make ledger-key
+Gere os seis segredos. São valores aleatórios e independentes, só seus. O `hex`
+é usado nos quatro primeiros porque a senha do RabbitMQ entra numa URL de
+conexão (caracteres como `/` e `+` quebrariam a URL):
 
-# Suba em producao
+```bash
+for name in DB_ADMIN_PASSWORD DB_APP_PASSWORD REDIS_PASSWORD RABBITMQ_PASSWORD MINIO_ROOT_PASSWORD; do
+  printf '%s=%s\n' "$name" "$(openssl rand -hex 24)"
+done
+printf 'JWT_SECRET=%s\n' "$(openssl rand -base64 48)"
+```
+
+Cada linha impressa é uma variável pronta para colar no `.env`. Não é preciso
+repetir nem reexecutar nada: o `docker compose` lê o `.env` uma única vez e
+aplica o mesmo valor nos dois lados de cada serviço. As demais variáveis:
+
+- `MINIO_ROOT_USER=vortex` (usuário, não é segredo).
+- `RABBITMQ_URL`: só é usada fora do Docker; no compose a URL é montada
+  automaticamente a partir de `RABBITMQ_USER`/`RABBITMQ_PASSWORD`. Pode deixar
+  como está.
+- `IMAGE_TAG=prod`, `WEB_PORT=8080`, `API_PORT=3400`.
+- `ADMIN_EMAIL`, `ADMIN_NAME`, `ADMIN_CPF` (11 dígitos), `ADMIN_PASSWORD` (12+
+  caracteres, 3 das 4 classes), `TENANT_NAME`, `TENANT_TYPE`, `COMPANY_CNPJ`
+  (14 dígitos), `COMPANY_NAME`, `COMPANY_TRADE_NAME`. O bootstrap valida tudo
+  antes de gravar; dá para conferir com `make prod-bootstrap-check`.
+- `SEED_ON_BOOT=false` e `BOOTSTRAP_ON_BOOT=false` (mantenha assim).
+
+Se a senha do admin tiver `#` ou `$`, coloque-a entre aspas no `.env`
+(`ADMIN_PASSWORD="..."`), pois o compose trata `#` como comentário e `$` como
+interpolação.
+
+### 3. Chave do ledger (Ed25519)
+
+```bash
+mkdir -p .secrets
+openssl genpkey -algorithm ed25519 -out .secrets/ledger_ed25519.pem
+openssl pkey -in .secrets/ledger_ed25519.pem -pubout -out .secrets/ledger_ed25519.pub
+chmod 600 .secrets/ledger_ed25519.pem
+```
+
+`LEDGER_PRIVATE_KEY_FILE`/`LEDGER_PUBLIC_KEY_FILE` já apontam para esses arquivos
+no `.env.example`. Com Node.js no host, `make ledger-key` gera o mesmo par
+(PKCS#8 + SPKI); o `openssl` evita instalar Node só para isso.
+
+### 4. Subir a produção
+
+```bash
+# Equivale a: docker compose -f docker-compose.prod.yml up -d --build
 make prod-up
+# Aguarde `api` e `web` aparecerem como "healthy"
+docker compose -f docker-compose.prod.yml ps
+```
 
-# Crie o administrador (numa VPS limpa nao existe usuario; sem isso o login
-# retorna 401). Preencha ADMIN_*/TENANT_*/COMPANY_* no .env antes:
+O entrypoint da API espera Postgres/Redis, aplica as migrações e sobe o app. O
+compose exige que os arquivos de `.secrets/` existam (passo 3).
+
+### 5. Criar o administrador (primeiro acesso)
+
+```bash
+# Valide ADMIN_*/TENANT_*/COMPANY_* sem gravar nada
+make prod-bootstrap-check
+# Crie tenant, empresa, usuario e vinculo ADMIN
 make prod-bootstrap
 ```
 
-A UI fica em `http://SEU_IP:8080` (`WEB_PORT`) e fala com a API pela mesma
-origem (`/api`, proxy do nginx do container web). A API sozinha responde em
-`http://SEU_IP:3400`. Para domínio próprio com HTTPS, configure um proxy reverso
-(Nginx/Caddy) apontando para a porta `WEB_PORT` e emita certificado Let's
-Encrypt.
+Numa VPS limpa não existe usuário: sem o bootstrap o login retorna 401. É
+idempotente; para redefinir a senha de um admin existente defina
+`BOOTSTRAP_RESET_PASSWORD=true` no `.env` e reexecute.
+
+### 6. Firewall e acesso
+
+No `docker-compose.prod.yml` apenas a UI (`web`) publica porta em todas as
+interfaces. Postgres, MinIO e a API publicam **somente em loopback**
+(`127.0.0.1`), então não há nada a proteger com firewall além da própria UI:
+
+```bash
+ufw allow 22/tcp
+ufw allow 8080/tcp
+ufw enable
+ufw status
+```
+
+Se `WEB_PORT` for diferente de `8080`, ajuste o `ufw allow`. Não é necessário
+liberar `3400` (API), `5432` (Postgres) nem `9000` (MinIO): a UI fala com a API
+pela rede interna do compose (`http://api:3400`) e o `make backup` fala com o
+Postgres/MinIO pelo loopback da própria VPS.
+
+- UI: `http://SEU_IP:8080`
+- API via proxy da UI: `curl http://SEU_IP:8080/api/health`
+- API direta, na própria VPS: `curl http://127.0.0.1:3400/api/health`
+
+Se precisar da API a partir da sua máquina sem expô-la, use um túnel SSH:
+
+```bash
+ssh -L 3400:127.0.0.1:3400 usuario@SEU_IP
+curl http://127.0.0.1:3400/api/health
+```
+
+O login usa `ADMIN_EMAIL`/`ADMIN_PASSWORD`. A UI fala com a API pela mesma
+origem (`/api`, proxy do nginx do container web).
+
+Para domínio próprio com HTTPS, configure um proxy reverso (Nginx/Caddy)
+apontando para a porta `WEB_PORT` e emita certificado Let's Encrypt.
 
 ### Administrador de produção
 
@@ -240,15 +369,39 @@ tenant, empresa, usuário e vínculo `ADMIN`. É idempotente e não troca a senh
 um admin existente (use `BOOTSTRAP_RESET_PASSWORD=true` para redefinir). Pode
 rodar no boot (`BOOTSTRAP_ON_BOOT=true`) ou sob demanda (`make prod-bootstrap`).
 A senha exige 12+ caracteres e 3 das 4 classes (minúsculas, maiúsculas, dígitos,
-símbolos).
+símbolos). A criação roda em **uma transação** e ancora um bloco de sistema
+(`identity.users` / `ADMIN_BOOTSTRAPPED`) na **mesma cadeia de hashes** do
+ledger, assinado com a chave Ed25519; sem a chave o bootstrap segue, mas avisa
+que o evento não foi ancorado.
 
 ### Backup e restauração
 
 `make backup` / `make restore FILE=...` rodam no host e exigem `pg_dump` /
 `pg_restore`. Para o MinIO usam o `mc` do host ou, na ausência, a imagem oficial
-`minio/mc` via Docker/Podman. O host precisa alcançar o `MINIO_ENDPOINT` e o
-PostgreSQL: em produção estes serviços não publicam portas, então exponha-os em
-loopback ou rode o backup dentro da rede do compose.
+`minio/mc` via Docker. O `docker-compose.prod.yml` publica Postgres e MinIO
+somente em loopback (`127.0.0.1:5432` e `127.0.0.1:9000`), para que estes
+comandos funcionem sem expor a infraestrutura à internet.
+
+Os valores lidos do `.env` (`DB_HOST=127.0.0.1`, `DB_PORT=5432`,
+`MINIO_ENDPOINT=http://127.0.0.1:9000`) já vêm corretos no `.env.example`.
+
+```bash
+cd /opt/vortex
+make backup
+make restore FILE=backups/vortex_backup_YYYYmmdd_HHMMSS.tar.gz
+```
+
+O backup precisa sair da VPS (regra 3-2-1: outra máquina, outra conta,
+idealmente outro provedor). Copie o arquivo mais recente:
+
+```bash
+rsync -avz backups/ usuario@outro-servidor:/srv/vortex-backups/
+```
+
+O `backup.sh` mantém retenção local de `BACKUP_RETENTION_DAYS` (30 por padrão) e
+apaga os arquivos mais antigos; a cópia offsite não é feita pelo script. Guarde
+a chave de criptografia do backup fora da VPS e teste a restauração
+trimestralmente num ambiente isolado.
 
 ## Documentação
 

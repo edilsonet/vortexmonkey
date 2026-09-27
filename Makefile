@@ -1,4 +1,4 @@
-.PHONY: help install build typecheck lint test e2e verify serve web infra-up up down logs migrate seed ledger-key bootstrap-admin api-up prod-up prod-down prod-bootstrap backup restore
+.PHONY: help install build typecheck lint test e2e verify serve web infra-up up down logs migrate seed ledger-key bootstrap-admin api-up prod-up prod-down prod-bootstrap prod-bootstrap-check backup restore
 
 DOCKER_COMPOSE ?= docker compose
 DB_HOST ?= 127.0.0.1
@@ -33,6 +33,7 @@ help: ## Lista os comandos disponiveis
 	@echo "  make prod-up     Sobe producao (docker-compose.prod.yml)"
 	@echo "  make prod-down   Derruba producao"
 	@echo "  make prod-bootstrap  Bootstrap de admin no container de producao"
+	@echo "  make prod-bootstrap-check  Valida ADMIN_*/TENANT_*/COMPANY_* sem gravar"
 	@echo "  make backup      Backup PostgreSQL + MinIO"
 	@echo "  make restore FILE=...  Restauracao"
 
@@ -98,6 +99,9 @@ prod-down:
 
 prod-bootstrap:
 	$(DOCKER_COMPOSE) -f docker-compose.prod.yml exec api node /app/tools/bootstrap-admin.mjs
+
+prod-bootstrap-check:
+	$(DOCKER_COMPOSE) -f docker-compose.prod.yml exec api node /app/tools/bootstrap-admin.mjs --check
 
 backup:
 	bash backup.sh

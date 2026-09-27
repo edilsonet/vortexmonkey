@@ -49,7 +49,7 @@ WORKDIR /app
 
 COPY --from=build /workspace/dist/apps/ops-mro ./
 COPY migrations ./migrations
-COPY tools/migrate.mjs tools/seed-dev.mjs tools/bootstrap-admin.mjs ./tools/
+COPY tools/migrate.mjs tools/seed-dev.mjs tools/bootstrap-admin.mjs tools/ledger-integrity.mjs ./tools/
 COPY docker/entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh && mkdir -p /app/.data
 
