@@ -13,7 +13,7 @@ export const authGuard: CanActivateFn = (_route, state) => {
   });
 };
 
-/** Mantem o usuario autenticado fora da tela de login. */
+/** Mantem o usuario autenticado fora da tela de login (host leva ao cockpit). */
 export const guestGuard: CanActivateFn = () => {
   if (inject(SessionStore).isAuthenticated()) {
     return inject(Router).createUrlTree(['/']);

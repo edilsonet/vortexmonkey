@@ -296,7 +296,7 @@ export class LoginPage {
     this.auth.login({ email, password }).subscribe({
       next: () => {
         this.loading.set(false);
-        const redirect = this.route.snapshot.queryParamMap.get('redirectTo') ?? '/';
+        const redirect = this.route.snapshot.queryParamMap.get('redirectTo') ?? '/app';
         void this.router.navigateByUrl(redirect);
       },
       error: (cause: unknown) => {

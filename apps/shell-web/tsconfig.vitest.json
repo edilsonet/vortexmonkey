@@ -1,0 +1,32 @@
+{
+  "//": [
+    "Somente para o compilador Angular durante os testes do host.",
+    "O host consome `mro-web/Routes` de forma federada: no build quem compila o",
+    "remote e o webpack do proprio `mro-web`. No vitest nao existe Module",
+    "Federation, entao o specifier e mapeado para o arquivo real das rotas em",
+    "`vite.config.mts` — e o program do @analogjs/vite-plugin-angular precisa",
+    "conter esses arquivos, senao o plugin devolve modulo VAZIO para eles",
+    "(`writeOutputFile` nao encontra o SourceFile e emite '').",
+    "Este arquivo nao entra em `tsconfig.json#references`, logo o `tsc -b` do",
+    "repositorio nao o compila."
+  ],
+  "extends": "./tsconfig.spec.json",
+  "include": [
+    "vite.config.ts",
+    "vite.config.mts",
+    "vitest.config.ts",
+    "vitest.config.mts",
+    "src/**/*.test.ts",
+    "src/**/*.spec.ts",
+    "src/**/*.test.tsx",
+    "src/**/*.spec.tsx",
+    "src/**/*.test.js",
+    "src/**/*.spec.js",
+    "src/**/*.test.jsx",
+    "src/**/*.spec.jsx",
+    "src/**/*.d.ts",
+    "src/**/*.ts",
+    "../mro-web/src/**/*.ts"
+  ],
+  "files": ["src/test-setup.ts"]
+}
